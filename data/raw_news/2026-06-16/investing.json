@@ -1,0 +1,807 @@
+[
+  {
+    "title": "Analysis-China embraces Myanmar’s president as former junta chief seeks legitimacy",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:54:32+00:00",
+    "link": "https://www.investing.com/news/commodities-news/analysischina-embraces-myanmars-president-as-former-junta-chief-seeks-legitimacy-4743805",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 13D/A BeOne Medicines Ltd. For: 15 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:54:29+00:00",
+    "link": "https://www.investing.com/news/filings/form-13da-beone-medicines-ltd-for-15-june-93CH-4743804",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 Establishment Labs Holdings For: 15 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:54:26+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-establishment-labs-holdings-for-15-june-93CH-4743803",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 TransDigm Group Incorporated For: 15 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:54:17+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-transdigm-group-incorporated-for-15-june-93CH-4743802",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 CADENCE DESIGN SYSTEMS For: 15 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:54:11+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-cadence-design-systems-for-15-june-93CH-4743801",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 CLEARWATER ANALYTICS HDS For: 15 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:51:22+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-clearwater-analytics-hds-for-15-june-93CH-4743799",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 ABEONA THERAPEUTICS INC. For: 15 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:51:21+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-abeona-therapeutics-inc-for-15-june-93CH-4743798",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 GRAB HOLDINGS LIMITED For: 15 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:51:16+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-grab-holdings-limited-for-15-june-93CH-4743797",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 EXPENSIFY INC. For: 15 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:51:14+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-expensify-inc-for-15-june-93CH-4743796",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 13D/A Liberty Live Holdings For: 15 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:51:13+00:00",
+    "link": "https://www.investing.com/news/filings/form-13da-liberty-live-holdings-for-15-june-93CH-4743795",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Dollar sways near 10-day lows, yen at 160 after BOJ hikes as expected",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:48:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-sways-near-10day-lows-as-attention-turns-to-boj-and-rba-4743690",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bank of Japan hikes interest rates by 25 bps as expected; trims bond purchases",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:36:07+00:00",
+    "link": "https://www.investing.com/news/economy-news/bank-of-japan-hikes-interest-rates-by-25-bps-as-expected-trims-bond-purchases-4743784",
+    "category_hint": "macro"
+  },
+  {
+    "title": "World Bank cuts Myanmar growth forecast as fuel shock deepens economic strains",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:36:07+00:00",
+    "link": "https://www.investing.com/news/economy-news/world-bank-cuts-myanmar-growth-forecast-as-fuel-shock-deepens-economic-strains-4743783",
+    "category_hint": "macro"
+  },
+  {
+    "title": "BOJ raises interest rates to 31-year high in widely expected move",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:30:29+00:00",
+    "link": "https://www.investing.com/news/economy-news/boj-raises-interest-rates-to-31year-high-in-widely-expected-move-4743777",
+    "category_hint": "macro"
+  },
+  {
+    "title": "China’s May retail sales fall for first time in over three years",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:18:46+00:00",
+    "link": "https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743",
+    "category_hint": "macro"
+  },
+  {
+    "title": "China’s industrial output growth quickens in May but retail sales and investment contract",
+    "source": "Investinglive",
+    "published": "2026-06-16T03:18:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/chinas-industrial-output-growth-quickens-in-may-but-retail-sales-and-investment-contract-4743731",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Asia markets temper Iran deal optimism, BOJ decision in view",
+    "source": "Investinglive",
+    "published": "2026-06-16T01:19:17+00:00",
+    "link": "https://www.investing.com/news/economy-news/asia-markets-temper-iran-deal-optimism-boj-decision-in-view-4743706",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Wall Street rallies, Dow ends with record on US-Iran deal, oil price slide",
+    "source": "Investinglive",
+    "published": "2026-06-15T23:42:31+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-advance-over-1-as-markets-cheer-iran-deal-4741392",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bank of Japan set to raise rates to 31-year high, vow further increases",
+    "source": "Investinglive",
+    "published": "2026-06-15T21:06:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/bank-of-japan-set-to-raise-rates-to-31year-high-vow-further-increases-4743332",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trading Day: US-Iran war halted - now what?",
+    "source": "Investinglive",
+    "published": "2026-06-15T21:06:38+00:00",
+    "link": "https://www.investing.com/news/economy-news/trading-day-usiran-war-halted--now-what-4743331",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Italian regulator probes Apple over cloud interoperability",
+    "source": "Investinglive",
+    "published": "2026-06-16T07:36:32+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/italian-regulator-probes-apple-over-cloud-interoperability-93CH-4743967",
+    "category_hint": "markets"
+  },
+  {
+    "title": "European shares inch up as investors assess US-Iran agreement",
+    "source": "Investinglive",
+    "published": "2026-06-16T07:36:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/european-shares-inch-up-as-investors-assess-usiran-agreement-4743966",
+    "category_hint": "markets"
+  },
+  {
+    "title": "IWG appoints Christian Schmitz as CEO, Dixon becomes chair",
+    "source": "Investinglive",
+    "published": "2026-06-16T07:33:30+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/iwg-appoints-christian-schmitz-as-ceo-dixon-becomes-chair-93CH-4743965",
+    "category_hint": "markets"
+  },
+  {
+    "title": "BofA upgrades Exxon to Buy as shares lag despite war-driven upside",
+    "source": "Investinglive",
+    "published": "2026-06-16T07:26:37+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/bofa-upgrades-exxon-to-buy-as-shares-lag-despite-wardriven-upside-4743964",
+    "category_hint": "markets"
+  },
+  {
+    "title": "BOJ Deputy Governor Uchida’s comments at news conference",
+    "source": "Investinglive",
+    "published": "2026-06-16T07:18:48+00:00",
+    "link": "https://www.investing.com/news/economy-news/boj-deputy-governor-uchidas-comments-at-news-conference-4743950",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Novo Nordisk to seek approval soon to sell Wegovy pill in China",
+    "source": "Investinglive",
+    "published": "2026-06-16T07:18:30+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/novo-nordisk-to-seek-regulatory-approval-for-wegovy-pill-in-china-soon-says-ceo-4743926",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nicholas Begich III from Alaska’s at-large district invests heavily in Listen Ventures IV, LP",
+    "source": "Investinglive",
+    "published": "2026-06-16T07:16:35+00:00",
+    "link": "https://www.investing.com/news/company-news/nicholas-begich-iii-from-alaskas-atlarge-district-invests-heavily-in-listen-ventures-iv-lp-93CH-4743963",
+    "category_hint": "markets"
+  },
+  {
+    "title": "FTSE 100 today: Stocks edge higher as U.S.-Iran deal underpins sentiment",
+    "source": "Investinglive",
+    "published": "2026-06-16T07:14:48+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-usiran-deal-underpins-sentiment-4743962",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Rathbones stock plummeting today?",
+    "source": "Investinglive",
+    "published": "2026-06-16T07:14:38+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-rathbones-stock-plummeting-today-93CH-4743961",
+    "category_hint": "markets"
+  },
+  {
+    "title": "European stocks pause at record highs as post-war inflation hangover looms",
+    "source": "Investinglive",
+    "published": "2026-06-16T07:12:05+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/european-stocks-pause-at-record-highs-as-postwar-inflation-hangover-looms-4743959",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Australia central bank warns rate hikes might not be over after holding fire",
+    "source": "Investinglive",
+    "published": "2026-06-16T06:54:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/australia-central-bank-warns-rate-hikes-might-not-be-over-after-holding-fire-4743908",
+    "category_hint": "macro"
+  },
+  {
+    "title": "A decade on from Brexit vote, divided brothers are both disappointed",
+    "source": "Investinglive",
+    "published": "2026-06-16T06:48:54+00:00",
+    "link": "https://www.investing.com/news/economy-news/a-decade-on-from-brexit-vote-divided-brothers-are-both-disappointed-4743949",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Taiwan president says he ’won’t give up’ on defence spending after parliament cuts",
+    "source": "Investinglive",
+    "published": "2026-06-16T06:36:59+00:00",
+    "link": "https://www.investing.com/news/economy-news/taiwan-president-says-he-wont-give-up-on-defence-spending-after-parliament-cuts-4743946",
+    "category_hint": "macro"
+  },
+  {
+    "title": "More central banks signal plans to increase gold holdings, WGC survey shows",
+    "source": "Investinglive",
+    "published": "2026-06-16T06:12:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/more-central-banks-signal-plans-to-increase-gold-holdings-wgc-survey-shows-4743929",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar at 10-day lows, no respite for yen after BOJ hikes as expected",
+    "source": "Investinglive",
+    "published": "2026-06-16T05:36:38+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-sways-near-10day-lows-as-attention-turns-to-boj-and-rba-4743690",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US business group hopeful for progress on stalled double tax deal with Taiwan",
+    "source": "Investinglive",
+    "published": "2026-06-16T05:06:40+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-business-group-hopeful-for-progress-on-stalled-double-tax-deal-with-taiwan-4743897",
+    "category_hint": "macro"
+  },
+  {
+    "title": "RBA holds rates after three hikes, keeps door open to more tightening",
+    "source": "Investinglive",
+    "published": "2026-06-16T04:50:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/rba-holds-rates-after-three-hikes-keeps-door-open-to-more-tightening-4743892",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Australia central bank holds rates, warns hikes might not be over",
+    "source": "Investinglive",
+    "published": "2026-06-16T04:49:04+00:00",
+    "link": "https://www.investing.com/news/economy-news/australia-central-bank-holds-rates-warns-hikes-might-not-be-over-4743890",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Neumora stock price target cut to $7 on failed trial, H.C. Wainwright maintains buy",
+    "source": "Investinglive",
+    "published": "2026-06-16T11:39:29+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/neumora-stock-price-target-cut-to-7-on-failed-trial-hc-wainwright-maintains-buy-93CH-4744537",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright reiterates Invivyd stock rating on trial progress",
+    "source": "Investinglive",
+    "published": "2026-06-16T11:39:23+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-invivyd-stock-rating-on-trial-progress-93CH-4744536",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright reiterates Caribou Biosciences stock rating at buy",
+    "source": "Investinglive",
+    "published": "2026-06-16T11:39:04+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-caribou-biosciences-stock-rating-at-buy-93CH-4744535",
+    "category_hint": "markets"
+  },
+  {
+    "title": "SpaceandPeople shareholders approve all AGM resolutions",
+    "source": "Investinglive",
+    "published": "2026-06-16T11:38:54+00:00",
+    "link": "https://www.investing.com/news/company-news/spaceandpeople-shareholders-approve-all-agm-resolutions-93CH-4744532",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Russia should make peace deal, Trump says after ’very good’ Zelenskiy meeting",
+    "source": "Investinglive",
+    "published": "2026-06-16T11:36:46+00:00",
+    "link": "https://www.investing.com/news/world-news/europeans-to-test-trump-on-iran-deal-risks-urge-ukraine-rethink-at-g7-4743933",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Meta’s Threads reaches 500 million monthly users",
+    "source": "Investinglive",
+    "published": "2026-06-16T11:35:50+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/metas-threads-reaches-500-million-monthly-users-93CH-4744531",
+    "category_hint": "markets"
+  },
+  {
+    "title": "FreightCar America appoints Bradley Pickard to board",
+    "source": "Investinglive",
+    "published": "2026-06-16T11:34:56+00:00",
+    "link": "https://www.investing.com/news/company-news/freightcar-america-appoints-bradley-pickard-to-board-93CH-4744530",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 Allot Ltd. For: 16 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T11:33:54+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-allot-ltd-for-16-june-93CH-4744528",
+    "category_hint": "markets"
+  },
+  {
+    "title": "No “big top” yet in risk assets, BofA says despite elevated sentiment",
+    "source": "Investinglive",
+    "published": "2026-06-16T11:33:50+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/no-big-top-yet-in-risk-assets-bofa-says-despite-elevated-sentiment-4744527",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Huntsman stock sliding today?",
+    "source": "Investinglive",
+    "published": "2026-06-16T11:33:33+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-huntsman-stock-sliding-today-93CH-4744526",
+    "category_hint": "markets"
+  },
+  {
+    "title": "EU lawmakers clear US trade deal to avert return to trade conflict",
+    "source": "Investinglive",
+    "published": "2026-06-16T11:19:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/eu-lawmakers-clear-us-trade-deal-to-avert-return-to-trade-conflict-4744472",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Interim U.S., Iran peace deal going to \"second stage,\" Trump says",
+    "source": "Investinglive",
+    "published": "2026-06-16T11:02:14+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-says-strait-of-hormuz-to-be-fully-reopened-by-friday-4744006",
+    "category_hint": "macro"
+  },
+  {
+    "title": "EU parliament approves U.S. import duty cuts from trade deal",
+    "source": "Investinglive",
+    "published": "2026-06-16T10:52:55+00:00",
+    "link": "https://www.investing.com/news/economy-news/eu-parliament-approves-us-import-duty-cuts-from-trade-deal-93CH-4744333",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Wall Street futures subdued as focus shifts to Fed, SpaceX jumps for third day",
+    "source": "Investinglive",
+    "published": "2026-06-16T10:37:43+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-street-futures-subdued-as-focus-shifts-to-fed-spacex-jumps-for-third-day-4744262",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Britain’s Reeves hopes to avoid tax rises before next budget",
+    "source": "Investinglive",
+    "published": "2026-06-16T10:32:16+00:00",
+    "link": "https://www.investing.com/news/economy-news/britains-reeves-hopes-to-avoid-tax-rises-before-next-budget-93CH-4744244",
+    "category_hint": "macro"
+  },
+  {
+    "title": "EIB has room to increase lending, says Calvino",
+    "source": "Investinglive",
+    "published": "2026-06-16T10:29:58+00:00",
+    "link": "https://www.investing.com/news/economy-news/eib-has-room-to-increase-lending-says-calvino-93CH-4744227",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Reckitt CEO expects delayed inflation impact from Iran crisis",
+    "source": "Investinglive",
+    "published": "2026-06-16T10:29:21+00:00",
+    "link": "https://www.investing.com/news/economy-news/reckitt-ceo-expects-delayed-inflation-impact-from-iran-crisis-93CH-4744226",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Kremlin says no invite received from Zelenskiy for G7, no date for Witkoff-Kushner visit",
+    "source": "Investinglive",
+    "published": "2026-06-16T10:25:27+00:00",
+    "link": "https://www.investing.com/news/economy-news/kremlin-says-no-invite-received-from-zelenskiy-for-g7-no-date-for-witkoffkushner-visit-93CH-4744222",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bond investors shift to neutral ahead of Warsh’s Fed debut",
+    "source": "Investinglive",
+    "published": "2026-06-16T10:24:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/bond-investors-shift-to-neutral-ahead-of-warshs-fed-debut-4744187",
+    "category_hint": "macro"
+  },
+  {
+    "title": "UBS expects no Fed easing this year; sees hawkish tone in June meeting",
+    "source": "Investinglive",
+    "published": "2026-06-16T10:24:39+00:00",
+    "link": "https://www.investing.com/news/economy-news/ubs-expects-no-fed-easing-this-year-sees-hawkish-tone-in-june-meeting-4744072",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Nearly half of investors plan to boost EM private credit - Gemcorp survey",
+    "source": "Investinglive",
+    "published": "2026-06-16T15:49:48+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/nearly-half-of-investors-plan-to-boost-em-private-credit--gemcorp-survey-4745294",
+    "category_hint": "markets"
+  },
+  {
+    "title": "As US nears 250th birthday, Reuters/Ipsos poll shows many Americans doubt it will last another 250 years",
+    "source": "Investinglive",
+    "published": "2026-06-16T15:49:31+00:00",
+    "link": "https://www.investing.com/news/politics-news/as-us-nears-250th-birthday-reutersipsos-poll-shows-many-americans-doubt-it-will-last-another-250-years-4744195",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Groupe Dynamite Q1 2026 slides: margins soar despite stock plunge",
+    "source": "Investinglive",
+    "published": "2026-06-16T15:49:05+00:00",
+    "link": "https://www.investing.com/news/company-news/groupe-dynamite-q1-2026-slides-margins-soar-despite-stock-plunge-93CH-4745325",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Tennis-Serena to reignite Venus partnership after receiving Wimbledon doubles wildcard",
+    "source": "Investinglive",
+    "published": "2026-06-16T15:48:58+00:00",
+    "link": "https://www.investing.com/news/general-news/tennisserena-to-reignite-venus-partnership-after-receiving-wimbledon-doubles-wildcard-4744477",
+    "category_hint": "markets"
+  },
+  {
+    "title": "SpaceX vaults past Microsoft and Amazon’s market value as post IPO momentum builds",
+    "source": "Investinglive",
+    "published": "2026-06-16T15:48:41+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/spacex-set-to-surpass-amazons-market-cap-as-postipo-rally-continues-4743995",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Fitch affirms Vietnam at ’BB+’ on solid growth, stable debt",
+    "source": "Investinglive",
+    "published": "2026-06-16T15:47:33+00:00",
+    "link": "https://www.investing.com/news/world-news/fitch-affirms-vietnam-at-bb-on-solid-growth-stable-debt-93CH-4745324",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Moody’s cuts Alexandria Real Estate debt rating",
+    "source": "Investinglive",
+    "published": "2026-06-16T15:47:24+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/moodys-cuts-alexandria-real-estate-debt-rating-93CH-4745323",
+    "category_hint": "markets"
+  },
+  {
+    "title": "L3Harris picks JPMorgan and Morgan Stanley for Axyv IPO - Bloomberg",
+    "source": "Investinglive",
+    "published": "2026-06-16T15:47:00+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/l3harris-picks-jpmorgan-and-morgan-stanley-for-axyv-ipo--bloomberg-93CH-4745322",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 4 Latch Inc For: 16 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T15:45:28+00:00",
+    "link": "https://www.investing.com/news/filings/form-4-latch-inc-for-16-june-93CH-4745321",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Gold miner stocks climb as bullion prices advance",
+    "source": "Investinglive",
+    "published": "2026-06-16T15:45:19+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/gold-miner-stocks-climb-as-bullion-prices-advance-93CH-4745320",
+    "category_hint": "markets"
+  },
+  {
+    "title": "ECB will be proactive against high inflation even after Iran deal, Lane says",
+    "source": "Investinglive",
+    "published": "2026-06-16T15:36:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/ecb-will-continue-to-be-proactive-in-fight-against-high-inflation-lane-says-4745137",
+    "category_hint": "macro"
+  },
+  {
+    "title": "IMF cuts Bosnia growth forecast to 2% on Middle East war impact",
+    "source": "Investinglive",
+    "published": "2026-06-16T15:17:57+00:00",
+    "link": "https://www.investing.com/news/economy-news/imf-cuts-bosnia-growth-forecast-to-2-on-middle-east-war-impact-93CH-4745290",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US single-family housing starts hit eight-month low; import prices rise above expectations",
+    "source": "Investinglive",
+    "published": "2026-06-16T14:55:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-singlefamily-housing-starts-hit-eightmonth-low-import-prices-rise-above-expectations-4745256",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Lula extends lead over Flavio Bolsonaro in latest Brazil election poll",
+    "source": "Investinglive",
+    "published": "2026-06-16T14:29:15+00:00",
+    "link": "https://www.investing.com/news/economy-news/lula-extends-lead-over-flavio-bolsonaro-in-latest-brazil-election-poll-93CH-4745207",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Patel says FBI stopped an attack on UFC America 250 event at White House",
+    "source": "Investinglive",
+    "published": "2026-06-16T14:27:53+00:00",
+    "link": "https://www.investing.com/news/economy-news/patel-says-fbi-stopped-an-attack-on-ufc-america-250-event-at-white-house-4745204",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US-Iran accord signing planned for June 19 in Switzerland, Swiss govt says",
+    "source": "Investinglive",
+    "published": "2026-06-16T14:10:53+00:00",
+    "link": "https://www.investing.com/news/economy-news/usiran-accord-signing-planned-for-june-19-in-switzerland-swiss-govt-says-93CH-4745173",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar slips as markets wait on Warsh’s Fed debut",
+    "source": "Investinglive",
+    "published": "2026-06-16T14:00:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-sways-near-10day-lows-as-attention-turns-to-boj-and-rba-4743690",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Hedge funds now take up to half of Canada’s debt auctions",
+    "source": "Investinglive",
+    "published": "2026-06-16T13:57:45+00:00",
+    "link": "https://www.investing.com/news/economy-news/hedge-funds-now-take-up-to-half-of-canadas-debt-auctions-93CH-4745143",
+    "category_hint": "macro"
+  },
+  {
+    "title": "U.S. single-family homebuilding drops to eight-month low",
+    "source": "Investinglive",
+    "published": "2026-06-16T13:30:53+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-singlefamily-homebuilding-drops-to-eightmonth-low-93CH-4745068",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Iran memo of understanding states Iran will not have nuclear weapon, Trump says",
+    "source": "Investinglive",
+    "published": "2026-06-16T13:23:24+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-says-strait-of-hormuz-to-be-fully-reopened-by-friday-4744006",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Madison Air Solutions appoints David Wisniewski as chief accounting officer",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:52:36+00:00",
+    "link": "https://www.investing.com/news/sec-filings/madison-air-solutions-appoints-david-wisniewski-as-chief-accounting-officer-93CH-4745605",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Consumers Bancorp director Parkinson purchases $14,475 in stock",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:52:02+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/consumers-bancorp-director-parkinson-purchases-14475-in-stock-93CH-4745604",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Enova International stock hits all-time high at 193.69 USD",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:51:07+00:00",
+    "link": "https://www.investing.com/news/company-news/enova-international-stock-hits-alltime-high-at-19369-usd-93CH-4745603",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 8K Madison Air Solutions Corporation For: 16 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:50:38+00:00",
+    "link": "https://www.investing.com/news/filings/form-8k-madison-air-solutions-corporation-for-16-june-93CH-4745602",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Usana Health Sciences CCO Brent Neidig sells $50,464 in stock",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:50:09+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/usana-health-sciences-cco-brent-neidig-sells-50464-in-stock-93CH-4745601",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 4 Immersion Corporation For: 16 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:46:26+00:00",
+    "link": "https://www.investing.com/news/filings/form-4-immersion-corporation-for-16-june-93CH-4745599",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Immersion Corp CFO sells $32,039 in common stock",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:43:05+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/immersion-corp-cfo-sells-32039-in-common-stock-93CH-4745598",
+    "category_hint": "markets"
+  },
+  {
+    "title": "World Bank readies $2 billion loan for Argentina, Ambito reports",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:42:52+00:00",
+    "link": "https://www.investing.com/news/economy-news/world-bank-readies-2-billion-loan-for-argentina-ambito-reports-4745597",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 MESA LABORATORIES INC /CO/ For: 16 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:42:21+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-mesa-laboratories-inc-co-for-16-june-93CH-4745596",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Fitch affirms Brazil stock rating at BB on diverse economy",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:41:09+00:00",
+    "link": "https://www.investing.com/news/world-news/fitch-affirms-brazil-stock-rating-at-bb-on-diverse-economy-93CH-4745595",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nasdaq, S&P 500 slip while Dow hits record high",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:00:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-slip-while-dow-hits-record-high-4745561",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed watchdog urges stronger travel security for staff",
+    "source": "Investinglive",
+    "published": "2026-06-16T18:19:07+00:00",
+    "link": "https://www.investing.com/news/economy-news/fed-watchdog-urges-stronger-travel-security-for-staff-93CH-4745527",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil’s Lula meets EU leaders on trade restrictions",
+    "source": "Investinglive",
+    "published": "2026-06-16T18:18:31+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazils-lula-meets-eu-leaders-on-trade-restrictions-93CH-4745524",
+    "category_hint": "macro"
+  },
+  {
+    "title": "French central bank cuts economic growth outlook as energy prices bite",
+    "source": "Investinglive",
+    "published": "2026-06-16T18:07:10+00:00",
+    "link": "https://www.investing.com/news/economy-news/french-central-bank-cuts-economic-growth-outlook-as-energy-prices-bite-4745516",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bank of France cuts 2026 growth forecast to 0.5% from 0.9%",
+    "source": "Investinglive",
+    "published": "2026-06-16T18:04:19+00:00",
+    "link": "https://www.investing.com/news/economy-news/bank-of-france-cuts-2026-growth-forecast-to-05-from-09-4745512",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Canada’s trade minister meets with Greer on USMCA",
+    "source": "Investinglive",
+    "published": "2026-06-16T18:01:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/canadas-trade-minister-meets-with-greer-on-usmca-93CH-4745508",
+    "category_hint": "macro"
+  },
+  {
+    "title": "ECB’s Makhlouf warns Iran peace deal may not ease inflation quickly",
+    "source": "Investinglive",
+    "published": "2026-06-16T17:35:31+00:00",
+    "link": "https://www.investing.com/news/economy-news/ecbs-makhlouf-warns-iran-peace-deal-may-not-ease-inflation-quickly-93CH-4745475",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US single-family housing starts slide to eight-month low; imported inflation increases sharply",
+    "source": "Investinglive",
+    "published": "2026-06-16T16:48:47+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-singlefamily-housing-starts-hit-eightmonth-low-import-prices-rise-above-expectations-4745256",
+    "category_hint": "macro"
+  },
+  {
+    "title": "EU must tap trillions of euros in private savings to keep up with US and China, investors say",
+    "source": "Investinglive",
+    "published": "2026-06-16T16:44:07+00:00",
+    "link": "https://www.investing.com/news/economy-news/eu-must-tap-trillions-of-euros-in-private-savings-to-keep-up-with-us-and-china-investors-say-4745402",
+    "category_hint": "macro"
+  },
+  {
+    "title": "French store BHV ends partnership with retailer Shein, French media say",
+    "source": "Investinglive",
+    "published": "2026-06-16T16:12:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/french-store-bhv-ends-partnership-with-retailer-shein-french-media-say-4745360",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Nexstar media EVP Jenkins sells $51,413 in shares",
+    "source": "Investinglive",
+    "published": "2026-06-16T23:44:22+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/nexstar-media-evp-jenkins-sells-51413-in-shares-93CH-4746191",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Coeur Mining EVP Aoife McGrath buys $10,763 in company stock",
+    "source": "Investinglive",
+    "published": "2026-06-16T23:44:19+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/coeur-mining-evp-aoife-mcgrath-buys-10763-in-company-stock-93CH-4746190",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nexstar Media EVP Lindsey Knapp sells $15,885 in shares",
+    "source": "Investinglive",
+    "published": "2026-06-16T23:44:16+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/nexstar-media-evp-lindsey-knapp-sells-15885-in-shares-93CH-4746189",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nexstar Media president Dana Zimmer sells $149,629 in shares",
+    "source": "Investinglive",
+    "published": "2026-06-16T23:44:02+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/nexstar-media-president-dana-zimmer-sells-149629-in-shares-93CH-4746188",
+    "category_hint": "markets"
+  },
+  {
+    "title": "enCore Energy shareholders approve all proposals at annual meeting",
+    "source": "Investinglive",
+    "published": "2026-06-16T23:42:40+00:00",
+    "link": "https://www.investing.com/news/sec-filings/encore-energy-shareholders-approve-all-proposals-at-annual-meeting-93CH-4746187",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 4 TKO Group Holdings Inc For: 16 June",
+    "source": "Investinglive",
+    "published": "2026-06-16T23:42:05+00:00",
+    "link": "https://www.investing.com/news/filings/form-4-tko-group-holdings-inc-for-16-june-93CH-4746186",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nexstar Media Group EVP Weitman sells $44,581 in common stock",
+    "source": "Investinglive",
+    "published": "2026-06-16T23:38:27+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/nexstar-media-group-evp-weitman-sells-44581-in-common-stock-93CH-4746185",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nexstar media EVP Blake Russell sells $44,581 in stock",
+    "source": "Investinglive",
+    "published": "2026-06-16T23:38:08+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/nexstar-media-evp-blake-russell-sells-44581-in-stock-93CH-4746184",
+    "category_hint": "markets"
+  },
+  {
+    "title": "TKO Group director Nick Khan sells $1.99m in company stock",
+    "source": "Investinglive",
+    "published": "2026-06-16T23:37:43+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/tko-group-director-nick-khan-sells-199m-in-company-stock-93CH-4746183",
+    "category_hint": "markets"
+  },
+  {
+    "title": "AES Corp completes $1 billion senior notes offering for debt repayment",
+    "source": "Investinglive",
+    "published": "2026-06-16T23:37:36+00:00",
+    "link": "https://www.investing.com/news/sec-filings/aes-corp-completes-1-billion-senior-notes-offering-for-debt-repayment-93CH-4746182",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nasdaq and S&P 500 slip while Dow hits record close",
+    "source": "Investinglive",
+    "published": "2026-06-16T23:25:05+00:00",
+    "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-slip-while-dow-hits-record-high-4745561",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Japan manufacturers’ sentiment rises for second month on chip-driven demand: Reuters Poll",
+    "source": "Investinglive",
+    "published": "2026-06-16T23:06:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/japan-manufacturers-sentiment-rises-for-second-month-on-chipdriven-demand-reuters-poll-4746154",
+    "category_hint": "macro"
+  },
+  {
+    "title": "G7 leaders pledge to enhance efforts to address global debt vulnerabilities",
+    "source": "Investinglive",
+    "published": "2026-06-16T21:20:29+00:00",
+    "link": "https://www.investing.com/news/economy-news/g7-leaders-pledge-to-enhance-efforts-to-address-global-debt-vulnerabilities-4745951",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Shein and Paris department store end controversial partnership",
+    "source": "Investinglive",
+    "published": "2026-06-16T21:12:54+00:00",
+    "link": "https://www.investing.com/news/economy-news/french-store-bhv-ends-partnership-with-retailer-shein-french-media-say-4745360",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trading Day: US stocks mixed, oil slides, SpaceX continues its ascent",
+    "source": "Investinglive",
+    "published": "2026-06-16T21:07:17+00:00",
+    "link": "https://www.investing.com/news/economy-news/trading-day-us-stocks-mixed-oil-slides-spacex-continues-its-ascent-4745924",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Citadel Securities sees growing possibility of rate hike in September",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:40:08+00:00",
+    "link": "https://www.investing.com/news/economy-news/citadel-securities-sees-growing-possibility-of-rate-hike-in-september-4745590",
+    "category_hint": "macro"
+  },
+  {
+    "title": "As chair, Warsh finally has a chance to put stamp on Fed balance sheet",
+    "source": "Investinglive",
+    "published": "2026-06-16T19:30:43+00:00",
+    "link": "https://www.investing.com/news/economy-news/as-chair-warsh-finally-has-a-chance-to-put-stamp-on-fed-balance-sheet-4745585",
+    "category_hint": "macro"
+  }
+]

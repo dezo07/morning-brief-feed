@@ -1,0 +1,911 @@
+[
+  {
+    "NewsID": 9704478,
+    "title": "U.S. Acting AG Blanche: DOJ withdraws order that created the anti-weaponization fund",
+    "published": "2026-08-02T22:40:47.96",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704478/US-Acting-AG-Blanche-DOJ-withdraws-order-that-created-the-anti-weaponization-fund.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T23:45:02.311040-04:00"
+  },
+  {
+    "NewsID": 9704435,
+    "title": "Cuba's national electric utility: shutdown of national power grid occurred",
+    "published": "2026-08-02T22:05:29.067",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704435/Cubas-national-electric-utility-shutdown-of-national-power-grid-occurred.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T23:15:01.792031-04:00"
+  },
+  {
+    "NewsID": 9704434,
+    "title": "Japan finance minister Katayama: no comment on possible forex intervention today",
+    "published": "2026-08-02T21:33:11.06",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704434/Japan-finance-minister-Katayama-no-comment-on-possible-forex-intervention-today.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T22:45:02.216416-04:00"
+  },
+  {
+    "NewsID": 9704433,
+    "title": "Two people hospitalized following building collapse in Sydney: State Emergency Services",
+    "published": "2026-08-02T21:23:52.667",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704433/Two-people-hospitalized-following-building-collapse-in-Sydney-State-Emergency-Services.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T22:30:02.464690-04:00"
+  },
+  {
+    "NewsID": 9704379,
+    "title": "Dollar/yen falls 0.64% to 156.36",
+    "published": "2026-08-02T20:57:19.59",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704379/Dollaryen-falls-064-to-15636.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T22:00:01.897814-04:00"
+  },
+  {
+    "NewsID": 9704367,
+    "title": "Ratingdog China general manufacturing PMI at 50.9 in July, below forecast 51.5",
+    "published": "2026-08-02T20:45:03.59",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704367/Ratingdog-China-general-manufacturing-PMI-at-509-in-July-below-forecast-515.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T22:00:01.897867-04:00"
+  },
+  {
+    "NewsID": 9704366,
+    "title": "Chinese Manufacturing  PMI Actual 50.9 (Forecast 52, Previous 51.7)",
+    "published": "2026-08-02T20:45:43.043",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9704366/Chinese-Manufacturing--PMI-Actual-509-Forecast-52-Previous-517.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T22:00:01.897852-04:00"
+  },
+  {
+    "NewsID": 9704365,
+    "title": "S. Korea central bank sells 91-day monetary stabilisation bonds at 2.83% yield",
+    "published": "2026-08-02T20:40:04.54",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704365/S-Korea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-283-yield.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T21:45:02.185442-04:00"
+  },
+  {
+    "NewsID": 9704364,
+    "title": "China's top securities regulator says it plans to expand mutual qualification recognition for futures professionals between China and Hong Kong",
+    "published": "2026-08-02T20:37:15.15",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704364/Chinas-top-securities-regulator-says-it-plans-to-expand-mutual-qualification-recognition-for-futures-professionals-between-China-and-Hong-Kong.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T21:45:02.185488-04:00"
+  },
+  {
+    "NewsID": 9704363,
+    "title": "China's top securities regulator: supports Hong Kong in launching more yuan-denominated futures products",
+    "published": "2026-08-02T20:35:28.347",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704363/Chinas-top-securities-regulator-supports-Hong-Kong-in-launching-more-yuan-denominated-futures-products.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T21:45:02.185510-04:00"
+  },
+  {
+    "NewsID": 9704362,
+    "title": "China's top securities regulator: to introduce more ETF products tracking Chinese assets",
+    "published": "2026-08-02T20:34:38.267",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704362/Chinas-top-securities-regulator-to-introduce-more-ETF-products-tracking-Chinese-assets.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T21:45:02.185529-04:00"
+  },
+  {
+    "NewsID": 9704350,
+    "title": "China Cbank injects 300 billion yuan via overnight reverse repos: statement",
+    "published": "2026-08-02T20:21:30.75",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704350/China-Cbank-injects-300-billion-yuan-via-overnight-reverse-repos-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T21:30:02.533585-04:00"
+  },
+  {
+    "NewsID": 9704349,
+    "title": "China central bank injects 63 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+    "published": "2026-08-02T20:20:23.803",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704349/China-central-bank-injects-63-billion-yuan-via-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T21:30:02.533637-04:00"
+  },
+  {
+    "NewsID": 9704337,
+    "title": "Dollar/Yen pares losses slightly, last down 0.73% to 156.225",
+    "published": "2026-08-02T20:07:47.473",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704337/DollarYen-pares-losses-slightly-last-down-073-to-156225.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T21:15:01.689760-04:00"
+  },
+  {
+    "NewsID": 9704328,
+    "title": "Taiwan overnight interbank rate starts at 0.805% (vs 0.805% at previous session)",
+    "published": "2026-08-02T20:00:32.477",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704328/Taiwan-overnight-interbank-rate-starts-at-0805-vs-0805-at-previous-session.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T21:15:01.689813-04:00"
+  },
+  {
+    "NewsID": 9704318,
+    "title": "Dollar/yen falls over 1% to 155.51",
+    "published": "2026-08-02T19:43:53.617",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704318/Dollaryen-falls-over-1-to-15551.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:45:02.235848-04:00"
+  },
+  {
+    "NewsID": 9704317,
+    "title": "Dollar/yen extends decline, down 0.65% to 156.36",
+    "published": "2026-08-02T19:34:38.823",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704317/Dollaryen-extends-decline-down-065-to-15636.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:45:02.235896-04:00"
+  },
+  {
+    "NewsID": 9704313,
+    "title": "Dollar/yen slips further, now down 0.5% at 156.64",
+    "published": "2026-08-02T19:30:26.333",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704313/Dollaryen-slips-further-now-down-05-at-15664.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:45:02.235958-04:00"
+  },
+  {
+    "NewsID": 9704311,
+    "title": "Taiwan S&P Global July manufacturing PMI at 55.1 vs 55.2 in June",
+    "published": "2026-08-02T19:30:04.72",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704311/Taiwan-SP-Global-July-manufacturing-PMI-at-551-vs-552-in-June.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:45:02.235977-04:00"
+  },
+  {
+    "NewsID": 9704310,
+    "title": "Japan S&P Global July final manufacturing PMI at 54.5 vs flash 54.7",
+    "published": "2026-08-02T19:30:04.58",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704310/Japan-SP-Global-July-final-manufacturing-PMI-at-545-vs-flash-547.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:45:02.235996-04:00"
+  },
+  {
+    "NewsID": 9704309,
+    "title": "South Korea S&P Global July manufacturing PMI rises to 53.1 from 52.1 in June",
+    "published": "2026-08-02T19:30:04.52",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704309/South-Korea-SP-Global-July-manufacturing-PMI-rises-to-531-from-521-in-June.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:45:02.236015-04:00"
+  },
+  {
+    "NewsID": 9704308,
+    "title": "S. Korean Manufacturing PMI Actual 53.1 (Forecast -, Previous 52.1)",
+    "published": "2026-08-02T19:30:43.563",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704308/S-Korean-Manufacturing-PMI-Actual-531-Forecast---Previous-521.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:45:02.235918-04:00"
+  },
+  {
+    "NewsID": 9704307,
+    "title": "Japanese Mfg PMI Actual 54.5 (Forecast -, Previous 54.7)",
+    "published": "2026-08-02T19:30:43.07",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704307/Japanese-Mfg-PMI-Actual-545-Forecast---Previous-547.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:45:02.235939-04:00"
+  },
+  {
+    "NewsID": 9704306,
+    "title": "Japan's top currency diplomat Mimura: Limits on FIMA facility don't imply overall FX intervention constraints",
+    "published": "2026-08-02T19:18:09.193",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704306/Japans-top-currency-diplomat-Mimura-Limits-on-FIMA-facility-dont-imply-overall-FX-intervention-constraints.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:30:01.574329-04:00"
+  },
+  {
+    "NewsID": 9704296,
+    "title": "China PBOC likely to set yuan midpoint at 6.7364 per dollar: estimate",
+    "published": "2026-08-02T19:16:54.82",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704296/China-PBOC-likely-to-set-yuan-midpoint-at-67364-per-dollar-estimate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:30:01.574376-04:00"
+  },
+  {
+    "NewsID": 9704295,
+    "title": "Japan top currency diplomat Mimura: Fima repurchase facility is just one tool for intervention",
+    "published": "2026-08-02T19:15:51.987",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704295/Japan-top-currency-diplomat-Mimura-Fima-repurchase-facility-is-just-one-tool-for-intervention.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:30:01.574410-04:00"
+  },
+  {
+    "NewsID": 9704292,
+    "title": "Japan top currency diplomat Mimura: will keep cooperating closely with BoJ",
+    "published": "2026-08-02T19:13:52.27",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704292/Japan-top-currency-diplomat-Mimura-will-keep-cooperating-closely-with-BoJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:15:01.966261-04:00"
+  },
+  {
+    "NewsID": 9704291,
+    "title": "Japan's top currency diplomat Mimura: No comment on discussions with BoJ",
+    "published": "2026-08-02T19:13:31.283",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704291/Japans-top-currency-diplomat-Mimura-No-comment-on-discussions-with-BoJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:15:01.966310-04:00"
+  },
+  {
+    "NewsID": 9704290,
+    "title": "Japan's top currency diplomat Mimura: no response to Trump remarks on forex intervention",
+    "published": "2026-08-02T19:12:56.59",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704290/Japans-top-currency-diplomat-Mimura-no-response-to-Trump-remarks-on-forex-intervention.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:15:01.966332-04:00"
+  },
+  {
+    "NewsID": 9704289,
+    "title": "Japan top currency diplomat Mimura: joint intervention could mark peak of U.S.-Japan currency partnership",
+    "published": "2026-08-02T19:11:40.733",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704289/Japan-top-currency-diplomat-Mimura-joint-intervention-could-mark-peak-of-US-Japan-currency-partnership.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T20:15:01.966352-04:00"
+  },
+  {
+    "NewsID": 9704272,
+    "title": "Japan FinMin Katayama: No comment on forex intervention except Friday",
+    "published": "2026-08-02T18:31:55.53",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704272/Japan-FinMin-Katayama-No-comment-on-forex-intervention-except-Friday.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:45:02.391240-04:00"
+  },
+  {
+    "NewsID": 9704270,
+    "title": "Dollar/yen rises 0.2% to 157.70 as US and Japan confirm joint yen intervention",
+    "published": "2026-08-02T18:19:55.667",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704270/Dollaryen-rises-02-to-15770-as-US-and-Japan-confirm-joint-yen-intervention.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:30:02.638266-04:00"
+  },
+  {
+    "NewsID": 9704267,
+    "title": "Japan finance minister Katayama says Japan remains vigilant and in close contact with U.S. Treasury counterparts",
+    "published": "2026-08-02T18:04:52.69",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704267/Japan-finance-minister-Katayama-says-Japan-remains-vigilant-and-in-close-contact-with-US-Treasury-counterparts.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:15:01.925513-04:00"
+  },
+  {
+    "NewsID": 9704266,
+    "title": "Japan MOF: Japan plans to use Federal Reserve’s foreign and international repo facility in future",
+    "published": "2026-08-02T18:03:47.153",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704266/Japan-MOF-Japan-plans-to-use-Federal-Reserves-foreign-and-international-repo-facility-in-future.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:15:01.925577-04:00"
+  },
+  {
+    "NewsID": 9704265,
+    "title": "Japan MOF: intervention aimed at tackling recent excessive, disorderly yen moves",
+    "published": "2026-08-02T18:02:55.027",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704265/Japan-MOF-intervention-aimed-at-tackling-recent-excessive-disorderly-yen-moves.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:15:01.925604-04:00"
+  },
+  {
+    "NewsID": 9704263,
+    "title": "Japan MoF: Won't hesitate to carry out more forex intervention with U.S.",
+    "published": "2026-08-02T18:02:10.253",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704263/Japan-MoF-Wont-hesitate-to-carry-out-more-forex-intervention-with-US.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:15:01.925626-04:00"
+  },
+  {
+    "NewsID": 9704259,
+    "title": "US Treasury Secretary Bessent: The FIMA repo facility is a crucial backstop, encourages expansion in coming months",
+    "published": "2026-08-02T18:01:36.45",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704259/US-Treasury-Secretary-Bessent-The-FIMA-repo-facility-is-a-crucial-backstop-encourages-expansion-in-coming-months.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:15:01.925646-04:00"
+  },
+  {
+    "NewsID": 9704258,
+    "title": "Japan finance ministry: conducted coordinated yen-buying intervention with U.S. on Friday",
+    "published": "2026-08-02T18:01:27.907",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704258/Japan-finance-ministry-conducted-coordinated-yen-buying-intervention-with-US-on-Friday.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:15:01.925667-04:00"
+  },
+  {
+    "NewsID": 9704257,
+    "title": "Japan finance ministry: conducted coordinated yen-purchasing intervention with U.S.",
+    "published": "2026-08-02T18:01:16.89",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704257/Japan-finance-ministry-conducted-coordinated-yen-purchasing-intervention-with-US.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:15:01.925687-04:00"
+  },
+  {
+    "NewsID": 9704256,
+    "title": "US Treasury Secretary Bessent: Strongly back Japan's decisive market and monetary actions to address yen's significant undervaluation",
+    "published": "2026-08-02T18:01:12.657",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704256/US-Treasury-Secretary-Bessent-Strongly-back-Japans-decisive-market-and-monetary-actions-to-address-yens-significant-undervaluation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:15:01.925707-04:00"
+  },
+  {
+    "NewsID": 9704255,
+    "title": "US Treasury Secretary Bessent: will not hesitate to join additional coordinated intervention",
+    "published": "2026-08-02T18:01:02.387",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704255/US-Treasury-Secretary-Bessent-will-not-hesitate-to-join-additional-coordinated-intervention.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:15:01.925727-04:00"
+  },
+  {
+    "NewsID": 9704254,
+    "title": "US Treasury Secretary Bessent: Treasury stays vigilant and maintains close communication with counterparts at MOF and BOJ",
+    "published": "2026-08-02T18:00:56.457",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704254/US-Treasury-Secretary-Bessent-Treasury-stays-vigilant-and-maintains-close-communication-with-counterparts-at-MOF-and-BOJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:15:01.925747-04:00"
+  },
+  {
+    "NewsID": 9704253,
+    "title": "US Treasury Secretary Bessent: Friday’s coordinated FX moves curbed disorderly yen swings",
+    "published": "2026-08-02T18:00:41.037",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704253/US-Treasury-Secretary-Bessent-Fridays-coordinated-FX-moves-curbed-disorderly-yen-swings.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:15:01.925798-04:00"
+  },
+  {
+    "NewsID": 9704252,
+    "title": "Australian Manufacturing PMI Final Actual 52.0 (Forecast -, Previous 51.7)",
+    "published": "2026-08-02T18:00:43.077",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704252/Australian-Manufacturing-PMI-Final-Actual-520-Forecast---Previous-517.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:15:01.925768-04:00"
+  },
+  {
+    "NewsID": 9704247,
+    "title": "New Zealand s/adjusted new dwelling consents decline 3.6% in June vs prior month",
+    "published": "2026-08-02T17:45:02.957",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704247/New-Zealand-sadjusted-new-dwelling-consents-decline-36-in-June-vs-prior-month.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:00:02.226380-04:00"
+  },
+  {
+    "NewsID": 9704246,
+    "title": "New Zealand Building Consents Actual -3.6% (Forecast -, Previous -4.0%)",
+    "published": "2026-08-02T17:45:43.063",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704246/New-Zealand-Building-Consents-Actual--36-Forecast---Previous--40.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T19:00:02.226328-04:00"
+  },
+  {
+    "NewsID": 9704241,
+    "title": "UKMTO: Crew all reported safe",
+    "published": "2026-08-02T17:11:03.217",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704241/UKMTO-Crew-all-reported-safe.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T18:15:02.124231-04:00"
+  },
+  {
+    "NewsID": 9704240,
+    "title": "UKMTO: tanker master reports hearing explosion near vessel",
+    "published": "2026-08-02T17:10:41.007",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704240/UKMTO-tanker-master-reports-hearing-explosion-near-vessel.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T18:15:02.124281-04:00"
+  },
+  {
+    "NewsID": 9704239,
+    "title": "UKMTO reports incident 20nm northeast of Khasab, Oman",
+    "published": "2026-08-02T17:09:50.077",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704239/UKMTO-reports-incident-20nm-northeast-of-Khasab-Oman.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T18:15:02.124304-04:00"
+  },
+  {
+    "NewsID": 9704233,
+    "title": "Trump on yen: U.S. reaping financial gains from deal",
+    "published": "2026-08-02T16:43:24.457",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704233/Trump-on-yen-US-reaping-financial-gains-from-deal.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T17:45:01.661423-04:00"
+  },
+  {
+    "NewsID": 9704232,
+    "title": "Trump on yen: We are always there for Japan",
+    "published": "2026-08-02T16:43:10.277",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704232/Trump-on-yen-We-are-always-there-for-Japan.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T17:45:01.661481-04:00"
+  },
+  {
+    "NewsID": 9704231,
+    "title": "Trump on yen: U.S. stepping in due to strong ties with Japan",
+    "published": "2026-08-02T16:43:00.417",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704231/Trump-on-yen-US-stepping-in-due-to-strong-ties-with-Japan.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T17:45:01.661507-04:00"
+  },
+  {
+    "NewsID": 9704230,
+    "title": "Trump on Iran: prepared to act whenever desired",
+    "published": "2026-08-02T16:42:02.01",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704230/Trump-on-Iran-prepared-to-act-whenever-desired.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T17:45:01.661527-04:00"
+  },
+  {
+    "NewsID": 9704229,
+    "title": "Trump on Iran: starts tomorrow afternoon",
+    "published": "2026-08-02T16:41:02.37",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704229/Trump-on-Iran-starts-tomorrow-afternoon.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T17:45:01.661546-04:00"
+  },
+  {
+    "NewsID": 9704228,
+    "title": "Trump on Iran: engaging in discussions as a negotiation",
+    "published": "2026-08-02T16:40:56.693",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704228/Trump-on-Iran-engaging-in-discussions-as-a-negotiation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T17:45:01.661565-04:00"
+  },
+  {
+    "NewsID": 9704227,
+    "title": "Trump on Iran: there is an agreement on Hormuz and there will be a pact on denuclearization",
+    "published": "2026-08-02T16:40:35.273",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704227/Trump-on-Iran-there-is-an-agreement-on-Hormuz-and-there-will-be-a-pact-on-denuclearization.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T17:45:01.661584-04:00"
+  },
+  {
+    "NewsID": 9704205,
+    "title": "Morocco’s Interior Ministry: Ten drown, one dies after falling from cliff during mass crossing to Ceuta",
+    "published": "2026-08-02T14:49:53.2",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704205/Moroccos-Interior-Ministry-Ten-drown-one-dies-after-falling-from-cliff-during-mass-crossing-to-Ceuta.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T16:00:02.773296-04:00"
+  },
+  {
+    "NewsID": 9704204,
+    "title": "Morocco’s Interior Ministry: Ten Killed in Mass Crossing to Ceuta",
+    "published": "2026-08-02T14:36:15.607",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704204/Moroccos-Interior-Ministry-Ten-Killed-in-Mass-Crossing-to-Ceuta.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T15:45:01.929962-04:00"
+  },
+  {
+    "NewsID": 9704203,
+    "title": "Morocco's Interior Ministry: recent Spanish ruling restricting quick returns for sea interceptions encouraged some migrants",
+    "published": "2026-08-02T14:35:44.69",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704203/Moroccos-Interior-Ministry-recent-Spanish-ruling-restricting-quick-returns-for-sea-interceptions-encouraged-some-migrants.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T15:45:01.930011-04:00"
+  },
+  {
+    "NewsID": 9704202,
+    "title": "Morocco’s interior ministry: About 40,000 attempt to enter Spanish enclave of Ceuta, around 1,135 into Melilla",
+    "published": "2026-08-02T14:32:40.51",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704202/Moroccos-interior-ministry-About-40000-attempt-to-enter-Spanish-enclave-of-Ceuta-around-1135-into-Melilla.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T15:45:01.930033-04:00"
+  },
+  {
+    "NewsID": 9704201,
+    "title": "Morocco blames social media misinformation, smugglers for Ceuta migration surge: Interior ministry statement",
+    "published": "2026-08-02T14:31:17.04",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704201/Morocco-blames-social-media-misinformation-smugglers-for-Ceuta-migration-surge-Interior-ministry-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T15:45:01.930074-04:00"
+  },
+  {
+    "NewsID": 9704190,
+    "title": "Israel voices concerns to U.S. on proposed Hamas disarmament plan, Netanyahu spokesperson says - source",
+    "published": "2026-08-02T14:11:52.57",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704190/Israel-voices-concerns-to-US-on-proposed-Hamas-disarmament-plan-Netanyahu-spokesperson-says---source.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T15:15:02.567125-04:00"
+  },
+  {
+    "NewsID": 9704161,
+    "title": "Iran's foreign ministry spokesperson: agreement with Oman on new route doesn't imply Strait of Hormuz is opening or closing",
+    "published": "2026-08-02T11:39:26.74",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704161/Irans-foreign-ministry-spokesperson-agreement-with-Oman-on-new-route-doesnt-imply-Strait-of-Hormuz-is-opening-or-closing.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T12:45:02.414204-04:00"
+  },
+  {
+    "NewsID": 9704160,
+    "title": "Iran Foreign Ministry Spokesperson: Talks with Oman aim to establish joint mechanism in Strait of Hormuz - state media",
+    "published": "2026-08-02T11:37:52.92",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704160/Iran-Foreign-Ministry-Spokesperson-Talks-with-Oman-aim-to-establish-joint-mechanism-in-Strait-of-Hormuz---state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T12:45:02.414256-04:00"
+  },
+  {
+    "NewsID": 9704159,
+    "title": "Iran foreign minister: talks with Oman on Strait of Hormuz in final stages - IRNA",
+    "published": "2026-08-02T11:34:41.91",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704159/Iran-foreign-minister-talks-with-Oman-on-Strait-of-Hormuz-in-final-stages---IRNA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T12:45:02.414281-04:00"
+  },
+  {
+    "NewsID": 9704143,
+    "title": "U.S. military: as of Aug. 2, Centcom has rerouted 35 commercial ships, disabled two, and boarded two",
+    "published": "2026-08-02T10:24:17.667",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704143/US-military-as-of-Aug-2-Centcom-has-rerouted-35-commercial-ships-disabled-two-and-boarded-two.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T11:30:02.600202-04:00"
+  },
+  {
+    "NewsID": 9704133,
+    "title": "Russian defence ministry: port facilities, two ships carrying military cargo damaged in Ukraine's Mykolaiv port - RIA",
+    "published": "2026-08-02T09:58:55.627",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704133/Russian-defence-ministry-port-facilities-two-ships-carrying-military-cargo-damaged-in-Ukraines-Mykolaiv-port---RIA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T11:00:02.157663-04:00"
+  },
+  {
+    "NewsID": 9704082,
+    "title": "OPEC JMMC voices worry over assaults on energy infrastructure",
+    "published": "2026-08-02T07:07:01.757",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704082/OPEC-JMMC-voices-worry-over-assaults-on-energy-infrastructure.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T08:15:02.000518-04:00"
+  },
+  {
+    "NewsID": 9704081,
+    "title": "OPEC JMMC met Sunday, highlighted critical need to protect international maritime routes for continuous energy flow",
+    "published": "2026-08-02T07:06:36.47",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704081/OPEC-JMMC-met-Sunday-highlighted-critical-need-to-protect-international-maritime-routes-for-continuous-energy-flow.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T08:15:02.000566-04:00"
+  },
+  {
+    "NewsID": 9704067,
+    "title": "OPEC: next meeting scheduled for September 6",
+    "published": "2026-08-02T06:27:04.553",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704067/OPEC-next-meeting-scheduled-for-September-6.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T07:30:01.777413-04:00"
+  },
+  {
+    "NewsID": 9704066,
+    "title": "OPEC: this modification to be enforced in September 2026",
+    "published": "2026-08-02T06:26:51.49",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704066/OPEC-this-modification-to-be-enforced-in-September-2026.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T07:30:01.777474-04:00"
+  },
+  {
+    "NewsID": 9704065,
+    "title": "OPEC: seven participant nations agree to cut output by 188,000 barrels a day",
+    "published": "2026-08-02T06:26:26.69",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704065/OPEC-seven-participant-nations-agree-to-cut-output-by-188000-barrels-a-day.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T07:30:01.777501-04:00"
+  },
+  {
+    "NewsID": 9704064,
+    "title": "OPEC+ statement excludes policy beyond September 2026",
+    "published": "2026-08-02T06:26:00.937",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704064/OPEC-statement-excludes-policy-beyond-September-2026.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T07:30:01.777523-04:00"
+  },
+  {
+    "NewsID": 9704063,
+    "title": "OPEC: Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman tweak output and confirm commitment to market stability",
+    "published": "2026-08-02T06:25:53.303",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704063/OPEC-Saudi-Arabia-Russia-Iraq-Kuwait-Kazakhstan-Algeria-and-Oman-tweak-output-and-confirm-commitment-to-market-stability.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T07:30:01.777543-04:00"
+  },
+  {
+    "NewsID": 9704062,
+    "title": "OPEC+ agrees to increase oil production quotas by 188,000 bpd for September, statement says",
+    "published": "2026-08-02T06:25:15.48",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704062/OPEC-agrees-to-increase-oil-production-quotas-by-188000-bpd-for-September-statement-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T07:30:01.777563-04:00"
+  },
+  {
+    "NewsID": 9704034,
+    "title": "Kuwait lifts crude oil production in July to average 1.971 million bpd from 1.65 million in June, source says",
+    "published": "2026-08-02T04:10:43.397",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704034/Kuwait-lifts-crude-oil-production-in-July-to-average-1971-million-bpd-from-165-million-in-June-source-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T05:15:02.177614-04:00"
+  },
+  {
+    "NewsID": 9704028,
+    "title": "Iran’s acting defense minister: Tehran won’t be passive or caught off guard, any threat is ‘real and significant’ - state media",
+    "published": "2026-08-02T03:53:14.687",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704028/Irans-acting-defense-minister-Tehran-wont-be-passive-or-caught-off-guard-any-threat-is-real-and-significant---state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T05:00:02.456240-04:00"
+  },
+  {
+    "NewsID": 9704027,
+    "title": "Iran’s acting defence minister: U.S. recent remarks part of ‘psychological operations’ - state media",
+    "published": "2026-08-02T03:53:12.147",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704027/Irans-acting-defence-minister-US-recent-remarks-part-of-psychological-operations---state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T05:00:02.456292-04:00"
+  },
+  {
+    "NewsID": 9704026,
+    "title": "Saudi crown prince, Trump discuss efforts to ease tensions in Middle East: Saudi state news agency",
+    "published": "2026-08-02T03:53:09.503",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704026/Saudi-crown-prince-Trump-discuss-efforts-to-ease-tensions-in-Middle-East-Saudi-state-news-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T05:00:02.456337-04:00"
+  },
+  {
+    "NewsID": 9704025,
+    "title": "OPEC+ likely to raise quotas by about 188,000 bpd for September, then pause: OPEC+ delegate and source",
+    "published": "2026-08-02T03:53:05.407",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704025/OPEC-likely-to-raise-quotas-by-about-188000-bpd-for-September-then-pause-OPEC-delegate-and-source.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T05:00:02.456361-04:00"
+  },
+  {
+    "NewsID": 9704024,
+    "title": "Opec agrees in principle to boost oil output targets by 188,000 bpd from September, then pause for four months, source with knowledge of talks",
+    "published": "2026-08-02T03:53:03.61",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9704024/Opec-agrees-in-principle-to-boost-oil-output-targets-by-188000-bpd-from-September-then-pause-for-four-months-source-with-knowledge-of-talks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T05:00:02.456382-04:00"
+  },
+  {
+    "NewsID": 9703934,
+    "title": "Trump: cancellation of planned strike depends on swiftly reaching agreement",
+    "published": "2026-08-01T21:10:18.853",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703934/Trump-cancellation-of-planned-strike-depends-on-swiftly-reaching-agreement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528086-04:00"
+  },
+  {
+    "NewsID": 9703933,
+    "title": "Trump: i agreed to call off strike on Iran, adds Trump",
+    "published": "2026-08-01T21:07:39.673",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703933/Trump-i-agreed-to-call-off-strike-on-Iran-adds-Trump.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528121-04:00"
+  },
+  {
+    "NewsID": 9703932,
+    "title": "Have agreed to call off assault on Iran",
+    "published": "2026-08-01T21:06:32.41",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703932/Have-agreed-to-call-off-assault-on-Iran.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528136-04:00"
+  },
+  {
+    "NewsID": 9703931,
+    "title": "Trump: USA armed and prepared to confront Iran - Truth Social",
+    "published": "2026-08-01T21:05:53.573",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703931/Trump-USA-armed-and-prepared-to-confront-Iran---Truth-Social.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528167-04:00"
+  },
+  {
+    "NewsID": 9703875,
+    "title": "U.S. says Japanese yen operation is still ongoing",
+    "published": "2026-08-01T20:10:11.187",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703875/US-says-Japanese-yen-operation-is-still-ongoing.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528183-04:00"
+  },
+  {
+    "NewsID": 9703874,
+    "title": "Japan Finance Minister Katayama to announce Monday that Tokyo and Washington coordinated steps to curb yen’s fall, Japanese officials say",
+    "published": "2026-08-01T20:10:10.44",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703874/Japan-Finance-Minister-Katayama-to-announce-Monday-that-Tokyo-and-Washington-coordinated-steps-to-curb-yens-fall-Japanese-officials-say.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528195-04:00"
+  },
+  {
+    "NewsID": 9703818,
+    "title": "Iran’s foreign minister: Any US, Israel or regional aggression will prompt decisive response, says minister's account",
+    "published": "2026-08-01T15:29:50.71",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703818/Irans-foreign-minister-Any-US-Israel-or-regional-aggression-will-prompt-decisive-response-says-ministers-account.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528208-04:00"
+  },
+  {
+    "NewsID": 9703749,
+    "title": "EU convenes interior ministers video conference Tuesday to discuss Ceuta migrant crossings",
+    "published": "2026-08-01T10:17:25.41",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703749/EU-convenes-interior-ministers-video-conference-Tuesday-to-discuss-Ceuta-migrant-crossings.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528220-04:00"
+  },
+  {
+    "NewsID": 9703735,
+    "title": "Russian forces damage fuel tanker for Ukrainian army in Odesa port, hit marine tugboat in Mykolaiv port: Ifax",
+    "published": "2026-08-01T09:46:39.177",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703735/Russian-forces-damage-fuel-tanker-for-Ukrainian-army-in-Odesa-port-hit-marine-tugboat-in-Mykolaiv-port-Ifax.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528249-04:00"
+  },
+  {
+    "NewsID": 9703728,
+    "title": "IAEA: cause of recent nearly two-hour off-site power loss at Zaporizhzhya NPP not yet identified",
+    "published": "2026-08-01T09:28:46.173",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703728/IAEA-cause-of-recent-nearly-two-hour-off-site-power-loss-at-Zaporizhzhya-NPP-not-yet-identified.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528267-04:00"
+  },
+  {
+    "NewsID": 9703727,
+    "title": "IAEA: Zaporizhzhya NPP loses off-site power for 23rd time during conflict",
+    "published": "2026-08-01T09:27:57.577",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703727/IAEA-Zaporizhzhya-NPP-loses-off-site-power-for-23rd-time-during-conflict.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528279-04:00"
+  },
+  {
+    "NewsID": 9703688,
+    "title": "US embassies issue travel warnings across Middle East, advise citizens to reconsider travel, exercise caution and prepare for flight cancellations, airspace closures - Fox News",
+    "published": "2026-08-01T07:38:27.87",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9703688/US-embassies-issue-travel-warnings-across-Middle-East-advise-citizens-to-reconsider-travel-exercise-caution-and-prepare-for-flight-cancellations-airspace-closures---Fox-News.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528292-04:00"
+  },
+  {
+    "NewsID": 9703671,
+    "title": "Turkish energy minister: transit deal includes daily capacity of 750,000 barrels, efforts persist for long-term pact",
+    "published": "2026-08-01T07:05:13.58",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703671/Turkish-energy-minister-transit-deal-includes-daily-capacity-of-750000-barrels-efforts-persist-for-long-term-pact.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528304-04:00"
+  },
+  {
+    "NewsID": 9703670,
+    "title": "Turkey, Iraq agree to one-year deal on oil pipeline to Ceyhan, Turkish energy minister says",
+    "published": "2026-08-01T07:03:19.62",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703670/Turkey-Iraq-agree-to-one-year-deal-on-oil-pipeline-to-Ceyhan-Turkish-energy-minister-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528316-04:00"
+  },
+  {
+    "NewsID": 9703621,
+    "title": "Kuwait army: no casualties reported",
+    "published": "2026-08-01T03:06:49.077",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703621/Kuwait-army-no-casualties-reported.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528328-04:00"
+  },
+  {
+    "NewsID": 9703620,
+    "title": "Kuwaiti Army: Iranian strike hit government site in northern Kuwait and vehicles of private firm on Bubiyan Island",
+    "published": "2026-08-01T03:06:17.47",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703620/Kuwaiti-Army-Iranian-strike-hit-government-site-in-northern-Kuwait-and-vehicles-of-private-firm-on-Bubiyan-Island.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528341-04:00"
+  },
+  {
+    "NewsID": 9703619,
+    "title": "Kuwait Army: hostile drones detected and destroyed in Kuwaiti airspace since dawn on Saturday",
+    "published": "2026-08-01T03:03:31.93",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703619/Kuwait-Army-hostile-drones-detected-and-destroyed-in-Kuwaiti-airspace-since-dawn-on-Saturday.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528359-04:00"
+  },
+  {
+    "NewsID": 9703597,
+    "title": "Zelenskiy: Ukraine shot down only one Russian ballistic missile due to air defense shortages",
+    "published": "2026-08-01T01:55:56.473",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703597/Zelenskiy-Ukraine-shot-down-only-one-Russian-ballistic-missile-due-to-air-defense-shortages.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528375-04:00"
+  },
+  {
+    "NewsID": 9703596,
+    "title": "Zelenskiy: Russia launched 35 missiles, 185 drones in attack on Ukraine",
+    "published": "2026-08-01T01:53:45.227",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703596/Zelenskiy-Russia-launched-35-missiles-185-drones-in-attack-on-Ukraine.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528387-04:00"
+  },
+  {
+    "NewsID": 9703595,
+    "title": "Kazakh energy ministry: complete halt of CPC not being considered",
+    "published": "2026-08-01T01:52:31.547",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9703595/Kazakh-energy-ministry-complete-halt-of-CPC-not-being-considered.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-08-02T00:00:02.528399-04:00"
+  }
+]

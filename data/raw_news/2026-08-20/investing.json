@@ -1,0 +1,737 @@
+[
+  {
+    "title": "UiPath CEO Daniel Dines sells $22.5m of PATH common stock",
+    "source": "Investinglive",
+    "published": "2026-08-20T03:46:01+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/uipath-ceo-daniel-dines-sells-225m-of-path-common-stock-93CH-4868656",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Pinterest director Gokul Rajaram sells $24,181 in shares",
+    "source": "Investinglive",
+    "published": "2026-08-20T03:46:01+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/pinterest-director-gokul-rajaram-sells-24181-in-shares-93CH-4868657",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool",
+    "source": "Investinglive",
+    "published": "2026-08-20T03:36:29+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/citi-hsbc-stanchart-adopt-ant-internationals-forex-ai-tool-4868606",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Pinterest director Benjamin Silbermann sells $2.18m in stock",
+    "source": "Investinglive",
+    "published": "2026-08-20T03:31:17+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-218m-in-stock-93CH-4868655",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Camp4 Therapeutics CSO Daniel Tardiff sells $8,272 in common stock",
+    "source": "Investinglive",
+    "published": "2026-08-20T03:30:56+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/camp4-therapeutics-cso-daniel-tardiff-sells-8272-in-common-stock-93CH-4868654",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Monolithic Power Systems interim CFO sells $8,481 in shares",
+    "source": "Investinglive",
+    "published": "2026-08-20T03:30:53+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/monolithic-power-systems-interim-cfo-sells-8481-in-shares-93CH-4868653",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Ubtech Robotics stock falling today?",
+    "source": "Investinglive",
+    "published": "2026-08-20T03:22:36+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-ubtech-robotics-stock-falling-today-93CH-4868652",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nebius prices $5 billion convertible notes offering",
+    "source": "Investinglive",
+    "published": "2026-08-20T03:16:33+00:00",
+    "link": "https://www.investing.com/news/company-news/nebius-prices-5-billion-convertible-notes-offering-93CH-4868651",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Vivmark Residential director Howard sells $543,104 in company shares",
+    "source": "Investinglive",
+    "published": "2026-08-20T03:16:11+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/vivmark-residential-director-howard-sells-543104-in-company-shares-93CH-4868649",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Vivmark Residential director Susan Swanezy sells $1 million in shares",
+    "source": "Investinglive",
+    "published": "2026-08-20T03:16:11+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/vivmark-residential-director-susan-swanezy-sells-1-million-in-shares-93CH-4868650",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Australia jobless rate hits near five-year high of 4.5% in July",
+    "source": "Investinglive",
+    "published": "2026-08-20T02:24:26+00:00",
+    "link": "https://www.investing.com/news/economy-news/australia-jobless-rate-hits-near-fiveyear-high-of-45-in-july-4868622",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Japan’s exports surge on chips demand, imports hit record on oil costs",
+    "source": "Investinglive",
+    "published": "2026-08-20T02:00:28+00:00",
+    "link": "https://www.investing.com/news/economy-news/japans-exports-jump-23-to-monthly-record-in-july-4868483",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bonds steady after US Treasury comes to the rescue",
+    "source": "Investinglive",
+    "published": "2026-08-20T01:54:26+00:00",
+    "link": "https://www.investing.com/news/economy-news/bonds-steady-after-us-treasury-comes-to-the-rescue-4868552",
+    "category_hint": "macro"
+  },
+  {
+    "title": "China leaves loan rates steady for 15th consecutive month in August",
+    "source": "Investinglive",
+    "published": "2026-08-20T01:30:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/china-leaves-loan-rates-steady-for-15th-consecutive-month-in-august-4868550",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar hugs three-month lows as Treasury seeks to sooth the bond market",
+    "source": "Investinglive",
+    "published": "2026-08-20T01:01:13+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-hugs-threemonth-lows-as-treasury-seeks-to-sooth-the-bond-market-4868503",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Japan exports rise 23.2% year/year in July",
+    "source": "Investinglive",
+    "published": "2026-08-20T00:00:28+00:00",
+    "link": "https://www.investing.com/news/economy-news/japan-exports-rise-232-yearyear-in-july-4868464",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trump announces ‘crushing economic operation’ against Iran; details scant",
+    "source": "Investinglive",
+    "published": "2026-08-19T23:30:38+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-touts-crushing-economic-operation-against-iran-4868443",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Analysis-China tax crackdown forces wealthy investors to assess their offshore trusts",
+    "source": "Investinglive",
+    "published": "2026-08-19T23:06:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysischina-tax-crackdown-forces-wealthy-investors-to-assess-their-offshore-trusts-4868433",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Japan has few answers as bond rout puts fiscal plans at risk",
+    "source": "Investinglive",
+    "published": "2026-08-19T22:13:09+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysisjapan-has-few-answers-as-bond-rout-puts-fiscal-plans-at-risk-4866583",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Explainer-What to know about the multistate salmonella outbreak in the US",
+    "source": "Investinglive",
+    "published": "2026-08-19T22:00:33+00:00",
+    "link": "https://www.investing.com/news/economy-news/explainerwhat-to-know-about-the-multistate-salmonella-outbreak-in-the-us-4868379",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Why is JD Sports stock plummeting today?",
+    "source": "Investinglive",
+    "published": "2026-08-20T07:24:39+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-jd-sports-stock-plummeting-today-93CH-4868823",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: Höegh Autoliners Q2 2026 stock drops 11.7%",
+    "source": "Investinglive",
+    "published": "2026-08-20T07:23:52+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-hoegh-autoliners-q2-2026-stock-drops-117-93CH-4868822",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Aqualis Q2 2026 slides: margins expand as revenue climbs 10%",
+    "source": "Investinglive",
+    "published": "2026-08-20T07:21:58+00:00",
+    "link": "https://www.investing.com/news/company-news/aqualis-q2-2026-slides-margins-expand-as-revenue-climbs-10-93CH-4868821",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Orkla Q2 2026 slides: growth stalls despite profit gains",
+    "source": "Investinglive",
+    "published": "2026-08-20T07:21:08+00:00",
+    "link": "https://www.investing.com/news/company-news/orkla-q2-2026-slides-growth-stalls-despite-profit-gains-93CH-4868818",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Vistin Pharma Q2 2026 slides: volume gains offset by currency headwinds",
+    "source": "Investinglive",
+    "published": "2026-08-20T07:21:08+00:00",
+    "link": "https://www.investing.com/news/company-news/vistin-pharma-q2-2026-slides-volume-gains-offset-by-currency-headwinds-93CH-4868819",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Kid ASA Q2 2026 slides: online sales surge 43%, margins hit 63.2%",
+    "source": "Investinglive",
+    "published": "2026-08-20T07:20:25+00:00",
+    "link": "https://www.investing.com/news/company-news/kid-asa-q2-2026-slides-online-sales-surge-43-margins-hit-632-93CH-4868817",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Fasadgruppen Q2 2026 slides: stabilization emerges despite margin pressure",
+    "source": "Investinglive",
+    "published": "2026-08-20T07:19:00+00:00",
+    "link": "https://www.investing.com/news/company-news/fasadgruppen-q2-2026-slides-stabilization-emerges-despite-margin-pressure-93CH-4868816",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Gerdes Energy downgrades Equinor stock rating on valuation",
+    "source": "Investinglive",
+    "published": "2026-08-20T07:18:57+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/gerdes-energy-downgrades-equinor-stock-rating-on-valuation-93CH-4868815",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Aqualis Q2 2026 presentation: revenue up 10%, EBIT margin hits 5.8%",
+    "source": "Investinglive",
+    "published": "2026-08-20T07:18:49+00:00",
+    "link": "https://www.investing.com/news/company-news/aqualis-q2-2026-presentation-revenue-up-10-ebit-margin-hits-58-93CH-4868814",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Techstep Q2 2026 slides: revenue rises but margins compress sharply",
+    "source": "Investinglive",
+    "published": "2026-08-20T07:18:31+00:00",
+    "link": "https://www.investing.com/news/company-news/techstep-q2-2026-slides-revenue-rises-but-margins-compress-sharply-93CH-4868813",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Bonds recover after US Treasury comes to the rescue",
+    "source": "Investinglive",
+    "published": "2026-08-20T06:01:37+00:00",
+    "link": "https://www.investing.com/news/economy-news/bonds-steady-after-us-treasury-comes-to-the-rescue-4868552",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar at three-month lows as Treasury takes aim at surging bond yields",
+    "source": "Investinglive",
+    "published": "2026-08-20T06:00:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-hugs-threemonth-lows-as-treasury-seeks-to-sooth-the-bond-market-4868503",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Potential kingmaker in New Zealand’s next government wants universal income, tax overhaul",
+    "source": "Investinglive",
+    "published": "2026-08-20T05:30:08+00:00",
+    "link": "https://www.investing.com/news/economy-news/potential-kingmaker-in-new-zealands-next-government-wants-universal-income-tax-overhaul-4868697",
+    "category_hint": "macro"
+  },
+  {
+    "title": "China’s Shanghai eases housing policies to spur demand",
+    "source": "Investinglive",
+    "published": "2026-08-20T05:19:21+00:00",
+    "link": "https://www.investing.com/news/economy-news/chinas-shanghai-eases-housing-policies-to-spur-demand-4868685",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Treasury’s upsized buybacks may complicate Fed’s monetary policy work",
+    "source": "Investinglive",
+    "published": "2026-08-20T05:07:20+00:00",
+    "link": "https://www.investing.com/news/economy-news/treasurys-upsized-buybacks-may-complicate-feds-monetary-policy-work-4868681",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Morning Bid: How long can this Bessent put last?",
+    "source": "Investinglive",
+    "published": "2026-08-20T04:43:08+00:00",
+    "link": "https://www.investing.com/news/economy-news/morning-bid-how-long-can-this-bessent-put-last-4868673",
+    "category_hint": "macro"
+  },
+  {
+    "title": "China Evergrande founder sentenced to life imprisonment, CCTV reports",
+    "source": "Investinglive",
+    "published": "2026-08-20T04:42:51+00:00",
+    "link": "https://www.investing.com/news/economy-news/china-evergrande-founder-sentenced-to-life-imprisonment-cctv-reports-4868672",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Russia extends soybean export duty through August 2028",
+    "source": "Investinglive",
+    "published": "2026-08-20T11:55:25+00:00",
+    "link": "https://www.investing.com/news/commodities-news/russia-extends-soybean-export-duty-through-august-2028-93CH-4869503",
+    "category_hint": "markets"
+  },
+  {
+    "title": "UBS raises Bill.com stock price target to $60 on margin expansion",
+    "source": "Investinglive",
+    "published": "2026-08-20T11:54:55+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/ubs-raises-billcom-stock-price-target-to-60-on-margin-expansion-93CH-4869501",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Brazil to keep fiscal framework, spending restraint under new Lula term, minister says",
+    "source": "Investinglive",
+    "published": "2026-08-20T11:54:33+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-to-keep-fiscal-framework-spending-restraint-under-new-lula-term-minister-says-4869500",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Brazil to maintain fiscal framework if Lula wins reelection",
+    "source": "Investinglive",
+    "published": "2026-08-20T11:53:28+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-to-maintain-fiscal-framework-if-lula-wins-reelection-93CH-4869488",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright reiterates Bitdeer stock rating on Malaysia contract",
+    "source": "Investinglive",
+    "published": "2026-08-20T11:49:03+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-bitdeer-stock-rating-on-malaysia-contract-93CH-4869473",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Freedom Capital cuts iRhythm Technologies stock price target on valuation",
+    "source": "Investinglive",
+    "published": "2026-08-20T11:49:03+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/freedom-capital-cuts-irhythm-technologies-stock-price-target-on-valuation-93CH-4869474",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Cantor Fitzgerald initiates Milestone Pharmaceuticals stock coverage with overweight rating",
+    "source": "Investinglive",
+    "published": "2026-08-20T11:48:56+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-initiates-milestone-pharmaceuticals-stock-coverage-with-overweight-rating-93CH-4869472",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright raises DRDGOLD stock price target on strong results",
+    "source": "Investinglive",
+    "published": "2026-08-20T11:48:55+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-drdgold-stock-price-target-on-strong-results-93CH-4869471",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright raises Relay Therapeutics price target to $29",
+    "source": "Investinglive",
+    "published": "2026-08-20T11:48:54+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-relay-therapeutics-price-target-to-29-93CH-4869470",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright reiterates UroGen Pharma stock rating on NDA filing",
+    "source": "Investinglive",
+    "published": "2026-08-20T11:48:53+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-urogen-pharma-stock-rating-on-nda-filing-93CH-4869469",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Dollar at three-month low as Treasury moves to soothe bond jitters",
+    "source": "Investinglive",
+    "published": "2026-08-20T11:48:39+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-hugs-threemonth-lows-as-treasury-seeks-to-sooth-the-bond-market-4868503",
+    "category_hint": "macro"
+  },
+  {
+    "title": "EU gas storage at 62% capacity, Commission says no immediate supply concern",
+    "source": "Investinglive",
+    "published": "2026-08-20T11:27:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/eu-gas-storage-at-62-capacity-commission-says-no-immediate-supply-concern-93CH-4869408",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Tanker reports approach by unauthorised vessel off Yemen coast",
+    "source": "Investinglive",
+    "published": "2026-08-20T10:15:50+00:00",
+    "link": "https://www.investing.com/news/economy-news/tanker-reports-approach-by-unauthorised-vessel-off-yemen-coast-93CH-4869159",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Oman calls for permanent peace in Strait of Hormuz region",
+    "source": "Investinglive",
+    "published": "2026-08-20T10:11:33+00:00",
+    "link": "https://www.investing.com/news/economy-news/oman-calls-for-permanent-peace-in-strait-of-hormuz-region-93CH-4869150",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bond relief ebbs, stocks fall as investors question Treasury’s rescue efforts",
+    "source": "Investinglive",
+    "published": "2026-08-20T09:13:15+00:00",
+    "link": "https://www.investing.com/news/economy-news/bonds-steady-after-us-treasury-comes-to-the-rescue-4868552",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Iran dismisses Trump’s \"Economic D-Day\" threat amid ongoing Hormuz standoff",
+    "source": "Investinglive",
+    "published": "2026-08-20T08:48:02+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-touts-crushing-economic-operation-against-iran-4868443",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed minutes; U.S. debt hits $40 trillion - what’s moving markets",
+    "source": "Investinglive",
+    "published": "2026-08-20T07:30:02+00:00",
+    "link": "https://www.investing.com/news/economy-news/fed-minutes-us-debt-hits-40-trillion--whats-moving-markets-4868791",
+    "category_hint": "macro"
+  },
+  {
+    "title": "ASP Isotopes at emerging growth conference: push to commercialize key materials",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:45:04+00:00",
+    "link": "https://www.investing.com/news/transcripts/asp-isotopes-at-emerging-growth-conference-push-to-commercialize-key-materials-93CH-4870184",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Deere raises 2026 profit view as AI construction boom lifts quarterly income, shares jump",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:43:15+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/deere-raises-lower-end-of-2026-net-income-forecast-range-4869172",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Exclusive-Senate Democrats question USDA about data errors, staff losses",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:42:54+00:00",
+    "link": "https://www.investing.com/news/economic-indicators/exclusivesenate-democrats-question-usda-about-data-errors-staff-losses-4869135",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Synairgen to hold shareholder vote on voluntary liquidation",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:40:32+00:00",
+    "link": "https://www.investing.com/news/company-news/synairgen-to-hold-shareholder-vote-on-voluntary-liquidation-93CH-4870183",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Mexico central bank signals more rate holds ahead",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:37:03+00:00",
+    "link": "https://www.investing.com/news/economy-news/mexico-central-bank-signals-more-rate-holds-ahead-4870182",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Starbucks sheds 104 jobs as restructuring wraps up - Bloomberg",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:36:41+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/starbucks-sheds-104-jobs-as-restructuring-wraps-up--bloomberg-93CH-4870181",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Kropz draws down ZAR 80 million from bridge loan facility",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:36:12+00:00",
+    "link": "https://www.investing.com/news/company-news/kropz-draws-down-zar-80-million-from-bridge-loan-facility-93CH-4870180",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Koil Energy at Micro-Cap Virtual Conference: growth broadens",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:35:16+00:00",
+    "link": "https://www.investing.com/news/transcripts/koil-energy-at-microcap-virtual-conference-growth-broadens-93CH-4870179",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Poland stocks lower at close of trade; WIG30 down 1.24%",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:35:03+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-124-4870178",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Treasury’s Bessent says upsized bond buybacks could increase further",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:30:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/treasurys-bessent-says-upsized-bond-buybacks-could-increase-further-4870175",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bessent says may raise bond buyback beyond $4 billion",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:22:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/bessent-says-may-raise-bond-buyback-beyond-4-billion-93CH-4870164",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bessent to host press conference on Iran pressure plan on Monday",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:18:53+00:00",
+    "link": "https://www.investing.com/news/economy-news/bessent-to-host-press-conference-on-iran-pressure-plan-on-monday-93CH-4870161",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Mexico’s central bank signals more rate holds",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:15:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/mexicos-central-bank-signals-more-rate-holds-93CH-4870155",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Latin America growth to slow to 2.2% in 2026, UN agency says",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:04:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/latin-america-growth-to-slow-to-22-in-2026-un-agency-says-93CH-4870141",
+    "category_hint": "macro"
+  },
+  {
+    "title": "China boosts yttrium exports to US ahead of trade talks",
+    "source": "Investinglive",
+    "published": "2026-08-20T14:55:33+00:00",
+    "link": "https://www.investing.com/news/economy-news/china-boosts-yttrium-exports-to-us-ahead-of-trade-talks-93CH-4870126",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Egypt’s central bank holds key interest rates unchanged",
+    "source": "Investinglive",
+    "published": "2026-08-20T14:30:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/egypts-central-bank-holds-key-interest-rates-unchanged-4870082",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Egypt’s central bank holds overnight rates steady",
+    "source": "Investinglive",
+    "published": "2026-08-20T14:27:17+00:00",
+    "link": "https://www.investing.com/news/economy-news/egypts-central-bank-holds-overnight-rates-steady-93CH-4870074",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Deere earnings analysis: questions answered and next catalysts",
+    "source": "Investinglive",
+    "published": "2026-08-20T19:43:40+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/deere-earnings-analysis-questions-answered-and-next-catalysts-93CH-4870354",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Alibaba earnings analysis: questions answered and next catalysts",
+    "source": "Investinglive",
+    "published": "2026-08-20T19:39:52+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/alibaba-earnings-analysis-questions-answered-and-next-catalysts-93CH-4870351",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Advance Auto Parts earnings analysis: questions answered and next catalysts",
+    "source": "Investinglive",
+    "published": "2026-08-20T19:39:04+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/advance-auto-parts-earnings-analysis-questions-answered-and-next-catalysts-93CH-4870350",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Spot gold holds above $4.5k a day after topping the mark for first time since June",
+    "source": "Investinglive",
+    "published": "2026-08-20T19:38:04+00:00",
+    "link": "https://www.investing.com/news/commodities-news/gold-holds-near-2month-high-as-treasury-buybacks-push-yields-dollar-lower-4868639",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Crypto shares climb after Treasury’s doubled buybacks boost risk assets",
+    "source": "Investinglive",
+    "published": "2026-08-20T19:37:11+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-4869341",
+    "category_hint": "markets"
+  },
+  {
+    "title": "D.E. Shaw owns more than $1 billion stake in Sysco, sources say",
+    "source": "Investinglive",
+    "published": "2026-08-20T19:36:50+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/de-shaw-owns-more-than-1-billion-stake-in-sysco-sources-say-4870317",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Anthropic plans to change enterprise data retention policy, source says",
+    "source": "Investinglive",
+    "published": "2026-08-20T19:36:34+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/anthropic-plans-to-change-enterprise-data-retention-policy-source-says-4870349",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Anthropic to give enterprise clients more data control options - report",
+    "source": "Investinglive",
+    "published": "2026-08-20T19:36:08+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/anthropic-to-give-enterprise-clients-more-data-control-options--report-4870348",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nexo Australia Launches Pioneering Credit Lines After Securing Credit Authorisation",
+    "source": "Investinglive",
+    "published": "2026-08-20T19:33:31+00:00",
+    "link": "https://www.investing.com/news/cryptocurrency-news/nexo-australia-launches-pioneering-credit-lines-after-securing-credit-authorisation-4870347",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Cms Energy stock hits 52-week low at 21.22 USD",
+    "source": "Investinglive",
+    "published": "2026-08-20T19:33:00+00:00",
+    "link": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-2122-usd-93CH-4870346",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Argentina’s economic activity rises 2.7% in June",
+    "source": "Investinglive",
+    "published": "2026-08-20T19:16:11+00:00",
+    "link": "https://www.investing.com/news/economy-news/argentinas-economic-activity-rises-27-in-june-93CH-4870330",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Argentina posts $2.12 billion trade surplus in July",
+    "source": "Investinglive",
+    "published": "2026-08-20T19:14:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/argentina-posts-212-billion-trade-surplus-in-july-93CH-4870328",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Under pressure: Tracking the pain in G7 government debt",
+    "source": "Investinglive",
+    "published": "2026-08-20T18:48:55+00:00",
+    "link": "https://www.investing.com/news/economy-news/under-pressure-tracking-the-pain-in-g7-government-debt-4869909",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US imposes sanctions on nine Cuban entities and three people",
+    "source": "Investinglive",
+    "published": "2026-08-20T18:37:50+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-imposes-sanctions-on-nine-cuban-entities-and-three-people-93CH-4870312",
+    "category_hint": "macro"
+  },
+  {
+    "title": "UN candidate Baki vows focus on conflict prevention, UN renewal",
+    "source": "Investinglive",
+    "published": "2026-08-20T18:30:39+00:00",
+    "link": "https://www.investing.com/news/economy-news/un-candidate-baki-vows-focus-on-conflict-prevention-un-renewal-4870308",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Mexico central bank signals prolonged pause in rates",
+    "source": "Investinglive",
+    "published": "2026-08-20T17:48:27+00:00",
+    "link": "https://www.investing.com/news/economy-news/mexico-central-bank-signals-more-rate-holds-ahead-4870182",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Treasury doubles bond buyback program to $4 billion",
+    "source": "Investinglive",
+    "published": "2026-08-20T17:25:05+00:00",
+    "link": "https://www.investing.com/news/economy-news/treasury-doubles-bond-buyback-program-to-4-billion-93CH-4870267",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Musalem says on CNBC he won’t prejudge rate call view for September FOMC",
+    "source": "Investinglive",
+    "published": "2026-08-20T16:36:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-musalem-says-wont-prejudge-rate-call-view-for-september-fomc--cnbc-4870186",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Musalem keeps options open for September meeting",
+    "source": "Investinglive",
+    "published": "2026-08-20T15:49:02+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-musalem-keeps-options-open-for-september-meeting-4870188",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Coeur Mining director J Kenneth Thompson sells $519,250 in stock",
+    "source": "Investinglive",
+    "published": "2026-08-20T23:46:02+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/coeur-mining-director-j-kenneth-thompson-sells-519250-in-stock-93CH-4870640",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Coeur Mining EVP Nault sells $200,000 in company stock",
+    "source": "Investinglive",
+    "published": "2026-08-20T23:46:02+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/coeur-mining-evp-nault-sells-200000-in-company-stock-93CH-4870641",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Apple SVP Jennifer Newstead sells $442,478 in company stock",
+    "source": "Investinglive",
+    "published": "2026-08-20T23:46:02+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-442478-in-company-stock-93CH-4870642",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Virtu Financial director Joseph Grano Jr. sells $511,855 in stock",
+    "source": "Investinglive",
+    "published": "2026-08-20T23:46:02+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/virtu-financial-director-joseph-grano-jr-sells-511855-in-stock-93CH-4870643",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Japan CPI rises in July, core inflation grows but stays below BOJ target",
+    "source": "Investinglive",
+    "published": "2026-08-20T23:44:30+00:00",
+    "link": "https://www.investing.com/news/economic-indicators/japan-cpi-rises-in-july-core-inflation-grows-but-stays-below-boj-target-4870639",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: ARN Media H1 2026 loss narrows as digital gains",
+    "source": "Investinglive",
+    "published": "2026-08-20T23:41:58+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-arn-media-h1-2026-loss-narrows-as-digital-gains-93CH-4870638",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Tapestry CEO Joanne Crevoiserat sells $3.68 million in stock on Aug 19",
+    "source": "Investinglive",
+    "published": "2026-08-20T23:35:38+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/tapestry-ceo-joanne-crevoiserat-sells-368-million-in-stock-on-aug-19-93CH-4870637",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Eton Pharmaceuticals CEO Sean Brynjelsen sells $6.08m in stock",
+    "source": "Investinglive",
+    "published": "2026-08-20T23:31:08+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/eton-pharmaceuticals-ceo-sean-brynjelsen-sells-608m-in-stock-93CH-4870636",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Skye Bioscience director Andrew Schwab sells $140,313 in stock",
+    "source": "Investinglive",
+    "published": "2026-08-20T23:31:07+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/skye-bioscience-director-andrew-schwab-sells-140313-in-stock-93CH-4870635",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Senseonics director Douglas Roeder buys $125,300 in shares",
+    "source": "Investinglive",
+    "published": "2026-08-20T23:31:01+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/senseonics-director-douglas-roeder-buys-125300-in-shares-93CH-4870634",
+    "category_hint": "markets"
+  },
+  {
+    "title": "White House sets goal of 1,000 annual space launches by 2030",
+    "source": "Investinglive",
+    "published": "2026-08-20T21:52:18+00:00",
+    "link": "https://www.investing.com/news/economy-news/white-house-sets-goal-of-1000-annual-space-launches-by-2030-93CH-4870592",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trading Day: Can’t get no relief",
+    "source": "Investinglive",
+    "published": "2026-08-20T21:07:20+00:00",
+    "link": "https://www.investing.com/news/economy-news/trading-day-cant-get-no-relief-4870556",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bond relief ebbs, stocks mixed as investors question Treasury’s rescue efforts",
+    "source": "Investinglive",
+    "published": "2026-08-20T21:03:12+00:00",
+    "link": "https://www.investing.com/news/economy-news/bonds-steady-after-us-treasury-comes-to-the-rescue-4868552",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trump nominates officials for federal judgeships in two states",
+    "source": "Investinglive",
+    "published": "2026-08-20T20:25:25+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-nominates-officials-for-federal-judgeships-in-two-states-93CH-4870473",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar rebounds from losses sparked by Treasury buyback plan",
+    "source": "Investinglive",
+    "published": "2026-08-20T20:00:26+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-hugs-threemonth-lows-as-treasury-seeks-to-sooth-the-bond-market-4868503",
+    "category_hint": "macro"
+  }
+]

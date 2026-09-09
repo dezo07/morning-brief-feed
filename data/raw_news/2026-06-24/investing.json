@@ -1,0 +1,744 @@
+[
+  {
+    "title": "Exclusive-Japan plans to better manage war chest for yen intervention, draft report shows",
+    "source": "Investinglive",
+    "published": "2026-06-24T03:48:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/exclusivejapan-plans-to-better-manage-war-chest-for-yen-intervention-draft-report-shows-4757319",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Taiwan says warning time for any China attack is shortening",
+    "source": "Investinglive",
+    "published": "2026-06-24T03:48:36+00:00",
+    "link": "https://www.investing.com/news/world-news/taiwan-says-warning-time-for-any-china-attack-is-shortening-4757321",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Vaxcyte announces board changes with retirement of Jacks Lee and appointment of Moncef Slaoui",
+    "source": "Investinglive",
+    "published": "2026-06-24T03:47:06+00:00",
+    "link": "https://www.investing.com/news/sec-filings/vaxcyte-announces-board-changes-with-retirement-of-jacks-lee-and-appointment-of-moncef-slaoui-93CH-4757320",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Mamdani’s power play worked. Takeaways from Tuesday’s primaries",
+    "source": "Investinglive",
+    "published": "2026-06-24T03:36:28+00:00",
+    "link": "https://www.investing.com/news/politics-news/mamdanis-power-play-a-kennedys-tiktoks-four-things-to-watch-in-tuesdays-primaries-4754908",
+    "category_hint": "markets"
+  },
+  {
+    "title": "EverCommerce shareholders elect directors and approve auditor at annual meeting",
+    "source": "Investinglive",
+    "published": "2026-06-24T03:35:29+00:00",
+    "link": "https://www.investing.com/news/sec-filings/evercommerce-shareholders-elect-directors-and-approve-auditor-at-annual-meeting-93CH-4757318",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Asia stocks muted after bruising tech selloff;  S. Korea recovers in choppy trade",
+    "source": "Investinglive",
+    "published": "2026-06-24T03:28:22+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/asia-stocks-muted-after-bruising-tech-selloff--s-korea-recovers-in-choppy-trade-4757317",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Burke & Herbert Financial Services names Roy E. Halyama as president",
+    "source": "Investinglive",
+    "published": "2026-06-24T03:24:26+00:00",
+    "link": "https://www.investing.com/news/sec-filings/burke--herbert-financial-services-names-roy-e-halyama-as-president-93CH-4757316",
+    "category_hint": "markets"
+  },
+  {
+    "title": "MoonLake prices $200M public offering at $20 per share",
+    "source": "Investinglive",
+    "published": "2026-06-24T03:17:11+00:00",
+    "link": "https://www.investing.com/news/company-news/moonlake-prices-200m-public-offering-at-20-per-share-93CH-4757315",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US Senate joins House in voting to halt Iran war, rebuking Trump",
+    "source": "Investinglive",
+    "published": "2026-06-24T03:12:33+00:00",
+    "link": "https://www.investing.com/news/politics-news/us-senate-joins-house-in-voting-to-halt-iran-war-rebuking-trump-4756941",
+    "category_hint": "markets"
+  },
+  {
+    "title": "IBM extends maturity of $2.5 billion and $7.5 billion credit agreements by one year",
+    "source": "Investinglive",
+    "published": "2026-06-24T03:08:21+00:00",
+    "link": "https://www.investing.com/news/sec-filings/ibm-extends-maturity-of-25-billion-and-75-billion-credit-agreements-by-one-year-93CH-4757313",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Malaysia to ramp up support for ringgit as foreign outflows, Fed rate outlook weigh",
+    "source": "Investinglive",
+    "published": "2026-06-24T03:00:48+00:00",
+    "link": "https://www.investing.com/news/economy-news/malaysia-to-ramp-up-support-for-ringgit-as-foreign-outflows-fed-rate-outlook-weigh-4757312",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Anthropic’s Mythos model found vulnerabilities in classified US government systems, AP reports",
+    "source": "Investinglive",
+    "published": "2026-06-24T02:24:27+00:00",
+    "link": "https://www.investing.com/news/economy-news/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-ap-reports-4757154",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar at 13-month high as rate hike bets, stock rout boost demand",
+    "source": "Investinglive",
+    "published": "2026-06-24T02:00:28+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-at-13month-high-as-rate-hike-bets-stock-rout-boost-demand-4757230",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Some BOJ policymakers call for faster rate hikes, summary shows",
+    "source": "Investinglive",
+    "published": "2026-06-24T01:55:18+00:00",
+    "link": "https://www.investing.com/news/economy-news/some-in-boj-called-for-further-rate-hikes-june-summary-shows-4757071",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Asian stocks wobble after tech-led selloff, volatility risk highlighted",
+    "source": "Investinglive",
+    "published": "2026-06-24T01:48:55+00:00",
+    "link": "https://www.investing.com/news/economy-news/asian-stocks-wobble-after-techled-selloff-volatility-risk-highlighted-4757225",
+    "category_hint": "macro"
+  },
+  {
+    "title": "MSCI keeps South Korea classified as emerging market",
+    "source": "Investinglive",
+    "published": "2026-06-24T00:51:37+00:00",
+    "link": "https://www.investing.com/news/economy-news/msci-keeps-south-korea-classified-as-emerging-market-4757136",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Climate-vulnerable countries push for global funding framework",
+    "source": "Investinglive",
+    "published": "2026-06-23T21:49:58+00:00",
+    "link": "https://www.investing.com/news/economy-news/climatevulnerable-countries-push-for-global-funding-framework-4756076",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trading Day: Chip wreck",
+    "source": "Investinglive",
+    "published": "2026-06-23T21:12:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/trading-day-chip-wreck-4756720",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Oman establishes temporary maritime corridor in Strait of Hormuz",
+    "source": "Investinglive",
+    "published": "2026-06-23T20:49:42+00:00",
+    "link": "https://www.investing.com/news/economy-news/oman-establishes-temporary-maritime-corridor-in-strait-of-hormuz-93CH-4756654",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Why is Land Securities stock rallying today?",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:50:06+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-land-securities-stock-rallying-today-93CH-4757491",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Deutsche Bank raises Alfa Laval stock price target on marine outlook",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:48:41+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/deutsche-bank-raises-alfa-laval-stock-price-target-on-marine-outlook-93CH-4757489",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Australia’s top export sectors face rising strike threats",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:48:25+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/australias-top-export-sectors-face-rising-strike-threats-4757488",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Segro stock surging today?",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:47:13+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-segro-stock-surging-today-93CH-4757487",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Deutsche Bank cuts EssilorLuxottica stock price target on FX headwinds",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:47:06+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/deutsche-bank-cuts-essilorluxottica-stock-price-target-on-fx-headwinds-93CH-4757486",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Beximco Pharmaceuticals proposes 47.5% cash dividend",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:44:09+00:00",
+    "link": "https://www.investing.com/news/company-news/beximco-pharmaceuticals-proposes-475-cash-dividend-93CH-4757484",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Liontrust shares climb 12% as operating margin beats forecast, outflows narrow",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:42:51+00:00",
+    "link": "https://www.investing.com/news/earnings/liontrust-shares-climb-12-as-operating-margin-beats-forecast-outflows-narrow-4757483",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Explainer-What next for Indonesia after MSCI extends downgrade review",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:42:25+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/explainerwhat-next-for-indonesia-after-msci-extends-downgrade-review-4757482",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Poland’s unemployment rate drops to 5.9% in May",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:42:14+00:00",
+    "link": "https://www.investing.com/news/economic-indicators/polands-unemployment-rate-drops-to-59-in-may-93CH-4757481",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Asia stocks mixed as South Korea rebounds; Indonesia falls on MSCI warning",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:41:41+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/asia-stocks-muted-after-bruising-tech-selloff--s-korea-recovers-in-choppy-trade-4757317",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Some Bank of Japan members call for faster rate hikes, summary shows",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:30:29+00:00",
+    "link": "https://www.investing.com/news/economy-news/some-in-boj-called-for-further-rate-hikes-june-summary-shows-4757071",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Exclusive-Japan plans to better manage war chest for yen intervention, draft shows",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:24:27+00:00",
+    "link": "https://www.investing.com/news/economy-news/exclusivejapan-plans-to-better-manage-war-chest-for-yen-intervention-draft-report-shows-4757319",
+    "category_hint": "macro"
+  },
+  {
+    "title": "BOJ must scrutinise impact on financial system from AI, non-bank activities, Ueda says",
+    "source": "Investinglive",
+    "published": "2026-06-24T07:00:59+00:00",
+    "link": "https://www.investing.com/news/economy-news/boj-must-scrutinise-impact-on-financial-system-from-ai-nonbank-activities-ueda-says-4757428",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Australia’s central bank still has work to do to reduce inflation, deputy governor says",
+    "source": "Investinglive",
+    "published": "2026-06-24T06:36:29+00:00",
+    "link": "https://www.investing.com/news/economy-news/australias-central-bank-still-has-work-to-do-to-reduce-inflation-deputy-governor-says-4757406",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar hits 13-month high as rate-hike bets, stock rout boost demand",
+    "source": "Investinglive",
+    "published": "2026-06-24T05:42:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-at-13month-high-as-rate-hike-bets-stock-rout-boost-demand-4757230",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Asian stocks under pressure, oil near four-month low as volatility risks highlighted",
+    "source": "Investinglive",
+    "published": "2026-06-24T05:36:48+00:00",
+    "link": "https://www.investing.com/news/economy-news/asian-stocks-wobble-after-techled-selloff-volatility-risk-highlighted-4757225",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Premature to talk about rate hikes, India cenbank chief tells ET Now",
+    "source": "Investinglive",
+    "published": "2026-06-24T05:12:29+00:00",
+    "link": "https://www.investing.com/news/economy-news/premature-to-talk-about-rate-hikes-india-cenbank-chief-tells-et-now-4757325",
+    "category_hint": "macro"
+  },
+  {
+    "title": "RBI not considering rate hikes yet, governor tells ET NOW",
+    "source": "Investinglive",
+    "published": "2026-06-24T05:09:57+00:00",
+    "link": "https://www.investing.com/news/economy-news/rbi-not-considering-rate-hikes-yet-governor-tells-et-now-4757335",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trump says DOJ to probe oil companies over high fuel prices",
+    "source": "Investinglive",
+    "published": "2026-06-24T05:00:17+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-says-doj-to-probe-oil-companies-over-high-fuel-prices-4757331",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Morning Bid: Time to cash in your chips?",
+    "source": "Investinglive",
+    "published": "2026-06-24T04:36:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/morning-bid-time-to-cash-in-your-chips-4757327",
+    "category_hint": "macro"
+  },
+  {
+    "title": "H.C. Wainwright reiterates Buy on Energy Fuels stock after $1.9B deal",
+    "source": "Investinglive",
+    "published": "2026-06-24T11:41:11+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-energy-fuels-stock-after-19b-deal-93CH-4757910",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Rosenblatt maintains Cerebras Systems stock rating on margin beat",
+    "source": "Investinglive",
+    "published": "2026-06-24T11:41:10+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/rosenblatt-maintains-cerebras-systems-stock-rating-on-margin-beat-93CH-4757909",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright reiterates Entera Bio stock rating on FDA feedback",
+    "source": "Investinglive",
+    "published": "2026-06-24T11:41:03+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-entera-bio-stock-rating-on-fda-feedback-93CH-4757908",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright reiterates ProMIS Neurosciences stock rating at buy",
+    "source": "Investinglive",
+    "published": "2026-06-24T11:40:46+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-promis-neurosciences-stock-rating-at-buy-93CH-4757907",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nebius releases AI Cloud 3.6 with infrastructure control agent",
+    "source": "Investinglive",
+    "published": "2026-06-24T11:39:37+00:00",
+    "link": "https://www.investing.com/news/company-news/nebius-releases-ai-cloud-36-with-infrastructure-control-agent-93CH-4757904",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Tradeweb adds Kalshi prediction market data to platform",
+    "source": "Investinglive",
+    "published": "2026-06-24T11:39:35+00:00",
+    "link": "https://www.investing.com/news/company-news/tradeweb-adds-kalshi-prediction-market-data-to-platform-93CH-4757903",
+    "category_hint": "markets"
+  },
+  {
+    "title": "ADC Therapeutics to cut 17% of workforce, save $10M annually",
+    "source": "Investinglive",
+    "published": "2026-06-24T11:39:33+00:00",
+    "link": "https://www.investing.com/news/company-news/adc-therapeutics-to-cut-17-of-workforce-save-10m-annually-93CH-4757902",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright reiterates Incyte stock rating on Medicaid settlement",
+    "source": "Investinglive",
+    "published": "2026-06-24T11:39:25+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-incyte-stock-rating-on-medicaid-settlement-93CH-4757901",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Take-Two Interactive stock surging today?",
+    "source": "Investinglive",
+    "published": "2026-06-24T11:39:03+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-taketwo-interactive-stock-surging-today-93CH-4757898",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Canadian Solar achieves supply chain certification for facilities",
+    "source": "Investinglive",
+    "published": "2026-06-24T11:38:58+00:00",
+    "link": "https://www.investing.com/news/company-news/canadian-solar-achieves-supply-chain-certification-for-facilities-93CH-4757897",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Euro outsiders not making much accession progress, ECB says",
+    "source": "Investinglive",
+    "published": "2026-06-24T10:18:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/euro-outsiders-not-making-much-accession-progress-ecb-says-4757662",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Exclusive-US SEC probes popular type of private equity fund as it steps up industry scrutiny, sources say",
+    "source": "Investinglive",
+    "published": "2026-06-24T10:14:13+00:00",
+    "link": "https://www.investing.com/news/economy-news/exclusiveus-sec-probes-popular-type-of-private-equity-fund-as-it-steps-up-industry-scrutiny-sources-say-4757666",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US banks look for new bill of health from Fed stress tests",
+    "source": "Investinglive",
+    "published": "2026-06-24T10:13:54+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-banks-look-for-new-bill-of-health-from-fed-stress-tests-4757664",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Apple aims for better and more entertainment offerings, executive Cue says",
+    "source": "Investinglive",
+    "published": "2026-06-24T10:13:18+00:00",
+    "link": "https://www.investing.com/news/economy-news/apple-aims-for-better-and-more-entertainment-offerings-executive-cue-says-4757661",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Britain sells £4.25 billion in gilts due 2031",
+    "source": "Investinglive",
+    "published": "2026-06-24T09:16:37+00:00",
+    "link": "https://www.investing.com/news/economy-news/britain-sells-425-billion-in-gilts-due-2031-93CH-4757596",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Stocks steady as tech recovers; peace talk uncertainty boosts dollar",
+    "source": "Investinglive",
+    "published": "2026-06-24T09:00:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/asian-stocks-wobble-after-techled-selloff-volatility-risk-highlighted-4757225",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Azerbaijan central bank holds key rate steady at 6.5%",
+    "source": "Investinglive",
+    "published": "2026-06-24T08:38:13+00:00",
+    "link": "https://www.investing.com/news/economy-news/azerbaijan-central-bank-holds-key-rate-steady-at-65-93CH-4757570",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Tech eyes recovery after selloff, Micron to report results - What’s moving markets",
+    "source": "Investinglive",
+    "published": "2026-06-24T08:24:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/tech-eyes-recovery-after-selloff--whats-moving-markets-4757551",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Horizon Kinetics Asset Management buys $370 in Texas Pacific Land stock",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:47:25+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-buys-370-in-texas-pacific-land-stock-93CH-4758622",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Silence Therapeutics stock jumps on Cantor Fitzgerald upgrade",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:46:36+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/silence-therapeutics-stock-jumps-on-cantor-fitzgerald-upgrade-93CH-4758621",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Barclays sees Indonesia rupiah stabilization after recent weakness",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:45:57+00:00",
+    "link": "https://www.investing.com/news/forex-news/barclays-sees-indonesia-rupiah-stabilization-after-recent-weakness-93CH-4758615",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Newmark hires Munish Viralam to lead consulting group",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:45:31+00:00",
+    "link": "https://www.investing.com/news/company-news/newmark-hires-munish-viralam-to-lead-consulting-group-93CH-4758614",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Dow up 500 points as stocks rebound after bruising tech sell-off; eyes on Micron",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:45:19+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-bruising-tech-selloff-micron-earnings-on-tap-4757097",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Booking stock surging today?",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:45:11+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-booking-stock-surging-today-93CH-4758613",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is MoonLake Immunotherapeutics stock sliding today?",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:44:48+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-moonlake-immunotherapeutics-stock-sliding-today-93CH-4758612",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Upstart stock rallying today?",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:44:45+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-upstart-stock-rallying-today-93CH-4758611",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Barclays sees Korean won recovery as foreign stock selling slows",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:43:00+00:00",
+    "link": "https://www.investing.com/news/forex-news/barclays-sees-korean-won-recovery-as-foreign-stock-selling-slows-93CH-4758609",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US judge to block DOJ from obtaining transgender care records from New York hospitals",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:42:27+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-judge-to-block-doj-from-obtaining-transgender-care-records-from-new-york-hospitals-4758608",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US CFOs in survey say firms mostly absorbed oil price shock",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:19:27+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-cfos-in-survey-say-firms-mostly-absorbed-oil-price-shock-4757885",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US crude oil inventories drop to lowest level since 1984",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:10:58+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-crude-oil-inventories-drop-to-lowest-level-since-1984-93CH-4758559",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Johnson expects Trump to sign affordable housing bill within 10 days",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:07:29+00:00",
+    "link": "https://www.investing.com/news/economy-news/johnson-expects-trump-to-sign-affordable-housing-bill-within-10-days-4758555",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Romania’s Social Democrats propose their own leader as prime minister in bid to avert snap election",
+    "source": "Investinglive",
+    "published": "2026-06-24T15:07:12+00:00",
+    "link": "https://www.investing.com/news/economy-news/romanias-social-democrats-propose-their-own-leader-as-prime-minister-in-bid-to-avert-snap-election-4758553",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US dollar rises to 13-month high on Fed rate hike views",
+    "source": "Investinglive",
+    "published": "2026-06-24T14:48:37+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-at-13month-high-as-rate-hike-bets-stock-rout-boost-demand-4757230",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Mexican inflation slows more than expected in early June, pushes back rate hike pressures",
+    "source": "Investinglive",
+    "published": "2026-06-24T14:37:47+00:00",
+    "link": "https://www.investing.com/news/economy-news/mexican-inflation-eases-to-355-in-early-june-slows-more-than-expected-4758134",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bulgaria targets 5.7% budget deficit for 2026",
+    "source": "Investinglive",
+    "published": "2026-06-24T14:30:39+00:00",
+    "link": "https://www.investing.com/news/economy-news/bulgaria-targets-57-budget-deficit-for-2026-93CH-4758477",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Gold ETFs could see fresh outflows on rising bets on Fed monetary tightening",
+    "source": "Investinglive",
+    "published": "2026-06-24T14:24:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/gold-etfs-could-see-fresh-outflows-on-rising-bets-on-fed-monetary-tightening-4758469",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Qualcomm unveils data center chips, announces Meta deal",
+    "source": "Investinglive",
+    "published": "2026-06-24T19:39:23+00:00",
+    "link": "https://www.investing.com/news/company-news/qualcomm-unveils-data-center-chips-announces-meta-deal-93CH-4758847",
+    "category_hint": "markets"
+  },
+  {
+    "title": "U.S. dollar hits highest level in 13 months on firming rate outlook",
+    "source": "Investinglive",
+    "published": "2026-06-24T19:38:22+00:00",
+    "link": "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-hits-13mth-high-yen-yuan-remain-under-pressure-4757332",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Docusign integrates platform with Perplexity Computer",
+    "source": "Investinglive",
+    "published": "2026-06-24T19:36:40+00:00",
+    "link": "https://www.investing.com/news/company-news/docusign-integrates-platform-with-perplexity-computer-93CH-4758844",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Scientists seek clues to longevity from three Brazilian sisters over 100",
+    "source": "Investinglive",
+    "published": "2026-06-24T19:36:09+00:00",
+    "link": "https://www.investing.com/news/world-news/scientists-seek-clues-to-longevity-from-three-brazilian-sisters-over-100-4758843",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Microchip Technology stock sliding today?",
+    "source": "Investinglive",
+    "published": "2026-06-24T19:35:01+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-microchip-technology-stock-sliding-today-93CH-4758841",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Microchip Technology stock falls on JCap caution",
+    "source": "Investinglive",
+    "published": "2026-06-24T19:28:31+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/microchip-technology-stock-falls-on-jcap-caution-93CH-4758837",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 Okta Inc. For: 24 June",
+    "source": "Investinglive",
+    "published": "2026-06-24T19:24:40+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-okta-inc-for-24-june-93CH-4758835",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Prudential Financial Inc preferred stock hits 52-week low at 16.13 USD",
+    "source": "Investinglive",
+    "published": "2026-06-24T19:21:50+00:00",
+    "link": "https://www.investing.com/news/company-news/prudential-financial-inc-preferred-stock-hits-52week-low-at-1613-usd-93CH-4758834",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US appeals court rejects Trump bid to force Michigan to hand over voter rolls",
+    "source": "Investinglive",
+    "published": "2026-06-24T19:18:47+00:00",
+    "link": "https://www.investing.com/news/politics-news/us-appeals-court-rejects-trump-bid-to-force-michigan-to-hand-over-voter-rolls-4758833",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Exclusive-Trump to seek more than $1.4 billion in Ebola funding from Congress",
+    "source": "Investinglive",
+    "published": "2026-06-24T19:18:29+00:00",
+    "link": "https://www.investing.com/news/world-news/exclusivetrumpto-seek-more-than-14-billion-in-ebola-funding-from-congress-4758826",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US dollar strengthens to 13-month high on Fed rate hike expectations",
+    "source": "Investinglive",
+    "published": "2026-06-24T19:07:14+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-at-13month-high-as-rate-hike-bets-stock-rout-boost-demand-4757230",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Economists see El Niño lifting Brazil inflation, central bank survey shows",
+    "source": "Investinglive",
+    "published": "2026-06-24T18:54:43+00:00",
+    "link": "https://www.investing.com/news/economy-news/economists-see-el-nino-lifting-brazil-inflation-central-bank-survey-shows-4758814",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US judge orders Trump administration to explain tarp obscuring Kennedy Center facade",
+    "source": "Investinglive",
+    "published": "2026-06-24T18:13:19+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-judge-orders-trump-administration-to-explain-tarp-obscuring-kennedy-center-facade-4758768",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bank of Canada policymakers agreed to keep monetary policy nimble, minutes show",
+    "source": "Investinglive",
+    "published": "2026-06-24T17:36:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/bank-of-canada-policymakers-agreed-to-keep-monetary-policy-nimble-minutes-show-4758748",
+    "category_hint": "macro"
+  },
+  {
+    "title": "UK gilt yields hit three-month low amid global bond rally",
+    "source": "Investinglive",
+    "published": "2026-06-24T16:42:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/uk-gilt-yields-hit-threemonth-low-amid-global-bond-rally-93CH-4758702",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Stocks rebound as dollar rises to one-year high",
+    "source": "Investinglive",
+    "published": "2026-06-24T16:36:39+00:00",
+    "link": "https://www.investing.com/news/economy-news/asian-stocks-wobble-after-techled-selloff-volatility-risk-highlighted-4757225",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Form 4 Rubrik Inc For: 24 June",
+    "source": "Investinglive",
+    "published": "2026-06-24T23:54:08+00:00",
+    "link": "https://www.investing.com/news/filings/form-4-rubrik-inc-for-24-june-93CH-4759442",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 4 Enliven Therapeutics Inc For: 24 June",
+    "source": "Investinglive",
+    "published": "2026-06-24T23:53:38+00:00",
+    "link": "https://www.investing.com/news/filings/form-4-enliven-therapeutics-inc-for-24-june-93CH-4759441",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Fund 1 investments sells $42.37m Citi Trends (CTRN) stock",
+    "source": "Investinglive",
+    "published": "2026-06-24T23:50:59+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/fund-1-investments-sells-4237m-citi-trends-ctrn-stock-93CH-4759440",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Rubrik director Yvonne Wassenaar sells $50,700 in stock",
+    "source": "Investinglive",
+    "published": "2026-06-24T23:49:21+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/rubrik-director-yvonne-wassenaar-sells-50700-in-stock-93CH-4759439",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 4 First American Financial Corp For: 24 June",
+    "source": "Investinglive",
+    "published": "2026-06-24T23:49:17+00:00",
+    "link": "https://www.investing.com/news/filings/form-4-first-american-financial-corp-for-24-june-93CH-4759438",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Enerflex extends credit facility maturity to 2029",
+    "source": "Investinglive",
+    "published": "2026-06-24T23:49:13+00:00",
+    "link": "https://www.investing.com/news/company-news/enerflex-extends-credit-facility-maturity-to-2029-93CH-4759436",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Buildings collapse as quake rocks north-central Venezuela, capital Caracas",
+    "source": "Investinglive",
+    "published": "2026-06-24T23:48:50+00:00",
+    "link": "https://www.investing.com/news/world-news/strong-earthquake-rocks-venezuela-capital-4759299",
+    "category_hint": "markets"
+  },
+  {
+    "title": "OrbiMed entities sell $39 million in Enliven Therapeutics stock",
+    "source": "Investinglive",
+    "published": "2026-06-24T23:48:18+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/orbimed-entities-sell-39-million-in-enliven-therapeutics-stock-93CH-4759435",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 4 Septerna Inc For: 24 June",
+    "source": "Investinglive",
+    "published": "2026-06-24T23:47:08+00:00",
+    "link": "https://www.investing.com/news/filings/form-4-septerna-inc-for-24-june-93CH-4759434",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Trump asks Congress for $87.6 billion, mostly for Iran war",
+    "source": "Investinglive",
+    "published": "2026-06-24T23:20:10+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-administration-sends-congress-876-billion-supplemental-budget-request-source-says-4759019",
+    "category_hint": "macro"
+  },
+  {
+    "title": "NY Fed official plays down new FOMC language on ample reserves system",
+    "source": "Investinglive",
+    "published": "2026-06-24T22:36:53+00:00",
+    "link": "https://www.investing.com/news/economy-news/ny-fed-official-plays-down-new-fomc-language-on-ample-reserves-system-4759331",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil plans to expand support for micro-entrepreneurs",
+    "source": "Investinglive",
+    "published": "2026-06-24T22:31:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-plans-to-expand-support-for-microentrepreneurs-4759307",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Stocks edge lower as dollar rises to one-year high",
+    "source": "Investinglive",
+    "published": "2026-06-24T21:38:20+00:00",
+    "link": "https://www.investing.com/news/economy-news/asian-stocks-wobble-after-techled-selloff-volatility-risk-highlighted-4757225",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trading Day: Tech jitters smother inflation relief",
+    "source": "Investinglive",
+    "published": "2026-06-24T21:06:49+00:00",
+    "link": "https://www.investing.com/news/economy-news/trading-day-tech-jitters-smother-inflation-relief-4759128",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bank of Canada rejects recession label despite weak growth",
+    "source": "Investinglive",
+    "published": "2026-06-24T19:49:18+00:00",
+    "link": "https://www.investing.com/news/economy-news/bank-of-canada-rejects-recession-label-despite-weak-growth-93CH-4758855",
+    "category_hint": "macro"
+  }
+]

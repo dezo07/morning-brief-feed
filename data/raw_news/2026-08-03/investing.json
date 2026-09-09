@@ -1,0 +1,716 @@
+[
+  {
+    "title": "Vista Group H1 2026 slides: SaaS revenue surges 38%, guidance raised",
+    "source": "Investinglive",
+    "published": "2026-08-03T03:54:09+00:00",
+    "link": "https://www.investing.com/news/company-news/vista-group-h1-2026-slides-saas-revenue-surges-38-guidance-raised-93CH-4829762",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Asia stocks retreat as KOSPI sinks 4%; AI selloff outweighs Iran optimism",
+    "source": "Investinglive",
+    "published": "2026-08-03T03:47:26+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/asia-stocks-retreat-as-kospi-sinks-4-ai-selloff-outweighs-iran-optimism-4829761",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: Vista Group lifts H1 2026 revenue outlook on SaaS growth",
+    "source": "Investinglive",
+    "published": "2026-08-03T03:43:20+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-vista-group-lifts-h1-2026-revenue-outlook-on-saas-growth-93CH-4829760",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Cuba’s national electric grid collapses, plunging island into darkness",
+    "source": "Investinglive",
+    "published": "2026-08-03T03:36:28+00:00",
+    "link": "https://www.investing.com/news/commodities-news/cubas-national-electric-grid-collapses-plunging-island-into-darkness-4829759",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Japan, US confirm joint yen-buying intervention, signal more action",
+    "source": "Investinglive",
+    "published": "2026-08-03T03:30:51+00:00",
+    "link": "https://www.investing.com/news/economy-news/japan-to-vow-coordination-with-us-on-weak-yen-in-historic-battle-4829714",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Kay Granger, first Republican woman to lead House Appropriations Committee, dies at 83",
+    "source": "Investinglive",
+    "published": "2026-08-03T03:24:26+00:00",
+    "link": "https://www.investing.com/news/world-news/kay-granger-first-republican-woman-to-lead-house-appropriations-committee-dies-at-83-4829758",
+    "category_hint": "markets"
+  },
+  {
+    "title": "AstraZeneca held talks with Bristol Myers Squibb on $400 billion megadeal, source says",
+    "source": "Investinglive",
+    "published": "2026-08-03T03:12:26+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/astrazeneca-holds-talks-with-bristol-myers-squibb-on-400-billion-megadeal-ft-reports-4829708",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Australia confirms first mass mortality event from H5 bird flu in native seabirds",
+    "source": "Investinglive",
+    "published": "2026-08-03T03:06:26+00:00",
+    "link": "https://www.investing.com/news/commodities-news/australia-confirms-first-mass-mortality-event-from-h5-bird-flu-in-native-seabirds-4829757",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nvidia has fallen sharply from 2026 highs. Is the stock now an attractive Buy?",
+    "source": "Investinglive",
+    "published": "2026-08-03T03:05:39+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/nvidia-has-fallen-sharply-from-2026-highs-is-the-stock-now-an-attractive-buy-93CH-4829756",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Alibaba unveils Qwen 3.8-MAX AI model; shares jump",
+    "source": "Investinglive",
+    "published": "2026-08-03T03:05:20+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/alibaba-unveils-qwen-38max-ai-model-shares-jump-4829755",
+    "category_hint": "markets"
+  },
+  {
+    "title": "China factory growth slows to 4-month low in July, survey shows",
+    "source": "Investinglive",
+    "published": "2026-08-03T01:54:28+00:00",
+    "link": "https://www.investing.com/news/economy-news/china-factory-growth-slows-to-4month-low-in-july-survey-shows-4829744",
+    "category_hint": "macro"
+  },
+  {
+    "title": "India central bank to stay on hold even as peers pivot to rate hikes",
+    "source": "Investinglive",
+    "published": "2026-08-03T01:42:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/india-central-bank-to-stay-on-hold-even-as-peers-pivot-to-rate-hikes-4829741",
+    "category_hint": "macro"
+  },
+  {
+    "title": "UK faces recession if Strait of Hormuz stays closed, forecaster warns",
+    "source": "Investinglive",
+    "published": "2026-08-03T01:24:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/uk-faces-recession-if-strait-of-hormuz-stays-closed-forecaster-warns-4829721",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Yen’s sudden jump puts traders on alert for further intervention",
+    "source": "Investinglive",
+    "published": "2026-08-03T01:18:26+00:00",
+    "link": "https://www.investing.com/news/economy-news/yens-sudden-jump-puts-traders-on-alert-for-further-intervention-4829738",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bessent ready to repeat joint yen intervention, urges bigger Fed backstop",
+    "source": "Investinglive",
+    "published": "2026-08-03T01:07:31+00:00",
+    "link": "https://www.investing.com/news/economy-news/bessent-ready-to-repeat-joint-yen-intervention-urges-bigger-fed-backstop-4829730",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Analysis-China draws ’red lines’ around its economic model ahead of EU, US trade talks",
+    "source": "Investinglive",
+    "published": "2026-08-03T00:54:27+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysischina-draws-red-lines-around-its-economic-model-ahead-of-eu-us-trade-talks-4829703",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trump says Iran negotiations to begin on Monday, Hormuz deal ‘imminent’",
+    "source": "Investinglive",
+    "published": "2026-08-03T00:04:49+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-says-iran-negotiations-to-begin-on-monday-hormuz-deal-imminent-4829724",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Japan confirms joint FX intervention with U.S., says won’t hesitate for more",
+    "source": "Investinglive",
+    "published": "2026-08-02T23:24:55+00:00",
+    "link": "https://www.investing.com/news/economy-news/japan-confirms-joint-fx-intervention-with-us-says-wont-hesitate-for-more-4829720",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Oman, mediators in final stages of negotiations with Iran on Hormuz - Report",
+    "source": "Investinglive",
+    "published": "2026-08-02T22:07:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/iran-threatens-regional-energy-fields-if-the-us-launches-fresh-attacks-4829658",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Spanish manufacturing inches back to growth in July, PMI shows",
+    "source": "Investinglive",
+    "published": "2026-08-03T07:54:46+00:00",
+    "link": "https://www.investing.com/news/economic-indicators/spanish-manufacturing-inches-back-to-growth-in-july-pmi-shows-4829944",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Exide Q1 FY27 slides: revenue jumps 18%, lithium samples shipped",
+    "source": "Investinglive",
+    "published": "2026-08-03T07:53:05+00:00",
+    "link": "https://www.investing.com/news/company-news/exide-q1-fy27-slides-revenue-jumps-18-lithium-samples-shipped-93CH-4829943",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is EasyJet stock rallying today?",
+    "source": "Investinglive",
+    "published": "2026-08-03T07:52:27+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-easyjet-stock-rallying-today-93CH-4829941",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Clarkson stock surging today?",
+    "source": "Investinglive",
+    "published": "2026-08-03T07:51:22+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-clarkson-stock-surging-today-93CH-4829940",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Truist upgrades Corning stock rating to Buy on valuation",
+    "source": "Investinglive",
+    "published": "2026-08-03T07:51:03+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/truist-upgrades-corning-stock-rating-to-buy-on-valuation-93CH-4829939",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Capita stock rallying today?",
+    "source": "Investinglive",
+    "published": "2026-08-03T07:49:07+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-capita-stock-rallying-today-93CH-4829937",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is PostNL stock gaining today?",
+    "source": "Investinglive",
+    "published": "2026-08-03T07:48:18+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-postnl-stock-gaining-today-93CH-4829936",
+    "category_hint": "markets"
+  },
+  {
+    "title": "CDSL Q1 FY27 slides: consolidated profit rises 16% amid mixed results",
+    "source": "Investinglive",
+    "published": "2026-08-03T07:47:25+00:00",
+    "link": "https://www.investing.com/news/company-news/cdsl-q1-fy27-slides-consolidated-profit-rises-16-amid-mixed-results-93CH-4829935",
+    "category_hint": "markets"
+  },
+  {
+    "title": "easyJet gains 2% as Castlelake deadline extended, Apollo showdown nears",
+    "source": "Investinglive",
+    "published": "2026-08-03T07:43:40+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/easyjet-gains-2-as-castlelake-deadline-extended-apollo-showdown-nears-4829934",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Clarkson sees full-year results ’materially’ ahead of expectations; shares soar",
+    "source": "Investinglive",
+    "published": "2026-08-03T07:42:47+00:00",
+    "link": "https://www.investing.com/news/earnings/clarkson-sees-fullyear-results-materially-ahead-of-expectations-shares-soar-4829933",
+    "category_hint": "markets"
+  },
+  {
+    "title": "World Bank maintains 2026 Philippine growth forecast at 3.7%",
+    "source": "Investinglive",
+    "published": "2026-08-03T07:00:28+00:00",
+    "link": "https://www.investing.com/news/economy-news/world-bank-maintains-2026-philippine-growth-forecast-at-37-4829884",
+    "category_hint": "macro"
+  },
+  {
+    "title": "History of Japan’s intervention in currency markets",
+    "source": "Investinglive",
+    "published": "2026-08-03T06:48:31+00:00",
+    "link": "https://www.investing.com/news/economy-news/history-of-japans-intervention-in-currency-markets-4829869",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bank, healthcare stocks lead Australian shares higher on Iran peace progress",
+    "source": "Investinglive",
+    "published": "2026-08-03T06:42:54+00:00",
+    "link": "https://www.investing.com/news/economy-news/bank-healthcare-stocks-lead-australian-shares-higher-on-iran-peace-progress-4829862",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Indonesia’s growth likely slowed in Q2 as consumption, exports weakened",
+    "source": "Investinglive",
+    "published": "2026-08-03T06:42:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/indonesias-growth-likely-slowed-in-q2-as-consumption-exports-weakened-4829861",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Iran war whiplash; Palantir earnings ahead - what’s moving markets",
+    "source": "Investinglive",
+    "published": "2026-08-03T06:14:15+00:00",
+    "link": "https://www.investing.com/news/economy-news/iran-war-whiplash-palantir-earnings-ahead--whats-moving-markets-4829837",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Morning Bid: Yen’s to-do list gets harder from here",
+    "source": "Investinglive",
+    "published": "2026-08-03T05:06:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/yens-todo-list-gets-harder-from-here-4829774",
+    "category_hint": "macro"
+  },
+  {
+    "title": "UBS downgrades Stellantis on stalled U.S. turnaround",
+    "source": "Investinglive",
+    "published": "2026-08-03T11:41:25+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/ubs-downgrades-stellantis-on-stalled-us-turnaround-4830811",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Krystal Biotech stock falls 7% on revenue miss despite earnings beat",
+    "source": "Investinglive",
+    "published": "2026-08-03T11:40:12+00:00",
+    "link": "https://www.investing.com/news/earnings/krystal-biotech-stock-falls-7-on-revenue-miss-despite-earnings-beat-93CH-4830809",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: Infortar posts stronger H1 2026 profit as revenue holds steady",
+    "source": "Investinglive",
+    "published": "2026-08-03T11:40:01+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-infortar-posts-stronger-h1-2026-profit-as-revenue-holds-steady-93CH-4830808",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why McDonald’s World Cup boost may not be enough for the stock",
+    "source": "Investinglive",
+    "published": "2026-08-03T11:39:39+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-mcdonalds-world-cup-boost-may-not-be-enough-for-the-stock-93CH-4830807",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Tyson Foods earnings missed by $0.06, revenue fell short of estimates",
+    "source": "Investinglive",
+    "published": "2026-08-03T11:39:25+00:00",
+    "link": "https://www.investing.com/news/earnings/tyson-foods-earnings-missed-by-006-revenue-fell-short-of-estimates-4830806",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: Utkarsh SFB narrows loss in Q1 2026 as recovery builds",
+    "source": "Investinglive",
+    "published": "2026-08-03T11:38:54+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-utkarsh-sfb-narrows-loss-in-q1-2026-as-recovery-builds-93CH-4830804",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: Ather Energy posts first positive EBITDA in Q1 2026",
+    "source": "Investinglive",
+    "published": "2026-08-03T11:38:47+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-ather-energy-posts-first-positive-ebitda-in-q1-2026-93CH-4830803",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: Sarda Energy posts record Q1 2027 profit",
+    "source": "Investinglive",
+    "published": "2026-08-03T11:38:35+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-sarda-energy-posts-record-q1-2027-profit-93CH-4830802",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Twist Bioscience stock falls 5% on earnings miss despite revenue beat",
+    "source": "Investinglive",
+    "published": "2026-08-03T11:38:27+00:00",
+    "link": "https://www.investing.com/news/earnings/twist-bioscience-stock-falls-5-on-earnings-miss-despite-revenue-beat-93CH-4830801",
+    "category_hint": "markets"
+  },
+  {
+    "title": "TSX futures edge lower after index posts fourth straight monthly gain",
+    "source": "Investinglive",
+    "published": "2026-08-03T11:38:08+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-lower-after-index-posts-fourth-straight-monthly-gain-4830800",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Argentina’s farm exports fall 28% in July to $2.92 billion",
+    "source": "Investinglive",
+    "published": "2026-08-03T11:18:38+00:00",
+    "link": "https://www.investing.com/news/economy-news/argentinas-farm-exports-fall-28-in-july-to-292-billion-93CH-4830723",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Flavio Bolsonaro closes in on Lula in Nexus/BTG poll for Brazil election",
+    "source": "Investinglive",
+    "published": "2026-08-03T11:00:47+00:00",
+    "link": "https://www.investing.com/news/economy-news/flavio-bolsonaro-closes-in-on-lula-in-nexusbtg-poll-for-brazil-election-4830580",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Analysis-How a US-Japan pact to hit yen speculators came together",
+    "source": "Investinglive",
+    "published": "2026-08-03T10:48:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysishow-a-usjapan-pact-to-hit-yen-speculators-came-together-4830177",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Analysis-Japan’s fight with yen bears goes on after joint rescue",
+    "source": "Investinglive",
+    "published": "2026-08-03T10:43:01+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysisjapans-fight-with-yen-bears-goes-on-after-joint-rescue-4830428",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bank Indonesia wants more lending from commercial banks, acting governor says",
+    "source": "Investinglive",
+    "published": "2026-08-03T10:42:43+00:00",
+    "link": "https://www.investing.com/news/economy-news/bank-indonesia-wants-more-lending-from-commercial-banks-acting-governor-says-4830479",
+    "category_hint": "macro"
+  },
+  {
+    "title": "BaFin orders NordLB to update customer data after violations",
+    "source": "Investinglive",
+    "published": "2026-08-03T10:28:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/bafin-orders-nordlb-to-update-customer-data-after-violations-93CH-4830366",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Exclusive-Fed’s Williams expects inflation to ease, says Fed will act if it doesn’t",
+    "source": "Investinglive",
+    "published": "2026-08-03T10:24:25+00:00",
+    "link": "https://www.investing.com/news/economy-news/exclusivefeds-williams-expects-inflation-to-ease-says-fed-will-act-if-it-doesnt-4830271",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Factbox-Which midterm candidates is the crypto industry backing?",
+    "source": "Investinglive",
+    "published": "2026-08-03T10:19:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/factboxwhich-midterm-candidates-is-the-crypto-industry-backing-4830319",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Wall St futures edge up on Mideast deal hopes; healthcare in focus",
+    "source": "Investinglive",
+    "published": "2026-08-03T10:18:55+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-edge-up-on-mideast-deal-hopes-healthcare-in-focus-4830317",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Merck earnings ahead: Can new launches offset margin squeeze?",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:58:38+00:00",
+    "link": "https://www.investing.com/news/earnings/merck-earnings-ahead-can-new-launches-offset-margin-squeeze-93CH-4831929",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Williams faces earnings test amid data center power push",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:56:57+00:00",
+    "link": "https://www.investing.com/news/earnings/williams-faces-earnings-test-amid-data-center-power-push-93CH-4831928",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Marathon Petroleum earnings up next: Can margins justify rally?",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:56:02+00:00",
+    "link": "https://www.investing.com/news/earnings/marathon-petroleum-earnings-up-next-can-margins-justify-rally-93CH-4831927",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Pfizer earnings up next as dividend, pipeline face scrutiny",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:55:08+00:00",
+    "link": "https://www.investing.com/news/earnings/pfizer-earnings-up-next-as-dividend-pipeline-face-scrutiny-93CH-4831926",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: Easterly Government Properties tops Q2 2026 estimates",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:54:46+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-easterly-government-properties-tops-q2-2026-estimates-93CH-4831925",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: Douglas Dynamics posts record Q2 2026, shares fall",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:54:23+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-douglas-dynamics-posts-record-q2-2026-shares-fall-93CH-4831924",
+    "category_hint": "markets"
+  },
+  {
+    "title": "ONEOK earnings up next: Can Permian offset Bakken worries?",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:54:15+00:00",
+    "link": "https://www.investing.com/news/earnings/oneok-earnings-up-next-can-permian-offset-bakken-worries-93CH-4831923",
+    "category_hint": "markets"
+  },
+  {
+    "title": "EOG Resources earnings ahead: Can oil shift sustain profit surge?",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:53:22+00:00",
+    "link": "https://www.investing.com/news/earnings/eog-resources-earnings-ahead-can-oil-shift-sustain-profit-surge-93CH-4831922",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Spotify faces earnings test as AI investments weigh on margins",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:52:29+00:00",
+    "link": "https://www.investing.com/news/earnings/spotify-faces-earnings-test-as-ai-investments-weigh-on-margins-93CH-4831921",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Diamondback Energy earnings on deck as oil rally lifts sector",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:51:36+00:00",
+    "link": "https://www.investing.com/news/earnings/diamondback-energy-earnings-on-deck-as-oil-rally-lifts-sector-93CH-4831919",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Mexico analysts lower 2026 inflation forecast, raise growth outlook",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:25:10+00:00",
+    "link": "https://www.investing.com/news/economy-news/mexico-analysts-lower-2026-inflation-forecast-raise-growth-outlook-93CH-4831857",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Euro zone bond yields drop as oil prices fall on Iran talks",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:18:16+00:00",
+    "link": "https://www.investing.com/news/economy-news/euro-zone-bond-yields-drop-as-oil-prices-fall-on-iran-talks-93CH-4831833",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Michigan health officials report two cyclosporiasis deaths",
+    "source": "Investinglive",
+    "published": "2026-08-03T15:07:44+00:00",
+    "link": "https://www.investing.com/news/economy-news/michigan-health-officials-report-two-cyclosporiasis-deaths-93CH-4831797",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US construction spending falls in June amid higher mortgage rates",
+    "source": "Investinglive",
+    "published": "2026-08-03T14:33:07+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-construction-spending-falls-in-june-amid-higher-mortgage-rates-93CH-4831683",
+    "category_hint": "macro"
+  },
+  {
+    "title": "India raises windfall taxes on fuel exports amid price volatility",
+    "source": "Investinglive",
+    "published": "2026-08-03T14:15:47+00:00",
+    "link": "https://www.investing.com/news/economy-news/india-raises-windfall-taxes-on-fuel-exports-amid-price-volatility-93CH-4831619",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US shakes up currency markets with unusual yen-buying via selling euros",
+    "source": "Investinglive",
+    "published": "2026-08-03T14:14:13+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-shakes-up-currency-markets-with-talk-of-unusual-yenbuying-via-selling-euros-4831103",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US manufacturing activity jumps to more than four-year high in July",
+    "source": "Investinglive",
+    "published": "2026-08-03T14:13:29+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-manufacturing-activity-jumps-to-more-than-fouryear-high-in-july-4831585",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Wall St starts the month strong as Mideast deal hopes rise",
+    "source": "Investinglive",
+    "published": "2026-08-03T14:12:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-edge-up-on-mideast-deal-hopes-healthcare-in-focus-4830317",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil central bank to cut rates for fourth straight meeting on August 5: Reuters poll",
+    "source": "Investinglive",
+    "published": "2026-08-03T13:18:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-central-bank-to-cut-rates-for-fourth-straight-meeting-on-august-5-reuters-poll-4831359",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Denmark targets August 21 for second Security Council UN chief poll",
+    "source": "Investinglive",
+    "published": "2026-08-03T19:50:09+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/denmark-targets-august-21-for-second-security-council-un-chief-poll-4832153",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Trump blasts Exxon, Chevron for making ’too much money,’ demands lower gasoline prices",
+    "source": "Investinglive",
+    "published": "2026-08-03T19:49:34+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/trump-blasts-exxon-chevron-for-making-too-much-money-demands-lower-gasoline-prices-4832152",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 4 Timberland Bancorp Inc For: 3 August",
+    "source": "Investinglive",
+    "published": "2026-08-03T19:48:57+00:00",
+    "link": "https://www.investing.com/news/filings/form-4-timberland-bancorp-inc-for-3-august-93CH-4832151",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Democratic US states sue to challenge Trump’s latest tariffs",
+    "source": "Investinglive",
+    "published": "2026-08-03T19:48:37+00:00",
+    "link": "https://www.investing.com/news/world-news/group-of-25-us-states-challenge-trumps-latest-tariffs-4832134",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Macy’s stock hits 52-week high at 26.14 USD",
+    "source": "Investinglive",
+    "published": "2026-08-03T19:46:55+00:00",
+    "link": "https://www.investing.com/news/company-news/macys-stock-hits-52week-high-at-2614-usd-93CH-4832150",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Timberland Bancorp CRO Matthew Seath sells $134,250 in shares",
+    "source": "Investinglive",
+    "published": "2026-08-03T19:45:54+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/timberland-bancorp-cro-matthew-seath-sells-134250-in-shares-93CH-4832148",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 PRECIGEN For: 3 August",
+    "source": "Investinglive",
+    "published": "2026-08-03T19:45:10+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-precigen-for-3-august-93CH-4832147",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Gates Industrial stock hits all-time high at 29.18 USD",
+    "source": "Investinglive",
+    "published": "2026-08-03T19:42:25+00:00",
+    "link": "https://www.investing.com/news/company-news/gates-industrial-stock-hits-alltime-high-at-2918-usd-93CH-4832146",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Wisdomtree stock hits 52-week high at 21.24 USD",
+    "source": "Investinglive",
+    "published": "2026-08-03T19:41:11+00:00",
+    "link": "https://www.investing.com/news/company-news/wisdomtree-stock-hits-52week-high-at-2124-usd-93CH-4832145",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Trump blasts Jeanine Pirro, says she ’choked’ in dropping reflecting pool case",
+    "source": "Investinglive",
+    "published": "2026-08-03T19:38:03+00:00",
+    "link": "https://www.investing.com/news/politics-news/trump-blasts-jeanine-pirro-says-she-choked-in-dropping-reflecting-pool-case-4832144",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US Treasury raises third-quarter borrowing estimate to $739 billion",
+    "source": "Investinglive",
+    "published": "2026-08-03T19:06:33+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-treasury-raises-thirdquarter-borrowing-estimate-to-739-billion-4832120",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Italy reports July budget surplus of €13.4 billion",
+    "source": "Investinglive",
+    "published": "2026-08-03T19:01:37+00:00",
+    "link": "https://www.investing.com/news/economy-news/italy-reports-july-budget-surplus-of-134-billion-93CH-4832111",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Wall Street rallies to kick off August on Iran talks optimism",
+    "source": "Investinglive",
+    "published": "2026-08-03T18:43:25+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-edge-up-on-mideast-deal-hopes-healthcare-in-focus-4830317",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed lending officer survey finds stable standard for many types of commercial, industrial loans",
+    "source": "Investinglive",
+    "published": "2026-08-03T18:42:31+00:00",
+    "link": "https://www.investing.com/news/economy-news/fed-lending-officer-survey-finds-stable-standard-for-many-types-of-commercial-industrial-loans-4832084",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Yen holds gains after Japan, US confirm joint intervention, signal more action",
+    "source": "Investinglive",
+    "published": "2026-08-03T17:43:13+00:00",
+    "link": "https://www.investing.com/news/economy-news/japan-to-vow-coordination-with-us-on-weak-yen-in-historic-battle-4829714",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Warsh’s policy framework creates investor uncertainty, Citadel Securities says",
+    "source": "Investinglive",
+    "published": "2026-08-03T17:33:07+00:00",
+    "link": "https://www.investing.com/news/economy-news/warshs-policy-framework-creates-investor-uncertainty-citadel-securities-says-4832037",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US manufacturing activity hits more than four-year high; input prices elevated",
+    "source": "Investinglive",
+    "published": "2026-08-03T16:49:28+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-manufacturing-activity-jumps-to-more-than-fouryear-high-in-july-4831585",
+    "category_hint": "macro"
+  },
+  {
+    "title": "South Korea inflation eases to 3-mth low in July, core CPI surges",
+    "source": "Investinglive",
+    "published": "2026-08-03T23:49:05+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/south-korea-inflation-eases-to-3mth-low-in-july-core-cpi-surges-93CH-4832581",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 4 Adaptive Biotechnologies Corp For: 3 August",
+    "source": "Investinglive",
+    "published": "2026-08-03T23:49:04+00:00",
+    "link": "https://www.investing.com/news/filings/form-4-adaptive-biotechnologies-corp-for-3-august-93CH-4832580",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Adaptive Biotechnologies CCO Susan Bobulsky sells $31,176 shares",
+    "source": "Investinglive",
+    "published": "2026-08-03T23:46:04+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-cco-susan-bobulsky-sells-31176-shares-93CH-4832578",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 4 Alkermes plc. For: 3 August",
+    "source": "Investinglive",
+    "published": "2026-08-03T23:45:21+00:00",
+    "link": "https://www.investing.com/news/filings/form-4-alkermes-plc-for-3-august-93CH-4832577",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 Clarivate Plc For: 3 August",
+    "source": "Investinglive",
+    "published": "2026-08-03T23:45:21+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-clarivate-plc-for-3-august-93CH-4832576",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 4 L3Harris Technologies Inc For: 3 August",
+    "source": "Investinglive",
+    "published": "2026-08-03T23:45:15+00:00",
+    "link": "https://www.investing.com/news/filings/form-4-l3harris-technologies-inc-for-3-august-93CH-4832575",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 144 MOHAWK INDUSTRIES INC For: 3 August",
+    "source": "Investinglive",
+    "published": "2026-08-03T23:45:07+00:00",
+    "link": "https://www.investing.com/news/filings/form-144-mohawk-industries-inc-for-3-august-93CH-4832572",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Form 4 Webtoon Entertainment Inc For: 3 August",
+    "source": "Investinglive",
+    "published": "2026-08-03T23:45:07+00:00",
+    "link": "https://www.investing.com/news/filings/form-4-webtoon-entertainment-inc-for-3-august-93CH-4832571",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Wall Street rallies, Dow closes at record on Iran talks optimism",
+    "source": "Investinglive",
+    "published": "2026-08-03T23:24:24+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-edge-up-on-mideast-deal-hopes-healthcare-in-focus-4830317",
+    "category_hint": "macro"
+  },
+  {
+    "title": "How a US-Japan pact to hit yen speculators came together",
+    "source": "Investinglive",
+    "published": "2026-08-03T22:30:57+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysishow-a-usjapan-pact-to-hit-yen-speculators-came-together-4830177",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trump insists Iran talks ongoing, says Hormuz could open ’literally by tomorrow’",
+    "source": "Investinglive",
+    "published": "2026-08-03T21:44:41+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-says-iran-negotiations-to-begin-on-monday-hormuz-deal-imminent-4829724",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trading Day: Dow record, yen vibrations",
+    "source": "Investinglive",
+    "published": "2026-08-03T21:12:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/trading-day-dow-record-yen-vibrations-4832388",
+    "category_hint": "macro"
+  }
+]
