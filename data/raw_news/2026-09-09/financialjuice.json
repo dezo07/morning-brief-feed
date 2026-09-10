@@ -1,5 +1,554 @@
 [
   {
+    "NewsID": 9756767,
+    "title": "Fortum: JP Morgan upgrades to neutral from underperform, lifts target to EUR 24.3 from EUR 17.8",
+    "published": "2026-09-09T22:25:51.88",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756767/Fortum-JP-Morgan-upgrades-to-neutral-from-underperform-lifts-target-to-EUR-243-from-EUR-178.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T23:30:01.946197-04:00"
+  },
+  {
+    "NewsID": 9756764,
+    "title": "Strait of Hormuz commodity vessel crossings below 10 on Wednesday, less than 10-day average of about 14, data shows",
+    "published": "2026-09-09T22:05:32.603",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756764/Strait-of-Hormuz-commodity-vessel-crossings-below-10-on-Wednesday-less-than-10-day-average-of-about-14-data-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T23:15:01.992359-04:00"
+  },
+  {
+    "NewsID": 9756729,
+    "title": "Trump: if Republicans secure house and senate, I'll issue $5,000 payout to every U.S. adult",
+    "published": "2026-09-09T21:10:31.31",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756729/Trump-if-Republicans-secure-house-and-senate-Ill-issue-5000-payout-to-every-US-adult.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T22:15:01.849281-04:00"
+  },
+  {
+    "NewsID": 9756626,
+    "title": "Yield gap between 10-year Chinese government bonds and US Treasury expands to record 316.7 basis points",
+    "published": "2026-09-09T20:50:02.01",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756626/Yield-gap-between-10-year-Chinese-government-bonds-and-US-Treasury-expands-to-record-3167-basis-points.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T22:00:01.741813-04:00"
+  },
+  {
+    "NewsID": 9756625,
+    "title": "BOJ's Masu: Debating maturity zones of JGBs held more crucial than balance sheet size",
+    "published": "2026-09-09T20:47:37.88",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756625/BOJs-Masu-Debating-maturity-zones-of-JGBs-held-more-crucial-than-balance-sheet-size.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T22:00:01.741850-04:00"
+  },
+  {
+    "NewsID": 9756622,
+    "title": "BOJ's Masu: no sign recent rate increases are weakening corporate demand for funds, concerned about potential overheating of corporate investment",
+    "published": "2026-09-09T20:46:00.813",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756622/BOJs-Masu-no-sign-recent-rate-increases-are-weakening-corporate-demand-for-funds-concerned-about-potential-overheating-of-corporate-investment.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T22:00:01.741872-04:00"
+  },
+  {
+    "NewsID": 9756619,
+    "title": "Boj's Masu: Boj Must Raise Rates Further and Push Policy Rate to Estimated Neutral Level to Prepare for Nimble Policy Moves",
+    "published": "2026-09-09T20:44:44.613",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756619/Bojs-Masu-Boj-Must-Raise-Rates-Further-and-Push-Policy-Rate-to-Estimated-Neutral-Level-to-Prepare-for-Nimble-Policy-Moves.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966356-04:00"
+  },
+  {
+    "NewsID": 9756618,
+    "title": "BOJ's Masu: Japan's financial conditions steady, rapid rate hikes possible if inflation picks up",
+    "published": "2026-09-09T20:43:45.727",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756618/BOJs-Masu-Japans-financial-conditions-steady-rapid-rate-hikes-possible-if-inflation-picks-up.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966420-04:00"
+  },
+  {
+    "NewsID": 9756617,
+    "title": "BOJ’s Masu: policy rate nearing estimated neutral range, must closely monitor price, job, financial conditions",
+    "published": "2026-09-09T20:42:54.14",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756617/BOJs-Masu-policy-rate-nearing-estimated-neutral-range-must-closely-monitor-price-job-financial-conditions.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966447-04:00"
+  },
+  {
+    "NewsID": 9756616,
+    "title": "Boj's Masu: Japan no longer in deflation, must raise real interest rate above negative territory promptly",
+    "published": "2026-09-09T20:42:00.363",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756616/Bojs-Masu-Japan-no-longer-in-deflation-must-raise-real-interest-rate-above-negative-territory-promptly.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966469-04:00"
+  },
+  {
+    "NewsID": 9756615,
+    "title": "BOJ's Masu: Weak yen has greater effect on inflation than before, warrants attention",
+    "published": "2026-09-09T20:41:44.207",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756615/BOJs-Masu-Weak-yen-has-greater-effect-on-inflation-than-before-warrants-attention.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966489-04:00"
+  },
+  {
+    "NewsID": 9756614,
+    "title": "BOJ's Masu: food cost increases set to re-accelerate, may hold key to long-term inflation outlook",
+    "published": "2026-09-09T20:40:30.52",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756614/BOJs-Masu-food-cost-increases-set-to-re-accelerate-may-hold-key-to-long-term-inflation-outlook.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966509-04:00"
+  },
+  {
+    "NewsID": 9756613,
+    "title": "Boj’s Masu: recent 7% rise in producer prices requires attention as increase could boost consumer inflation more than before",
+    "published": "2026-09-09T20:38:45.92",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756613/Bojs-Masu-recent-7-rise-in-producer-prices-requires-attention-as-increase-could-boost-consumer-inflation-more-than-before.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966529-04:00"
+  },
+  {
+    "NewsID": 9756612,
+    "title": "BOJ's Masu: government measures to ease cost of living impact may increase demand, drive inflation higher",
+    "published": "2026-09-09T20:37:30.87",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756612/BOJs-Masu-government-measures-to-ease-cost-of-living-impact-may-increase-demand-drive-inflation-higher.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966550-04:00"
+  },
+  {
+    "NewsID": 9756611,
+    "title": "BOJ board member Masu: rising costs from Middle East conflict may drive overall prices higher",
+    "published": "2026-09-09T20:36:05.357",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756611/BOJ-board-member-Masu-rising-costs-from-Middle-East-conflict-may-drive-overall-prices-higher.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966570-04:00"
+  },
+  {
+    "NewsID": 9756610,
+    "title": "BOJ board member Masu: rise in fuel, chemical prices may be one-off shock but could affect prices through distribution costs",
+    "published": "2026-09-09T20:34:56.32",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756610/BOJ-board-member-Masu-rise-in-fuel-chemical-prices-may-be-one-off-shock-but-could-affect-prices-through-distribution-costs.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966590-04:00"
+  },
+  {
+    "NewsID": 9756609,
+    "title": "BOJ board member Masu: key focus is preventing underlying inflation from sharply exceeding 2%",
+    "published": "2026-09-09T20:34:08.727",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756609/BOJ-board-member-Masu-key-focus-is-preventing-underlying-inflation-from-sharply-exceeding-2.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966610-04:00"
+  },
+  {
+    "NewsID": 9756608,
+    "title": "Multiple US military aircraft damaged in strikes overnight at Muwaffaq Salti Air Base in Jordan: CBS reporter on X",
+    "published": "2026-09-09T20:33:39.137",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756608/Multiple-US-military-aircraft-damaged-in-strikes-overnight-at-Muwaffaq-Salti-Air-Base-in-Jordan-CBS-reporter-on-X.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966631-04:00"
+  },
+  {
+    "NewsID": 9756607,
+    "title": "BOJ board member Masu: pace and timing of rate increase will depend on likelihood of meeting baseline projections and risks, considering oil price changes, al-demand, and currency fluctuations",
+    "published": "2026-09-09T20:33:20.31",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756607/BOJ-board-member-Masu-pace-and-timing-of-rate-increase-will-depend-on-likelihood-of-meeting-baseline-projections-and-risks-considering-oil-price-changes-al-demand-and-currency-fluctuations.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966652-04:00"
+  },
+  {
+    "NewsID": 9756606,
+    "title": "BoJ board member Masu: BoJ likely to keep raising interest rates amid current loose financial conditions",
+    "published": "2026-09-09T20:32:13.84",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756606/BoJ-board-member-Masu-BoJ-likely-to-keep-raising-interest-rates-amid-current-loose-financial-conditions.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966673-04:00"
+  },
+  {
+    "NewsID": 9756605,
+    "title": "Bank of Japan board member Masu: underlying inflation remains under 2% but close to that level",
+    "published": "2026-09-09T20:31:32.967",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756605/Bank-of-Japan-board-member-Masu-underlying-inflation-remains-under-2-but-close-to-that-level.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:45:01.966693-04:00"
+  },
+  {
+    "NewsID": 9756588,
+    "title": "China cbank injects 3 bln yuan via 7-day reverse repos: statement",
+    "published": "2026-09-09T20:21:04.83",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756588/China-cbank-injects-3-bln-yuan-via-7-day-reverse-repos-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:30:02.222860-04:00"
+  },
+  {
+    "NewsID": 9756587,
+    "title": "China sets yuan midpoint at strongest level since Feb. 8, 2023, PBOC says",
+    "published": "2026-09-09T20:16:54.463",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756587/China-sets-yuan-midpoint-at-strongest-level-since-Feb-8-2023-PBOC-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:30:02.222925-04:00"
+  },
+  {
+    "NewsID": 9756558,
+    "title": "Taiwan overnight interbank rate opens at 0.805% matching previous session opening",
+    "published": "2026-09-09T20:00:28.433",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756558/Taiwan-overnight-interbank-rate-opens-at-0805-matching-previous-session-opening.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:15:02.441357-04:00"
+  },
+  {
+    "NewsID": 9756556,
+    "title": "Saudi civil defence: danger has passed in Khamis Mushait and Abha",
+    "published": "2026-09-09T19:59:47.94",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756556/Saudi-civil-defence-danger-has-passed-in-Khamis-Mushait-and-Abha.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:00:02.152786-04:00"
+  },
+  {
+    "NewsID": 9756555,
+    "title": "Saudi civil defence warns of possible threat in Khamis Mushait and Abha",
+    "published": "2026-09-09T19:57:11.737",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756555/Saudi-civil-defence-warns-of-possible-threat-in-Khamis-Mushait-and-Abha.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:00:02.152826-04:00"
+  },
+  {
+    "NewsID": 9756554,
+    "title": "Saudi civil defence issues urgent warning for Khamis Mushait and Abha",
+    "published": "2026-09-09T19:55:18.08",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756554/Saudi-civil-defence-issues-urgent-warning-for-Khamis-Mushait-and-Abha.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T21:00:02.152840-04:00"
+  },
+  {
+    "NewsID": 9756535,
+    "title": "Regulators probe Nvidia’s licensing arrangement with Grog: NYT",
+    "published": "2026-09-09T19:25:29.97",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756535/Regulators-probe-Nvidias-licensing-arrangement-with-Grog-NYT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T20:30:02.678284-04:00"
+  },
+  {
+    "NewsID": 9756534,
+    "title": "Southcom: carried out lethal kinetic strike on fast-moving vessel along narco-trafficking routes in Caribbean",
+    "published": "2026-09-09T19:23:50.287",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756534/Southcom-carried-out-lethal-kinetic-strike-on-fast-moving-vessel-along-narco-trafficking-routes-in-Caribbean.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T20:30:02.678345-04:00"
+  },
+  {
+    "NewsID": 9756533,
+    "title": "China PBOC likely to fix yuan midpoint at 6.7074 per dollar: estimate",
+    "published": "2026-09-09T19:19:51.4",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756533/China-PBOC-likely-to-fix-yuan-midpoint-at-67074-per-dollar-estimate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T20:30:02.678371-04:00"
+  },
+  {
+    "NewsID": 9756530,
+    "title": "Nvidia to back up to 2-gigawatt AI infrastructure expansion in Australia by 2027",
+    "published": "2026-09-09T19:01:54.27",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756530/Nvidia-to-back-up-to-2-gigawatt-AI-infrastructure-expansion-in-Australia-by-2027.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T20:15:01.838463-04:00"
+  },
+  {
+    "NewsID": 9756523,
+    "title": "Nvidia boosts AI infrastructure capacity through partnership with Australia’s data center network",
+    "published": "2026-09-09T19:00:06.19",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756523/Nvidia-boosts-AI-infrastructure-capacity-through-partnership-with-Australias-data-center-network.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T20:15:01.838528-04:00"
+  },
+  {
+    "NewsID": 9756522,
+    "title": "Japanese Foreign Stock Investment Actual -481.6B (Forecast -, Previous 35.8B)",
+    "published": "2026-09-09T18:51:24.027",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756522/Japanese-Foreign-Stock-Investment-Actual--4816B-Forecast---Previous-358B.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T20:00:02.129724-04:00"
+  },
+  {
+    "NewsID": 9756521,
+    "title": "Foreign Investment Japanese Bonds Actual 449.6B (Forecast -, Previous 509.1B)",
+    "published": "2026-09-09T18:51:24.027",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756521/Foreign-Investment-Japanese-Bonds-Actual-4496B-Forecast---Previous-5091B.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T20:00:02.129686-04:00"
+  },
+  {
+    "NewsID": 9756520,
+    "title": "Japanese Foreign Bond Investment Actual 111.9B (Forecast -, Previous -824.0B)",
+    "published": "2026-09-09T18:50:27.383",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756520/Japanese-Foreign-Bond-Investment-Actual-1119B-Forecast---Previous--8240B.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T20:00:02.129739-04:00"
+  },
+  {
+    "NewsID": 9756519,
+    "title": "Foreign Investment Japanese Stocks Actual 690.0B (Forecast -, Previous 35.8B ,Revision 35.9B)",
+    "published": "2026-09-09T18:50:26.96",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756519/Foreign-Investment-Japanese-Stocks-Actual-6900B-Forecast---Previous-358B-Revision-359B.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T20:00:02.129752-04:00"
+  },
+  {
+    "NewsID": 9756507,
+    "title": "OpenAI: backing four California bills",
+    "published": "2026-09-09T18:32:00.513",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756507/OpenAI-backing-four-California-bills.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T19:45:02.362898-04:00"
+  },
+  {
+    "NewsID": 9756493,
+    "title": "OpenAI: pushing for compulsory national AI safety regulations",
+    "published": "2026-09-09T18:31:05.24",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756493/OpenAI-pushing-for-compulsory-national-AI-safety-regulations.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T19:45:02.362952-04:00"
+  },
+  {
+    "NewsID": 9756467,
+    "title": "'Too low, terrain' was repeated several times before plane landed on runway: NTSB",
+    "published": "2026-09-09T18:13:17.217",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756467/Too-low-terrain-was-repeated-several-times-before-plane-landed-on-runway-NTSB.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T19:15:01.834169-04:00"
+  },
+  {
+    "NewsID": 9756466,
+    "title": "One pilot of crashed Amazon cargo plane tells other about excessive speed in final 1 minute 42 seconds of cockpit voice recording, NTSB says",
+    "published": "2026-09-09T18:13:17.04",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756466/One-pilot-of-crashed-Amazon-cargo-plane-tells-other-about-excessive-speed-in-final-1-minute-42-seconds-of-cockpit-voice-recording-NTSB-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T19:15:01.834221-04:00"
+  },
+  {
+    "NewsID": 9756465,
+    "title": "No consistent spoken reply to pilot’s remarks on speed: NTSB",
+    "published": "2026-09-09T18:13:16.963",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756465/No-consistent-spoken-reply-to-pilots-remarks-on-speed-NTSB.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T19:15:01.834244-04:00"
+  },
+  {
+    "NewsID": 9756464,
+    "title": "Democratic Senator Fetterman appears in video at Republican convention in Dallas",
+    "published": "2026-09-09T18:11:09.233",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756464/Democratic-Senator-Fetterman-appears-in-video-at-Republican-convention-in-Dallas.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T19:15:01.834263-04:00"
+  },
+  {
+    "NewsID": 9756463,
+    "title": "Trump’s top advisers face possibility iran war continues through end of term - wsj",
+    "published": "2026-09-09T18:05:55.94",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756463/Trumps-top-advisers-face-possibility-iran-war-continues-through-end-of-term---wsj.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T19:15:01.834282-04:00"
+  },
+  {
+    "NewsID": 9756462,
+    "title": "Democratic senator Fetterman to appear in video at Republican convention in Dallas, U.S. media",
+    "published": "2026-09-09T18:03:50.883",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756462/Democratic-senator-Fetterman-to-appear-in-video-at-Republican-convention-in-Dallas-US-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T19:15:01.834301-04:00"
+  },
+  {
+    "NewsID": 9756457,
+    "title": "UK RICS Housing Survey Actual -28 (Forecast -30, Previous -30)",
+    "published": "2026-09-09T18:01:00.17",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756457/UK-RICS-Housing-Survey-Actual--28-Forecast--30-Previous--30.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T19:15:01.834320-04:00"
+  },
+  {
+    "NewsID": 9756455,
+    "title": "Nearly a third of Japan firms want yen to trade at 150-159.99 per dollar, a quarter favor 140-149.99 per dollar: source survey shows",
+    "published": "2026-09-09T18:00:04.173",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756455/Nearly-a-third-of-Japan-firms-want-yen-to-trade-at-150-15999-per-dollar-a-quarter-favor-140-14999-per-dollar-source-survey-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T19:15:01.834338-04:00"
+  },
+  {
+    "NewsID": 9756454,
+    "title": "More than two-thirds of Japan firms back PM Takaichi's economic policies: survey shows",
+    "published": "2026-09-09T18:00:03.777",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756454/More-than-two-thirds-of-Japan-firms-back-PM-Takaichis-economic-policies-survey-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T19:15:01.834357-04:00"
+  },
+  {
+    "NewsID": 9756453,
+    "title": "46% of Japan firms want PM Takaichi to remain beyond current term vs 18% opposed, survey shows",
+    "published": "2026-09-09T18:00:03.713",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756453/46-of-Japan-firms-want-PM-Takaichi-to-remain-beyond-current-term-vs-18-opposed-survey-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T19:15:01.834376-04:00"
+  },
+  {
+    "NewsID": 9756431,
+    "title": "Poll: Bank of Japan to raise rates to minimum 1.75% in Q2 2027, 62% of economists say (vs. 1.50% in prior poll)",
+    "published": "2026-09-09T17:00:03.95",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756431/Poll-Bank-of-Japan-to-raise-rates-to-minimum-175-in-Q2-2027-62-of-economists-say-vs-150-in-prior-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T18:15:02.733674-04:00"
+  },
+  {
+    "NewsID": 9756430,
+    "title": "Poll: Bank of Japan to increase benchmark interest rate to 1.25% on September 18, say 97% of economists (up from 57% in August)",
+    "published": "2026-09-09T17:00:03.85",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756430/Poll-Bank-of-Japan-to-increase-benchmark-interest-rate-to-125-on-September-18-say-97-of-economists-up-from-57-in-August.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T18:15:02.733711-04:00"
+  },
+  {
+    "NewsID": 9756429,
+    "title": "Poll: joint US-Japan FX intervention, US Treasury chief Bessent's comments reduce political barriers for BoJ rate hikes, say 82% of economists",
+    "published": "2026-09-09T17:00:03.31",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756429/Poll-joint-US-Japan-FX-intervention-US-Treasury-chief-Bessents-comments-reduce-political-barriers-for-BoJ-rate-hikes-say-82-of-economists.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T18:15:02.733724-04:00"
+  },
+  {
+    "NewsID": 9756428,
+    "title": "Poll: total size of Japan's FY2027 budget requests raise worries about fiscal discipline: 74% of economists",
+    "published": "2026-09-09T17:00:03.18",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756428/Poll-total-size-of-Japans-FY2027-budget-requests-raise-worries-about-fiscal-discipline-74-of-economists.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T18:15:02.733736-04:00"
+  },
+  {
+    "NewsID": 9756419,
+    "title": "Israeli military: hostile aircraft incursion in northern Israel was misidentification",
+    "published": "2026-09-09T16:37:41.96",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756419/Israeli-military-hostile-aircraft-incursion-in-northern-Israel-was-misidentification.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T17:45:01.775484-04:00"
+  },
+  {
+    "NewsID": 9756400,
+    "title": "AI researcher Andrew Tulloch departing Meta - Semafor",
+    "published": "2026-09-09T16:30:21.257",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756400/AI-researcher-Andrew-Tulloch-departing-Meta---Semafor.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T17:45:01.775537-04:00"
+  },
+  {
+    "NewsID": 9756399,
+    "title": "Iranian state media: multiple locations in Sirik struck by projectiles",
+    "published": "2026-09-09T16:30:05.6",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756399/Iranian-state-media-multiple-locations-in-Sirik-struck-by-projectiles.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T17:45:01.775561-04:00"
+  },
+  {
+    "NewsID": 9756398,
+    "title": "Israeli military: sirens alert hostile aircraft infiltration in multiple northern Israel areas",
+    "published": "2026-09-09T16:26:58.74",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756398/Israeli-military-sirens-alert-hostile-aircraft-infiltration-in-multiple-northern-Israel-areas.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T17:30:01.955735-04:00"
+  },
+  {
+    "NewsID": 9756396,
+    "title": "Hormozgan Province governorate: explosion sounds in Qeshm came from sea - Fars",
+    "published": "2026-09-09T16:20:22.463",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756396/Hormozgan-Province-governorate-explosion-sounds-in-Qeshm-came-from-sea---Fars.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T17:30:01.955785-04:00"
+  },
+  {
+    "NewsID": 9756395,
+    "title": "Multiple blasts reported in Iran's Qeshm and Sirik: Iran's Fars",
+    "published": "2026-09-09T16:19:15.61",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756395/Multiple-blasts-reported-in-Irans-Qeshm-and-Sirik-Irans-Fars.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T17:30:01.955809-04:00"
+  },
+  {
+    "NewsID": 9756394,
+    "title": "Even if fiscal adjustment law achieves full 2.2% of GDP consolidation target, deficits likely to significantly surpass Fitch's previous forecasts: Fitch",
+    "published": "2026-09-09T16:16:44.837",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756394/Even-if-fiscal-adjustment-law-achieves-full-22-of-GDP-consolidation-target-deficits-likely-to-significantly-surpass-Fitchs-previous-forecasts-Fitch.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T17:30:01.955830-04:00"
+  },
+  {
+    "NewsID": 9756392,
+    "title": "Failure to implement consolidation steps with persistent high deficits and a steepening debt/GDP path could increase rating pressure: Fitch",
+    "published": "2026-09-09T16:15:52.18",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756392/Failure-to-implement-consolidation-steps-with-persistent-high-deficits-and-a-steepening-debtGDP-path-could-increase-rating-pressure-Fitch.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T17:30:01.955850-04:00"
+  },
+  {
+    "NewsID": 9756391,
+    "title": "Significant extra measures needed to stabilize Colombia's debt: Fitch",
+    "published": "2026-09-09T16:15:44.447",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9756391/Significant-extra-measures-needed-to-stabilize-Colombias-debt-Fitch.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-09T17:30:01.955870-04:00"
+  },
+  {
     "NewsID": 9756389,
     "title": "Colombia's budget reveals significant imbalance: Fitch says major adjustment effort needed",
     "published": "2026-09-09T16:14:02.313",
