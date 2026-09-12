@@ -250,5 +250,467 @@
     "published": "2026-09-11T06:00:47+00:00",
     "link": "https://www.investing.com/news/economy-news/japan-to-maintain-close-communication-with-us-on-currency-markets-katayama-says-4897184",
     "category_hint": "macro"
+  },
+  {
+    "title": "SThree rejects takeover approach from Circle8 Group",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:46:33+00:00",
+    "link": "https://www.investing.com/news/company-news/sthree-rejects-takeover-approach-from-circle8-group-93CH-4897739",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Medicinova at H.C. Wainwright conference: data, not financing, drives case",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:46:28+00:00",
+    "link": "https://www.investing.com/news/transcripts/medicinova-at-hc-wainwright-conference-data-not-financing-drives-case-93CH-4897738",
+    "category_hint": "markets"
+  },
+  {
+    "title": "GrowGeneration at H.C. Wainwright conference: pivot to higher-margin growth",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:45:14+00:00",
+    "link": "https://www.investing.com/news/transcripts/growgeneration-at-hc-wainwright-conference-pivot-to-highermargin-growth-93CH-4897736",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright raises Ovid Therapeutics price target to $5 on pipeline progress",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:44:49+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-ovid-therapeutics-price-target-to-5-on-pipeline-progress-93CH-4897735",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright raises Tempus AI stock price target to $66",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:44:48+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-tempus-ai-stock-price-target-to-66-93CH-4897734",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Oil nears $100 as fresh Middle East strikes raise supply risks",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:43:26+00:00",
+    "link": "https://www.investing.com/news/commodities-news/oil-nears-100-as-fresh-middle-east-strikes-raise-supply-risks-4897733",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is GameStop stock rallying today?",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:43:25+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-gamestop-stock-rallying-today-93CH-4897732",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Serina Therapeutics at H.C. Wainwright conference: Parkinson’s push advances",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:43:10+00:00",
+    "link": "https://www.investing.com/news/transcripts/serina-therapeutics-at-hc-wainwright-conference-parkinsons-push-advances-93CH-4897731",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Explainer-Oil tops $100 on conflict worries. Why isn’t it even higher?",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:43:09+00:00",
+    "link": "https://www.investing.com/news/commodities-news/explaineroil-tops-100-on-conflict-worries-why-isnt-it-even-higher-4897730",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Oklo stock falls after launching $1B stock offering program",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:42:28+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/oklo-stock-falls-after-launching-1b-stock-offering-program-93CH-4897727",
+    "category_hint": "markets"
+  },
+  {
+    "title": "How much has UK fiscal headroom narrowed ahead of autumn budget?",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:28:23+00:00",
+    "link": "https://www.investing.com/news/economy-news/how-much-has-uk-fiscal-headroom-narrowed-ahead-of-autumn-budget-4897694",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bonds, stocks selloff pauses as oil falls; pivotal CPI report due",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:24:40+00:00",
+    "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US equity funds record nine-month high outflows as oil stokes inflation fears",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:19:00+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-equity-funds-record-ninemonth-high-outflows-as-oil-stokes-inflation-fears-4897684",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Investors brace for possible rate hike at uncertain Fed meeting",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:13:13+00:00",
+    "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
+    "category_hint": "macro"
+  },
+  {
+    "title": "What is driving the move in rates and how much higher will yields go?",
+    "source": "Investinglive",
+    "published": "2026-09-11T11:04:51+00:00",
+    "link": "https://www.investing.com/news/economy-news/what-is-driving-the-move-in-rates-and-how-much-higher-will-yields-go-4897655",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
+    "source": "Investinglive",
+    "published": "2026-09-11T10:36:58+00:00",
+    "link": "https://www.investing.com/news/economy-news/mexico-washington-sprint-toward-bilateral-trade-deal-before-us-elections-4897510",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Russia’s central bank holds key rate at 14%",
+    "source": "Investinglive",
+    "published": "2026-09-11T10:36:39+00:00",
+    "link": "https://www.investing.com/news/economy-news/russias-central-bank-holds-key-rate-at-14-93CH-4897568",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Investors pull money from equity funds as rising oil prices fuel inflation fears",
+    "source": "Investinglive",
+    "published": "2026-09-11T10:24:28+00:00",
+    "link": "https://www.investing.com/news/economy-news/investors-pull-money-from-equity-funds-as-rising-oil-prices-fuel-inflation-fears-4897534",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Iran, Gulf states to meet in push for Hormuz deal, FT reports",
+    "source": "Investinglive",
+    "published": "2026-09-11T10:20:39+00:00",
+    "link": "https://www.investing.com/news/economy-news/iran-gulf-states-to-meet-in-push-for-hormuz-deal-ft-reports-4897222",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Wall St futures recover as oil slides ahead of inflation test",
+    "source": "Investinglive",
+    "published": "2026-09-11T10:01:58+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-recover-as-oil-slides-ahead-of-inflation-test-4897485",
+    "category_hint": "macro"
+  },
+  {
+    "title": "BioRestorative Therapies reports resignation of vice president of R&D",
+    "source": "Investinglive",
+    "published": "2026-09-11T15:27:18+00:00",
+    "link": "https://www.investing.com/news/sec-filings/biorestorative-therapies-reports-resignation-of-vice-president-of-rd-93CH-4898207",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US declares end of largest recorded cyclosporiasis outbreak",
+    "source": "Investinglive",
+    "published": "2026-09-11T15:24:54+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak-4898115",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Texas judge rules TikTok misled users on child safety feature",
+    "source": "Investinglive",
+    "published": "2026-09-11T15:24:36+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/texas-judge-rules-tiktok-misled-users-on-child-safety-feature-4897180",
+    "category_hint": "markets"
+  },
+  {
+    "title": "HWH International signs agreement for acquisition, plans name change to EnerSyn Global",
+    "source": "Investinglive",
+    "published": "2026-09-11T15:22:52+00:00",
+    "link": "https://www.investing.com/news/sec-filings/hwh-international-signs-agreement-for-acquisition-plans-name-change-to-enersyn-global-93CH-4898205",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Analysis-Edgy bond investors unconsoled by Bessent’s big buyback",
+    "source": "Investinglive",
+    "published": "2026-09-11T15:18:55+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysisedgy-bondinvestors-unconsoled-by-bessents-big-buyback-4898196",
+    "category_hint": "markets"
+  },
+  {
+    "title": "IES Holdings stock rating upgraded to Buy at Freedom Broker",
+    "source": "Investinglive",
+    "published": "2026-09-11T15:18:51+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/ies-holdings-stock-rating-upgraded-to-buy-at-freedom-broker-93CH-4898195",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Cosmos Health subsidiary secures 5-year manufacturing deal",
+    "source": "Investinglive",
+    "published": "2026-09-11T15:16:34+00:00",
+    "link": "https://www.investing.com/news/company-news/cosmos-health-subsidiary-secures-5year-manufacturing-deal-93CH-4898194",
+    "category_hint": "markets"
+  },
+  {
+    "title": "EnerSys at Jefferies renewables conference: growth bets and defense push",
+    "source": "Investinglive",
+    "published": "2026-09-11T15:16:07+00:00",
+    "link": "https://www.investing.com/news/transcripts/enersys-at-jefferies-renewables-conference-growth-bets-and-defense-push-93CH-4898193",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Bristow group director Brian Truelove sells shares worth $160,546",
+    "source": "Investinglive",
+    "published": "2026-09-11T15:15:52+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/bristow-group-director-brian-truelove-sells-shares-worth-160546-93CH-4898192",
+    "category_hint": "markets"
+  },
+  {
+    "title": "ServiceTitan stock hits 52-week low at 54.16 USD",
+    "source": "Investinglive",
+    "published": "2026-09-11T15:14:23+00:00",
+    "link": "https://www.investing.com/news/company-news/servicetitan-stock-hits-52week-low-at-5416-usd-93CH-4898191",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US regulators propose third-party risk management guidance for banks",
+    "source": "Investinglive",
+    "published": "2026-09-11T15:11:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-regulators-propose-thirdparty-risk-management-guidance-for-banks-93CH-4898188",
+    "category_hint": "macro"
+  },
+  {
+    "title": "White House official defends Trump’s $5,000 check proposal",
+    "source": "Investinglive",
+    "published": "2026-09-11T14:59:13+00:00",
+    "link": "https://www.investing.com/news/economy-news/white-house-official-defends-trumps-5000-check-proposal-93CH-4898174",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case",
+    "source": "Investinglive",
+    "published": "2026-09-11T14:54:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazilian-top-court-unseals-probe-into-multibilliondollar-bank-fraud-4897803",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US consumer inflation picks up in August",
+    "source": "Investinglive",
+    "published": "2026-09-11T14:30:33+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bond yields near multi-year peaks, Wall Street surges on accelerating US prices",
+    "source": "Investinglive",
+    "published": "2026-09-11T14:25:05+00:00",
+    "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed seen likely to raise rates next week after inflation report",
+    "source": "Investinglive",
+    "published": "2026-09-11T13:49:31+00:00",
+    "link": "https://www.investing.com/news/economy-news/fed-seen-likely-to-raise-rates-next-week-after-inflation-report-4898077",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil inflation slows more than expected in August",
+    "source": "Investinglive",
+    "published": "2026-09-11T13:11:41+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-inflation-slows-more-than-expected-in-august-93CH-4897985",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Norway’s Princess Astrid dies at age 94, two days after King’s funeral",
+    "source": "Investinglive",
+    "published": "2026-09-11T13:09:14+00:00",
+    "link": "https://www.investing.com/news/economy-news/norways-princess-astrid-dies-at-age-94-two-days-after-kings-funeral-93CH-4897979",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Cms Energy stock hits 52-week low at 20.25 USD",
+    "source": "Investinglive",
+    "published": "2026-09-11T19:40:14+00:00",
+    "link": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-2025-usd-93CH-4898371",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Cms energy stock hits 52-week low at 67.19 USD",
+    "source": "Investinglive",
+    "published": "2026-09-11T19:39:53+00:00",
+    "link": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-6719-usd-93CH-4898370",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Gold headed for a weekly loss of nearly 2% on surging oil, raised Fed hike bets",
+    "source": "Investinglive",
+    "published": "2026-09-11T19:37:26+00:00",
+    "link": "https://www.investing.com/news/commodities-news/gold-steadies-after-sharp-drop-as-hotter-ppi-lifts-fed-hike-bets-4897138",
+    "category_hint": "markets"
+  },
+  {
+    "title": "FTAI Aviation options analysis: strangle and near-term call signal big move ahead",
+    "source": "Investinglive",
+    "published": "2026-09-11T19:33:42+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/ftai-aviation-options-analysis-strangle-and-nearterm-call-signal-big-move-ahead-93CH-4898369",
+    "category_hint": "markets"
+  },
+  {
+    "title": "S&P Global downgrades Hormel Foods outlook on high leverage",
+    "source": "Investinglive",
+    "published": "2026-09-11T19:32:42+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/sp-global-downgrades-hormel-foods-outlook-on-high-leverage-93CH-4898368",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Cohere raises up to $3 billion at $20 billion valuation - Globe and Mail",
+    "source": "Investinglive",
+    "published": "2026-09-11T19:32:11+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/cohere-raises-up-to-3-billion-at-20-billion-valuation--globe-and-mail-93CH-4898367",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Carter Bankshares director Midkiff disposes of $31,250 in shares",
+    "source": "Investinglive",
+    "published": "2026-09-11T19:31:12+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/carter-bankshares-director-midkiff-disposes-of-31250-in-shares-93CH-4898366",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Factbox-How Anthropic says Claude was used for weapons, spying and cyber operations",
+    "source": "Investinglive",
+    "published": "2026-09-11T19:30:51+00:00",
+    "link": "https://www.investing.com/news/economy-news/factboxhow-anthropic-says-claude-was-used-for-weapons-spying-and-cyber-operations-4898365",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Anthropic disrupts bioweapons research efforts, Russian hacking, Chinese Claude misuse",
+    "source": "Investinglive",
+    "published": "2026-09-11T19:30:34+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-4896930",
+    "category_hint": "markets"
+  },
+  {
+    "title": "EQT Corp options flow turns sharply bearish with put/call ratio near 4.87x",
+    "source": "Investinglive",
+    "published": "2026-09-11T19:24:30+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/eqt-corp-options-flow-turns-sharply-bearish-with-putcall-ratio-near-487x-93CH-4898364",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Wall Street jumps, oil lower ahead of Fed vote next week",
+    "source": "Investinglive",
+    "published": "2026-09-11T19:12:27+00:00",
+    "link": "https://www.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4897139",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US budget deficit shrinks in August, year-to-date flat at $1.97 trillion",
+    "source": "Investinglive",
+    "published": "2026-09-11T18:48:27+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-budget-deficit-shrinks-in-august-yeartodate-flat-at-197-trillion-4898315",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US budget deficit falls to $167 billion in August",
+    "source": "Investinglive",
+    "published": "2026-09-11T18:06:02+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-budget-deficit-falls-to-167-billion-in-august-93CH-4898314",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
+    "source": "Investinglive",
+    "published": "2026-09-11T17:48:33+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901",
+    "category_hint": "macro"
+  },
+  {
+    "title": "BRICS finance chiefs urge reform of global development financial institutions",
+    "source": "Investinglive",
+    "published": "2026-09-11T17:12:45+00:00",
+    "link": "https://www.investing.com/news/economy-news/brics-finance-chiefs-urge-reform-of-global-development-financial-institutions-4898277",
+    "category_hint": "macro"
+  },
+  {
+    "title": "European stocks rise, but log sharp weekly loss as inflation fears linger",
+    "source": "Investinglive",
+    "published": "2026-09-11T17:00:48+00:00",
+    "link": "https://www.investing.com/news/economy-news/european-stocks-rise-but-head-for-sharp-weekly-declines-4897312",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Reaction roundup: Experts, analysts weigh in on August CPI report",
+    "source": "Investinglive",
+    "published": "2026-09-11T16:53:07+00:00",
+    "link": "https://www.investing.com/news/economy-news/reaction-roundup-experts-analysts-weigh-in-on-august-cpi-report-4898262",
+    "category_hint": "macro"
+  },
+  {
+    "title": "BetterLife Pharma files prospectus for $100M public offering",
+    "source": "Investinglive",
+    "published": "2026-09-11T23:52:30+00:00",
+    "link": "https://www.investing.com/news/company-news/betterlife-pharma-files-prospectus-for-100m-public-offering-93CH-4898567",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Edwards Lifesciences CVP Daniel Lippis sells $54,168 in stock",
+    "source": "Investinglive",
+    "published": "2026-09-11T23:45:57+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-daniel-lippis-sells-54168-in-stock-93CH-4898565",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Intuitive surgical EVP Mark Brosius sells $17,140 in stock",
+    "source": "Investinglive",
+    "published": "2026-09-11T23:45:54+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/intuitive-surgical-evp-mark-brosius-sells-17140-in-stock-93CH-4898564",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Qualcomm EVP, CFO & COO Palkhiwala sells $457,129 in QCOM stock",
+    "source": "Investinglive",
+    "published": "2026-09-11T23:45:50+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/qualcomm-evp-cfo--coo-palkhiwala-sells-457129-in-qcom-stock-93CH-4898563",
+    "category_hint": "markets"
+  },
+  {
+    "title": "1844 Resources closes private placement raising C$947,650",
+    "source": "Investinglive",
+    "published": "2026-09-11T23:40:30+00:00",
+    "link": "https://www.investing.com/news/company-news/1844-resources-closes-private-placement-raising-c947650-93CH-4898562",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Silver Lake director Egon Durban sells $14.9m Dell Technologies stock",
+    "source": "Investinglive",
+    "published": "2026-09-11T23:37:06+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/silver-lake-director-egon-durban-sells-149m-dell-technologies-stock-93CH-4898560",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Silver Lake technology investors IV sells $580,907 of Dell stock",
+    "source": "Investinglive",
+    "published": "2026-09-11T23:36:39+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/silver-lake-technology-investors-iv-sells-580907-of-dell-stock-93CH-4898559",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Apollo Global in talks to acquire J&J’s orthopedics unit, Bloomberg News reports",
+    "source": "Investinglive",
+    "published": "2026-09-11T23:36:38+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/apollo-global-in-talks-to-acquire-jjs-orthopedics-unit-bloomberg-news-reports-4898542",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Russian attacks on Kyiv petrol stations kill two, Ukrainian strikes kill three in Russia",
+    "source": "Investinglive",
+    "published": "2026-09-11T23:36:25+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/russian-air-strikes-injure-two-cause-fire-in-9storey-apartment-building-in-kyiv-officials-say-4897164",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Life time EVP Singh sells $7.29m in LTH shares",
+    "source": "Investinglive",
+    "published": "2026-09-11T23:31:39+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/life-time-evp-singh-sells-729m-in-lth-shares-93CH-4898558",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Brazil’s Eduardo Bolsonaro to push for U.S. sanctions against Supreme Court Justice during Washington visit",
+    "source": "Investinglive",
+    "published": "2026-09-11T20:12:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazils-eduardo-bolsonaro-to-push-for-us-sanctions-against-supreme-court-justice-during-washington-visit-4898398",
+    "category_hint": "macro"
   }
 ]
