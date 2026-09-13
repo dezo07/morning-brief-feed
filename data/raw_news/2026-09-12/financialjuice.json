@@ -1,5 +1,563 @@
 [
   {
+    "NewsID": 9760654,
+    "title": "Ukmto: status of crew, damage assessment and environmental impact currently unknown",
+    "published": "2026-09-12T20:01:14.143",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760654/Ukmto-status-of-crew-damage-assessment-and-environmental-impact-currently-unknown.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T21:15:02.425618-04:00"
+  },
+  {
+    "NewsID": 9760652,
+    "title": "Ukmto: Vessel hit by unidentified projectile while passing Strait of Hormuz",
+    "published": "2026-09-12T20:00:40.27",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760652/Ukmto-Vessel-hit-by-unidentified-projectile-while-passing-Strait-of-Hormuz.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T21:15:02.425684-04:00"
+  },
+  {
+    "NewsID": 9760629,
+    "title": "ECB releases media interview with Quest-France",
+    "published": "2026-09-12T15:05:25.983",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760629/ECB-releases-media-interview-with-Quest-France.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T16:15:02.226534-04:00"
+  },
+  {
+    "NewsID": 9760616,
+    "title": "Projectile from Yemen's Houthis causes material damage to mosque, buildings, vehicles: Saudi civil defence",
+    "published": "2026-09-12T13:58:06.177",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760616/Projectile-from-Yemens-Houthis-causes-material-damage-to-mosque-buildings-vehicles-Saudi-civil-defence.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T15:00:01.789299-04:00"
+  },
+  {
+    "NewsID": 9760615,
+    "title": "Projectile wounds two in Saudi Arabia's Jizan: Saudi civil defence",
+    "published": "2026-09-12T13:57:04.633",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760615/Projectile-wounds-two-in-Saudi-Arabias-Jizan-Saudi-civil-defence.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T15:00:01.789351-04:00"
+  },
+  {
+    "NewsID": 9760610,
+    "title": "UK foreign secretary Ed Miliband: discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister",
+    "published": "2026-09-12T13:13:29.74",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760610/UK-foreign-secretary-Ed-Miliband-discussed-Houthi-aggression-in-Yemen-and-attacks-on-Saudi-Arabia-with-Saudi-foreign-minister.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T14:15:02.257888-04:00"
+  },
+  {
+    "NewsID": 9760609,
+    "title": "UK foreign secretary Ed Miliband: UK stands firmly with Saudi Arabia and internationally recognized Yemen government against attacks",
+    "published": "2026-09-12T13:13:29.723",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760609/UK-foreign-secretary-Ed-Miliband-UK-stands-firmly-with-Saudi-Arabia-and-internationally-recognized-Yemen-government-against-attacks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T14:15:02.257943-04:00"
+  },
+  {
+    "NewsID": 9760608,
+    "title": "Minister to discuss Houthi aggression in Yemen and attacks on Saudi Arabia",
+    "published": "2026-09-12T13:12:49.627",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760608/Minister-to-discuss-Houthi-aggression-in-Yemen-and-attacks-on-Saudi-Arabia.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T14:15:02.257966-04:00"
+  },
+  {
+    "NewsID": 9760607,
+    "title": "UK foreign secretary Ed Miliband: spoke with Saudi counterpart",
+    "published": "2026-09-12T13:12:49.36",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760607/UK-foreign-secretary-Ed-Miliband-spoke-with-Saudi-counterpart.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T14:15:02.257987-04:00"
+  },
+  {
+    "NewsID": 9760606,
+    "title": "Danger has passed in Abha: Saudi civil defence",
+    "published": "2026-09-12T13:11:29.15",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760606/Danger-has-passed-in-Abha-Saudi-civil-defence.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T14:15:02.258007-04:00"
+  },
+  {
+    "NewsID": 9760605,
+    "title": "Danger passed in Khamis Mushait: Saudi civil defence",
+    "published": "2026-09-12T13:10:47.083",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760605/Danger-passed-in-Khamis-Mushait-Saudi-civil-defence.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T14:15:02.258027-04:00"
+  },
+  {
+    "NewsID": 9760604,
+    "title": "Emergency alert issued in Saudi Arabia's Abha warning of potential threat: Saudi Civil Defence",
+    "published": "2026-09-12T13:02:54.997",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760604/Emergency-alert-issued-in-Saudi-Arabias-Abha-warning-of-potential-threat-Saudi-Civil-Defence.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T14:15:02.258047-04:00"
+  },
+  {
+    "NewsID": 9760603,
+    "title": "Emergency alert in Saudi Arabia's Khamis Mushait warns of possible danger: Saudi Civil Defence",
+    "published": "2026-09-12T13:01:46.93",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760603/Emergency-alert-in-Saudi-Arabias-Khamis-Mushait-warns-of-possible-danger-Saudi-Civil-Defence.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T14:15:02.258067-04:00"
+  },
+  {
+    "NewsID": 9760600,
+    "title": "Iran state media: sound of two blasts heard near Qeshm from the sea",
+    "published": "2026-09-12T12:57:41.043",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760600/Iran-state-media-sound-of-two-blasts-heard-near-Qeshm-from-the-sea.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T14:00:02.428894-04:00"
+  },
+  {
+    "NewsID": 9760581,
+    "title": "Economic costs from Ukraine's seaports blockade and destruction about 1.5 percentage points of GDP this year: minister",
+    "published": "2026-09-12T12:00:04.457",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760581/Economic-costs-from-Ukraines-seaports-blockade-and-destruction-about-15-percentage-points-of-GDP-this-year-minister.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T13:15:02.072486-04:00"
+  },
+  {
+    "NewsID": 9760580,
+    "title": "Destruction of Ukraine's infrastructure, fixed assets from Russian airstrikes estimated at $10 billion this year: economy minister",
+    "published": "2026-09-12T12:00:04.23",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760580/Destruction-of-Ukraines-infrastructure-fixed-assets-from-Russian-airstrikes-estimated-at-10-billion-this-year-economy-minister.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T13:15:02.072538-04:00"
+  },
+  {
+    "NewsID": 9760579,
+    "title": "Economy minister: about $40 billion of Ukraine's export revenue threatened by blockade",
+    "published": "2026-09-12T12:00:04.05",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760579/Economy-minister-about-40-billion-of-Ukraines-export-revenue-threatened-by-blockade.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T13:15:02.072562-04:00"
+  },
+  {
+    "NewsID": 9760576,
+    "title": "Iranian source to Tasnim: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions",
+    "published": "2026-09-12T11:36:01.287",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760576/Iranian-source-to-Tasnim-Reopening-of-Strait-of-Hormuz-hinges-entirely-on-US-meeting-Irans-conditions.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T12:45:02.461423-04:00"
+  },
+  {
+    "NewsID": 9760575,
+    "title": "Iranian source to Tasnim: GCC countries to be updated on outcome of Iran-Oman talks, decisions at Oman meeting",
+    "published": "2026-09-12T11:35:26.18",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760575/Iranian-source-to-Tasnim-GCC-countries-to-be-updated-on-outcome-of-Iran-Oman-talks-decisions-at-Oman-meeting.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T12:45:02.461477-04:00"
+  },
+  {
+    "NewsID": 9760574,
+    "title": "Iranian source to Tasnim: Iraq to participate in meeting in Oman on Monday",
+    "published": "2026-09-12T11:34:39.973",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760574/Iranian-source-to-Tasnim-Iraq-to-participate-in-meeting-in-Oman-on-Monday.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T12:45:02.461501-04:00"
+  },
+  {
+    "NewsID": 9760573,
+    "title": "Iranian source to Tasnim: southern route will close despite U.S. pressure to reopen",
+    "published": "2026-09-12T11:34:07.727",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760573/Iranian-source-to-Tasnim-southern-route-will-close-despite-US-pressure-to-reopen.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T12:45:02.461523-04:00"
+  },
+  {
+    "NewsID": 9760572,
+    "title": "Iranian source to Tasnim: entry path into Persian Gulf lies fully within Iranian territorial waters, while part of exit route from Persian Gulf also lies within Iranian territory",
+    "published": "2026-09-12T11:33:25.837",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760572/Iranian-source-to-Tasnim-entry-path-into-Persian-Gulf-lies-fully-within-Iranian-territorial-waters-while-part-of-exit-route-from-Persian-Gulf-also-lies-within-Iranian-territory.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T12:45:02.461544-04:00"
+  },
+  {
+    "NewsID": 9760571,
+    "title": "Iranian source to Tasnim: Iran and Oman finalize details of new routes for entry and exit from Strait of Hormuz",
+    "published": "2026-09-12T11:32:42.363",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760571/Iranian-source-to-Tasnim-Iran-and-Oman-finalize-details-of-new-routes-for-entry-and-exit-from-Strait-of-Hormuz.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T12:45:02.461565-04:00"
+  },
+  {
+    "NewsID": 9760570,
+    "title": "Iranian source to Tasnim News Agency: Strait of Hormuz will remain closed despite the Iran-Oman agreement",
+    "published": "2026-09-12T11:32:13.01",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760570/Iranian-source-to-Tasnim-News-Agency-Strait-of-Hormuz-will-remain-closed-despite-the-Iran-Oman-agreement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T12:45:02.461586-04:00"
+  },
+  {
+    "NewsID": 9760555,
+    "title": "Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office",
+    "published": "2026-09-12T10:19:13.2",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760555/Iraqs-Ajil-oilfield-contract-targets-boosting-output-to-40000-bpd-from-30000-bpd-PMs-office.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T11:30:02.361514-04:00"
+  },
+  {
+    "NewsID": 9760554,
+    "title": "Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million — PM's office",
+    "published": "2026-09-12T10:18:39.367",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760554/Iraq-inks-25-year-deal-with-private-firm-to-develop-Ajil-oilfield-boost-gas-output-to-300-million-cubic-feetday-from-135-million--PMs-office.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T11:30:02.361583-04:00"
+  },
+  {
+    "NewsID": 9760532,
+    "title": "Anthropic’s Amodei: Proposes frontier AI firms in democratic nations coordinate to set joint safety standards",
+    "published": "2026-09-12T09:09:15.833",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760532/Anthropics-Amodei-Proposes-frontier-AI-firms-in-democratic-nations-coordinate-to-set-joint-safety-standards.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T10:15:02.226615-04:00"
+  },
+  {
+    "NewsID": 9760531,
+    "title": "Anthropic's Amodei: US and other democratic governments should try to coordinate with others",
+    "published": "2026-09-12T09:08:49.263",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760531/Anthropics-Amodei-US-and-other-democratic-governments-should-try-to-coordinate-with-others.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T10:15:02.226668-04:00"
+  },
+  {
+    "NewsID": 9760530,
+    "title": "Anthropic's Amodei proposes each leading AI company provide continuous, employee-level access to embedded third-party evaluators",
+    "published": "2026-09-12T09:08:22.637",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760530/Anthropics-Amodei-proposes-each-leading-AI-company-provide-continuous-employee-level-access-to-embedded-third-party-evaluators.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T10:15:02.226692-04:00"
+  },
+  {
+    "NewsID": 9760529,
+    "title": "Anthropic's Amodei: pacing means not halting model training or technical progress, ensuring companies take adequate time to align and safeguard models",
+    "published": "2026-09-12T09:06:36.13",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760529/Anthropics-Amodei-pacing-means-not-halting-model-training-or-technical-progress-ensuring-companies-take-adequate-time-to-align-and-safeguard-models.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T10:15:02.226713-04:00"
+  },
+  {
+    "NewsID": 9760528,
+    "title": "Anthropic’s Dario Amodei: proposing developing AI at a measured pace to ensure safety",
+    "published": "2026-09-12T09:05:44.283",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760528/Anthropics-Dario-Amodei-proposing-developing-AI-at-a-measured-pace-to-ensure-safety.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T10:15:02.226733-04:00"
+  },
+  {
+    "NewsID": 9760527,
+    "title": "Anthropic's Dario Amodei: proposing a three-step strategy to pace the frontier",
+    "published": "2026-09-12T09:05:03.703",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760527/Anthropics-Dario-Amodei-proposing-a-three-step-strategy-to-pace-the-frontier.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T10:15:02.226753-04:00"
+  },
+  {
+    "NewsID": 9760526,
+    "title": "Anthropic’s Dario Amodei: We must slow the pace of improving AI model capabilities",
+    "published": "2026-09-12T09:03:41.847",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760526/Anthropics-Dario-Amodei-We-must-slow-the-pace-of-improving-AI-model-capabilities.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T10:15:02.226773-04:00"
+  },
+  {
+    "NewsID": 9760516,
+    "title": "Iraq's Al-Tayyib border area with Iran closed after drone launch sites found: two Iraqi military sources",
+    "published": "2026-09-12T08:48:26.227",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760516/Iraqs-Al-Tayyib-border-area-with-Iran-closed-after-drone-launch-sites-found-two-Iraqi-military-sources.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T10:00:02.379074-04:00"
+  },
+  {
+    "NewsID": 9760515,
+    "title": "Modi, Xi highlight need to address concerns including trade imbalance, supply chain issues, and predictable market access: India foreign minister",
+    "published": "2026-09-12T08:46:27.103",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760515/Modi-Xi-highlight-need-to-address-concerns-including-trade-imbalance-supply-chain-issues-and-predictable-market-access-India-foreign-minister.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T10:00:02.379128-04:00"
+  },
+  {
+    "NewsID": 9760513,
+    "title": "India's Modi, China's Xi emphasize need to boost business ties and mobility between countries: India foreign ministry",
+    "published": "2026-09-12T08:45:29.94",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760513/Indias-Modi-Chinas-Xi-emphasize-need-to-boost-business-ties-and-mobility-between-countries-India-foreign-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T10:00:02.379152-04:00"
+  },
+  {
+    "NewsID": 9760511,
+    "title": "India foreign ministry: Modi, Xi agree differences must not turn into disputes",
+    "published": "2026-09-12T08:45:13.033",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760511/India-foreign-ministry-Modi-Xi-agree-differences-must-not-turn-into-disputes.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T10:00:02.379190-04:00"
+  },
+  {
+    "NewsID": 9760510,
+    "title": "India foreign ministry: Modi, Xi reaffirm both nations should adopt strategic, long-term view of ties",
+    "published": "2026-09-12T08:44:56.32",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760510/India-foreign-ministry-Modi-Xi-reaffirm-both-nations-should-adopt-strategic-long-term-view-of-ties.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T10:00:02.379212-04:00"
+  },
+  {
+    "NewsID": 9760509,
+    "title": "India’s Modi in meeting with China’s Xi underlined need for both sides to observe existing agreements and understandings on border issues: India foreign ministry",
+    "published": "2026-09-12T08:44:48",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760509/Indias-Modi-in-meeting-with-Chinas-Xi-underlined-need-for-both-sides-to-observe-existing-agreements-and-understandings-on-border-issues-India-foreign-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T09:45:02.608687-04:00"
+  },
+  {
+    "NewsID": 9760508,
+    "title": "India foreign ministry: Modi, Xi express commitment to fair, reasonable, mutually acceptable boundary resolution",
+    "published": "2026-09-12T08:44:26.173",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760508/India-foreign-ministry-Modi-Xi-express-commitment-to-fair-reasonable-mutually-acceptable-boundary-resolution.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T09:45:02.608755-04:00"
+  },
+  {
+    "NewsID": 9760507,
+    "title": "India foreign ministry: Modi tells China's Xi peace, stability in border areas vital for ongoing growth in bilateral ties",
+    "published": "2026-09-12T08:44:02.537",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760507/India-foreign-ministry-Modi-tells-Chinas-Xi-peace-stability-in-border-areas-vital-for-ongoing-growth-in-bilateral-ties.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T09:45:02.608783-04:00"
+  },
+  {
+    "NewsID": 9760480,
+    "title": "Iraq agrees to Iranian request to jointly probe drone launchers on border: Iraqi army",
+    "published": "2026-09-12T07:55:38.663",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760480/Iraq-agrees-to-Iranian-request-to-jointly-probe-drone-launchers-on-border-Iraqi-army.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T09:00:02.086636-04:00"
+  },
+  {
+    "NewsID": 9760479,
+    "title": "Bahrain: any deal must protect transit rights for all vessels without discrimination, fees or permits - state media",
+    "published": "2026-09-12T07:49:55.17",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760479/Bahrain-any-deal-must-protect-transit-rights-for-all-vessels-without-discrimination-fees-or-permits---state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T09:00:02.086690-04:00"
+  },
+  {
+    "NewsID": 9760478,
+    "title": "Bahrain: will skip Iran meeting on Hormuz Strait - state media",
+    "published": "2026-09-12T07:47:56.923",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760478/Bahrain-will-skip-Iran-meeting-on-Hormuz-Strait---state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T09:00:02.086714-04:00"
+  },
+  {
+    "NewsID": 9760477,
+    "title": "Bahrain: no meetings with Iran until diplomatic ties restored - state news agency",
+    "published": "2026-09-12T07:47:31.86",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760477/Bahrain-no-meetings-with-Iran-until-diplomatic-ties-restored---state-news-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T09:00:02.086735-04:00"
+  },
+  {
+    "NewsID": 9760474,
+    "title": "Kremlin expresses concern about situation in Bab el-Mandeb Strait - IFX",
+    "published": "2026-09-12T07:43:18.993",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760474/Kremlin-expresses-concern-about-situation-in-Bab-el-Mandeb-Strait---IFX.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T08:45:02.130212-04:00"
+  },
+  {
+    "NewsID": 9760464,
+    "title": "Nigel Farage's Reform UK party secures second £36 million contribution - Telegraph",
+    "published": "2026-09-12T06:50:54.963",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760464/Nigel-Farages-Reform-UK-party-secures-second-36-million-contribution---Telegraph.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T08:00:01.799367-04:00"
+  },
+  {
+    "NewsID": 9760463,
+    "title": "Zelenskiy: Three killed, dozens injured in Russian strikes on 10 Ukrainian regions Saturday",
+    "published": "2026-09-12T06:35:23.463",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760463/Zelenskiy-Three-killed-dozens-injured-in-Russian-strikes-on-10-Ukrainian-regions-Saturday.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T07:45:01.992761-04:00"
+  },
+  {
+    "NewsID": 9760460,
+    "title": "UK government on Trump’s Irish unification remarks: PM’s position remains no majority public backing for another referendum, and until that shifts, none will occur",
+    "published": "2026-09-12T06:04:04.92",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760460/UK-government-on-Trumps-Irish-unification-remarks-PMs-position-remains-no-majority-public-backing-for-another-referendum-and-until-that-shifts-none-will-occur.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T07:15:02.354853-04:00"
+  },
+  {
+    "NewsID": 9760459,
+    "title": "UK government on Trump’s Irish unification remarks: PM Burnham’s stance on Good Friday Agreement remains unchanged",
+    "published": "2026-09-12T06:02:45.89",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760459/UK-government-on-Trumps-Irish-unification-remarks-PM-Burnhams-stance-on-Good-Friday-Agreement-remains-unchanged.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T07:15:02.354907-04:00"
+  },
+  {
+    "NewsID": 9760453,
+    "title": "Trump on Irish unification: no matter what you say or how you say it, there’s no good solution",
+    "published": "2026-09-12T05:55:58.627",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760453/Trump-on-Irish-unification-no-matter-what-you-say-or-how-you-say-it-theres-no-good-solution.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T07:00:02.466009-04:00"
+  },
+  {
+    "NewsID": 9760452,
+    "title": "Russia's Rosatom: plans to boost specialists at Bushehr nuclear power plant in Iran to 150 soon",
+    "published": "2026-09-12T05:54:43.237",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760452/Russias-Rosatom-plans-to-boost-specialists-at-Bushehr-nuclear-power-plant-in-Iran-to-150-soon.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T07:00:02.466065-04:00"
+  },
+  {
+    "NewsID": 9760441,
+    "title": "Trump on Canada: likely to reach agreement fairly soon",
+    "published": "2026-09-12T04:57:08.483",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760441/Trump-on-Canada-likely-to-reach-agreement-fairly-soon.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T06:00:02.323246-04:00"
+  },
+  {
+    "NewsID": 9760440,
+    "title": "Trump on Canada: Canada must improve treatment of U.S. farmers",
+    "published": "2026-09-12T04:56:54.383",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760440/Trump-on-Canada-Canada-must-improve-treatment-of-US-farmers.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T06:00:02.323299-04:00"
+  },
+  {
+    "NewsID": 9760439,
+    "title": "Trump on Canada: agreement might occur at right time",
+    "published": "2026-09-12T04:56:42.163",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760439/Trump-on-Canada-agreement-might-occur-at-right-time.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T06:00:02.323323-04:00"
+  },
+  {
+    "NewsID": 9760438,
+    "title": "Trump on MCA trade pact: Canada eager to strike deal",
+    "published": "2026-09-12T04:56:19.08",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760438/Trump-on-MCA-trade-pact-Canada-eager-to-strike-deal.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T06:00:02.323344-04:00"
+  },
+  {
+    "NewsID": 9760437,
+    "title": "Trump on Saudi pipeline attack: We control Hormuz Strait",
+    "published": "2026-09-12T04:51:06.503",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760437/Trump-on-Saudi-pipeline-attack-We-control-Hormuz-Strait.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T06:00:02.323365-04:00"
+  },
+  {
+    "NewsID": 9760436,
+    "title": "Trump on Saudi pipeline strike: Houthis avoid conflict with US",
+    "published": "2026-09-12T04:50:33.62",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760436/Trump-on-Saudi-pipeline-strike-Houthis-avoid-conflict-with-US.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T06:00:02.323386-04:00"
+  },
+  {
+    "NewsID": 9760435,
+    "title": "Trump on Saudia pipeline attack: Iran likely behind assault",
+    "published": "2026-09-12T04:50:18.207",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760435/Trump-on-Saudia-pipeline-attack-Iran-likely-behind-assault.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T06:00:02.323429-04:00"
+  },
+  {
+    "NewsID": 9760434,
+    "title": "Trump on protests: \"I didn't know there was a protest\"",
+    "published": "2026-09-12T04:49:25.02",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760434/Trump-on-protests-I-didnt-know-there-was-a-protest.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T06:00:02.323452-04:00"
+  },
+  {
+    "NewsID": 9760433,
+    "title": "Trump on Saudi pipeline attack: Crown prince is a close ally, everything will work out fine",
+    "published": "2026-09-12T04:45:51",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760433/Trump-on-Saudi-pipeline-attack-Crown-prince-is-a-close-ally-everything-will-work-out-fine.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T06:00:02.323473-04:00"
+  },
+  {
+    "NewsID": 9760432,
+    "title": "Trump on Iran: oil prices to plunge when conflict ends",
+    "published": "2026-09-12T04:45:26.75",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760432/Trump-on-Iran-oil-prices-to-plunge-when-conflict-ends.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-12T06:00:02.323493-04:00"
+  },
+  {
     "NewsID": 9760431,
     "title": "Trump on Iran: war will conclude very soon",
     "published": "2026-09-12T04:44:44.073",
