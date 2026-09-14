@@ -1,5 +1,716 @@
 [
   {
+    "NewsID": 9761211,
+    "title": "China finance ministry auctions 7-year bonds at 1.49% yield: traders",
+    "published": "2026-09-13T22:37:30.727",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761211/China-finance-ministry-auctions-7-year-bonds-at-149-yield-traders.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T23:45:02.701055-04:00"
+  },
+  {
+    "NewsID": 9761171,
+    "title": "World Bank: approves $300 million financing to back reforms in Uruguay",
+    "published": "2026-09-13T22:23:13.02",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761171/World-Bank-approves-300-million-financing-to-back-reforms-in-Uruguay.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T23:30:01.872557-04:00"
+  },
+  {
+    "NewsID": 9761170,
+    "title": "Dollar/yen rises 0.3% to 154.02",
+    "published": "2026-09-13T21:51:05.193",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761170/Dollaryen-rises-03-to-15402.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T23:00:01.909824-04:00"
+  },
+  {
+    "NewsID": 9761169,
+    "title": "Japan chief cabinet secretary Kihara: will finalize budget while properly managing bond issuance amount",
+    "published": "2026-09-13T21:31:50",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761169/Japan-chief-cabinet-secretary-Kihara-will-finalize-budget-while-properly-managing-bond-issuance-amount.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T22:45:02.008413-04:00"
+  },
+  {
+    "NewsID": 9761168,
+    "title": "Strait of Hormuz commodity vessel crossings drop to single digits per day over weekend, under 10-day average near 14, data shows",
+    "published": "2026-09-13T21:30:32.443",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761168/Strait-of-Hormuz-commodity-vessel-crossings-drop-to-single-digits-per-day-over-weekend-under-10-day-average-near-14-data-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T22:45:02.008465-04:00"
+  },
+  {
+    "NewsID": 9761105,
+    "title": "S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.050% yield",
+    "published": "2026-09-13T20:40:04.003",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761105/S-Korea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-3050-yield.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T21:45:02.232568-04:00"
+  },
+  {
+    "NewsID": 9761104,
+    "title": "Hong Kong-listed shares of Z.AL 2513.HK drop as much as 10.5% after discounted share placement",
+    "published": "2026-09-13T20:34:11.773",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761104/Hong-Kong-listed-shares-of-ZAL-2513HK-drop-as-much-as-105-after-discounted-share-placement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T21:45:02.232622-04:00"
+  },
+  {
+    "NewsID": 9761090,
+    "title": "Amazon: we’ve decided to suspend operations with 21 Air",
+    "published": "2026-09-13T20:26:03.32",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761090/Amazon-weve-decided-to-suspend-operations-with-21-Air.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T21:30:02.356355-04:00"
+  },
+  {
+    "NewsID": 9761089,
+    "title": "China’s central bank injects 504 billion yuan via overnight and one-day reverse repos: statement",
+    "published": "2026-09-13T20:24:39.023",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761089/Chinas-central-bank-injects-504-billion-yuan-via-overnight-and-one-day-reverse-repos-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T21:30:02.356423-04:00"
+  },
+  {
+    "NewsID": 9761088,
+    "title": "China cbank: 7-day reverse repo volume drops to zero Monday amid primary dealer demand - statement",
+    "published": "2026-09-13T20:22:29.15",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761088/China-cbank-7-day-reverse-repo-volume-drops-to-zero-Monday-amid-primary-dealer-demand---statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T21:30:02.356450-04:00"
+  },
+  {
+    "NewsID": 9761087,
+    "title": "China sets yuan midpoint at strongest level since Feb. 3, 2023",
+    "published": "2026-09-13T20:17:42.19",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761087/China-sets-yuan-midpoint-at-strongest-level-since-Feb-3-2023.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T21:30:02.356471-04:00"
+  },
+  {
+    "NewsID": 9761077,
+    "title": "Taiwan overnight interbank rate opens at 0.805% vs 0.805% at previous session open",
+    "published": "2026-09-13T20:01:00.193",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761077/Taiwan-overnight-interbank-rate-opens-at-0805-vs-0805-at-previous-session-open.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T21:15:02.481519-04:00"
+  },
+  {
+    "NewsID": 9761075,
+    "title": "Amazon halts operations with 21 air after Miami crash: WSJ",
+    "published": "2026-09-13T19:48:12.323",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761075/Amazon-halts-operations-with-21-air-after-Miami-crash-WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T21:00:01.783190-04:00"
+  },
+  {
+    "NewsID": 9761070,
+    "title": "Election authority projection: Sweden's centre-left opposition bloc now seen at 176 seats vs 173 for governing coalition",
+    "published": "2026-09-13T19:34:30.29",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761070/Election-authority-projection-Swedens-centre-left-opposition-bloc-now-seen-at-176-seats-vs-173-for-governing-coalition.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T20:45:01.991288-04:00"
+  },
+  {
+    "NewsID": 9761065,
+    "title": "China PBOC likely to fix yuan midpoint at 6.7083 per dollar: estimate",
+    "published": "2026-09-13T19:22:33.78",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761065/China-PBOC-likely-to-fix-yuan-midpoint-at-67083-per-dollar-estimate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T20:30:02.231447-04:00"
+  },
+  {
+    "NewsID": 9761057,
+    "title": "Kennedy Center may shut as soon as Tuesday, warns of bankruptcy, documents show - Washington Post",
+    "published": "2026-09-13T19:00:19.9",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761057/Kennedy-Center-may-shut-as-soon-as-Tuesday-warns-of-bankruptcy-documents-show---Washington-Post.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T20:15:02.094502-04:00"
+  },
+  {
+    "NewsID": 9761056,
+    "title": "Danger has passed in Abha: Saudi civil defense",
+    "published": "2026-09-13T18:47:19.72",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761056/Danger-has-passed-in-Abha-Saudi-civil-defense.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T20:00:02.018311-04:00"
+  },
+  {
+    "NewsID": 9761048,
+    "title": "Danger has passed in Khamis Mushait: Saudi civil defense",
+    "published": "2026-09-13T18:46:05.953",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761048/Danger-has-passed-in-Khamis-Mushait-Saudi-civil-defense.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T20:00:02.018355-04:00"
+  },
+  {
+    "NewsID": 9761046,
+    "title": "Early warning issued in Abha to alert of possible danger: Saudi civil defense",
+    "published": "2026-09-13T18:30:22.77",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761046/Early-warning-issued-in-Abha-to-alert-of-possible-danger-Saudi-civil-defense.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T19:45:02.163089-04:00"
+  },
+  {
+    "NewsID": 9761045,
+    "title": "Early warning issued in Khamis Mushait to signal possible threat: Saudi civil defense",
+    "published": "2026-09-13T18:28:01.04",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761045/Early-warning-issued-in-Khamis-Mushait-to-signal-possible-threat-Saudi-civil-defense.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T19:30:02.406270-04:00"
+  },
+  {
+    "NewsID": 9761044,
+    "title": "US EPA set to repeal carbon limits for coal, gas power plants",
+    "published": "2026-09-13T18:24:59.293",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761044/US-EPA-set-to-repeal-carbon-limits-for-coal-gas-power-plants.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T19:30:02.406323-04:00"
+  },
+  {
+    "NewsID": 9761021,
+    "title": "New Zealand External Migration & Visitors Actual 8.5% (Forecast -, Previous 8.1%)",
+    "published": "2026-09-13T17:45:13.683",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761021/New-Zealand-External-Migration--Visitors-Actual-85-Forecast---Previous-81.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T19:00:02.730030-04:00"
+  },
+  {
+    "NewsID": 9761020,
+    "title": "New Zealand Visitor Arrivals Actual 3,010 (Forecast -, Previous 1,610 ,Revision 2,580)",
+    "published": "2026-09-13T17:45:13.183",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761020/New-Zealand-Visitor-Arrivals-Actual-3010-Forecast---Previous-1610-Revision-2580.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T19:00:02.730083-04:00"
+  },
+  {
+    "NewsID": 9761019,
+    "title": "New Zealand seasonally adjusted net migration rises 3,010 in July",
+    "published": "2026-09-13T17:45:04.997",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761019/New-Zealand-seasonally-adjusted-net-migration-rises-3010-in-July.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T19:00:02.730129-04:00"
+  },
+  {
+    "NewsID": 9761018,
+    "title": "NZ short-term visitors rise 8.5% in July vs year ago",
+    "published": "2026-09-13T17:45:04.973",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761018/NZ-short-term-visitors-rise-85-in-July-vs-year-ago.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T19:00:02.730153-04:00"
+  },
+  {
+    "NewsID": 9761017,
+    "title": "Sweden Prime Minister Ulf Kristersson: government formation remains an open question",
+    "published": "2026-09-13T17:39:46.46",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761017/Sweden-Prime-Minister-Ulf-Kristersson-government-formation-remains-an-open-question.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T18:45:02.791876-04:00"
+  },
+  {
+    "NewsID": 9761016,
+    "title": "Sweden Prime Minister Ulf Kristersson: to reach out to other party leaders to discuss potential collaboration",
+    "published": "2026-09-13T17:36:08.517",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761016/Sweden-Prime-Minister-Ulf-Kristersson-to-reach-out-to-other-party-leaders-to-discuss-potential-collaboration.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T18:45:02.791929-04:00"
+  },
+  {
+    "NewsID": 9761015,
+    "title": "Sweden Prime Minister Ulf Kristersson: awaiting final election outcome",
+    "published": "2026-09-13T17:33:16.383",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761015/Sweden-Prime-Minister-Ulf-Kristersson-awaiting-final-election-outcome.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T18:45:02.791953-04:00"
+  },
+  {
+    "NewsID": 9761009,
+    "title": "Shenzhen forms Syntron Information with 53.1 million international H-share offer",
+    "published": "2026-09-13T17:06:47.977",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761009/Shenzhen-forms-Syntron-Information-with-531-million-international-H-share-offer.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T18:15:02.975428-04:00"
+  },
+  {
+    "NewsID": 9761008,
+    "title": "Ligent Technologies: global offering includes 154.8 million international shares",
+    "published": "2026-09-13T17:06:33.293",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761008/Ligent-Technologies-global-offering-includes-1548-million-international-shares.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T18:15:02.975481-04:00"
+  },
+  {
+    "NewsID": 9761007,
+    "title": "Ligent Technologies announces offer price under global offering at HK$32.96 per share",
+    "published": "2026-09-13T17:06:26.003",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761007/Ligent-Technologies-announces-offer-price-under-global-offering-at-HK3296-per-share.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T18:15:02.975505-04:00"
+  },
+  {
+    "NewsID": 9761006,
+    "title": "Ligent Technologies announces global offering of 172 million shares",
+    "published": "2026-09-13T17:06:00.767",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761006/Ligent-Technologies-announces-global-offering-of-172-million-shares.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T18:15:02.975526-04:00"
+  },
+  {
+    "NewsID": 9761005,
+    "title": "Shenzhen establishes Syntron Information with maximum offer price HK$16.00 per H share in global offering",
+    "published": "2026-09-13T17:05:58.797",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761005/Shenzhen-establishes-Syntron-Information-with-maximum-offer-price-HK1600-per-H-share-in-global-offering.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T18:15:02.975547-04:00"
+  },
+  {
+    "NewsID": 9761004,
+    "title": "Shenzhen forms Syntron Information: 59 million H shares offered globally",
+    "published": "2026-09-13T17:05:41.21",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761004/Shenzhen-forms-Syntron-Information-59-million-H-shares-offered-globally.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T18:15:02.975567-04:00"
+  },
+  {
+    "NewsID": 9760999,
+    "title": "Elon Musk: highly confident SpaceX will launch Nvidia VR NLV72 AI computers in space next year - X post",
+    "published": "2026-09-13T16:54:24.54",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760999/Elon-Musk-highly-confident-SpaceX-will-launch-Nvidia-VR-NLV72-AI-computers-in-space-next-year---X-post.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T18:00:02.925000-04:00"
+  },
+  {
+    "NewsID": 9760988,
+    "title": "Election authority projection: Sweden's center-left opposition bloc poised to secure 165 seats in parliament",
+    "published": "2026-09-13T16:13:15.61",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760988/Election-authority-projection-Swedens-center-left-opposition-bloc-poised-to-secure-165-seats-in-parliament.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T17:15:02.473096-04:00"
+  },
+  {
+    "NewsID": 9760987,
+    "title": "Several blasts heard in Iran's Sirik: source unknown, state media.",
+    "published": "2026-09-13T16:02:07.683",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760987/Several-blasts-heard-in-Irans-Sirik-source-unknown-state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T17:15:02.473153-04:00"
+  },
+  {
+    "NewsID": 9760965,
+    "title": "Sweden's Liberals party forecast to surpass parliament's 4% threshold, broadcaster SVT projection shows",
+    "published": "2026-09-13T14:46:24.973",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760965/Swedens-Liberals-party-forecast-to-surpass-parliaments-4-threshold-broadcaster-SVT-projection-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T16:00:02.965081-04:00"
+  },
+  {
+    "NewsID": 9760964,
+    "title": "Sweden’s right-wing governing bloc poised to secure 175 seats in parliament, broadcaster SVT projection shows",
+    "published": "2026-09-13T14:46:14.28",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760964/Swedens-right-wing-governing-bloc-poised-to-secure-175-seats-in-parliament-broadcaster-SVT-projection-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T16:00:02.965134-04:00"
+  },
+  {
+    "NewsID": 9760963,
+    "title": "Sweden's centre-left opposition bloc projected to secure 174 seats in parliament, broadcaster SVT shows",
+    "published": "2026-09-13T14:46:06.81",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760963/Swedens-centre-left-opposition-bloc-projected-to-secure-174-seats-in-parliament-broadcaster-SVT-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T16:00:02.965170-04:00"
+  },
+  {
+    "NewsID": 9760962,
+    "title": "Postponement of meeting came at request of certain regional countries: Iran's Fars",
+    "published": "2026-09-13T14:43:38",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760962/Postponement-of-meeting-came-at-request-of-certain-regional-countries-Irans-Fars.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T15:45:02.866546-04:00"
+  },
+  {
+    "NewsID": 9760961,
+    "title": "Postponement of meeting between Gulf countries and Iran a joint decision by Tehran and Muscat: Iran's Fars",
+    "published": "2026-09-13T14:42:03.2",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760961/Postponement-of-meeting-between-Gulf-countries-and-Iran-a-joint-decision-by-Tehran-and-Muscat-Irans-Fars.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T15:45:02.866600-04:00"
+  },
+  {
+    "NewsID": 9760949,
+    "title": "Oman's foreign minister: We remain committed to fostering dialogue that supports stability and lasting cooperation in the region",
+    "published": "2026-09-13T14:07:07.26",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760949/Omans-foreign-minister-We-remain-committed-to-fostering-dialogue-that-supports-stability-and-lasting-cooperation-in-the-region.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T15:15:03.514477-04:00"
+  },
+  {
+    "NewsID": 9760948,
+    "title": "Oman's foreign minister: regional meeting scheduled for tomorrow in Salalah postponed in the interest of consensus",
+    "published": "2026-09-13T14:06:50.64",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760948/Omans-foreign-minister-regional-meeting-scheduled-for-tomorrow-in-Salalah-postponed-in-the-interest-of-consensus.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T15:15:03.514530-04:00"
+  },
+  {
+    "NewsID": 9760944,
+    "title": "Canada aims for Ukraine loan role to strengthen EU relations - FT",
+    "published": "2026-09-13T14:00:10.253",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760944/Canada-aims-for-Ukraine-loan-role-to-strengthen-EU-relations---FT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T15:15:03.514554-04:00"
+  },
+  {
+    "NewsID": 9760943,
+    "title": "Trump: will consider releasing additional records related to 9/11 attacks",
+    "published": "2026-09-13T13:52:01.51",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760943/Trump-will-consider-releasing-additional-records-related-to-911-attacks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T15:00:02.469378-04:00"
+  },
+  {
+    "NewsID": 9760932,
+    "title": "Sweden's centre-left bloc projected to secure 51.3% of votes in election: public broadcaster SVT exit poll",
+    "published": "2026-09-13T13:08:26.813",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760932/Swedens-centre-left-bloc-projected-to-secure-513-of-votes-in-election-public-broadcaster-SVT-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T14:15:02.019784-04:00"
+  },
+  {
+    "NewsID": 9760931,
+    "title": "Sweden's right-wing ruling bloc tipped to secure 51.3% of vote in election: public broadcaster SVT exit poll",
+    "published": "2026-09-13T13:05:27.53",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760931/Swedens-right-wing-ruling-bloc-tipped-to-secure-513-of-vote-in-election-public-broadcaster-SVT-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T14:15:02.019836-04:00"
+  },
+  {
+    "NewsID": 9760930,
+    "title": "Sweden's centre-left bloc projected to secure 46.8% of votes in election: public broadcaster SVT exit poll",
+    "published": "2026-09-13T13:05:20.53",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760930/Swedens-centre-left-bloc-projected-to-secure-468-of-votes-in-election-public-broadcaster-SVT-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T14:15:02.019860-04:00"
+  },
+  {
+    "NewsID": 9760929,
+    "title": "Sweden's Liberals party expected to clear parliament's 4% threshold: public broadcaster SVT exit poll",
+    "published": "2026-09-13T13:04:57.53",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760929/Swedens-Liberals-party-expected-to-clear-parliaments-4-threshold-public-broadcaster-SVT-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T14:15:02.019881-04:00"
+  },
+  {
+    "NewsID": 9760928,
+    "title": "Sweden's Liberals party seen surpassing parliament's 4% threshold: TV4 election day poll",
+    "published": "2026-09-13T13:04:14.927",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760928/Swedens-Liberals-party-seen-surpassing-parliaments-4-threshold-TV4-election-day-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T14:15:02.019902-04:00"
+  },
+  {
+    "NewsID": 9760927,
+    "title": "Sweden's right-wing governing bloc set to capture 47% of votes in election: TV4 election day poll",
+    "published": "2026-09-13T13:04:01.45",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760927/Swedens-right-wing-governing-bloc-set-to-capture-47-of-votes-in-election-TV4-election-day-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T14:15:02.019922-04:00"
+  },
+  {
+    "NewsID": 9760926,
+    "title": "Sweden's centre-left opposition bloc to secure 51.3% of votes in election: TV4 election day poll",
+    "published": "2026-09-13T13:03:50.617",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760926/Swedens-centre-left-opposition-bloc-to-secure-513-of-votes-in-election-TV4-election-day-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T14:15:02.019943-04:00"
+  },
+  {
+    "NewsID": 9760925,
+    "title": "Sweden Democrats forecast to gather 17.2% of votes in election vs 20.5% in 2022 public broadcaster SVT exit poll",
+    "published": "2026-09-13T13:02:07.333",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760925/Sweden-Democrats-forecast-to-gather-172-of-votes-in-election-vs-205-in-2022-public-broadcaster-SVT-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T14:15:02.019963-04:00"
+  },
+  {
+    "NewsID": 9760923,
+    "title": "Sweden's Social Democrats forecasted to secure 28.4% of votes in election vs 30.3% in 2022 - public broadcaster SVT exit poll",
+    "published": "2026-09-13T13:00:55.983",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760923/Swedens-Social-Democrats-forecasted-to-secure-284-of-votes-in-election-vs-303-in-2022---public-broadcaster-SVT-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T14:15:02.019984-04:00"
+  },
+  {
+    "NewsID": 9760921,
+    "title": "Trump: lifting tariffs on Irish whiskey",
+    "published": "2026-09-13T12:46:03.077",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760921/Trump-lifting-tariffs-on-Irish-whiskey.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T14:00:02.065601-04:00"
+  },
+  {
+    "NewsID": 9760898,
+    "title": "Danger has passed in Saudi Arabia’s Abha: Saudi Civil Defence",
+    "published": "2026-09-13T10:18:12.073",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760898/Danger-has-passed-in-Saudi-Arabias-Abha-Saudi-Civil-Defence.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T11:30:02.442661-04:00"
+  },
+  {
+    "NewsID": 9760897,
+    "title": "Danger has passed in Saudi Arabia's Khamis Mushait: Saudi civil defence",
+    "published": "2026-09-13T10:17:25.3",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760897/Danger-has-passed-in-Saudi-Arabias-Khamis-Mushait-Saudi-civil-defence.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T11:30:02.442714-04:00"
+  },
+  {
+    "NewsID": 9760891,
+    "title": "Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha: Saudi civil defence warns of potential risk",
+    "published": "2026-09-13T10:10:47.327",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760891/Emergency-alert-issued-in-Saudi-Arabias-Khamis-Mushait-and-Abha-Saudi-civil-defence-warns-of-potential-risk.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T11:15:02.530773-04:00"
+  },
+  {
+    "NewsID": 9760872,
+    "title": "Kosovo parliament reappoints Albin Kurti as prime minister",
+    "published": "2026-09-13T08:36:33.9",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760872/Kosovo-parliament-reappoints-Albin-Kurti-as-prime-minister.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T09:45:01.777709-04:00"
+  },
+  {
+    "NewsID": 9760868,
+    "title": "Trump on China: not concerned Xi will cancel summit, says China has treated US fairly over recent years",
+    "published": "2026-09-13T08:15:28.94",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760868/Trump-on-China-not-concerned-Xi-will-cancel-summit-says-China-has-treated-US-fairly-over-recent-years.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T09:30:01.947791-04:00"
+  },
+  {
+    "NewsID": 9760865,
+    "title": "Trump on Irish unity: Won't discuss Scotland for now, will address later",
+    "published": "2026-09-13T08:14:32.57",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760865/Trump-on-Irish-unity-Wont-discuss-Scotland-for-now-will-address-later.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T09:15:02.089291-04:00"
+  },
+  {
+    "NewsID": 9760864,
+    "title": "Trump on Irish unity: natural to unite north and south",
+    "published": "2026-09-13T08:14:17.35",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760864/Trump-on-Irish-unity-natural-to-unite-north-and-south.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T09:15:02.089355-04:00"
+  },
+  {
+    "NewsID": 9760863,
+    "title": "Trump on Ukraine: we discussed that with Zelenskiy",
+    "published": "2026-09-13T08:13:17.15",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760863/Trump-on-Ukraine-we-discussed-that-with-Zelenskiy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T09:15:02.089380-04:00"
+  },
+  {
+    "NewsID": 9760862,
+    "title": "Trump on Ukraine: Zelenskiy must halt cutting diesel fuel supply in Russia",
+    "published": "2026-09-13T08:13:06.037",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760862/Trump-on-Ukraine-Zelenskiy-must-halt-cutting-diesel-fuel-supply-in-Russia.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T09:15:02.089400-04:00"
+  },
+  {
+    "NewsID": 9760861,
+    "title": "Trump on Iran: indifferent if gulf states engage with Iran, decision is theirs",
+    "published": "2026-09-13T08:12:23.223",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760861/Trump-on-Iran-indifferent-if-gulf-states-engage-with-Iran-decision-is-theirs.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T09:15:02.089419-04:00"
+  },
+  {
+    "NewsID": 9760860,
+    "title": "Trump: Iran eager to reach a deal",
+    "published": "2026-09-13T08:11:54.783",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760860/Trump-Iran-eager-to-reach-a-deal.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T09:15:02.089459-04:00"
+  },
+  {
+    "NewsID": 9760859,
+    "title": "Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms",
+    "published": "2026-09-13T08:11:42.577",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760859/Trump-on-Iran-Iran-war-will-wrap-up-perhaps-before-or-shortly-after-midterms.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T09:15:02.089480-04:00"
+  },
+  {
+    "NewsID": 9760858,
+    "title": "Trump: I always honor my commitments",
+    "published": "2026-09-13T08:11:02.34",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760858/Trump-I-always-honor-my-commitments.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T09:15:02.089499-04:00"
+  },
+  {
+    "NewsID": 9760857,
+    "title": "Trump: $5,000 post-election promise should be easy for Congress",
+    "published": "2026-09-13T08:10:49.69",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760857/Trump-5000-post-election-promise-should-be-easy-for-Congress.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T09:15:02.089518-04:00"
+  },
+  {
+    "NewsID": 9760856,
+    "title": "Trump on Fed decision next week: says US should have lowest rates globally",
+    "published": "2026-09-13T08:10:03.277",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760856/Trump-on-Fed-decision-next-week-says-US-should-have-lowest-rates-globally.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T09:15:02.089537-04:00"
+  },
+  {
+    "NewsID": 9760846,
+    "title": "Iranian president: talk with Abu Dhabi crown prince was positive, agreed to move beyond past - Tasnim",
+    "published": "2026-09-13T07:36:43.91",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760846/Iranian-president-talk-with-Abu-Dhabi-crown-prince-was-positive-agreed-to-move-beyond-past---Tasnim.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T08:45:02.379612-04:00"
+  },
+  {
+    "NewsID": 9760834,
+    "title": "Saudi Arabia has storage at Yanbu for only 5-7 days of exports, plus smaller amount stored in Egypt, three sources say",
+    "published": "2026-09-13T07:00:22.08",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760834/Saudi-Arabia-has-storage-at-Yanbu-for-only-5-7-days-of-exports-plus-smaller-amount-stored-in-Egypt-three-sources-say.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T08:15:02.599525-04:00"
+  },
+  {
+    "NewsID": 9760833,
+    "title": "Saudi pipeline outage threatens 4% loss in global oil supply unless pumping resumes within days, say traders, sources",
+    "published": "2026-09-13T07:00:19.56",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760833/Saudi-pipeline-outage-threatens-4-loss-in-global-oil-supply-unless-pumping-resumes-within-days-say-traders-sources.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T08:15:02.599594-04:00"
+  },
+  {
+    "NewsID": 9760816,
+    "title": "Lithuanian national crisis management centre: possible drone alert has ended",
+    "published": "2026-09-13T05:54:23.04",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760816/Lithuanian-national-crisis-management-centre-possible-drone-alert-has-ended.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T07:00:02.380137-04:00"
+  },
+  {
+    "NewsID": 9760803,
+    "title": "Lithuania closes Vilnius airport, NATO deploys fighter jets after potential drone sighting – national crisis management centre",
+    "published": "2026-09-13T05:29:27.947",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760803/Lithuania-closes-Vilnius-airport-NATO-deploys-fighter-jets-after-potential-drone-sighting--national-crisis-management-centre.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T06:30:02.718433-04:00"
+  },
+  {
+    "NewsID": 9760802,
+    "title": "z.al 2513.hk secures $5 billion through new share and convertible bond sales, filing reveals",
+    "published": "2026-09-13T05:26:25.847",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760802/zal-2513hk-secures-5-billion-through-new-share-and-convertible-bond-sales-filing-reveals.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T06:30:02.718499-04:00"
+  },
+  {
+    "NewsID": 9760801,
+    "title": "Goldenmax International denies reports of products certified into Nvidia, Huawei supply chains after unusual share price moves",
+    "published": "2026-09-13T05:26:25.683",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760801/Goldenmax-International-denies-reports-of-products-certified-into-Nvidia-Huawei-supply-chains-after-unusual-share-price-moves.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T06:30:02.718526-04:00"
+  },
+  {
+    "NewsID": 9760798,
+    "title": "South Korea industry minister: $200 billion total investment cap, $20 billion annual investment to be maintained as previously agreed with U.S.",
+    "published": "2026-09-13T05:12:20.68",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9760798/South-Korea-industry-minister-200-billion-total-investment-cap-20-billion-annual-investment-to-be-maintained-as-previously-agreed-with-US.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-13T06:15:01.842655-04:00"
+  },
+  {
     "NewsID": 9760787,
     "title": "Ukraine’s military: strike on Taneko oil refinery in Russia’s Tatarstan",
     "published": "2026-09-13T03:47:52.08",

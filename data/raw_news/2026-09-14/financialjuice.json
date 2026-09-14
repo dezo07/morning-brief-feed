@@ -1,0 +1,560 @@
+[
+  {
+    "NewsID": 9761627,
+    "title": "Japan and Yemen to work on Bab-el-Mandeb situation de-escalation",
+    "published": "2026-09-14T04:40:47.647",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761627/Japan-and-Yemen-to-work-on-Bab-el-Mandeb-situation-de-escalation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T05:45:02.622099-04:00"
+  },
+  {
+    "NewsID": 9761626,
+    "title": "Japan and Yemen foreign ministers held a telephone call today - MofA",
+    "published": "2026-09-14T04:38:26.743",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761626/Japan-and-Yemen-foreign-ministers-held-a-telephone-call-today---MofA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T05:45:02.622171-04:00"
+  },
+  {
+    "NewsID": 9761616,
+    "title": "Iran updates list of Hormuz non-compliant vessels to 77",
+    "published": "2026-09-14T04:25:20.627",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761616/Iran-updates-list-of-Hormuz-non-compliant-vessels-to-77.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T05:30:01.902770-04:00"
+  },
+  {
+    "NewsID": 9761615,
+    "title": "Saudi Crown Prince and US CENTCOM chief discuss latest regional developments",
+    "published": "2026-09-14T04:22:25.187",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761615/Saudi-Crown-Prince-and-US-CENTCOM-chief-discuss-latest-regional-developments.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T05:30:01.902823-04:00"
+  },
+  {
+    "NewsID": 9761614,
+    "title": "Iran's Persian Gulf Strait Authority: Vessels cooperating with the listed sanctioned vessels will be added to the list",
+    "published": "2026-09-14T04:17:19.627",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761614/Irans-Persian-Gulf-Strait-Authority-Vessels-cooperating-with-the-listed-sanctioned-vessels-will-be-added-to-the-list.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T05:30:01.902847-04:00"
+  },
+  {
+    "NewsID": 9761584,
+    "title": "Iran's Persian Gulf Strait Authority: Vessels will face restrictions on future passage, including fines, detention, or confiscation",
+    "published": "2026-09-14T04:10:47.423",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761584/Irans-Persian-Gulf-Strait-Authority-Vessels-will-face-restrictions-on-future-passage-including-fines-detention-or-confiscation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T05:15:02.179962-04:00"
+  },
+  {
+    "NewsID": 9761583,
+    "title": "Iran's Persian Gulf Strait Authority publishes an updated list of 77 vessels \"violating Iranian protocols for the Strait of Hormuz\"",
+    "published": "2026-09-14T04:10:20.587",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761583/Irans-Persian-Gulf-Strait-Authority-publishes-an-updated-list-of-77-vessels-violating-Iranian-protocols-for-the-Strait-of-Hormuz.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T05:15:02.180020-04:00"
+  },
+  {
+    "NewsID": 9761516,
+    "title": "ECB's Kazimir: Increasingly concerned about gas and power prices.",
+    "published": "2026-09-14T03:16:36.633",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761516/ECBs-Kazimir-Increasingly-concerned-about-gas-and-power-prices.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T04:30:02.582035-04:00"
+  },
+  {
+    "NewsID": 9761507,
+    "title": "Iran: US lack of mediation, is main obstacle to diplomacy.",
+    "published": "2026-09-14T03:10:52.493",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761507/Iran-US-lack-of-mediation-is-main-obstacle-to-diplomacy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T04:15:01.741349-04:00"
+  },
+  {
+    "NewsID": 9761506,
+    "title": "French President Macron to visit Spain Sept. 29-30",
+    "published": "2026-09-14T03:08:52.183",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761506/French-President-Macron-to-visit-Spain-Sept-29-30.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T04:15:01.741400-04:00"
+  },
+  {
+    "NewsID": 9761505,
+    "title": "German economy ministry: slowdown in previously robust economic momentum emerging at start of Q3",
+    "published": "2026-09-14T03:07:41.36",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761505/German-economy-ministry-slowdown-in-previously-robust-economic-momentum-emerging-at-start-of-Q3.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T04:15:01.741422-04:00"
+  },
+  {
+    "NewsID": 9761504,
+    "title": "Yemen's Houthis say they attacked Saudi's Khamis Mushait air base.",
+    "published": "2026-09-14T03:02:07.627",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761504/Yemens-Houthis-say-they-attacked-Saudis-Khamis-Mushait-air-base.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T04:15:01.741442-04:00"
+  },
+  {
+    "NewsID": 9761487,
+    "title": "ECB's Simkus: Can't exclude action at any meeting.",
+    "published": "2026-09-14T02:54:04.247",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761487/ECBs-Simkus-Cant-exclude-action-at-any-meeting.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T04:00:02.550954-04:00"
+  },
+  {
+    "NewsID": 9761486,
+    "title": "ECB's Simkus: ECB must also look at energy prices before October meeting.",
+    "published": "2026-09-14T02:53:46.83",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761486/ECBs-Simkus-ECB-must-also-look-at-energy-prices-before-October-meeting.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T04:00:02.550995-04:00"
+  },
+  {
+    "NewsID": 9761485,
+    "title": "ECB's Simkus: December is natural time to assess situation more.",
+    "published": "2026-09-14T02:53:32.51",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761485/ECBs-Simkus-December-is-natural-time-to-assess-situation-more.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T04:00:02.551010-04:00"
+  },
+  {
+    "NewsID": 9761456,
+    "title": "Iran's Foreign Ministry Spokesperson: Reports about nuclear activity in Iran's Pickaxe mountain (kolang kouh) are baseless.",
+    "published": "2026-09-14T02:37:40.21",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761456/Irans-Foreign-Ministry-Spokesperson-Reports-about-nuclear-activity-in-Irans-Pickaxe-mountain-kolang-kouh-are-baseless.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T03:45:02.696628-04:00"
+  },
+  {
+    "NewsID": 9761441,
+    "title": "Iran's foreign ministry spokesperson: Saudi Arabia insisted for meeting between Tehran and Gulf powers in Oman not to take place",
+    "published": "2026-09-14T02:28:47.067",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761441/Irans-foreign-ministry-spokesperson-Saudi-Arabia-insisted-for-meeting-between-Tehran-and-Gulf-powers-in-Oman-not-to-take-place.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T03:30:01.918881-04:00"
+  },
+  {
+    "NewsID": 9761426,
+    "title": "Currency Strength Chart: Strongest: USD, CAD, GBP, CHF, EUR, AUD, GBP, NZD - Weakest",
+    "published": "2026-09-14T02:02:06.677",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761426/Currency-Strength-Chart-Strongest-USD-CAD-GBP-CHF-EUR-AUD-GBP-NZD---Weakest.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T03:15:02.127995-04:00"
+  },
+  {
+    "NewsID": 9761377,
+    "title": "Swiss PPI MoM Actual 0.7% (Forecast -, Previous -0.1%)",
+    "published": "2026-09-14T01:30:00.333",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761377/Swiss-PPI-MoM-Actual-07-Forecast---Previous--01.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T02:45:02.415218-04:00"
+  },
+  {
+    "NewsID": 9761376,
+    "title": "Swiss PPI YoY Actual -0.7% (Forecast -, Previous -2.1%)",
+    "published": "2026-09-14T01:30:00.273",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761376/Swiss-PPI-YoY-Actual--07-Forecast---Previous--21.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T02:45:02.415297-04:00"
+  },
+  {
+    "NewsID": 9761337,
+    "title": "Swedish CPI YoY Actual 0.3% (Forecast 0.3%, Previous 0.3%)",
+    "published": "2026-09-14T01:00:12.923",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761337/Swedish-CPI-YoY-Actual-03-Forecast-03-Previous-03.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T02:15:01.983335-04:00"
+  },
+  {
+    "NewsID": 9761335,
+    "title": "Swedish CPI MoM Actual -0.3% (Forecast -0.3%, Previous -0.3%)",
+    "published": "2026-09-14T01:00:12.443",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761335/Swedish-CPI-MoM-Actual--03-Forecast--03-Previous--03.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T02:15:01.983381-04:00"
+  },
+  {
+    "NewsID": 9761322,
+    "title": "EU's Albuquerque: AI risks will only increase",
+    "published": "2026-09-14T00:33:46.157",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761322/EUs-Albuquerque-AI-risks-will-only-increase.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:45:02.236348-04:00"
+  },
+  {
+    "NewsID": 9761321,
+    "title": "EU's Albuquerque: Difficult to map AI risks",
+    "published": "2026-09-14T00:33:34.21",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761321/EUs-Albuquerque-Difficult-to-map-AI-risks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:45:02.236402-04:00"
+  },
+  {
+    "NewsID": 9761312,
+    "title": "Morning Juice - Europe Session Prep",
+    "published": "2026-09-14T00:18:58.93",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761312/Morning-Juice---Europe-Session-Prep.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:30:02.396408-04:00"
+  },
+  {
+    "NewsID": 9761299,
+    "title": "AI Concerns Pressure Stocks as Oil Jumps - Asia Market Wrap",
+    "published": "2026-09-14T00:14:50.137",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9761299/AI-Concerns-Pressure-Stocks-as-Oil-Jumps---Asia-Market-Wrap.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.569959-04:00"
+  },
+  {
+    "NewsID": 9761298,
+    "title": "Japanese Capacity Utilization MoM Actual 0.5% (Forecast -, Previous 4.1%)",
+    "published": "2026-09-14T00:08:04.923",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761298/Japanese-Capacity-Utilization-MoM-Actual-05-Forecast---Previous-41.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570014-04:00"
+  },
+  {
+    "NewsID": 9761297,
+    "title": "PBoC: to boost cross-border yuan usage",
+    "published": "2026-09-14T00:04:54.11",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761297/PBoC-to-boost-cross-border-yuan-usage.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570060-04:00"
+  },
+  {
+    "NewsID": 9761296,
+    "title": "PBoC: back building a new model for real estate development",
+    "published": "2026-09-14T00:04:54.1",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761296/PBoC-back-building-a-new-model-for-real-estate-development.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570104-04:00"
+  },
+  {
+    "NewsID": 9761295,
+    "title": "China unveils sovereign framework for green bonds",
+    "published": "2026-09-14T00:04:54.1",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761295/China-unveils-sovereign-framework-for-green-bonds.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570083-04:00"
+  },
+  {
+    "NewsID": 9761294,
+    "title": "PBoC: to innovate macroprudential policy tools and support steady economic recovery and growth",
+    "published": "2026-09-14T00:04:54.097",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761294/PBoC-to-innovate-macroprudential-policy-tools-and-support-steady-economic-recovery-and-growth.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570124-04:00"
+  },
+  {
+    "NewsID": 9761293,
+    "title": "PBoC: to consider expanding central bank's macroprudential and financial stability roles",
+    "published": "2026-09-14T00:04:54.05",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761293/PBoC-to-consider-expanding-central-banks-macroprudential-and-financial-stability-roles.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570144-04:00"
+  },
+  {
+    "NewsID": 9761292,
+    "title": "China Citic Bank: Liu Cheng steps down as president",
+    "published": "2026-09-14T00:04:54.02",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761292/China-Citic-Bank-Liu-Cheng-steps-down-as-president.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570184-04:00"
+  },
+  {
+    "NewsID": 9761291,
+    "title": "PBoC: plans to expand yuan offshore market",
+    "published": "2026-09-14T00:04:53.947",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761291/PBoC-plans-to-expand-yuan-offshore-market.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570208-04:00"
+  },
+  {
+    "NewsID": 9761290,
+    "title": "China TQ to Use Green Bond Proceeds for Financing Green Spending",
+    "published": "2026-09-14T00:04:53.94",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761290/China-TQ-to-Use-Green-Bond-Proceeds-for-Financing-Green-Spending.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570229-04:00"
+  },
+  {
+    "NewsID": 9761289,
+    "title": "Prime Minister Mitsotakis speaks in interview",
+    "published": "2026-09-14T00:04:53.933",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761289/Prime-Minister-Mitsotakis-speaks-in-interview.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570249-04:00"
+  },
+  {
+    "NewsID": 9761288,
+    "title": "PBoC: to enhance real estate finance oversight",
+    "published": "2026-09-14T00:04:53.85",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761288/PBoC-to-enhance-real-estate-finance-oversight.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570269-04:00"
+  },
+  {
+    "NewsID": 9761287,
+    "title": "PBoC: will prioritize real economy and financial services for the public",
+    "published": "2026-09-14T00:04:53.823",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761287/PBoC-will-prioritize-real-economy-and-financial-services-for-the-public.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570290-04:00"
+  },
+  {
+    "NewsID": 9761286,
+    "title": "PBoC: to intensify review of macroeconomic and financial efforts",
+    "published": "2026-09-14T00:04:53.773",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761286/PBoC-to-intensify-review-of-macroeconomic-and-financial-efforts.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570310-04:00"
+  },
+  {
+    "NewsID": 9761285,
+    "title": "PBoC: will support real estate market to halt decline and stabilize",
+    "published": "2026-09-14T00:04:53.76",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761285/PBoC-will-support-real-estate-market-to-halt-decline-and-stabilize.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570331-04:00"
+  },
+  {
+    "NewsID": 9761284,
+    "title": "PBoC holds 2025 macroprudential work conference",
+    "published": "2026-09-14T00:04:53.61",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761284/PBoC-holds-2025-macroprudential-work-conference.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570362-04:00"
+  },
+  {
+    "NewsID": 9761283,
+    "title": "PBoC: will allow currency swap and yuan settlement to play their parts",
+    "published": "2026-09-14T00:04:53.553",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761283/PBoC-will-allow-currency-swap-and-yuan-settlement-to-play-their-parts.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T01:15:02.570387-04:00"
+  },
+  {
+    "NewsID": 9761216,
+    "title": "Saudi civil defence: danger has passed – post on X",
+    "published": "2026-09-13T22:51:38.74",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761216/Saudi-civil-defence-danger-has-passed--post-on-X.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049480-04:00"
+  },
+  {
+    "NewsID": 9761215,
+    "title": "Saudi civil defence warns of possible threat in Khamis Mushait and Abha areas - post on X",
+    "published": "2026-09-13T22:48:46.403",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761215/Saudi-civil-defence-warns-of-possible-threat-in-Khamis-Mushait-and-Abha-areas---post-on-X.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049517-04:00"
+  },
+  {
+    "NewsID": 9761211,
+    "title": "China finance ministry auctions 7-year bonds at 1.49% yield: traders",
+    "published": "2026-09-13T22:37:30.727",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761211/China-finance-ministry-auctions-7-year-bonds-at-149-yield-traders.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049538-04:00"
+  },
+  {
+    "NewsID": 9761171,
+    "title": "World Bank: approves $300 million financing to back reforms in Uruguay",
+    "published": "2026-09-13T22:23:13.02",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761171/World-Bank-approves-300-million-financing-to-back-reforms-in-Uruguay.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049553-04:00"
+  },
+  {
+    "NewsID": 9761170,
+    "title": "Dollar/yen rises 0.3% to 154.02",
+    "published": "2026-09-13T21:51:05.193",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761170/Dollaryen-rises-03-to-15402.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049566-04:00"
+  },
+  {
+    "NewsID": 9761169,
+    "title": "Japan chief cabinet secretary Kihara: will finalize budget while properly managing bond issuance amount",
+    "published": "2026-09-13T21:31:50",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761169/Japan-chief-cabinet-secretary-Kihara-will-finalize-budget-while-properly-managing-bond-issuance-amount.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049578-04:00"
+  },
+  {
+    "NewsID": 9761168,
+    "title": "Strait of Hormuz commodity vessel crossings drop to single digits per day over weekend, under 10-day average near 14, data shows",
+    "published": "2026-09-13T21:30:32.443",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761168/Strait-of-Hormuz-commodity-vessel-crossings-drop-to-single-digits-per-day-over-weekend-under-10-day-average-near-14-data-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049590-04:00"
+  },
+  {
+    "NewsID": 9761105,
+    "title": "S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.050% yield",
+    "published": "2026-09-13T20:40:04.003",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761105/S-Korea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-3050-yield.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049602-04:00"
+  },
+  {
+    "NewsID": 9761104,
+    "title": "Hong Kong-listed shares of Z.AL 2513.HK drop as much as 10.5% after discounted share placement",
+    "published": "2026-09-13T20:34:11.773",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761104/Hong-Kong-listed-shares-of-ZAL-2513HK-drop-as-much-as-105-after-discounted-share-placement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049614-04:00"
+  },
+  {
+    "NewsID": 9761090,
+    "title": "Amazon: we’ve decided to suspend operations with 21 Air",
+    "published": "2026-09-13T20:26:03.32",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761090/Amazon-weve-decided-to-suspend-operations-with-21-Air.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049626-04:00"
+  },
+  {
+    "NewsID": 9761089,
+    "title": "China’s central bank injects 504 billion yuan via overnight and one-day reverse repos: statement",
+    "published": "2026-09-13T20:24:39.023",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761089/Chinas-central-bank-injects-504-billion-yuan-via-overnight-and-one-day-reverse-repos-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049638-04:00"
+  },
+  {
+    "NewsID": 9761088,
+    "title": "China cbank: 7-day reverse repo volume drops to zero Monday amid primary dealer demand - statement",
+    "published": "2026-09-13T20:22:29.15",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761088/China-cbank-7-day-reverse-repo-volume-drops-to-zero-Monday-amid-primary-dealer-demand---statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049650-04:00"
+  },
+  {
+    "NewsID": 9761087,
+    "title": "China sets yuan midpoint at strongest level since Feb. 3, 2023",
+    "published": "2026-09-13T20:17:42.19",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761087/China-sets-yuan-midpoint-at-strongest-level-since-Feb-3-2023.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049662-04:00"
+  },
+  {
+    "NewsID": 9761077,
+    "title": "Taiwan overnight interbank rate opens at 0.805% vs 0.805% at previous session open",
+    "published": "2026-09-13T20:01:00.193",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761077/Taiwan-overnight-interbank-rate-opens-at-0805-vs-0805-at-previous-session-open.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049674-04:00"
+  },
+  {
+    "NewsID": 9761075,
+    "title": "Amazon halts operations with 21 air after Miami crash: WSJ",
+    "published": "2026-09-13T19:48:12.323",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761075/Amazon-halts-operations-with-21-air-after-Miami-crash-WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049685-04:00"
+  },
+  {
+    "NewsID": 9761070,
+    "title": "Election authority projection: Sweden's centre-left opposition bloc now seen at 176 seats vs 173 for governing coalition",
+    "published": "2026-09-13T19:34:30.29",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761070/Election-authority-projection-Swedens-centre-left-opposition-bloc-now-seen-at-176-seats-vs-173-for-governing-coalition.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049697-04:00"
+  },
+  {
+    "NewsID": 9761065,
+    "title": "China PBOC likely to fix yuan midpoint at 6.7083 per dollar: estimate",
+    "published": "2026-09-13T19:22:33.78",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761065/China-PBOC-likely-to-fix-yuan-midpoint-at-67083-per-dollar-estimate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049709-04:00"
+  },
+  {
+    "NewsID": 9761057,
+    "title": "Kennedy Center may shut as soon as Tuesday, warns of bankruptcy, documents show - Washington Post",
+    "published": "2026-09-13T19:00:19.9",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761057/Kennedy-Center-may-shut-as-soon-as-Tuesday-warns-of-bankruptcy-documents-show---Washington-Post.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049721-04:00"
+  },
+  {
+    "NewsID": 9761056,
+    "title": "Danger has passed in Abha: Saudi civil defense",
+    "published": "2026-09-13T18:47:19.72",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761056/Danger-has-passed-in-Abha-Saudi-civil-defense.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049733-04:00"
+  },
+  {
+    "NewsID": 9761048,
+    "title": "Danger has passed in Khamis Mushait: Saudi civil defense",
+    "published": "2026-09-13T18:46:05.953",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9761048/Danger-has-passed-in-Khamis-Mushait-Saudi-civil-defense.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-14T00:00:03.049745-04:00"
+  }
+]
