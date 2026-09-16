@@ -250,5 +250,502 @@
     "published": "2026-09-15T04:12:46+00:00",
     "link": "https://www.investing.com/news/economy-news/governments-worldwide-are-way-behind-on-ai-says-bill-gates-4900762",
     "category_hint": "macro"
+  },
+  {
+    "title": "Stifel maintains Hold on Sionna Therapeutics stock at $7 target",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:48:56+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/stifel-maintains-hold-on-sionna-therapeutics-stock-at-7-target-93CH-4901461",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Stifel reiterates Buy on Kestra Medical stock, cites strong growth",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:48:51+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-kestra-medical-stock-cites-strong-growth-93CH-4901460",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Guggenheim reiterates Neutral on Wendy’s stock, cuts estimates",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:48:50+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-neutral-on-wendys-stock-cuts-estimates-93CH-4901459",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Amarc Resources names Braden Jensen interim CFO",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:48:34+00:00",
+    "link": "https://www.investing.com/news/company-news/amarc-resources-names-braden-jensen-interim-cfo-93CH-4901458",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Deutsche Bank bearish on Lundbeck as Rexulti faces mounting headwinds",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:48:05+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-bearish-on-lundbeck-as-rexulti-faces-mounting-headwinds-4901457",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Getinge at Morgan Stanley 24th annual global healthcare conference: turnaround gains",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:48:00+00:00",
+    "link": "https://www.investing.com/news/transcripts/getinge-at-morgan-stanley-24th-annual-global-healthcare-conference-turnaround-gains-93CH-4901455",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Veracyte at Morgan Stanley conference: growth, deals and new tests",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:48:00+00:00",
+    "link": "https://www.investing.com/news/transcripts/veracyte-at-morgan-stanley-conference-growth-deals-and-new-tests-93CH-4901456",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Five below CMOO Jacob Hawkins sells $203,583 in company stock",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:45:57+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/five-below-cmoo-jacob-hawkins-sells-203583-in-company-stock-93CH-4901452",
+    "category_hint": "markets"
+  },
+  {
+    "title": "ICU Medical at Morgan Stanley conference: pump cycle, margins in focus",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:45:36+00:00",
+    "link": "https://www.investing.com/news/transcripts/icu-medical-at-morgan-stanley-conference-pump-cycle-margins-in-focus-93CH-4901451",
+    "category_hint": "markets"
+  },
+  {
+    "title": "iShares delists currency trading lines for 10 ETF share classes",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:45:21+00:00",
+    "link": "https://www.investing.com/news/company-news/ishares-delists-currency-trading-lines-for-10-etf-share-classes-93CH-4901450",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Morgan Stanley now sees ECB delivering a rate hike in December",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:42:52+00:00",
+    "link": "https://www.investing.com/news/economy-news/morgan-stanley-now-sees-ecb-delivering-a-rate-hike-in-december-4901445",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Poland revives windfall tax on oil firms to cut fuel costs",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:29:43+00:00",
+    "link": "https://www.investing.com/news/economy-news/poland-revives-windfall-tax-on-oil-firms-to-cut-fuel-costs-93CH-4901403",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil’s top court to decide on unprecedented probe of sitting justice",
+    "source": "Investinglive",
+    "published": "2026-09-15T11:18:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazils-top-court-to-decide-on-unprecedented-probe-of-sitting-justice-4901333",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Polish interest rates likely to remain steady for two quarters, Dabrowski says",
+    "source": "Investinglive",
+    "published": "2026-09-15T10:43:19+00:00",
+    "link": "https://www.investing.com/news/economy-news/polish-interest-rates-likely-to-remain-steady-for-two-quarters-dabrowski-says-93CH-4901251",
+    "category_hint": "macro"
+  },
+  {
+    "title": "India’s unemployment rate falls to 5% in August",
+    "source": "Investinglive",
+    "published": "2026-09-15T10:41:48+00:00",
+    "link": "https://www.investing.com/news/economy-news/indias-unemployment-rate-falls-to-5-in-august-93CH-4901248",
+    "category_hint": "macro"
+  },
+  {
+    "title": "European shares slip as banks drag, oil-driven inflation fears weigh",
+    "source": "Investinglive",
+    "published": "2026-09-15T10:10:19+00:00",
+    "link": "https://www.investing.com/news/economy-news/europe-shares-slip-as-banks-drag-oildriven-inflation-fears-weigh-4900894",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Stocks wobble but no sign of panic as yields surge",
+    "source": "Investinglive",
+    "published": "2026-09-15T09:54:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/stocks-wobble-but-no-sign-of-panic-as-yields-surge-4901104",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Is the BoE’s rate-cut cycle giving way to hikes?",
+    "source": "Investinglive",
+    "published": "2026-09-15T09:39:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/is-the-boes-ratecut-cycle-giving-way-to-hikes-4901096",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Houthis target Saudi sites amid push to strengthen positions in Yemen - Reuters",
+    "source": "Investinglive",
+    "published": "2026-09-15T09:28:52+00:00",
+    "link": "https://www.investing.com/news/economy-news/houthis-target-saudi-sites-amid-push-to-strengthen-positions-in-yemen--reuters-4901070",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Matthews International director buys $19,990 in shares",
+    "source": "Investinglive",
+    "published": "2026-09-15T15:45:55+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/matthews-international-director-buys-19990-in-shares-93CH-4902232",
+    "category_hint": "markets"
+  },
+  {
+    "title": "KeyBanc reiterates Broadstone Net Lease stock rating on data center order",
+    "source": "Investinglive",
+    "published": "2026-09-15T15:44:45+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/keybanc-reiterates-broadstone-net-lease-stock-rating-on-data-center-order-93CH-4902230",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Silicon Motion at Piper Sandler growth frontiers conference: shift broadens",
+    "source": "Investinglive",
+    "published": "2026-09-15T15:43:37+00:00",
+    "link": "https://www.investing.com/news/transcripts/silicon-motion-at-piper-sandler-growth-frontiers-conference-shift-broadens-93CH-4902229",
+    "category_hint": "markets"
+  },
+  {
+    "title": "IQVIA Holdings stock hits 52-week high at 271.82 USD",
+    "source": "Investinglive",
+    "published": "2026-09-15T15:43:34+00:00",
+    "link": "https://www.investing.com/news/company-news/iqvia-holdings-stock-hits-52week-high-at-27182-usd-93CH-4902228",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Universal Health Services at 2026 Global Healthcare Conference: growth meets policy pressure",
+    "source": "Investinglive",
+    "published": "2026-09-15T15:43:12+00:00",
+    "link": "https://www.investing.com/news/transcripts/universal-health-services-at-2026-global-healthcare-conference-growth-meets-policy-pressure-93CH-4902227",
+    "category_hint": "markets"
+  },
+  {
+    "title": "L’Oreal steals French stock market crown from LVMH",
+    "source": "Investinglive",
+    "published": "2026-09-15T15:42:52+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/loreal-steals-french-stock-market-crown-from-lvmh-4902226",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Big U.S. bank shares fall after Bank of America outlook",
+    "source": "Investinglive",
+    "published": "2026-09-15T15:42:43+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/big-us-bank-shares-fall-after-bank-of-america-outlook-93CH-4902225",
+    "category_hint": "markets"
+  },
+  {
+    "title": "L’Oreal overtakes LVMH as France’s most valuable company",
+    "source": "Investinglive",
+    "published": "2026-09-15T15:40:00+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/loreal-overtakes-lvmh-as-frances-most-valuable-company-93CH-4902224",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Marqeta at FT Partners FinTech Conference: growth broadens as block fades",
+    "source": "Investinglive",
+    "published": "2026-09-15T15:39:00+00:00",
+    "link": "https://www.investing.com/news/transcripts/marqeta-at-ft-partners-fintech-conference-growth-broadens-as-block-fades-93CH-4902223",
+    "category_hint": "markets"
+  },
+  {
+    "title": "RBC Capital reiterates Costco stock rating on tariff refund outlook",
+    "source": "Investinglive",
+    "published": "2026-09-15T15:38:49+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-costco-stock-rating-on-tariff-refund-outlook-93CH-4902222",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Bessent says strong dollar based on credibility, policy certainty",
+    "source": "Investinglive",
+    "published": "2026-09-15T15:24:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/bessent-says-strong-dollar-based-on-credibility-policy-certainty-4902197",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US Treasury chief says rising bond yields due to ’global issues’",
+    "source": "Investinglive",
+    "published": "2026-09-15T15:01:05+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
+    "category_hint": "macro"
+  },
+  {
+    "title": "FAA chief says air traffic control upgrade costs exceed funding",
+    "source": "Investinglive",
+    "published": "2026-09-15T14:52:59+00:00",
+    "link": "https://www.investing.com/news/economy-news/faa-chief-says-air-traffic-control-upgrade-costs-exceed-funding-93CH-4902128",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Novo Nordisk rebrands as ’Novo’, announces cultural reset",
+    "source": "Investinglive",
+    "published": "2026-09-15T14:48:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/novo-nordisk-rebrands-asnovo-announces-cultural-reset-4902115",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US poverty rate at 10.2% in 2025, Census Bureau says",
+    "source": "Investinglive",
+    "published": "2026-09-15T14:31:05+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-poverty-rate-at-102-in-2025-census-bureau-says-4902071",
+    "category_hint": "macro"
+  },
+  {
+    "title": "India’s balance of payments surplus jumps to $20.8 billion",
+    "source": "Investinglive",
+    "published": "2026-09-15T13:08:15+00:00",
+    "link": "https://www.investing.com/news/economy-news/indias-balance-of-payments-surplus-jumps-to-208-billion-93CH-4901833",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil retail sales drop 0.8% in July, missing forecasts",
+    "source": "Investinglive",
+    "published": "2026-09-15T12:56:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-retail-sales-drop-08-in-july-missing-forecasts-93CH-4901755",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Morgan Stanley sees Canada entering two-stage growth acceleration",
+    "source": "Investinglive",
+    "published": "2026-09-15T12:40:09+00:00",
+    "link": "https://www.investing.com/news/economy-news/morgan-stanley-sees-canada-entering-twostage-growth-acceleration-4901709",
+    "category_hint": "macro"
+  },
+  {
+    "title": "ResMed stock jumps 3% on RBC Capital upgrade to Outperform",
+    "source": "Investinglive",
+    "published": "2026-09-15T19:57:10+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/resmed-stock-jumps-3-on-rbc-capital-upgrade-to-outperform-93CH-4902457",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Jack Henry & Associates stock sliding today?",
+    "source": "Investinglive",
+    "published": "2026-09-15T19:56:44+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-jack-henry--associates-stock-sliding-today-93CH-4902456",
+    "category_hint": "markets"
+  },
+  {
+    "title": "FIS stock hits 52-week low at 37.4 USD",
+    "source": "Investinglive",
+    "published": "2026-09-15T19:46:58+00:00",
+    "link": "https://www.investing.com/news/company-news/fis-stock-hits-52week-low-at-374-usd-93CH-4902454",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill",
+    "source": "Investinglive",
+    "published": "2026-09-15T19:42:35+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/bitcoin-and-crypto-stocks-remain-down-after-us-senate-fails-to-advance-regulatory-bill-4902453",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Crypto stocks fall as Senate blocks landmark digital asset bill",
+    "source": "Investinglive",
+    "published": "2026-09-15T19:38:59+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/crypto-stocks-fall-as-senate-blocks-landmark-digital-asset-bill-4902452",
+    "category_hint": "markets"
+  },
+  {
+    "title": "3M, DuPont must face Connecticut firefighters’ lawsuit over ’forever chemicals’",
+    "source": "Investinglive",
+    "published": "2026-09-15T19:37:21+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/3m-dupont-must-face-connecticut-firefighters-lawsuit-over-forever-chemicals-4902451",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Top SMid Biotechnology Stocks: JPMorgan’s Latest Pick",
+    "source": "Investinglive",
+    "published": "2026-09-15T19:32:01+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/top-smid-biotechnology-stocks-jpmorgans-latest-pick-93CH-4902449",
+    "category_hint": "markets"
+  },
+  {
+    "title": "JPMorgan Chase stock rises after upbeat revenue outlook",
+    "source": "Investinglive",
+    "published": "2026-09-15T19:27:47+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/jpmorgan-chase-stock-rises-after-upbeat-revenue-outlook-4902445",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Lennar earnings outlook: two consecutive misses and a stock near multi-year lows",
+    "source": "Investinglive",
+    "published": "2026-09-15T19:21:33+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/lennar-earnings-outlook-two-consecutive-misses-and-a-stock-near-multiyear-lows-93CH-4902443",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Dow Jones tests 52,400 support in bearish downtrend: Live levels",
+    "source": "Investinglive",
+    "published": "2026-09-15T19:18:41+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/dow-jones-tests-50sma-resistance-at-52931-live-levels-93CH-4899894",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US Treasury’s Bessent says bond yields reflect ’global issues’",
+    "source": "Investinglive",
+    "published": "2026-09-15T18:43:26+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
+    "category_hint": "macro"
+  },
+  {
+    "title": "U.S. war with Iran has cost $38B and is running at $3B per month, CBO says",
+    "source": "Investinglive",
+    "published": "2026-09-15T18:33:41+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-war-with-iran-has-cost-38b-and-is-running-at-3b-per-month-cbo-says-4902399",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says",
+    "source": "Investinglive",
+    "published": "2026-09-15T18:06:50+00:00",
+    "link": "https://www.investing.com/news/economy-news/iran-war-cost-hits-38-billion-forecast-to-rise-3-billion-a-month-cbo-says-4902379",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Russia warns US orbital weapons threaten space stability",
+    "source": "Investinglive",
+    "published": "2026-09-15T17:39:40+00:00",
+    "link": "https://www.investing.com/news/economy-news/russia-warns-us-orbital-weapons-threaten-space-stability-93CH-4902353",
+    "category_hint": "macro"
+  },
+  {
+    "title": "OpenAI explores Canada investment opportunities under Carney",
+    "source": "Investinglive",
+    "published": "2026-09-15T17:29:38+00:00",
+    "link": "https://www.investing.com/news/economy-news/openai-explores-canada-investment-opportunities-under-carney-4902348",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bessent calls US yen intervention \"nominal,\" defends trade",
+    "source": "Investinglive",
+    "published": "2026-09-15T17:22:14+00:00",
+    "link": "https://www.investing.com/news/economy-news/bessent-calls-us-yen-intervention-nominal-defends-trade-4902343",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Revolut wins Colombia bank license, targeting 2027 launch",
+    "source": "Investinglive",
+    "published": "2026-09-15T17:12:53+00:00",
+    "link": "https://www.investing.com/news/economy-news/revolut-wins-colombia-bank-license-targeting-2027-launch-4902334",
+    "category_hint": "macro"
+  },
+  {
+    "title": "French central bank trims growth outlook as demand softens",
+    "source": "Investinglive",
+    "published": "2026-09-15T16:42:38+00:00",
+    "link": "https://www.investing.com/news/economy-news/french-central-bank-trims-growth-outlook-as-demand-softens-4902305",
+    "category_hint": "macro"
+  },
+  {
+    "title": "European shares hit three-month low as oil spike revives inflation and rate worries",
+    "source": "Investinglive",
+    "published": "2026-09-15T16:37:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/europe-shares-slip-as-banks-drag-oildriven-inflation-fears-weigh-4900894",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Century Therapeutics CTO Gregory Russotti sells $4,992 in stock",
+    "source": "Investinglive",
+    "published": "2026-09-15T23:52:17+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/century-therapeutics-cto-gregory-russotti-sells-4992-in-stock-93CH-4902770",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Century Therapeutics SVP Douglas Carr sells $3,199 in shares",
+    "source": "Investinglive",
+    "published": "2026-09-15T23:52:16+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/century-therapeutics-svp-douglas-carr-sells-3199-in-shares-93CH-4902769",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Pagaya director Tami Rosen sells $143,915 of PGY shares",
+    "source": "Investinglive",
+    "published": "2026-09-15T23:51:48+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/pagaya-director-tami-rosen-sells-143915-of-pgy-shares-93CH-4902767",
+    "category_hint": "markets"
+  },
+  {
+    "title": "AI is not a ’monopoly of great powers’, China’s top newspaper says",
+    "source": "Investinglive",
+    "published": "2026-09-15T23:48:45+00:00",
+    "link": "https://www.investing.com/news/economy-news/ai-is-not-a-monopoly-of-great-powers-chinas-top-newspaper-says-4902766",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Hewlett Packard Enterprise CEO Antonio F. Neri sells $15.1m shares",
+    "source": "Investinglive",
+    "published": "2026-09-15T23:46:12+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/hewlett-packard-enterprise-ceo-antonio-f-neri-sells-151m-shares-93CH-4902765",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Radian Group Sr EVP Meghan Bartholomew sells $280,763 in stock",
+    "source": "Investinglive",
+    "published": "2026-09-15T23:46:01+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/radian-group-sr-evp-meghan-bartholomew-sells-280763-in-stock-93CH-4902764",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Uber president Jill Hazelbaker sells $2.01m in stock",
+    "source": "Investinglive",
+    "published": "2026-09-15T23:45:59+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/uber-president-jill-hazelbaker-sells-201m-in-stock-93CH-4902763",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Pagaya Technologies president Sanjiv Das sells $268,813 in stock.",
+    "source": "Investinglive",
+    "published": "2026-09-15T23:45:58+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/pagaya-technologies-president-sanjiv-das-sells-268813-in-stock-93CH-4902762",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Toyota revamp hints of wider industry shake-up in China",
+    "source": "Investinglive",
+    "published": "2026-09-15T23:43:32+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/analysistoyota-revamp-hints-of-wider-industry-shakeup-in-china-4901155",
+    "category_hint": "markets"
+  },
+  {
+    "title": "New York proposes $1 million per megawatt community investment for data centers",
+    "source": "Investinglive",
+    "published": "2026-09-15T23:42:52+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/new-york-proposes-1-million-per-megawatt-community-investment-for-data-centers-4902760",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US House committee recommends contempt of Congress for Leon Black in Epstein probe",
+    "source": "Investinglive",
+    "published": "2026-09-15T22:12:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-house-committee-recommends-contempt-of-congress-for-leon-black-in-epstein-probe-4902728",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
+    "source": "Investinglive",
+    "published": "2026-09-15T21:55:31+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Burnham and Trump to hold first face-to-face meeting in New York - The Times",
+    "source": "Investinglive",
+    "published": "2026-09-15T21:37:57+00:00",
+    "link": "https://www.investing.com/news/economy-news/burnham-and-trump-to-hold-first-facetoface-meeting-in-new-york--the-times-4902699",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trading Day: No hiding place",
+    "source": "Investinglive",
+    "published": "2026-09-15T21:20:10+00:00",
+    "link": "https://www.investing.com/news/economy-news/trading-day-no-hiding-place-4902677",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Argentina submits 2027 budget bill to Congress, foresees 4% GDP growth",
+    "source": "Investinglive",
+    "published": "2026-09-15T20:24:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/argentina-submits-2027-budget-bill-to-congress-foresees-4-gdp-growth-4902554",
+    "category_hint": "macro"
   }
 ]
