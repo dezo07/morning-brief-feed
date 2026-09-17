@@ -1,0 +1,650 @@
+[
+  {
+    "NewsID": 9767170,
+    "title": "New Zealand Annual Trade Bal. Actual -5.24B (Forecast -, Previous -5.24B)",
+    "published": "2026-09-17T04:02:50.9",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9767170/New-Zealand-Annual-Trade-Bal-Actual--524B-Forecast---Previous--524B.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T05:15:02.157072-04:00"
+  },
+  {
+    "NewsID": 9767143,
+    "title": "Eurozone CPI YoY Final Actual 3.2% (Forecast 3.3%, Previous 3.3%)",
+    "published": "2026-09-17T04:00:03.09",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9767143/Eurozone-CPI-YoY-Final-Actual-32-Forecast-33-Previous-33.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T05:15:02.157125-04:00"
+  },
+  {
+    "NewsID": 9767142,
+    "title": "Eurozone CPI MoM Final Actual 0.4% (Forecast 0.4%, Previous 0.2%)",
+    "published": "2026-09-17T04:00:02.99",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9767142/Eurozone-CPI-MoM-Final-Actual-04-Forecast-04-Previous-02.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T05:15:02.157149-04:00"
+  },
+  {
+    "NewsID": 9767141,
+    "title": "Eurozone Core CPI YoY Final Actual 2.4% (Forecast 2.4%, Previous 2.4%)",
+    "published": "2026-09-17T04:00:02.92",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9767141/Eurozone-Core-CPI-YoY-Final-Actual-24-Forecast-24-Previous-24.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T05:15:02.157193-04:00"
+  },
+  {
+    "NewsID": 9767140,
+    "title": "French 4 Yr OAT Bid-to-Cover Actual 2.73 (Forecast -, Previous 3.03)",
+    "published": "2026-09-17T03:58:37.25",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9767140/French-4-Yr-OAT-Bid-to-Cover-Actual-273-Forecast---Previous-303.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T05:00:02.674451-04:00"
+  },
+  {
+    "NewsID": 9767139,
+    "title": "French 4 Yr OAT Yield Actual 3.78% (Forecast -, Previous 2.99%)",
+    "published": "2026-09-17T03:58:37.167",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9767139/French-4-Yr-OAT-Yield-Actual-378-Forecast---Previous-299.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T05:00:02.674489-04:00"
+  },
+  {
+    "NewsID": 9767138,
+    "title": "French 3 Yr OAT Bid-to-Cover Actual 2.926 (Forecast -, Previous 3.66)",
+    "published": "2026-09-17T03:57:29.21",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9767138/French-3-Yr-OAT-Bid-to-Cover-Actual-2926-Forecast---Previous-366.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T05:00:02.674503-04:00"
+  },
+  {
+    "NewsID": 9767137,
+    "title": "French 3 Yr OAT Yield Actual 3.59% (Forecast -, Previous 3.17%)",
+    "published": "2026-09-17T03:57:28.36",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9767137/French-3-Yr-OAT-Yield-Actual-359-Forecast---Previous-317.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T05:00:02.674515-04:00"
+  },
+  {
+    "NewsID": 9767117,
+    "title": "UK Office for National Statistics: New approach of measuring productivity leads to relatively small changes in long-run growth in output per job and output per worker.",
+    "published": "2026-09-17T03:32:11.977",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9767117/UK-Office-for-National-Statistics-New-approach-of-measuring-productivity-leads-to-relatively-small-changes-in-long-run-growth-in-output-per-job-and-output-per-worker.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T04:45:01.889578-04:00"
+  },
+  {
+    "NewsID": 9767089,
+    "title": "Kazakhstan oil output estimated at 96 million tons in 2027, rising to 99-100 million tons in following years – IFX",
+    "published": "2026-09-17T03:10:27.71",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9767089/Kazakhstan-oil-output-estimated-at-96-million-tons-in-2027-rising-to-99-100-million-tons-in-following-years--IFX.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T04:15:02.269561-04:00"
+  },
+  {
+    "NewsID": 9767088,
+    "title": "Russian drone strike on Tanzania-flagged ship headed to Ukrainian port kills one, injures three crew: Ukraine's infrastructure ministry",
+    "published": "2026-09-17T03:06:11.487",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9767088/Russian-drone-strike-on-Tanzania-flagged-ship-headed-to-Ukrainian-port-kills-one-injures-three-crew-Ukraines-infrastructure-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T04:15:02.269626-04:00"
+  },
+  {
+    "NewsID": 9767081,
+    "title": "ECB's Makhlouf: Can't rule out anything at future meetings.",
+    "published": "2026-09-17T02:48:08.493",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9767081/ECBs-Makhlouf-Cant-rule-out-anything-at-future-meetings.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T04:00:02.037463-04:00"
+  },
+  {
+    "NewsID": 9767080,
+    "title": "ECB's Makhlouf: Risks to inflation remain on upside.",
+    "published": "2026-09-17T02:47:22.703",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9767080/ECBs-Makhlouf-Risks-to-inflation-remain-on-upside.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T04:00:02.037499-04:00"
+  },
+  {
+    "NewsID": 9767079,
+    "title": "ECB's Makhlouf: Not seeing sign of concerning 2nd-round effects.",
+    "published": "2026-09-17T02:47:12.76",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9767079/ECBs-Makhlouf-Not-seeing-sign-of-concerning-2nd-round-effects.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T04:00:02.037520-04:00"
+  },
+  {
+    "NewsID": 9767054,
+    "title": "Huawei faces constraints in expanding production for AI chips.",
+    "published": "2026-09-17T02:35:18.337",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9767054/Huawei-faces-constraints-in-expanding-production-for-AI-chips.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T03:45:02.220051-04:00"
+  },
+  {
+    "NewsID": 9767040,
+    "title": "Azerbaijan oil output falls 8.3% y/y to 2.2m tons in August - IFX",
+    "published": "2026-09-17T02:26:31.553",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9767040/Azerbaijan-oil-output-falls-83-yy-to-22m-tons-in-August---IFX.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T03:30:02.394813-04:00"
+  },
+  {
+    "NewsID": 9767039,
+    "title": "Kazakhstan's oil output seen at 96 mln tons in 2028, 99 million tons in 2029 - IFX",
+    "published": "2026-09-17T02:19:40.35",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9767039/Kazakhstans-oil-output-seen-at-96-mln-tons-in-2028-99-million-tons-in-2029---IFX.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T03:30:02.394878-04:00"
+  },
+  {
+    "NewsID": 9767038,
+    "title": "Xu: Huawei has a bigger China AI chip market share than Nvidia $NVDA",
+    "published": "2026-09-17T02:17:14.38",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9767038/Xu-Huawei-has-a-bigger-China-AI-chip-market-share-than-Nvidia-NVDA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T03:30:02.394905-04:00"
+  },
+  {
+    "NewsID": 9767023,
+    "title": "Huawei is testing its AI chips in limited foreign markets",
+    "published": "2026-09-17T02:12:58.613",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9767023/Huawei-is-testing-its-AI-chips-in-limited-foreign-markets.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T03:15:02.577804-04:00"
+  },
+  {
+    "NewsID": 9767021,
+    "title": "Currency Strength Chart: Strongest: NZD, JPY, AUD, CHF, GBP, EUR, CAD, USD - Weakest",
+    "published": "2026-09-17T02:03:21.647",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9767021/Currency-Strength-Chart-Strongest-NZD-JPY-AUD-CHF-GBP-EUR-CAD-USD---Weakest.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T03:15:02.577871-04:00"
+  },
+  {
+    "NewsID": 9767020,
+    "title": "EU: Canada deal is 'for our common strength’ - Spokesman",
+    "published": "2026-09-17T02:01:35.157",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9767020/EU-Canada-deal-is-for-our-common-strength---Spokesman.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T03:15:02.577897-04:00"
+  },
+  {
+    "NewsID": 9767004,
+    "title": "Swiss government: Iran conflict, high energy prices, and continuing uncertainty over trade policy pose significant risks to economic outlook",
+    "published": "2026-09-17T02:00:26.02",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9767004/Swiss-government-Iran-conflict-high-energy-prices-and-continuing-uncertainty-over-trade-policy-pose-significant-risks-to-economic-outlook.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T03:15:02.577919-04:00"
+  },
+  {
+    "NewsID": 9766993,
+    "title": "JBA's Kato: Rate still accommodative, expect more hikes",
+    "published": "2026-09-17T01:42:17.307",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9766993/JBAs-Kato-Rate-still-accommodative-expect-more-hikes.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T02:45:02.540863-04:00"
+  },
+  {
+    "NewsID": 9766951,
+    "title": "Japan Banking Lobby Head: JGB yields likely to rise further",
+    "published": "2026-09-17T01:08:26.937",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9766951/Japan-Banking-Lobby-Head-JGB-yields-likely-to-rise-further.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T02:15:01.891420-04:00"
+  },
+  {
+    "NewsID": 9766949,
+    "title": "Scope of Japan chip factory construction investment in the US likely to amount to several trillion Yen - Nikkei",
+    "published": "2026-09-17T01:07:13.43",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9766949/Scope-of-Japan-chip-factory-construction-investment-in-the-US-likely-to-amount-to-several-trillion-Yen---Nikkei.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T02:15:01.891456-04:00"
+  },
+  {
+    "NewsID": 9766943,
+    "title": "Japan and the US discussing chip factory construction as part of $550 bln investment talks - Nikkei",
+    "published": "2026-09-17T01:05:07.003",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9766943/Japan-and-the-US-discussing-chip-factory-construction-as-part-of-550-bln-investment-talks---Nikkei.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T02:15:01.891469-04:00"
+  },
+  {
+    "NewsID": 9766941,
+    "title": "Japan and the US are in talks on chip plant under investment plan - Nikkei",
+    "published": "2026-09-17T01:04:51.167",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9766941/Japan-and-the-US-are-in-talks-on-chip-plant-under-investment-plan---Nikkei.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T02:15:01.891481-04:00"
+  },
+  {
+    "NewsID": 9766920,
+    "title": "Swiss Trade Balance Actual 3,786M (Forecast -, Previous 8,730M ,Revision 5,742M)",
+    "published": "2026-09-17T00:58:37.693",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766920/Swiss-Trade-Balance-Actual-3786M-Forecast---Previous-8730M-Revision-5742M.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T02:00:02.458757-04:00"
+  },
+  {
+    "NewsID": 9766899,
+    "title": "Micron CEO: Micron to test and assemble hundreds of MLN chips in India next year",
+    "published": "2026-09-17T00:19:53.747",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9766899/Micron-CEO-Micron-to-test-and-assemble-hundreds-of-MLN-chips-in-India-next-year.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T01:30:01.757211-04:00"
+  },
+  {
+    "NewsID": 9766898,
+    "title": "Morning Juice - Europe Session Prep",
+    "published": "2026-09-17T00:18:54.777",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9766898/Morning-Juice---Europe-Session-Prep.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T01:30:01.757264-04:00"
+  },
+  {
+    "NewsID": 9766897,
+    "title": "Stocks Rebound as Treasuries Recover After Fed Hike - Asia Market Wrap",
+    "published": "2026-09-17T00:18:07.01",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9766897/Stocks-Rebound-as-Treasuries-Recover-After-Fed-Hike---Asia-Market-Wrap.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T01:30:01.757308-04:00"
+  },
+  {
+    "NewsID": 9766875,
+    "title": "Iranian foreign minister, Pakistan army chief discuss recent regional developments in phone call during Aragchi's Beijing visit on Wednesday: Iranian MI",
+    "published": "2026-09-17T00:00:18.43",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766875/Iranian-foreign-minister-Pakistan-army-chief-discuss-recent-regional-developments-in-phone-call-during-Aragchis-Beijing-visit-on-Wednesday-Iranian-MI.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T01:15:01.971021-04:00"
+  },
+  {
+    "NewsID": 9766866,
+    "title": "Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion",
+    "published": "2026-09-16T23:39:24.923",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766866/Japan-economy-minister-Kiuchi-wont-pursue-reckless-fiscal-expansion.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:45:01.946386-04:00"
+  },
+  {
+    "NewsID": 9766865,
+    "title": "Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion",
+    "published": "2026-09-16T23:35:06.507",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766865/Japan-economy-minister-Kiuchi-wont-pursue-reckless-fiscal-expansion.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:45:01.946439-04:00"
+  },
+  {
+    "NewsID": 9766864,
+    "title": "Japan economy minister Kiuchi: no comment on interest rates",
+    "published": "2026-09-16T23:34:21.047",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766864/Japan-economy-minister-Kiuchi-no-comment-on-interest-rates.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:45:01.946463-04:00"
+  },
+  {
+    "NewsID": 9766863,
+    "title": "Japan economy minister Kiuchi: aims to reassure and completely alleviate market concerns",
+    "published": "2026-09-16T23:32:51.347",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766863/Japan-economy-minister-Kiuchi-aims-to-reassure-and-completely-alleviate-market-concerns.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:45:01.946484-04:00"
+  },
+  {
+    "NewsID": 9766862,
+    "title": "Japan economy minister Kiuchi: aim to balance robust economy with fiscal sustainability",
+    "published": "2026-09-16T23:32:09.86",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766862/Japan-economy-minister-Kiuchi-aim-to-balance-robust-economy-with-fiscal-sustainability.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:45:01.946505-04:00"
+  },
+  {
+    "NewsID": 9766849,
+    "title": "Japanese Prime Minister Takaichi to host press briefing at 0930 GMT",
+    "published": "2026-09-16T23:30:20.59",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766849/Japanese-Prime-Minister-Takaichi-to-host-press-briefing-at-0930-GMT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:45:01.946525-04:00"
+  },
+  {
+    "NewsID": 9766848,
+    "title": "Dutch Unemployment rate SA Actual 4% (Forecast -, Previous 4.0%)",
+    "published": "2026-09-16T23:30:01.773",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766848/Dutch-Unemployment-rate-SA-Actual-4-Forecast---Previous-40.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:45:01.946546-04:00"
+  },
+  {
+    "NewsID": 9766847,
+    "title": "Japan economy minister Kiuchi to stay in role in cabinet reshuffle, government spokesperson says",
+    "published": "2026-09-16T23:27:36.507",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766847/Japan-economy-minister-Kiuchi-to-stay-in-role-in-cabinet-reshuffle-government-spokesperson-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:30:02.121906-04:00"
+  },
+  {
+    "NewsID": 9766846,
+    "title": "Japan finance minister Katayama to stay in post in cabinet reshuffle, government spokesperson:",
+    "published": "2026-09-16T23:24:01.44",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766846/Japan-finance-minister-Katayama-to-stay-in-post-in-cabinet-reshuffle-government-spokesperson.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:30:02.121970-04:00"
+  },
+  {
+    "NewsID": 9766845,
+    "title": "India foreign ministry: India will maintain approach via diversified sourcing and adapting to changing market dynamics",
+    "published": "2026-09-16T23:22:33.657",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766845/India-foreign-ministry-India-will-maintain-approach-via-diversified-sourcing-and-adapting-to-changing-market-dynamics.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:30:02.121997-04:00"
+  },
+  {
+    "NewsID": 9766844,
+    "title": "India foreign ministry: India remains strongly committed to securing energy supplies for its people",
+    "published": "2026-09-16T23:22:07.037",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766844/India-foreign-ministry-India-remains-strongly-committed-to-securing-energy-supplies-for-its-people.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:30:02.122018-04:00"
+  },
+  {
+    "NewsID": 9766843,
+    "title": "India foreign ministry: India has noted passage of bill sanctioning Russia and Iran in U.S. Congress",
+    "published": "2026-09-16T23:21:37.63",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766843/India-foreign-ministry-India-has-noted-passage-of-bill-sanctioning-Russia-and-Iran-in-US-Congress.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:30:02.122038-04:00"
+  },
+  {
+    "NewsID": 9766842,
+    "title": "Strait of Hormuz commodity vessel traffic declines to 3 on Wednesday, well below 10-day average of about 17, shipping data shows",
+    "published": "2026-09-16T23:16:33.66",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766842/Strait-of-Hormuz-commodity-vessel-traffic-declines-to-3-on-Wednesday-well-below-10-day-average-of-about-17-shipping-data-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:30:02.122058-04:00"
+  },
+  {
+    "NewsID": 9766813,
+    "title": "China's president Xi: enhance self-reliance and control of industrial chains - Xinhua",
+    "published": "2026-09-16T23:11:32.663",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766813/Chinas-president-Xi-enhance-self-reliance-and-control-of-industrial-chains---Xinhua.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:15:02.291283-04:00"
+  },
+  {
+    "NewsID": 9766812,
+    "title": "China's President Xi: coordinate high-quality growth and advanced security - Xinhua",
+    "published": "2026-09-16T23:10:56.73",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766812/Chinas-President-Xi-coordinate-high-quality-growth-and-advanced-security---Xinhua.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:15:02.291336-04:00"
+  },
+  {
+    "NewsID": 9766811,
+    "title": "China's President Xi: to boost advanced manufacturing - Xinhua",
+    "published": "2026-09-16T23:10:38.417",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766811/Chinas-President-Xi-to-boost-advanced-manufacturing---Xinhua.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:15:02.291381-04:00"
+  },
+  {
+    "NewsID": 9766810,
+    "title": "China's Xi issues key directives on advanced manufacturing development - Xinhua",
+    "published": "2026-09-16T23:09:57.067",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766810/Chinas-Xi-issues-key-directives-on-advanced-manufacturing-development---Xinhua.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:15:02.291404-04:00"
+  },
+  {
+    "NewsID": 9766809,
+    "title": "Brussels urges Beijing to limit Chinese hybrid vehicle sales to about 15% of EU market - FT",
+    "published": "2026-09-16T23:04:17.04",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766809/Brussels-urges-Beijing-to-limit-Chinese-hybrid-vehicle-sales-to-about-15-of-EU-market---FT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:15:02.291425-04:00"
+  },
+  {
+    "NewsID": 9766808,
+    "title": "EU urges China to voluntarily limit hybrid car exports to avoid trade war: FT",
+    "published": "2026-09-16T23:01:58.71",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766808/EU-urges-China-to-voluntarily-limit-hybrid-car-exports-to-avoid-trade-war-FT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:15:02.291446-04:00"
+  },
+  {
+    "NewsID": 9766807,
+    "title": "EU asks China to voluntarily curb car exports - FT",
+    "published": "2026-09-16T23:01:38.873",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766807/EU-asks-China-to-voluntarily-curb-car-exports---FT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:15:02.291466-04:00"
+  },
+  {
+    "NewsID": 9766799,
+    "title": "Ukraine drone strike damages oil refinery in Russia's Yaroslavl, governor says",
+    "published": "2026-09-16T22:47:20.12",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766799/Ukraine-drone-strike-damages-oil-refinery-in-Russias-Yaroslavl-governor-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938105-04:00"
+  },
+  {
+    "NewsID": 9766790,
+    "title": "Japan finance minister Katayama: expect BOJ to closely align with government, apply suitable monetary policy to meet 2% inflation goal",
+    "published": "2026-09-16T22:41:58.61",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766790/Japan-finance-minister-Katayama-expect-BOJ-to-closely-align-with-government-apply-suitable-monetary-policy-to-meet-2-inflation-goal.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938140-04:00"
+  },
+  {
+    "NewsID": 9766789,
+    "title": "Japan finance minister Katayama: no remarks on BoJ policy",
+    "published": "2026-09-16T22:41:16.04",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766789/Japan-finance-minister-Katayama-no-remarks-on-BoJ-policy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938154-04:00"
+  },
+  {
+    "NewsID": 9766788,
+    "title": "Japan finance minister Katayama: we are committed to tackling extreme volatility with launch of Japan-U.S. joint intervention",
+    "published": "2026-09-16T22:38:41.88",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766788/Japan-finance-minister-Katayama-we-are-committed-to-tackling-extreme-volatility-with-launch-of-Japan-US-joint-intervention.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938180-04:00"
+  },
+  {
+    "NewsID": 9766787,
+    "title": "Japan finance minister Katayama: will review budget requests, manage debt issuance to maintain market trust",
+    "published": "2026-09-16T22:37:42.12",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766787/Japan-finance-minister-Katayama-will-review-budget-requests-manage-debt-issuance-to-maintain-market-trust.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938193-04:00"
+  },
+  {
+    "NewsID": 9766757,
+    "title": "Japan chief cabinet secretary Kihara: continue close communication with US Treasury to maintain orderly forex market",
+    "published": "2026-09-16T22:10:02.627",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766757/Japan-chief-cabinet-secretary-Kihara-continue-close-communication-with-US-Treasury-to-maintain-orderly-forex-market.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938206-04:00"
+  },
+  {
+    "NewsID": 9766751,
+    "title": "China’s chief trade negotiator Li Chenggang met with business delegation to discuss China-US economic, trade ties: statement",
+    "published": "2026-09-16T21:49:16.043",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766751/Chinas-chief-trade-negotiator-Li-Chenggang-met-with-business-delegation-to-discuss-China-US-economic-trade-ties-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938218-04:00"
+  },
+  {
+    "NewsID": 9766622,
+    "title": "Taiwan stocks advance more than 2%",
+    "published": "2026-09-16T20:30:48.967",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766622/Taiwan-stocks-advance-more-than-2.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938231-04:00"
+  },
+  {
+    "NewsID": 9766615,
+    "title": "China central bank injects 600 billion yuan via overnight reverse repos: statement",
+    "published": "2026-09-16T20:22:08.183",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766615/China-central-bank-injects-600-billion-yuan-via-overnight-reverse-repos-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938243-04:00"
+  },
+  {
+    "NewsID": 9766614,
+    "title": "North Korea vice defence minister: will keep expanding defensive nuclear deterrent",
+    "published": "2026-09-16T20:21:55.33",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766614/North-Korea-vice-defence-minister-will-keep-expanding-defensive-nuclear-deterrent.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938255-04:00"
+  },
+  {
+    "NewsID": 9766613,
+    "title": "North Korea vice defense minister: US arms buildup validates Pyongyang's nuclear force expansion",
+    "published": "2026-09-16T20:21:12.47",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766613/North-Korea-vice-defense-minister-US-arms-buildup-validates-Pyongyangs-nuclear-force-expansion.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938267-04:00"
+  },
+  {
+    "NewsID": 9766612,
+    "title": "China c.bank injects 162 bln yuan through 7-day reverse repos at 1.40% vs previous 1.40%: statement",
+    "published": "2026-09-16T20:20:54.48",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766612/China-cbank-injects-162-bln-yuan-through-7-day-reverse-repos-at-140-vs-previous-140-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938279-04:00"
+  },
+  {
+    "NewsID": 9766611,
+    "title": "China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC",
+    "published": "2026-09-16T20:19:12.1",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766611/China-sets-yuan-midpoint-at-strongest-level-since-Feb-3-2023-according-to-PBOC.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938291-04:00"
+  },
+  {
+    "NewsID": 9766594,
+    "title": "Russian air strike wounds 10 in Ukraine's Kyiv, city authorities say",
+    "published": "2026-09-16T20:12:28.59",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766594/Russian-air-strike-wounds-10-in-Ukraines-Kyiv-city-authorities-say.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938303-04:00"
+  },
+  {
+    "NewsID": 9766593,
+    "title": "Hong Kong Monetary Authority chief executive: widening interest rate gap with US could trigger carry trade, pushing HK dollar exchange rate toward weaker side of band",
+    "published": "2026-09-16T20:09:42.53",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766593/Hong-Kong-Monetary-Authority-chief-executive-widening-interest-rate-gap-with-US-could-trigger-carry-trade-pushing-HK-dollar-exchange-rate-toward-weaker-side-of-band.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938315-04:00"
+  },
+  {
+    "NewsID": 9766592,
+    "title": "South Korea foreign minister: will uphold firm position on matters opposing national interest",
+    "published": "2026-09-16T20:02:26.15",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766592/South-Korea-foreign-minister-will-uphold-firm-position-on-matters-opposing-national-interest.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938327-04:00"
+  },
+  {
+    "NewsID": 9766584,
+    "title": "South Korea foreign minister: US investment pact also on agenda in US-Korea foreign ministers meeting",
+    "published": "2026-09-16T20:01:18.687",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766584/South-Korea-foreign-minister-US-investment-pact-also-on-agenda-in-US-Korea-foreign-ministers-meeting.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938339-04:00"
+  },
+  {
+    "NewsID": 9766580,
+    "title": "South Korea foreign minister: US investment pact announcement delayed to clarify procedural matters",
+    "published": "2026-09-16T20:00:47.85",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766580/South-Korea-foreign-minister-US-investment-pact-announcement-delayed-to-clarify-procedural-matters.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938351-04:00"
+  },
+  {
+    "NewsID": 9766579,
+    "title": "Taiwan overnight interbank rate starts at 0.805% matching previous session open",
+    "published": "2026-09-16T20:00:24.587",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766579/Taiwan-overnight-interbank-rate-starts-at-0805-matching-previous-session-open.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938363-04:00"
+  },
+  {
+    "NewsID": 9766576,
+    "title": "South Korea foreign minister: military deployment to Hormuz Strait remains undecided",
+    "published": "2026-09-16T19:58:17.05",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9766576/South-Korea-foreign-minister-military-deployment-to-Hormuz-Strait-remains-undecided.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-17T00:00:01.938375-04:00"
+  }
+]
