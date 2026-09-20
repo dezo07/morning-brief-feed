@@ -1,5 +1,293 @@
 [
   {
+    "NewsID": 9770621,
+    "title": "China central bank injects 32 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+    "published": "2026-09-19T20:20:57.673",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770621/China-central-bank-injects-32-billion-yuan-via-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T21:30:02.081050-04:00"
+  },
+  {
+    "NewsID": 9770612,
+    "title": "China sets five-year loan prime rate at 3.50%, unchanged from a month earlier",
+    "published": "2026-09-19T20:00:19.64",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770612/China-sets-five-year-loan-prime-rate-at-350-unchanged-from-a-month-earlier.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T21:15:02.231678-04:00"
+  },
+  {
+    "NewsID": 9770609,
+    "title": "U.S. military: strike on Caribbean vessel over alleged drug trafficking kills four on Saturday",
+    "published": "2026-09-19T18:55:02.993",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770609/US-military-strike-on-Caribbean-vessel-over-alleged-drug-trafficking-kills-four-on-Saturday.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T20:00:02.357799-04:00"
+  },
+  {
+    "NewsID": 9770574,
+    "title": "Saudi-led coalition: foils Houthi attacks on civilians in Saudi cities Bish, Taif, Farasan, Yanbu",
+    "published": "2026-09-19T14:39:08.623",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770574/Saudi-led-coalition-foils-Houthi-attacks-on-civilians-in-Saudi-cities-Bish-Taif-Farasan-Yanbu.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T15:45:02.456826-04:00"
+  },
+  {
+    "NewsID": 9770573,
+    "title": "Saudi-led coalition: ballistic missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed on Saturday",
+    "published": "2026-09-19T14:37:09.133",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770573/Saudi-led-coalition-ballistic-missile-launched-by-Yemens-Houthis-toward-Riyadh-intercepted-and-destroyed-on-Saturday.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T15:45:02.456891-04:00"
+  },
+  {
+    "NewsID": 9770564,
+    "title": "Creative ideas emerge on resolving S-400 issue with US, collaboration aims for positive progress",
+    "published": "2026-09-19T14:00:41.453",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770564/Creative-ideas-emerge-on-resolving-S-400-issue-with-US-collaboration-aims-for-positive-progress.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T15:15:01.812823-04:00"
+  },
+  {
+    "NewsID": 9770563,
+    "title": "Turkish foreign minister: Creative ideas exist on resolving S-400 issue with US, collaborating to achieve solutions and anticipating positive progress",
+    "published": "2026-09-19T13:58:16.767",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770563/Turkish-foreign-minister-Creative-ideas-exist-on-resolving-S-400-issue-with-US-collaborating-to-achieve-solutions-and-anticipating-positive-progress.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T15:00:02.012034-04:00"
+  },
+  {
+    "NewsID": 9770558,
+    "title": "Turkish foreign minister: sent proposal to Ukraine, Russia to halt fighting in Black Sea, awaiting replies",
+    "published": "2026-09-19T13:38:19.693",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770558/Turkish-foreign-minister-sent-proposal-to-Ukraine-Russia-to-halt-fighting-in-Black-Sea-awaiting-replies.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T14:45:02.167122-04:00"
+  },
+  {
+    "NewsID": 9770557,
+    "title": "Turkish foreign minister: initiatives exist to end Ukraine-Russia war, but hard for lasting solution",
+    "published": "2026-09-19T13:32:13.187",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770557/Turkish-foreign-minister-initiatives-exist-to-end-Ukraine-Russia-war-but-hard-for-lasting-solution.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T14:45:02.167182-04:00"
+  },
+  {
+    "NewsID": 9770553,
+    "title": "Turkish foreign minister: Saudi Arabia could have military requirements, to be reviewed in trilateral defense pact with Pakistan",
+    "published": "2026-09-19T13:25:18.883",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770553/Turkish-foreign-minister-Saudi-Arabia-could-have-military-requirements-to-be-reviewed-in-trilateral-defense-pact-with-Pakistan.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T14:30:02.434002-04:00"
+  },
+  {
+    "NewsID": 9770552,
+    "title": "Turkish foreign minister: unacceptable for Saudi Arabia to become involved in US-Iran war, no wish to join conflict",
+    "published": "2026-09-19T13:24:10.507",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770552/Turkish-foreign-minister-unacceptable-for-Saudi-Arabia-to-become-involved-in-US-Iran-war-no-wish-to-join-conflict.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T14:30:02.434066-04:00"
+  },
+  {
+    "NewsID": 9770551,
+    "title": "Turkish foreign minister: proposals conveyed to all sides to end Saudi-Houthi fighting",
+    "published": "2026-09-19T13:23:09.1",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770551/Turkish-foreign-minister-proposals-conveyed-to-all-sides-to-end-Saudi-Houthi-fighting.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T14:30:02.434093-04:00"
+  },
+  {
+    "NewsID": 9770550,
+    "title": "Turkish foreign minister: current middle east crisis no longer economically bearable",
+    "published": "2026-09-19T13:21:34.593",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770550/Turkish-foreign-minister-current-middle-east-crisis-no-longer-economically-bearable.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T14:30:02.434114-04:00"
+  },
+  {
+    "NewsID": 9770544,
+    "title": "US Treasury's Bessent, USTR Greer to meet Chinese Vice Premier He Lifeng on Sunday at JPMorgan headquarters in New York - source",
+    "published": "2026-09-19T13:13:00.71",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770544/US-Treasurys-Bessent-USTR-Greer-to-meet-Chinese-Vice-Premier-He-Lifeng-on-Sunday-at-JPMorgan-headquarters-in-New-York---source.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T14:15:02.598414-04:00"
+  },
+  {
+    "NewsID": 9770538,
+    "title": "Trump on Al: will announce new \"czar\" soon",
+    "published": "2026-09-19T12:14:30.25",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770538/Trump-on-Al-will-announce-new-czar-soon.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T13:15:02.291785-04:00"
+  },
+  {
+    "NewsID": 9770537,
+    "title": "Trump on AI: I am creating AI force, similar to space force",
+    "published": "2026-09-19T12:14:14.49",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770537/Trump-on-AI-I-am-creating-AI-force-similar-to-space-force.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T13:15:02.291822-04:00"
+  },
+  {
+    "NewsID": 9770536,
+    "title": "Pakistani interior minister visits Iran on bilateral ties: Iran foreign ministry spokesperson to Iranian state TV, unaware of any US message",
+    "published": "2026-09-19T12:13:46.263",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770536/Pakistani-interior-minister-visits-Iran-on-bilateral-ties-Iran-foreign-ministry-spokesperson-to-Iranian-state-TV-unaware-of-any-US-message.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T13:15:02.291835-04:00"
+  },
+  {
+    "NewsID": 9770535,
+    "title": "Yemen's Houthis say they will keep targeting Saudi military build-ups until blockade ends",
+    "published": "2026-09-19T12:04:58.49",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770535/Yemens-Houthis-say-they-will-keep-targeting-Saudi-military-build-ups-until-blockade-ends.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T13:15:02.291847-04:00"
+  },
+  {
+    "NewsID": 9770534,
+    "title": "No immediate Saudi confirmation of Houthi statement",
+    "published": "2026-09-19T12:04:03.907",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770534/No-immediate-Saudi-confirmation-of-Houthi-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T13:15:02.291862-04:00"
+  },
+  {
+    "NewsID": 9770532,
+    "title": "Yemen's Houthis: 'sensitive' sites in Riyadh targeted with ballistic missiles, drones",
+    "published": "2026-09-19T12:01:51.173",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770532/Yemens-Houthis-sensitive-sites-in-Riyadh-targeted-with-ballistic-missiles-drones.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T13:15:02.291874-04:00"
+  },
+  {
+    "NewsID": 9770529,
+    "title": "Yemen's Houthis: Attack on Aramco facility in Yanbu",
+    "published": "2026-09-19T12:01:05.98",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770529/Yemens-Houthis-Attack-on-Aramco-facility-in-Yanbu.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T13:15:02.291885-04:00"
+  },
+  {
+    "NewsID": 9770508,
+    "title": "Iran’s top security official: Tehran wants war between Saudi Arabia and Yemen to end - Al Jazeera interview",
+    "published": "2026-09-19T10:32:34.183",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770508/Irans-top-security-official-Tehran-wants-war-between-Saudi-Arabia-and-Yemen-to-end---Al-Jazeera-interview.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T11:45:01.905270-04:00"
+  },
+  {
+    "NewsID": 9770507,
+    "title": "Iran's top security official outlines conditions: end war on all fronts, unfreeze Iranian funds, lift naval blockade - Al Jazeera interview",
+    "published": "2026-09-19T10:31:08.7",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770507/Irans-top-security-official-outlines-conditions-end-war-on-all-fronts-unfreeze-Iranian-funds-lift-naval-blockade---Al-Jazeera-interview.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T11:45:01.905335-04:00"
+  },
+  {
+    "NewsID": 9770504,
+    "title": "Iran's top security official: talks continue with mediators Qatar and Pakistan, conditions for negotiations conveyed - Al Jazeera interview",
+    "published": "2026-09-19T10:28:22.527",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770504/Irans-top-security-official-talks-continue-with-mediators-Qatar-and-Pakistan-conditions-for-negotiations-conveyed---Al-Jazeera-interview.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T11:30:02.103076-04:00"
+  },
+  {
+    "NewsID": 9770503,
+    "title": "Iran’s top security official: Qatar has relayed Tehran’s terms to Washington to end war, awaiting Trump’s response – Al Jazeera interview",
+    "published": "2026-09-19T10:27:08.963",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770503/Irans-top-security-official-Qatar-has-relayed-Tehrans-terms-to-Washington-to-end-war-awaiting-Trumps-response--Al-Jazeera-interview.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T11:30:02.103181-04:00"
+  },
+  {
+    "NewsID": 9770500,
+    "title": "German General Breuer chosen to lead NATO's top military committee: current chair says",
+    "published": "2026-09-19T10:13:27.053",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770500/German-General-Breuer-chosen-to-lead-NATOs-top-military-committee-current-chair-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T11:15:02.271730-04:00"
+  },
+  {
+    "NewsID": 9770435,
+    "title": "French finance ministry targets budget deficit of 5.0% of GDP in 2027, 5.4% in 2026",
+    "published": "2026-09-19T06:22:38.627",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770435/French-finance-ministry-targets-budget-deficit-of-50-of-GDP-in-2027-54-in-2026.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T07:30:02.004952-04:00"
+  },
+  {
+    "NewsID": 9770434,
+    "title": "French finance ministry: public-debt-to-GDP ratio projected to hit 119.3% in 2026, 121.7% in 2027",
+    "published": "2026-09-19T06:20:56.803",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770434/French-finance-ministry-public-debt-to-GDP-ratio-projected-to-hit-1193-in-2026-1217-in-2027.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T07:30:02.005002-04:00"
+  },
+  {
+    "NewsID": 9770420,
+    "title": "Flames and thick black smoke rise near Riyadh airport: witness",
+    "published": "2026-09-19T05:34:37.977",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770420/Flames-and-thick-black-smoke-rise-near-Riyadh-airport-witness.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T06:45:01.751424-04:00"
+  },
+  {
+    "NewsID": 9770415,
+    "title": "Pakistan foreign affairs ministry: the two agreed to meet in New York alongside 81st UN General Assembly",
+    "published": "2026-09-19T05:22:52.943",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770415/Pakistan-foreign-affairs-ministry-the-two-agreed-to-meet-in-New-York-alongside-81st-UN-General-Assembly.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T06:30:01.976656-04:00"
+  },
+  {
+    "NewsID": 9770414,
+    "title": "Pakistan foreign affairs ministry: the two discussed recent regional developments",
+    "published": "2026-09-19T05:22:25.91",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770414/Pakistan-foreign-affairs-ministry-the-two-discussed-recent-regional-developments.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T06:30:01.976709-04:00"
+  },
+  {
+    "NewsID": 9770413,
+    "title": "Pakistan foreign affairs ministry: Foreign Minister Ishaq Dar discusses with Iranian counterpart Abbas Araghchi today",
+    "published": "2026-09-19T05:21:58.873",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770413/Pakistan-foreign-affairs-ministry-Foreign-Minister-Ishaq-Dar-discusses-with-Iranian-counterpart-Abbas-Araghchi-today.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-19T06:30:01.976733-04:00"
+  },
+  {
     "NewsID": 9770401,
     "title": "Russia’s digital ministry reports attempt to sabotage communication lines in far east to disrupt election",
     "published": "2026-09-19T04:39:47.923",
