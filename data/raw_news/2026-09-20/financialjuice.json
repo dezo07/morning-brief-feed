@@ -1,5 +1,986 @@
 [
   {
+    "NewsID": 9771216,
+    "title": "China finance ministry auctions 10-year bonds at 1.6626% yield: traders",
+    "published": "2026-09-20T22:38:39.493",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771216/China-finance-ministry-auctions-10-year-bonds-at-16626-yield-traders.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T23:45:02.219581-04:00"
+  },
+  {
+    "NewsID": 9771202,
+    "title": "At least three killed in Pakistani air raids on Afghanistan's Kunar province: Tolo News citing provincial official",
+    "published": "2026-09-20T22:12:42.68",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771202/At-least-three-killed-in-Pakistani-air-raids-on-Afghanistans-Kunar-province-Tolo-News-citing-provincial-official.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T23:15:02.691932-04:00"
+  },
+  {
+    "NewsID": 9771201,
+    "title": "New Zealand defence forces: two naval vessels crossed Taiwan Strait",
+    "published": "2026-09-20T22:04:57.9",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771201/New-Zealand-defence-forces-two-naval-vessels-crossed-Taiwan-Strait.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T23:15:02.691995-04:00"
+  },
+  {
+    "NewsID": 9771157,
+    "title": "12 vessels passed through Strait of Hormuz over weekend, down from 35 week before - shipping data",
+    "published": "2026-09-20T21:07:39.21",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771157/12-vessels-passed-through-Strait-of-Hormuz-over-weekend-down-from-35-week-before---shipping-data.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T22:15:01.973886-04:00"
+  },
+  {
+    "NewsID": 9771156,
+    "title": "China, US hold talks on artificial intelligence issues: state media",
+    "published": "2026-09-20T21:02:39.21",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771156/China-US-hold-talks-on-artificial-intelligence-issues-state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T22:15:01.973936-04:00"
+  },
+  {
+    "NewsID": 9771155,
+    "title": "China, US held candid, detailed, and constructive talks on key economic, trade issues: state media",
+    "published": "2026-09-20T21:02:22.22",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771155/China-US-held-candid-detailed-and-constructive-talks-on-key-economic-trade-issues-state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T22:15:01.973959-04:00"
+  },
+  {
+    "NewsID": 9771098,
+    "title": "S.Korea central bank sells 91-day monetary stabilisation bonds at 3.080% yield",
+    "published": "2026-09-20T20:40:04.543",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771098/SKorea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-3080-yield.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T21:45:01.850539-04:00"
+  },
+  {
+    "NewsID": 9771097,
+    "title": "China central bank plans to sell 60 billion yuan 182-day bills in Hong Kong on Sept. 23",
+    "published": "2026-09-20T20:36:24.003",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771097/China-central-bank-plans-to-sell-60-billion-yuan-182-day-bills-in-Hong-Kong-on-Sept-23.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T21:45:01.850592-04:00"
+  },
+  {
+    "NewsID": 9771094,
+    "title": "South Korea's Lee to attend UN General Assembly, hold summit with Mexico's Sheinbaum - Blue House",
+    "published": "2026-09-20T20:24:12.137",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771094/South-Koreas-Lee-to-attend-UN-General-Assembly-hold-summit-with-Mexicos-Sheinbaum---Blue-House.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T21:30:02.136996-04:00"
+  },
+  {
+    "NewsID": 9771093,
+    "title": "South Korea President Lee intends to meet US, Australia and other leaders at UN - Blue House",
+    "published": "2026-09-20T20:24:11.96",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771093/South-Korea-President-Lee-intends-to-meet-US-Australia-and-other-leaders-at-UN---Blue-House.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T21:30:02.137045-04:00"
+  },
+  {
+    "NewsID": 9771092,
+    "title": "South Korea President Lee to journey to US, Mexico September 21-27: Blue House",
+    "published": "2026-09-20T20:24:11.9",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771092/South-Korea-President-Lee-to-journey-to-US-Mexico-September-21-27-Blue-House.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T21:30:02.137067-04:00"
+  },
+  {
+    "NewsID": 9771091,
+    "title": "User reports show issues with Facebook for 15,602 users in U.S. as of 9:05 pm ET - Downdetector",
+    "published": "2026-09-20T20:24:08.473",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771091/User-reports-show-issues-with-Facebook-for-15602-users-in-US-as-of-905-pm-ET---Downdetector.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T21:30:02.137087-04:00"
+  },
+  {
+    "NewsID": 9771090,
+    "title": "User reports indicate issues with Facebook in the U.S.: Downdetector",
+    "published": "2026-09-20T20:22:34.14",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771090/User-reports-indicate-issues-with-Facebook-in-the-US-Downdetector.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T21:30:02.137106-04:00"
+  },
+  {
+    "NewsID": 9771089,
+    "title": "China c.bank injects 165 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+    "published": "2026-09-20T20:21:29.01",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771089/China-cbank-injects-165-billion-yuan-through-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T21:30:02.137125-04:00"
+  },
+  {
+    "NewsID": 9771088,
+    "title": "S.Korea Sept 1-20 imports rise 26.7% y/y: customs agency",
+    "published": "2026-09-20T20:17:06.127",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771088/SKorea-Sept-1-20-imports-rise-267-yy-customs-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T21:30:02.137144-04:00"
+  },
+  {
+    "NewsID": 9771087,
+    "title": "China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC",
+    "published": "2026-09-20T20:17:06.063",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771087/China-sets-yuan-midpoint-at-strongest-level-since-Feb-3-2023-according-to-PBOC.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T21:30:02.137183-04:00"
+  },
+  {
+    "NewsID": 9771086,
+    "title": "Microsoft's Nadella to join OpenAI and Nvidia CEOs at Trump-Xi dinner",
+    "published": "2026-09-20T20:16:40.537",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771086/Microsofts-Nadella-to-join-OpenAI-and-Nvidia-CEOs-at-Trump-Xi-dinner.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T21:30:02.137205-04:00"
+  },
+  {
+    "NewsID": 9771062,
+    "title": "Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)",
+    "published": "2026-09-20T20:00:24.127",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771062/Taiwan-overnight-interbank-rate-starts-at-0805-unchanged-from-previous-session.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T21:15:02.364038-04:00"
+  },
+  {
+    "NewsID": 9771053,
+    "title": "China PBOC forecast to set yuan midpoint at 6.6951 per dollar: estimate",
+    "published": "2026-09-20T19:16:15.26",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771053/China-PBOC-forecast-to-set-yuan-midpoint-at-66951-per-dollar-estimate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T20:30:02.130359-04:00"
+  },
+  {
+    "NewsID": 9771041,
+    "title": "S.Korea Sept 1-20 trade surplus provisional at $22.97 billion: customs agency",
+    "published": "2026-09-20T19:00:03.067",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771041/SKorea-Sept-1-20-trade-surplus-provisional-at-2297-billion-customs-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T20:15:02.386922-04:00"
+  },
+  {
+    "NewsID": 9771040,
+    "title": "S.Korea Sept 1-20 exports rise 78.3% y/y: customs agency",
+    "published": "2026-09-20T19:00:02.83",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771040/SKorea-Sept-1-20-exports-rise-783-yy-customs-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T20:15:02.386974-04:00"
+  },
+  {
+    "NewsID": 9771039,
+    "title": "Greer: US may include energy, agricultural goods, potentially medical devices",
+    "published": "2026-09-20T18:53:45.737",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771039/Greer-US-may-include-energy-agricultural-goods-potentially-medical-devices.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T20:00:02.195707-04:00"
+  },
+  {
+    "NewsID": 9771038,
+    "title": "Greer: board of trade from Chinese side likely to include consumer goods and low-tech items",
+    "published": "2026-09-20T18:52:32.447",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771038/Greer-board-of-trade-from-Chinese-side-likely-to-include-consumer-goods-and-low-tech-items.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T20:00:02.195747-04:00"
+  },
+  {
+    "NewsID": 9771037,
+    "title": "Greer says US, Chinese teams continue working on board of trade agreement",
+    "published": "2026-09-20T18:52:04.367",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771037/Greer-says-US-Chinese-teams-continue-working-on-board-of-trade-agreement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T20:00:02.195762-04:00"
+  },
+  {
+    "NewsID": 9771036,
+    "title": "USTR Greer: implemented board of trade",
+    "published": "2026-09-20T18:51:51.45",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771036/USTR-Greer-implemented-board-of-trade.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T20:00:02.195782-04:00"
+  },
+  {
+    "NewsID": 9771035,
+    "title": "US Treasury Secretary Bessent: US suggests notification system between two countries",
+    "published": "2026-09-20T18:50:32.887",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771035/US-Treasury-Secretary-Bessent-US-suggests-notification-system-between-two-countries.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T20:00:02.195795-04:00"
+  },
+  {
+    "NewsID": 9771034,
+    "title": "US Treasury Secretary Bessent: US, China agreed to hold another meeting on al dialogue",
+    "published": "2026-09-20T18:50:17.31",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771034/US-Treasury-Secretary-Bessent-US-China-agreed-to-hold-another-meeting-on-al-dialogue.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T20:00:02.195807-04:00"
+  },
+  {
+    "NewsID": 9771033,
+    "title": "US Treasury Secretary Bessent: had a very successful engagement with Chinese on trade and AI",
+    "published": "2026-09-20T18:48:49.963",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771033/US-Treasury-Secretary-Bessent-had-a-very-successful-engagement-with-Chinese-on-trade-and-AI.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T20:00:02.195819-04:00"
+  },
+  {
+    "NewsID": 9771013,
+    "title": "Direct drive tech: offer price hk$21.60 per H share for international offering",
+    "published": "2026-09-20T17:11:48.387",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771013/Direct-drive-tech-offer-price-hk2160-per-H-share-for-international-offering.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T18:15:02.694659-04:00"
+  },
+  {
+    "NewsID": 9771012,
+    "title": "Direct Drive Tech: number of shares offered in global placement 50 million H shares",
+    "published": "2026-09-20T17:11:43.583",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771012/Direct-Drive-Tech-number-of-shares-offered-in-global-placement-50-million-H-shares.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T18:15:02.694711-04:00"
+  },
+  {
+    "NewsID": 9771011,
+    "title": "Shenzhen Kinwong Electronic announces 65.6 million international H-share offer",
+    "published": "2026-09-20T17:09:38.81",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771011/Shenzhen-Kinwong-Electronic-announces-656-million-international-H-share-offer.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T18:15:02.694736-04:00"
+  },
+  {
+    "NewsID": 9771010,
+    "title": "Shenzhen Kinwong Electronic: maximum bid price HK$69.88 per H share for global offering",
+    "published": "2026-09-20T17:08:40.953",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771010/Shenzhen-Kinwong-Electronic-maximum-bid-price-HK6988-per-H-share-for-global-offering.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T18:15:02.694757-04:00"
+  },
+  {
+    "NewsID": 9771009,
+    "title": "Robotechnik intelligent technology: 10.7 mln H shares in international portion of global offering",
+    "published": "2026-09-20T17:08:26.967",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771009/Robotechnik-intelligent-technology-107-mln-H-shares-in-international-portion-of-global-offering.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T18:15:02.694777-04:00"
+  },
+  {
+    "NewsID": 9771008,
+    "title": "Robotechnik intelligent technology sets maximum offer price at HK$436 per H share under global offering",
+    "published": "2026-09-20T17:08:22.127",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771008/Robotechnik-intelligent-technology-sets-maximum-offer-price-at-HK436-per-H-share-under-global-offering.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T18:15:02.694798-04:00"
+  },
+  {
+    "NewsID": 9771007,
+    "title": "Red Avenue New Materials Group: global offering includes 61.3 million H shares in international sale",
+    "published": "2026-09-20T17:07:10.967",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771007/Red-Avenue-New-Materials-Group-global-offering-includes-613-million-H-shares-in-international-sale.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T18:15:02.694818-04:00"
+  },
+  {
+    "NewsID": 9771006,
+    "title": "Red Avenue New Materials Group: highest bid price in global offering HK$44.00 per H share",
+    "published": "2026-09-20T17:06:43.413",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9771006/Red-Avenue-New-Materials-Group-highest-bid-price-in-global-offering-HK4400-per-H-share.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T18:15:02.694839-04:00"
+  },
+  {
+    "NewsID": 9770986,
+    "title": "Japan to use industrial machinery for gathering physical AI data: Nikkei",
+    "published": "2026-09-20T15:12:36.24",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770986/Japan-to-use-industrial-machinery-for-gathering-physical-AI-data-Nikkei.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T16:15:02.429176-04:00"
+  },
+  {
+    "NewsID": 9770984,
+    "title": "France to initially summon Iranian ambassador: foreign ministry",
+    "published": "2026-09-20T14:51:40.747",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770984/France-to-initially-summon-Iranian-ambassador-foreign-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T16:00:02.599194-04:00"
+  },
+  {
+    "NewsID": 9770983,
+    "title": "France will take appropriate steps after closure of language centre in Tehran: foreign ministry",
+    "published": "2026-09-20T14:50:45.29",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770983/France-will-take-appropriate-steps-after-closure-of-language-centre-in-Tehran-foreign-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T16:00:02.599248-04:00"
+  },
+  {
+    "NewsID": 9770982,
+    "title": "France's foreign ministry: shutting Tehran language centre is unjustified and unacceptable",
+    "published": "2026-09-20T14:49:35.85",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770982/Frances-foreign-ministry-shutting-Tehran-language-centre-is-unjustified-and-unacceptable.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T16:00:02.599273-04:00"
+  },
+  {
+    "NewsID": 9770981,
+    "title": "France condemns iranian authorities' choice to shut language centre in Tehran: foreign ministry",
+    "published": "2026-09-20T14:48:04.433",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770981/France-condemns-iranian-authorities-choice-to-shut-language-centre-in-Tehran-foreign-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T16:00:02.599294-04:00"
+  },
+  {
+    "NewsID": 9770969,
+    "title": "Sanctions would ban most dealings with ICC after six to seven months grace period: WSJ",
+    "published": "2026-09-20T13:38:27.537",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770969/Sanctions-would-ban-most-dealings-with-ICC-after-six-to-seven-months-grace-period-WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T14:45:01.962026-04:00"
+  },
+  {
+    "NewsID": 9770968,
+    "title": "Trump administration ready to impose sanctions on International Criminal Court: WSJ",
+    "published": "2026-09-20T13:37:27.26",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770968/Trump-administration-ready-to-impose-sanctions-on-International-Criminal-Court-WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T14:45:01.962077-04:00"
+  },
+  {
+    "NewsID": 9770961,
+    "title": "Ukraine president Zelenskiy: thanked American president for enacting Lindsey Graham bill into law",
+    "published": "2026-09-20T13:19:56.843",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770961/Ukraine-president-Zelenskiy-thanked-American-president-for-enacting-Lindsey-Graham-bill-into-law.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T14:30:02.230493-04:00"
+  },
+  {
+    "NewsID": 9770960,
+    "title": "Ukraine President Zelenskiy: we agreed to meet in New York",
+    "published": "2026-09-20T13:19:02.76",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770960/Ukraine-President-Zelenskiy-we-agreed-to-meet-in-New-York.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T14:30:02.230545-04:00"
+  },
+  {
+    "NewsID": 9770959,
+    "title": "Ukraine president Zelenskiy: just spoke with US president Trump",
+    "published": "2026-09-20T13:18:02.06",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770959/Ukraine-president-Zelenskiy-just-spoke-with-US-president-Trump.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T14:30:02.230569-04:00"
+  },
+  {
+    "NewsID": 9770956,
+    "title": "Voter turnout in Russia parliamentary election above 56%: central election commission",
+    "published": "2026-09-20T13:06:31.83",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770956/Voter-turnout-in-Russia-parliamentary-election-above-56-central-election-commission.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T14:15:02.347629-04:00"
+  },
+  {
+    "NewsID": 9770955,
+    "title": "Iran foreign minister Aragchi departs Tehran for New York, to stop briefly in Qatar: state media",
+    "published": "2026-09-20T13:06:28.82",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770955/Iran-foreign-minister-Aragchi-departs-Tehran-for-New-York-to-stop-briefly-in-Qatar-state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T14:15:02.347677-04:00"
+  },
+  {
+    "NewsID": 9770954,
+    "title": "Ruling United Russia party leads with 57.54% in Russian election: preliminary results from central election commission",
+    "published": "2026-09-20T13:03:53.387",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770954/Ruling-United-Russia-party-leads-with-5754-in-Russian-election-preliminary-results-from-central-election-commission.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T14:15:02.347698-04:00"
+  },
+  {
+    "NewsID": 9770952,
+    "title": "New People party projected to secure 9.7% in Russia's parliamentary election: IFX cites exit poll",
+    "published": "2026-09-20T13:01:26.27",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770952/New-People-party-projected-to-secure-97-in-Russias-parliamentary-election-IFX-cites-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T14:15:02.347716-04:00"
+  },
+  {
+    "NewsID": 9770951,
+    "title": "Liberal Democratic party of Russia projected to take 10.7% in parliamentary election: ifx cites exit poll",
+    "published": "2026-09-20T13:01:13.377",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770951/Liberal-Democratic-party-of-Russia-projected-to-take-107-in-parliamentary-election-ifx-cites-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T14:15:02.347734-04:00"
+  },
+  {
+    "NewsID": 9770949,
+    "title": "Communist Party projected to secure 14.2% in Russia parliamentary election: Ifx cites exit poll",
+    "published": "2026-09-20T13:00:58.28",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770949/Communist-Party-projected-to-secure-142-in-Russia-parliamentary-election-Ifx-cites-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T14:15:02.347770-04:00"
+  },
+  {
+    "NewsID": 9770948,
+    "title": "Ruling United Russia projected to take 49.4% in Russia's parliamentary election: IFX cites exit poll",
+    "published": "2026-09-20T13:00:31.44",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770948/Ruling-United-Russia-projected-to-take-494-in-Russias-parliamentary-election-IFX-cites-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T14:15:02.347790-04:00"
+  },
+  {
+    "NewsID": 9770945,
+    "title": "France, Canada task space agencies, defense ministries to jointly develop space launch systems, ground reception facilities: Carney",
+    "published": "2026-09-20T12:31:34.167",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770945/France-Canada-task-space-agencies-defense-ministries-to-jointly-develop-space-launch-systems-ground-reception-facilities-Carney.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T13:45:01.938020-04:00"
+  },
+  {
+    "NewsID": 9770944,
+    "title": "Canadian Prime Minister Carney urges stronger ties with France amid rising global threats",
+    "published": "2026-09-20T12:31:27.07",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770944/Canadian-Prime-Minister-Carney-urges-stronger-ties-with-France-amid-rising-global-threats.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T13:45:01.938085-04:00"
+  },
+  {
+    "NewsID": 9770941,
+    "title": "France's President Macron: Canadian LNG can be key for European energy, initiates bilateral talks on the matter",
+    "published": "2026-09-20T12:27:30.3",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770941/Frances-President-Macron-Canadian-LNG-can-be-key-for-European-energy-initiates-bilateral-talks-on-the-matter.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T13:30:02.128774-04:00"
+  },
+  {
+    "NewsID": 9770940,
+    "title": "France's Macron: agreed with Canada's Carney to strengthen ties in energy, space, climate sectors",
+    "published": "2026-09-20T12:25:47.03",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770940/Frances-Macron-agreed-with-Canadas-Carney-to-strengthen-ties-in-energy-space-climate-sectors.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T13:30:02.128826-04:00"
+  },
+  {
+    "NewsID": 9770939,
+    "title": "France's President Macron: France backs closer ties between EU, Canada and associate membership for Canada",
+    "published": "2026-09-20T12:22:26.313",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770939/Frances-President-Macron-France-backs-closer-ties-between-EU-Canada-and-associate-membership-for-Canada.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T13:30:02.128851-04:00"
+  },
+  {
+    "NewsID": 9770916,
+    "title": "Germany's conservative CDU party polls at 5.1% in Mecklenburg-Western Pomerania election, ZDF reports citing partial results",
+    "published": "2026-09-20T11:28:46.42",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770916/Germanys-conservative-CDU-party-polls-at-51-in-Mecklenburg-Western-Pomerania-election-ZDF-reports-citing-partial-results.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:30:02.054568-04:00"
+  },
+  {
+    "NewsID": 9770915,
+    "title": "Germany's Chancellor Merz: need determination, perseverance and patience; prepared to lead as party head, chancellor",
+    "published": "2026-09-20T11:19:57.633",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770915/Germanys-Chancellor-Merz-need-determination-perseverance-and-patience-prepared-to-lead-as-party-head-chancellor.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:30:02.054621-04:00"
+  },
+  {
+    "NewsID": 9770914,
+    "title": "Germany's Chancellor Merz: I take responsibility as I want to advance the country",
+    "published": "2026-09-20T11:19:20.12",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770914/Germanys-Chancellor-Merz-I-take-responsibility-as-I-want-to-advance-the-country.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:30:02.054645-04:00"
+  },
+  {
+    "NewsID": 9770913,
+    "title": "Germany's Chancellor Merz: shifts pose challenges and fresh uncertainties",
+    "published": "2026-09-20T11:18:48.453",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770913/Germanys-Chancellor-Merz-shifts-pose-challenges-and-fresh-uncertainties.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:30:02.054667-04:00"
+  },
+  {
+    "NewsID": 9770912,
+    "title": "Germany's Chancellor Merz: change is necessary",
+    "published": "2026-09-20T11:18:20.7",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770912/Germanys-Chancellor-Merz-change-is-necessary.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:30:02.054688-04:00"
+  },
+  {
+    "NewsID": 9770911,
+    "title": "Germany's Chancellor Merz: Germany must become a land of fresh starts",
+    "published": "2026-09-20T11:18:06.637",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770911/Germanys-Chancellor-Merz-Germany-must-become-a-land-of-fresh-starts.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:30:02.054709-04:00"
+  },
+  {
+    "NewsID": 9770910,
+    "title": "Germany’s Chancellor Merz: we can’t return to the “good old times”",
+    "published": "2026-09-20T11:17:46.26",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770910/Germanys-Chancellor-Merz-we-cant-return-to-the-good-old-times.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:30:02.054730-04:00"
+  },
+  {
+    "NewsID": 9770909,
+    "title": "Germany’s Chancellor Merz: confidence in country’s institutions is waning",
+    "published": "2026-09-20T11:17:23.137",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770909/Germanys-Chancellor-Merz-confidence-in-countrys-institutions-is-waning.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:30:02.054751-04:00"
+  },
+  {
+    "NewsID": 9770908,
+    "title": "Germany's Chancellor Merz: state has grown overly complex",
+    "published": "2026-09-20T11:16:55.47",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770908/Germanys-Chancellor-Merz-state-has-grown-overly-complex.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:30:02.054772-04:00"
+  },
+  {
+    "NewsID": 9770899,
+    "title": "Germany's Chancellor Merz: election outcome in Mecklenburg-Western Pomerania is catastrophe",
+    "published": "2026-09-20T11:16:19.437",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770899/Germanys-Chancellor-Merz-election-outcome-in-Mecklenburg-Western-Pomerania-is-catastrophe.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:30:02.054793-04:00"
+  },
+  {
+    "NewsID": 9770897,
+    "title": "Germany's Chancellor Merz: two state ballots today with vastly different results",
+    "published": "2026-09-20T11:15:58.79",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770897/Germanys-Chancellor-Merz-two-state-ballots-today-with-vastly-different-results.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:30:02.054825-04:00"
+  },
+  {
+    "NewsID": 9770892,
+    "title": "Far-right AfD polling at 16% in Berlin state election: exit poll",
+    "published": "2026-09-20T11:00:52.413",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770892/Far-right-AfD-polling-at-16-in-Berlin-state-election-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:15:02.312403-04:00"
+  },
+  {
+    "NewsID": 9770891,
+    "title": "Germany's Left party forecast to secure 7.5% in Mecklenburg-Western Pomerania state vote: exit poll",
+    "published": "2026-09-20T11:00:47.49",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770891/Germanys-Left-party-forecast-to-secure-75-in-Mecklenburg-Western-Pomerania-state-vote-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:15:02.312458-04:00"
+  },
+  {
+    "NewsID": 9770890,
+    "title": "Left party at 24.5% in Berlin state election: exit poll",
+    "published": "2026-09-20T11:00:47.42",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770890/Left-party-at-245-in-Berlin-state-election-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:15:02.312483-04:00"
+  },
+  {
+    "NewsID": 9770889,
+    "title": "Greens at 15% in Berlin state election: exit poll",
+    "published": "2026-09-20T11:00:40.007",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770889/Greens-at-15-in-Berlin-state-election-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:15:02.312505-04:00"
+  },
+  {
+    "NewsID": 9770888,
+    "title": "Centre-left SPD polls at 12% in Berlin state election: exit poll",
+    "published": "2026-09-20T11:00:37.41",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770888/Centre-left-SPD-polls-at-12-in-Berlin-state-election-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:15:02.312526-04:00"
+  },
+  {
+    "NewsID": 9770887,
+    "title": "Merz’s conservatives at 20% in Berlin state election: exit poll",
+    "published": "2026-09-20T11:00:32.45",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770887/Merzs-conservatives-at-20-in-Berlin-state-election-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:15:02.312547-04:00"
+  },
+  {
+    "NewsID": 9770886,
+    "title": "German Chancellor Merz's CDU projected to secure 5.5% in Mecklenburg-Western Pomerania state vote: exit poll",
+    "published": "2026-09-20T11:00:32.44",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770886/German-Chancellor-Merzs-CDU-projected-to-secure-55-in-Mecklenburg-Western-Pomerania-state-vote-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:15:02.312568-04:00"
+  },
+  {
+    "NewsID": 9770885,
+    "title": "Germany's far-right AfD set to secure 37.0% in Mecklenburg-Western Pomerania state election - exit poll",
+    "published": "2026-09-20T11:00:27.183",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770885/Germanys-far-right-AfD-set-to-secure-370-in-Mecklenburg-Western-Pomerania-state-election---exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:15:02.312588-04:00"
+  },
+  {
+    "NewsID": 9770884,
+    "title": "Germany's centre-left SPD forecast at 35.5% in Mecklenburg-Western Pomerania state vote: exit poll",
+    "published": "2026-09-20T11:00:19.963",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770884/Germanys-centre-left-SPD-forecast-at-355-in-Mecklenburg-Western-Pomerania-state-vote-exit-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:15:02.312609-04:00"
+  },
+  {
+    "NewsID": 9770883,
+    "title": "US Pacific Command on North Korea missile launches: aware of recent launches, consulting closely with allies and partners",
+    "published": "2026-09-20T10:50:57.98",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770883/US-Pacific-Command-on-North-Korea-missile-launches-aware-of-recent-launches-consulting-closely-with-allies-and-partners.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T12:00:02.085494-04:00"
+  },
+  {
+    "NewsID": 9770868,
+    "title": "QatarEnergy: key equipment blocked by Hormuz crisis could postpone some expansion projects",
+    "published": "2026-09-20T10:07:13.49",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770868/QatarEnergy-key-equipment-blocked-by-Hormuz-crisis-could-postpone-some-expansion-projects.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T11:15:01.737298-04:00"
+  },
+  {
+    "NewsID": 9770867,
+    "title": "QatarEnergy CEO: Qatari LNG volumes are so large buyers will find QatarEnergy hard to overlook once Hormuz crisis ends",
+    "published": "2026-09-20T10:05:41.477",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770867/QatarEnergy-CEO-Qatari-LNG-volumes-are-so-large-buyers-will-find-QatarEnergy-hard-to-overlook-once-Hormuz-crisis-ends.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T11:15:01.737345-04:00"
+  },
+  {
+    "NewsID": 9770866,
+    "title": "QatarEnergy CEO: company seriously considering entry into Venezuela market with partners",
+    "published": "2026-09-20T10:02:57.997",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770866/QatarEnergy-CEO-company-seriously-considering-entry-into-Venezuela-market-with-partners.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T11:15:01.737366-04:00"
+  },
+  {
+    "NewsID": 9770865,
+    "title": "QatarEnergy CEO: Some LNG trains of NFE expansion to begin in 2027, NFS expansion to start production in 2028",
+    "published": "2026-09-20T10:02:45.607",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770865/QatarEnergy-CEO-Some-LNG-trains-of-NFE-expansion-to-begin-in-2027-NFS-expansion-to-start-production-in-2028.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T11:15:01.737384-04:00"
+  },
+  {
+    "NewsID": 9770863,
+    "title": "QatarEnergy CEO: Second and third units of Golden Pass LNG project to start operations in 2027",
+    "published": "2026-09-20T09:59:56.25",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770863/QatarEnergy-CEO-Second-and-third-units-of-Golden-Pass-LNG-project-to-start-operations-in-2027.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T11:15:01.737402-04:00"
+  },
+  {
+    "NewsID": 9770862,
+    "title": "QatarEnergy CEO: Qatar can restart regular gas operations within weeks once Hormuz reopens",
+    "published": "2026-09-20T09:58:36.8",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770862/QatarEnergy-CEO-Qatar-can-restart-regular-gas-operations-within-weeks-once-Hormuz-reopens.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T11:00:02.012886-04:00"
+  },
+  {
+    "NewsID": 9770861,
+    "title": "QatarEnergy CEO: QatarEnergy is producing a very small amount of LNG",
+    "published": "2026-09-20T09:57:39.23",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770861/QatarEnergy-CEO-QatarEnergy-is-producing-a-very-small-amount-of-LNG.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T11:00:02.012938-04:00"
+  },
+  {
+    "NewsID": 9770856,
+    "title": "Kashkari: Labor market remains robust",
+    "published": "2026-09-20T09:45:03.663",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770856/Kashkari-Labor-market-remains-robust.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T11:00:02.012963-04:00"
+  },
+  {
+    "NewsID": 9770855,
+    "title": "Kashkari: Bond market is responsibility of Treasury",
+    "published": "2026-09-20T09:44:51.917",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770855/Kashkari-Bond-market-is-responsibility-of-Treasury.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:45:02.186998-04:00"
+  },
+  {
+    "NewsID": 9770854,
+    "title": "Kashkari: hopeful growth can prevail and reduce inflation",
+    "published": "2026-09-20T09:44:06.307",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770854/Kashkari-hopeful-growth-can-prevail-and-reduce-inflation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:45:02.187052-04:00"
+  },
+  {
+    "NewsID": 9770853,
+    "title": "Kashkari: productivity showing some signs of improvement",
+    "published": "2026-09-20T09:43:59.697",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770853/Kashkari-productivity-showing-some-signs-of-improvement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:45:02.187077-04:00"
+  },
+  {
+    "NewsID": 9770852,
+    "title": "Kashkari: American economy remains very resilient despite wars",
+    "published": "2026-09-20T09:43:49.913",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770852/Kashkari-American-economy-remains-very-resilient-despite-wars.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:45:02.187099-04:00"
+  },
+  {
+    "NewsID": 9770851,
+    "title": "Kashkari: growth has been fairly robust",
+    "published": "2026-09-20T09:43:39.91",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770851/Kashkari-growth-has-been-fairly-robust.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:45:02.187121-04:00"
+  },
+  {
+    "NewsID": 9770850,
+    "title": "Kashkari: strong investment demand tends to boost interest rates",
+    "published": "2026-09-20T09:43:02.507",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770850/Kashkari-strong-investment-demand-tends-to-boost-interest-rates.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:45:02.187142-04:00"
+  },
+  {
+    "NewsID": 9770849,
+    "title": "Kashkari: Hopefully we'll get support from other parts of government, the real economy",
+    "published": "2026-09-20T09:42:07.927",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770849/Kashkari-Hopefully-well-get-support-from-other-parts-of-government-the-real-economy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:45:02.187237-04:00"
+  },
+  {
+    "NewsID": 9770848,
+    "title": "Kashkari: Inflation extends beyond oil prices",
+    "published": "2026-09-20T09:41:38.097",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770848/Kashkari-Inflation-extends-beyond-oil-prices.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:45:02.187284-04:00"
+  },
+  {
+    "NewsID": 9770847,
+    "title": "Kashkari: Inflation remains too high in Fox News interview",
+    "published": "2026-09-20T09:40:52.06",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770847/Kashkari-Inflation-remains-too-high-in-Fox-News-interview.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:45:02.187308-04:00"
+  },
+  {
+    "NewsID": 9770846,
+    "title": "Minneapolis Federal Reserve president Neel Kashkari: Fed’s job is to bring inflation back to 2% target - Fox News interview",
+    "published": "2026-09-20T09:40:41.52",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770846/Minneapolis-Federal-Reserve-president-Neel-Kashkari-Feds-job-is-to-bring-inflation-back-to-2-target---Fox-News-interview.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:45:02.187330-04:00"
+  },
+  {
+    "NewsID": 9770845,
+    "title": "Qatar's prime minister: crisis in Qatar's economy an opportunity to trim government spending and focus investments on priorities",
+    "published": "2026-09-20T09:38:54.6",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770845/Qatars-prime-minister-crisis-in-Qatars-economy-an-opportunity-to-trim-government-spending-and-focus-investments-on-priorities.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:45:02.187350-04:00"
+  },
+  {
+    "NewsID": 9770838,
+    "title": "Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years",
+    "published": "2026-09-20T09:17:06.683",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770838/Qatars-prime-minister-Qatar-anticipates-awarding-about-385-billion-in-new-infrastructure-projects-over-next-five-years.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:30:02.330745-04:00"
+  },
+  {
+    "NewsID": 9770837,
+    "title": "Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources",
+    "published": "2026-09-20T09:15:24.43",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770837/Air-defences-intercept-drone-near-Erbil-airport-in-Iraqi-Kurdistan-security-sources.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:30:02.330799-04:00"
+  },
+  {
+    "NewsID": 9770835,
+    "title": "Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments",
+    "published": "2026-09-20T09:14:36.57",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770835/Qatars-prime-minister-QIA-launches-Doha-Investment-new-unit-for-domestic-investments.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T10:15:02.482670-04:00"
+  },
+  {
+    "NewsID": 9770797,
+    "title": "Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says",
+    "published": "2026-09-20T07:07:02.157",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770797/Moscows-remote-voting-system-and-voter-list-face-large-scale-hacking-attacks-voting-services-operating-normally-city-election-official-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T08:15:02.128625-04:00"
+  },
+  {
+    "NewsID": 9770792,
+    "title": "Iran shuts down unauthorized center linked to French embassy: Tasnim",
+    "published": "2026-09-20T06:59:41.997",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770792/Iran-shuts-down-unauthorized-center-linked-to-French-embassy-Tasnim.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T08:00:02.354624-04:00"
+  },
+  {
+    "NewsID": 9770787,
+    "title": "Trump: I have agreed to transform triumphal arch into a top military complex",
+    "published": "2026-09-20T06:41:56.737",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770787/Trump-I-have-agreed-to-transform-triumphal-arch-into-a-top-military-complex.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T07:45:02.619649-04:00"
+  },
+  {
+    "NewsID": 9770786,
+    "title": "Trump: Military complex to accommodate, store, deploy numerous drones, snipers on roof and plaza, and store large sniper ammo supplies",
+    "published": "2026-09-20T06:38:21.523",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770786/Trump-Military-complex-to-accommodate-store-deploy-numerous-drones-snipers-on-roof-and-plaza-and-store-large-sniper-ammo-supplies.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T07:45:02.619702-04:00"
+  },
+  {
+    "NewsID": 9770785,
+    "title": "Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex",
+    "published": "2026-09-20T06:36:38.083",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770785/Trump-at-strong-request-of-US-military-and-for-national-security-agrees-to-transform-triumphal-arch-into-a-high-level-military-complex.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T07:45:02.619726-04:00"
+  },
+  {
+    "NewsID": 9770762,
+    "title": "Iran’s central military command: any US strike will prompt unlimited Iranian retaliation on US bases and interests - state media",
+    "published": "2026-09-20T05:32:25.837",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770762/Irans-central-military-command-any-US-strike-will-prompt-unlimited-Iranian-retaliation-on-US-bases-and-interests---state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T06:45:02.463116-04:00"
+  },
+  {
+    "NewsID": 9770761,
+    "title": "Iran's military central command: regional countries involved in any US attack on Iran shouldn’t expect restraint from Iran’s armed forces - state media",
+    "published": "2026-09-20T05:31:03.777",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770761/Irans-military-central-command-regional-countries-involved-in-any-US-attack-on-Iran-shouldnt-expect-restraint-from-Irans-armed-forces---state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T06:45:02.463190-04:00"
+  },
+  {
+    "NewsID": 9770760,
+    "title": "Iran's military central command warns of US plans to attack Iran with approval from regional countries: state media",
+    "published": "2026-09-20T05:30:34.307",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9770760/Irans-military-central-command-warns-of-US-plans-to-attack-Iran-with-approval-from-regional-countries-state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-20T06:45:02.463218-04:00"
+  },
+  {
     "NewsID": 9770746,
     "title": "Japan defense ministry: no confirmation if second missile landed inside Japan's EEZ",
     "published": "2026-09-20T04:32:28.91",
