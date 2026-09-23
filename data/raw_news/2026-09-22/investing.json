@@ -229,5 +229,516 @@
     "published": "2026-09-22T04:36:33+00:00",
     "link": "https://www.investing.com/news/economy-news/morning-bid-ai-trade-gets-its-muse-4909856",
     "category_hint": "macro"
+  },
+  {
+    "title": "Pfizer at U.S. All Stars Conference: growth shifts beyond covid",
+    "source": "Investinglive",
+    "published": "2026-09-22T11:47:17+00:00",
+    "link": "https://www.investing.com/news/transcripts/pfizer-at-us-all-stars-conference-growth-shifts-beyond-covid-93CH-4910592",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Bruker at Bank of America Global Healthcare Conference: growth mix lifts outlook",
+    "source": "Investinglive",
+    "published": "2026-09-22T11:45:16+00:00",
+    "link": "https://www.investing.com/news/transcripts/bruker-at-bank-of-america-global-healthcare-conference-growth-mix-lifts-outlook-93CH-4910585",
+    "category_hint": "markets"
+  },
+  {
+    "title": "China regulator probes DeepSeek and Moonshot AI over data routing - Information",
+    "source": "Investinglive",
+    "published": "2026-09-22T11:45:08+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/china-regulator-probes-deepseek-and-moonshot-ai-over-data-routing--information-93CH-4910581",
+    "category_hint": "markets"
+  },
+  {
+    "title": "B.Riley reiterates Buy on Nayax stock with $83 price target",
+    "source": "Investinglive",
+    "published": "2026-09-22T11:44:50+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/briley-reiterates-buy-on-nayax-stock-with-83-price-target-93CH-4910579",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Slovak PM calls for EU emergency summit on fuel prices",
+    "source": "Investinglive",
+    "published": "2026-09-22T11:39:42+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/slovak-pm-calls-for-eu-emergency-summit-on-fuel-prices-93CH-4910574",
+    "category_hint": "markets"
+  },
+  {
+    "title": "TSX futures inch higher amid Mideast diplomacy hopes, upcoming Trump-Xi summit",
+    "source": "Investinglive",
+    "published": "2026-09-22T11:38:18+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-amid-mideast-diplomacy-hopes-upcoming-trumpxi-summit-4910572",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Grab stock jumps after CEO purchases $29.9M in shares",
+    "source": "Investinglive",
+    "published": "2026-09-22T11:37:23+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/grab-stock-jumps-after-ceo-purchases-299m-in-shares-93CH-4910570",
+    "category_hint": "markets"
+  },
+  {
+    "title": "BBVA at Bank of America 31th Annual Financials CEO Conference: growth and caution",
+    "source": "Investinglive",
+    "published": "2026-09-22T11:37:13+00:00",
+    "link": "https://www.investing.com/news/transcripts/bbva-at-bank-of-america-31th-annual-financials-ceo-conference-growth-and-caution-93CH-4910569",
+    "category_hint": "markets"
+  },
+  {
+    "title": "German institutes raise 2026 and 2027 economic growth forecasts, sources say",
+    "source": "Investinglive",
+    "published": "2026-09-22T11:36:59+00:00",
+    "link": "https://www.investing.com/news/economic-indicators/german-institutes-raise-2026-and-2027-economic-growth-forecasts-sources-say-4910568",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Wave Life Sciences appoints Monika Vnuk as chief business officer",
+    "source": "Investinglive",
+    "published": "2026-09-22T11:36:33+00:00",
+    "link": "https://www.investing.com/news/company-news/wave-life-sciences-appoints-monika-vnuk-as-chief-business-officer-93CH-4910567",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US open to Iran talks at UN General Assembly, Rubio says",
+    "source": "Investinglive",
+    "published": "2026-09-22T11:27:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-open-to-iran-talks-at-un-general-assembly-rubio-says-93CH-4910527",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Don’t expect a grand bargain from the Trump-Xi summit: Yardeni",
+    "source": "Investinglive",
+    "published": "2026-09-22T10:49:43+00:00",
+    "link": "https://www.investing.com/news/economy-news/dont-expect-a-grand-bargain-from-the-trumpxi-summit-yardeni-4910378",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Taiwan minister says he was not \"belittled\" in China during official visit",
+    "source": "Investinglive",
+    "published": "2026-09-22T10:30:07+00:00",
+    "link": "https://www.investing.com/news/economy-news/taiwan-minister-says-he-was-not-belittled-in-china-during-official-visit-93CH-4910312",
+    "category_hint": "macro"
+  },
+  {
+    "title": "China supports automaker investments in Europe, minister says",
+    "source": "Investinglive",
+    "published": "2026-09-22T10:26:52+00:00",
+    "link": "https://www.investing.com/news/economy-news/china-supports-automaker-investments-in-europe-minister-says-93CH-4910304",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Wall St futures pause after AI rally, focus on Mideast tensions",
+    "source": "Investinglive",
+    "published": "2026-09-22T10:25:43+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-pause-after-ai-rally-focus-on-mideast-tensions-4910302",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Kremlin says it welcomes AfD’s push for dialogue with Moscow",
+    "source": "Investinglive",
+    "published": "2026-09-22T10:25:31+00:00",
+    "link": "https://www.investing.com/news/economy-news/kremlin-says-it-welcomes-afds-push-for-dialogue-with-moscow-93CH-4910301",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Switzerland’s trade surplus almost doubles in second quarter",
+    "source": "Investinglive",
+    "published": "2026-09-22T10:22:49+00:00",
+    "link": "https://www.investing.com/news/economy-news/switzerlands-trade-surplus-almost-doubles-in-second-quarter-93CH-4910293",
+    "category_hint": "macro"
+  },
+  {
+    "title": "UBS CEO calls 90% capital proposal no real compromise",
+    "source": "Investinglive",
+    "published": "2026-09-22T10:21:25+00:00",
+    "link": "https://www.investing.com/news/economy-news/ubs-ceo-calls-90-capital-proposal-no-real-compromise-93CH-4910292",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Kremlin says US denied visa to Russian deputy foreign minister",
+    "source": "Investinglive",
+    "published": "2026-09-22T10:17:28+00:00",
+    "link": "https://www.investing.com/news/economy-news/kremlin-says-us-denied-visa-to-russian-deputy-foreign-minister-93CH-4910284",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Deutsche Bank shifts to two BoE rate hikes. Here’s why",
+    "source": "Investinglive",
+    "published": "2026-09-22T10:02:13+00:00",
+    "link": "https://www.investing.com/news/economy-news/deutsche-bank-shifts-to-two-boe-rate-hikes-heres-why-4910220",
+    "category_hint": "macro"
+  },
+  {
+    "title": "ACG Sep 2026 slides: 60% production uplift, peer discount",
+    "source": "Investinglive",
+    "published": "2026-09-22T15:54:19+00:00",
+    "link": "https://www.investing.com/news/company-news/acg-sep-2026-slides-60-production-uplift-peer-discount-93CH-4911289",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Wells Fargo options activity signals divided market sentiment after 4% drop",
+    "source": "Investinglive",
+    "published": "2026-09-22T15:51:58+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/wells-fargo-options-activity-signals-divided-market-sentiment-after-4-drop-93CH-4911288",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is PayPal stock climbing today?",
+    "source": "Investinglive",
+    "published": "2026-09-22T15:50:32+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-paypal-stock-climbing-today-93CH-4911287",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Willamette Valley vineyards director Chris Riccardi buys $6,769 stock",
+    "source": "Investinglive",
+    "published": "2026-09-22T15:45:50+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/willamette-valley-vineyards-director-chris-riccardi-buys-6769-stock-93CH-4911283",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Craneware FY26 slides: revenue flat as 340B headwinds prompt reset",
+    "source": "Investinglive",
+    "published": "2026-09-22T15:43:21+00:00",
+    "link": "https://www.investing.com/news/company-news/craneware-fy26-slides-revenue-flat-as-340b-headwinds-prompt-reset-93CH-4911278",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US says new air traffic control system will not suffer disruptions",
+    "source": "Investinglive",
+    "published": "2026-09-22T15:42:47+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/us-says-new-air-traffic-control-system-will-prevent-future-disruptions-4910996",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Duke Energy stock hits 52-week low at 20.64 USD",
+    "source": "Investinglive",
+    "published": "2026-09-22T15:41:40+00:00",
+    "link": "https://www.investing.com/news/company-news/duke-energy-stock-hits-52week-low-at-2064-usd-93CH-4911277",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Cal-Maine Foods stock hits 52-week low at $71.91",
+    "source": "Investinglive",
+    "published": "2026-09-22T15:40:56+00:00",
+    "link": "https://www.investing.com/news/company-news/calmaine-foods-stock-hits-52week-low-at-7191-93CH-4911276",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Craneware director purchases shares at £10.54",
+    "source": "Investinglive",
+    "published": "2026-09-22T15:40:28+00:00",
+    "link": "https://www.investing.com/news/company-news/craneware-director-purchases-shares-at-1054-93CH-4911275",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: ACG posts strong H1 2026 results as ramp-up continues",
+    "source": "Investinglive",
+    "published": "2026-09-22T15:39:38+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-acg-posts-strong-h1-2026-results-as-rampup-continues-93CH-4911274",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Fed’s Collins says she supported rate hike, warns of elevated inflation risks",
+    "source": "Investinglive",
+    "published": "2026-09-22T15:07:18+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-collins-says-she-supported-rate-hike-warns-of-elevated-inflation-risks-4911212",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Argentina grain output may reach record on higher soy, corn",
+    "source": "Investinglive",
+    "published": "2026-09-22T14:56:33+00:00",
+    "link": "https://www.investing.com/news/economy-news/argentina-grain-output-may-reach-record-on-higher-soy-corn-93CH-4911203",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil needs cooperation, not intervention, to fight crime, Lula says",
+    "source": "Investinglive",
+    "published": "2026-09-22T14:43:09+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-needs-cooperation-not-intervention-to-fight-crime-lula-says-4911185",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Federal Reserve’s Collins says tighter policy needed as inflation risks rise",
+    "source": "Investinglive",
+    "published": "2026-09-22T14:39:57+00:00",
+    "link": "https://www.investing.com/news/economy-news/federal-reserves-collins-says-tighter-policy-needed-as-inflation-risks-rise-4911182",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Jefferson says discount window upgrades aid stability",
+    "source": "Investinglive",
+    "published": "2026-09-22T14:26:17+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-jefferson-says-discount-window-upgrades-aid-stability-4911164",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Euro zone consumer confidence drops to -16.5 in September",
+    "source": "Investinglive",
+    "published": "2026-09-22T14:16:38+00:00",
+    "link": "https://www.investing.com/news/economy-news/euro-zone-consumer-confidence-drops-to-165-in-september-93CH-4911135",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Williams defends current monetary policy framework",
+    "source": "Investinglive",
+    "published": "2026-09-22T14:16:04+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-williams-defends-current-monetary-policy-framework-4911131",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Williams says rate-control toolkit is working well",
+    "source": "Investinglive",
+    "published": "2026-09-22T14:12:26+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-williams-says-ratecontrol-toolkit-is-working-well-4911121",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Morocco central bank holds key rate at 2.25%",
+    "source": "Investinglive",
+    "published": "2026-09-22T14:03:43+00:00",
+    "link": "https://www.investing.com/news/economy-news/morocco-central-bank-holds-key-rate-at-225-93CH-4911098",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Russian banks’ net profit drops in August, central bank reports",
+    "source": "Investinglive",
+    "published": "2026-09-22T14:02:45+00:00",
+    "link": "https://www.investing.com/news/economy-news/russian-banks-net-profit-drops-in-august-central-bank-reports-93CH-4911096",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Ross Stores and Target setups compared",
+    "source": "Investinglive",
+    "published": "2026-09-22T19:51:13+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/ross-stores-and-target-setups-compared-93CH-4911528",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Joyy stock hits 52-week high at 80.94 USD",
+    "source": "Investinglive",
+    "published": "2026-09-22T19:47:23+00:00",
+    "link": "https://www.investing.com/news/company-news/joyy-stock-hits-52week-high-at-8094-usd-93CH-4911524",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Iran lays out conditions for reopening Strait of Hormuz, Iranian media says",
+    "source": "Investinglive",
+    "published": "2026-09-22T19:45:48+00:00",
+    "link": "https://www.investing.com/news/economy-news/iran-lays-out-conditions-for-reopening-strait-of-hormuz-iranian-media-says-93CH-4911523",
+    "category_hint": "markets"
+  },
+  {
+    "title": "StubHub stock hits 52-week low at 5.73 USD",
+    "source": "Investinglive",
+    "published": "2026-09-22T19:44:29+00:00",
+    "link": "https://www.investing.com/news/company-news/stubhub-stock-hits-52week-low-at-573-usd-93CH-4911521",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Turkey central bank sees disinflation continuing amid supply issues",
+    "source": "Investinglive",
+    "published": "2026-09-22T19:42:52+00:00",
+    "link": "https://www.investing.com/news/economy-news/turkey-central-bank-sees-disinflation-continuing-amid-supply-issues-93CH-4911520",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Prairie Operating at Water Tower Research Virtual Insights Conference: value gap widens",
+    "source": "Investinglive",
+    "published": "2026-09-22T19:40:36+00:00",
+    "link": "https://www.investing.com/news/transcripts/prairie-operating-at-water-tower-research-virtual-insights-conference-value-gap-widens-93CH-4911509",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Trump discloses July trades in SpaceX",
+    "source": "Investinglive",
+    "published": "2026-09-22T19:37:34+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/trump-discloses-july-trades-in-spacex-4911508",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Sol Strategies at Water Tower Research Virtual Insights Conference: broadens beyond staking",
+    "source": "Investinglive",
+    "published": "2026-09-22T19:35:41+00:00",
+    "link": "https://www.investing.com/news/transcripts/sol-strategies-at-water-tower-research-virtual-insights-conference-broadens-beyond-staking-93CH-4911507",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Trump bought and sold shares in Musk’s SpaceX in July, financial disclosure shows",
+    "source": "Investinglive",
+    "published": "2026-09-22T19:31:19+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/trump-bought-and-sold-shares-in-musks-spacex-in-july-financial-disclosure-shows-4911482",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Ex-Google safety chief warns AI could harm children more than social media did",
+    "source": "Investinglive",
+    "published": "2026-09-22T19:30:32+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/exgoogle-safety-chief-warns-ai-could-harm-children-more-than-social-media-did-4911398",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US seeks $30 billion for air traffic control upgrades",
+    "source": "Investinglive",
+    "published": "2026-09-22T19:03:49+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-seeks-30-billion-for-air-traffic-control-upgrades-93CH-4911488",
+    "category_hint": "macro"
+  },
+  {
+    "title": "IMF aims to scale back economic consultations for some countries, Bloomberg News reports",
+    "source": "Investinglive",
+    "published": "2026-09-22T19:00:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/imf-aims-to-scale-back-economic-consultations-for-some-countries-bloomberg-news-reports-4911487",
+    "category_hint": "macro"
+  },
+  {
+    "title": "IMF to help Ukraine find some funds for next year, Zelenskiy says",
+    "source": "Investinglive",
+    "published": "2026-09-22T18:48:52+00:00",
+    "link": "https://www.investing.com/news/economy-news/imf-to-help-ukraine-find-some-funds-for-next-year-zelenskiy-says-4911474",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trump says US to keep buying potash from Canada",
+    "source": "Investinglive",
+    "published": "2026-09-22T18:16:49+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-says-us-to-keep-buying-potash-from-canada-93CH-4911444",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bessent emerges as frontrunner for Trump’s \"AI czar\" role - report",
+    "source": "Investinglive",
+    "published": "2026-09-22T18:07:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/bessent-emerges-as-frontrunner-for-trumps-ai-czar-role--report-4911440",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil trims GDP outlook, sees slower recovery amid cautious monetary easing cycle",
+    "source": "Investinglive",
+    "published": "2026-09-22T18:00:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-government-cuts-2026-growth-forecast-to-20-4911397",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trump says he and Zelenskiy working on Ukraine war solution",
+    "source": "Investinglive",
+    "published": "2026-09-22T17:57:14+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-says-he-and-zelenskiy-working-on-ukraine-war-solution-93CH-4911413",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil cuts 2026 growth forecast to 2.0% from 2.3%",
+    "source": "Investinglive",
+    "published": "2026-09-22T17:31:58+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-cuts-2026-growth-forecast-to-20-from-23-93CH-4911395",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Clean Air Metals closes C$6.2 million private placement",
+    "source": "Investinglive",
+    "published": "2026-09-22T23:40:43+00:00",
+    "link": "https://www.investing.com/news/company-news/clean-air-metals-closes-c62-million-private-placement-93CH-4911867",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Activist Jana Partners calls for Six Flags sale- WSJ",
+    "source": "Investinglive",
+    "published": "2026-09-22T23:36:58+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/activist-jana-partners-calls-for-six-flags-sale-wsj-4911865",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Gold.com director Benjamin sells $1.74m in shares",
+    "source": "Investinglive",
+    "published": "2026-09-22T23:31:12+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/goldcom-director-benjamin-sells-174m-in-shares-93CH-4911862",
+    "category_hint": "markets"
+  },
+  {
+    "title": "DigitalOcean CEO Srinivasan sells $1.6m in shares",
+    "source": "Investinglive",
+    "published": "2026-09-22T23:31:07+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/digitalocean-ceo-srinivasan-sells-16m-in-shares-93CH-4911861",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Trump supports diesel export ban as fuel prices hit records",
+    "source": "Investinglive",
+    "published": "2026-09-22T23:24:26+00:00",
+    "link": "https://www.investing.com/news/commodities-news/trump-says-he-backs-the-idea-of-a-ban-on-diesel-exports-4911466",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Western New England Bancorp SVP sells $47,498 in stock",
+    "source": "Investinglive",
+    "published": "2026-09-22T23:15:56+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/western-new-england-bancorp-svp-sells-47498-in-stock-93CH-4911850",
+    "category_hint": "markets"
+  },
+  {
+    "title": "UK employers’ pay awards cool to 3%, Brightmine data shows",
+    "source": "Investinglive",
+    "published": "2026-09-22T23:12:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/uk-employers-pay-awards-cool-to-3-brightmine-data-shows-4911840",
+    "category_hint": "markets"
+  },
+  {
+    "title": "United Parks & Resorts appoints Kyle Miller as president, amends bylaws",
+    "source": "Investinglive",
+    "published": "2026-09-22T23:04:19+00:00",
+    "link": "https://www.investing.com/news/sec-filings/united-parks--resorts-appoints-kyle-miller-as-president-amends-bylaws-93CH-4911839",
+    "category_hint": "markets"
+  },
+  {
+    "title": "BlackSky technology general counsel & CAO Lin sells $138,600 in stock",
+    "source": "Investinglive",
+    "published": "2026-09-22T23:00:59+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/blacksky-technology-general-counsel--cao-lin-sells-138600-in-stock-93CH-4911835",
+    "category_hint": "markets"
+  },
+  {
+    "title": "BlackSky CFO Dubois sells $91,880 in company stock",
+    "source": "Investinglive",
+    "published": "2026-09-22T23:00:53+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/blacksky-cfo-dubois-sells-91880-in-company-stock-93CH-4911834",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Trump hails Burnham as ’natural business person’ after first meeting",
+    "source": "Investinglive",
+    "published": "2026-09-22T21:42:26+00:00",
+    "link": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-he-and-us-president-trump-have-established-good-connection-4911381",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Perli says Treasury bill purchases will adapt to evolving market conditions",
+    "source": "Investinglive",
+    "published": "2026-09-22T21:38:08+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-perli-says-treasury-bill-purchases-will-adapt-to-evolving-market-conditions-4911747",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trading Day: Oil slips, Nasdaq rips",
+    "source": "Investinglive",
+    "published": "2026-09-22T21:12:38+00:00",
+    "link": "https://www.investing.com/news/economy-news/trading-day-oil-slips-nasdaq-rips-4911721",
+    "category_hint": "macro"
+  },
+  {
+    "title": "NY Fed’s Perli says monetary policy toolkit working very well",
+    "source": "Investinglive",
+    "published": "2026-09-22T20:30:59+00:00",
+    "link": "https://www.investing.com/news/economy-news/ny-feds-perli-says-monetary-policy-toolkit-working-very-well-4911640",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Exclusive-IDB head working on $2.5 billion Venezuela loan, faces board pushback, sources say",
+    "source": "Investinglive",
+    "published": "2026-09-22T20:25:37+00:00",
+    "link": "https://www.investing.com/news/economy-news/exclusiveidb-head-working-on-25-billion-venezuela-loan-faces-board-pushback-sources-say-4911625",
+    "category_hint": "macro"
   }
 ]
