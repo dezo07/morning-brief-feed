@@ -250,5 +250,481 @@
     "published": "2026-09-25T03:48:27+00:00",
     "link": "https://www.investing.com/news/economy-news/analysisjapans-bond-falling-knife-stalls-repatriation-rush-4916565",
     "category_hint": "macro"
+  },
+  {
+    "title": "XCF Global reports $10M August renewable diesel revenue",
+    "source": "Investinglive",
+    "published": "2026-09-25T11:40:33+00:00",
+    "link": "https://www.investing.com/news/company-news/xcf-global-reports-10m-august-renewable-diesel-revenue-93CH-4917344",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Abeona Therapeutics stock reiterated at Buy by H.C. Wainwright",
+    "source": "Investinglive",
+    "published": "2026-09-25T11:38:53+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/abeona-therapeutics-stock-reiterated-at-buy-by-hc-wainwright-93CH-4917343",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Coya Therapeutics stock maintained at Buy by H.C. Wainwright",
+    "source": "Investinglive",
+    "published": "2026-09-25T11:38:50+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/coya-therapeutics-stock-maintained-at-buy-by-hc-wainwright-93CH-4917342",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright reiterates Ultragenyx stock rating on FDA approval",
+    "source": "Investinglive",
+    "published": "2026-09-25T11:38:46+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-ultragenyx-stock-rating-on-fda-approval-93CH-4917341",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright raises Surrozen stock price target on Wnt pathway validation",
+    "source": "Investinglive",
+    "published": "2026-09-25T11:38:44+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-surrozen-stock-price-target-on-wnt-pathway-validation-93CH-4917339",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright reiterates Kyverna stock rating on durability data",
+    "source": "Investinglive",
+    "published": "2026-09-25T11:38:44+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-kyverna-stock-rating-on-durability-data-93CH-4917340",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Quantum Cyber refocuses strategy on three defense pillars",
+    "source": "Investinglive",
+    "published": "2026-09-25T11:36:38+00:00",
+    "link": "https://www.investing.com/news/company-news/quantum-cyber-refocuses-strategy-on-three-defense-pillars-93CH-4917337",
+    "category_hint": "markets"
+  },
+  {
+    "title": "X-energy fuel unit president Joel Duling to retire",
+    "source": "Investinglive",
+    "published": "2026-09-25T11:36:33+00:00",
+    "link": "https://www.investing.com/news/company-news/xenergy-fuel-unit-president-joel-duling-to-retire-93CH-4917336",
+    "category_hint": "markets"
+  },
+  {
+    "title": "TruGolf announces 1-for-10 reverse stock split effective Monday",
+    "source": "Investinglive",
+    "published": "2026-09-25T11:36:26+00:00",
+    "link": "https://www.investing.com/news/company-news/trugolf-announces-1for10-reverse-stock-split-effective-monday-93CH-4917335",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Orosur oversubscribes C$14M private placement for drilling",
+    "source": "Investinglive",
+    "published": "2026-09-25T11:34:32+00:00",
+    "link": "https://www.investing.com/news/company-news/orosur-oversubscribes-c14m-private-placement-for-drilling-93CH-4917333",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Global equity funds snap two-week outflow as AI optimism returns",
+    "source": "Investinglive",
+    "published": "2026-09-25T11:18:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/global-equity-funds-snap-twoweek-outflow-as-ai-optimism-returns-4917292",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bank of England may struggle to hold rates amid high energy costs",
+    "source": "Investinglive",
+    "published": "2026-09-25T10:17:04+00:00",
+    "link": "https://www.investing.com/news/economy-news/bank-of-england-may-struggle-to-hold-rates-amid-high-energy-costs-93CH-4917107",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Kremlin says US, Russia, Ukraine meeting may happen soon",
+    "source": "Investinglive",
+    "published": "2026-09-25T10:15:22+00:00",
+    "link": "https://www.investing.com/news/economy-news/kremlin-says-us-russia-ukraine-meeting-may-happen-soon-93CH-4917104",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Morgan Stanley now expects two quarterly BoE hikes amid tough fiscal backdrop",
+    "source": "Investinglive",
+    "published": "2026-09-25T10:14:47+00:00",
+    "link": "https://www.investing.com/news/economy-news/morgan-stanley-now-expects-two-quarterly-boe-hikes-amid-tough-fiscal-backdrop-4917094",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Jobs report, inflation data to test US rate path, economic strength",
+    "source": "Investinglive",
+    "published": "2026-09-25T10:13:44+00:00",
+    "link": "https://www.investing.com/news/economy-news/jobs-report-inflation-data-to-test-us-rate-path-economic-strength-4917092",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
+    "source": "Investinglive",
+    "published": "2026-09-25T09:54:26+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-gain-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-4917018",
+    "category_hint": "macro"
+  },
+  {
+    "title": "BoE’s Bailey says high energy prices make it harder to leave rates on hold",
+    "source": "Investinglive",
+    "published": "2026-09-25T09:48:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/boes-bailey-says-high-energy-prices-make-it-harder-to-leave-rates-on-hold-4917012",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Morgan Stanley changes BoE rate call, sees hikes in Nov and Feb",
+    "source": "Investinglive",
+    "published": "2026-09-25T08:42:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/morgan-stanley-changes-boe-rate-call-sees-hikes-in-nov-and-feb-4916903",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Euro zone business lending slows slightly",
+    "source": "Investinglive",
+    "published": "2026-09-25T08:19:29+00:00",
+    "link": "https://www.investing.com/news/economy-news/euro-zone-business-lending-slows-slightly-4916856",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bond market selloff; Costco earnings - what’s moving markets",
+    "source": "Investinglive",
+    "published": "2026-09-25T07:55:01+00:00",
+    "link": "https://www.investing.com/news/economy-news/bond-market-selloff-costco-earnings--whats-moving-markets-4916799",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Texas Capital Bancshares stock hits 52-week low at $18.68",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:54:28+00:00",
+    "link": "https://www.investing.com/news/company-news/texas-capital-bancshares-stock-hits-52week-low-at-1868-93CH-4917842",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Sun Communities stock hits 52-week low at 110.46 USD",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:51:03+00:00",
+    "link": "https://www.investing.com/news/company-news/sun-communities-stock-hits-52week-low-at-11046-usd-93CH-4917840",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Natera options flow shows 12.6:1 put/call ratio near 52-week high",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:50:00+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/natera-options-flow-shows-1261-putcall-ratio-near-52week-high-93CH-4917839",
+    "category_hint": "markets"
+  },
+  {
+    "title": "DNP stock hits 52-week low at 9.68 USD",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:45:36+00:00",
+    "link": "https://www.investing.com/news/company-news/dnp-stock-hits-52week-low-at-968-usd-93CH-4917838",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Meta Platforms stock sliding today?",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:42:52+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-sliding-today-93CH-4917834",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Exclusive-Ford F-150 truck production down for nearly a week at Michigan plant, memo says",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:42:52+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/exclusiveford-f150-truck-production-down-for-nearly-a-week-at-michigan-plant-memo-says-4917835",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nscale secures $3.36 billion pre-IPO round as public debut looms",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:39:23+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/nscale-secures-336-billion-preipo-round-as-public-debut-looms-4917832",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Brightray signs non-binding framework for Macao data center",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:36:42+00:00",
+    "link": "https://www.investing.com/news/company-news/brightray-signs-nonbinding-framework-for-macao-data-center-93CH-4917830",
+    "category_hint": "markets"
+  },
+  {
+    "title": "AllianceBernstein names Onur Erzan as next CEO",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:36:36+00:00",
+    "link": "https://www.investing.com/news/company-news/alliancebernstein-names-onur-erzan-as-next-ceo-93CH-4917829",
+    "category_hint": "markets"
+  },
+  {
+    "title": "OpenText amends tender offer for 2028 senior notes",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:36:34+00:00",
+    "link": "https://www.investing.com/news/company-news/opentext-amends-tender-offer-for-2028-senior-notes-93CH-4917828",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US appeals court declines to block Pentagon’s blacklisting of Anthropic",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:31:08+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-appeals-court-declines-to-block-pentagons-blacklisting-of-anthropic-4917802",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Bill Gates demands federal AI guardrails, warns of \"a billion deaths\"",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:26:37+00:00",
+    "link": "https://www.investing.com/news/economy-news/bill-gates-demands-federal-ai-guardrails-warns-of-a-billion-deaths-4917809",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar falls as oil eases, yen rallies on Japan remarks",
+    "source": "Investinglive",
+    "published": "2026-09-25T15:13:03+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-falls-as-oil-cools-but-set-for-weekly-gain-yen-rallies-4917368",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Schmid: Need to understand if AI \"ecosystem\" getting too big to fail",
+    "source": "Investinglive",
+    "published": "2026-09-25T14:42:50+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-schmid-need-to-understand-if-ai-ecosystem-getting-too-big-to-fail-4917752",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Schmid questions if AI ecosystem is \"too-big-to-fail\"",
+    "source": "Investinglive",
+    "published": "2026-09-25T14:41:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-schmid-questions-if-ai-ecosystem-is-toobigtofail-4917751",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US consumer sentiment eases to four-month low in September",
+    "source": "Investinglive",
+    "published": "2026-09-25T14:36:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-consumer-sentiment-eases-to-fourmonth-low-in-september-4917747",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Analysis-Data center IPO hopefuls brave tougher market as investor scrutiny grows",
+    "source": "Investinglive",
+    "published": "2026-09-25T14:30:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysisdata-center-ipo-hopefuls-brave-tougher-market-as-investor-scrutiny-grows-4917737",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Global bond selloff rolls on, US 30-year yield at highest since 2004",
+    "source": "Investinglive",
+    "published": "2026-09-25T13:18:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/global-bond-selloff-rolls-on-us-30year-yield-at-highest-since-2004-4917617",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil mid-September inflation exceeds forecasts ahead of tight election",
+    "source": "Investinglive",
+    "published": "2026-09-25T12:42:48+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-midseptember-inflation-exceeds-forecasts-ahead-of-tight-election-4917527",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Smart Ring Maker Oura’s IPO Is About Four Times Oversubscribed - Bloomberg",
+    "source": "Investinglive",
+    "published": "2026-09-25T19:46:02+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/smart-ring-maker-ouras-ipo-is-about-four-times-oversubscribed--bloomberg-432SI-4918013",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Oura IPO said to draw four times demand as orders near close",
+    "source": "Investinglive",
+    "published": "2026-09-25T19:44:26+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/oura-ipo-said-to-draw-four-times-demand-as-orders-near-close-4918021",
+    "category_hint": "markets"
+  },
+  {
+    "title": "CRISPR Therapeutics stock analysis: pipeline catalysts vs. financial reality",
+    "source": "Investinglive",
+    "published": "2026-09-25T19:43:47+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/crispr-therapeutics-stock-analysis-pipeline-catalysts-vs-financial-reality-93CH-4918020",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Oura’s IPO draws four times demand with $2.2 billion target - Bloomberg",
+    "source": "Investinglive",
+    "published": "2026-09-25T19:43:30+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/ouras-ipo-draws-four-times-demand-with-22-billion-target--bloomberg-93CH-4918019",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Cenovus leads TSX trending stocks as energy outpaces banks, telecoms",
+    "source": "Investinglive",
+    "published": "2026-09-25T19:43:11+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/cenovus-leads-tsx-trending-stocks-as-energy-outpaces-banks-telecoms-93CH-4918018",
+    "category_hint": "markets"
+  },
+  {
+    "title": "BHP’s request to delay Escondida talks rejected after death",
+    "source": "Investinglive",
+    "published": "2026-09-25T19:42:56+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/bhps-request-to-delay-escondida-talks-rejected-after-death-93CH-4918017",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Soybean futures rise as traders await US-China trade details",
+    "source": "Investinglive",
+    "published": "2026-09-25T19:41:12+00:00",
+    "link": "https://www.investing.com/news/commodities-news/soybean-futures-rise-as-traders-await-uschina-trade-details-93CH-4918016",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Wafer fabrication equipment outlook: AMAT, LRCX, and KLAC in a structural upcycle",
+    "source": "Investinglive",
+    "published": "2026-09-25T19:36:32+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/wafer-fabrication-equipment-outlook-amat-lrcx-and-klac-in-a-structural-upcycle-93CH-4918015",
+    "category_hint": "markets"
+  },
+  {
+    "title": "M&A market trends: BASF/Evonik, arb spreads, and tokenization deals this week",
+    "source": "Investinglive",
+    "published": "2026-09-25T19:36:09+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/ma-market-trends-basfevonik-arb-spreads-and-tokenization-deals-this-week-93CH-4918014",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Manulife Financial stock gaining today?",
+    "source": "Investinglive",
+    "published": "2026-09-25T19:31:30+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-manulife-financial-stock-gaining-today-93CH-4918011",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Dollar dips as oil eases, yen jumps on Japan remarks",
+    "source": "Investinglive",
+    "published": "2026-09-25T19:12:37+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-falls-as-oil-cools-but-set-for-weekly-gain-yen-rallies-4917368",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Hammack says bond yield surge not about lost inflation confidence",
+    "source": "Investinglive",
+    "published": "2026-09-25T19:06:47+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-hammack-says-bond-yield-surge-not-about-lost-inflation-confidence-4917980",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Hammack says public’s inflation expectations could worsen",
+    "source": "Investinglive",
+    "published": "2026-09-25T18:28:15+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-hammack-says-publics-inflation-expectations-could-worsen-4917959",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Putin says Ukraine settlement proposals remain under review",
+    "source": "Investinglive",
+    "published": "2026-09-25T18:02:44+00:00",
+    "link": "https://www.investing.com/news/economy-news/putin-says-ukraine-settlement-proposals-remain-under-review-93CH-4917946",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
+    "source": "Investinglive",
+    "published": "2026-09-25T18:01:13+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-appeals-court-declines-to-block-pentagons-blacklisting-of-anthropic-4917802",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Corporate debt maturities set to test US borrowers as rates rise",
+    "source": "Investinglive",
+    "published": "2026-09-25T17:54:34+00:00",
+    "link": "https://www.investing.com/news/economy-news/corporate-debt-maturities-set-to-test-us-borrowers-as-rates-rise-4917933",
+    "category_hint": "macro"
+  },
+  {
+    "title": "France can’t count on ECB to fix debt woes, central bank chief says",
+    "source": "Investinglive",
+    "published": "2026-09-25T16:54:46+00:00",
+    "link": "https://www.investing.com/news/economy-news/france-cant-count-on-ecb-to-fix-debt-woes-central-bank-chief-says-4917889",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Rush of money, campaign stops show Republicans feel vulnerable in Iowa, Kansas",
+    "source": "Investinglive",
+    "published": "2026-09-25T22:49:15+00:00",
+    "link": "https://www.investing.com/news/commodities-news/rush-of-money-campaign-stops-show-republicans-feel-vulnerable-in-iowa-kansas-4917071",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Cypherpunk technologies director Oei Khing Djien sells $661,500 in stock",
+    "source": "Investinglive",
+    "published": "2026-09-25T22:46:00+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/cypherpunk-technologies-director-oei-khing-djien-sells-661500-in-stock-93CH-4918282",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US lawmakers aim to keep China’s datacenter tech out of sensitive government systems",
+    "source": "Investinglive",
+    "published": "2026-09-25T22:43:28+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/us-lawmakers-aim-to-keep-chinas-datacenter-tech-out-of-sensitive-government-systems-4918273",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Venezuela’s promised elections face long delays, sources say",
+    "source": "Investinglive",
+    "published": "2026-09-25T22:42:37+00:00",
+    "link": "https://www.investing.com/news/commodities-news/venezuelas-promised-elections-face-long-delays-sources-say-4918243",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Toro at 25th Annual Diversified Industrials & Services Conference: growth reset",
+    "source": "Investinglive",
+    "published": "2026-09-25T22:41:18+00:00",
+    "link": "https://www.investing.com/news/transcripts/toro-at-25th-annual-diversified-industrials--services-conference-growth-reset-93CH-4918271",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Bakkt COO Nicholas Baes sells $10,951 in BKKT stock",
+    "source": "Investinglive",
+    "published": "2026-09-25T22:31:18+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/bakkt-coo-nicholas-baes-sells-10951-in-bkkt-stock-93CH-4918267",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nutanix president and CCO Tarkan Maner sells $4.76m in stock",
+    "source": "Investinglive",
+    "published": "2026-09-25T22:31:05+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/nutanix-president-and-cco-tarkan-maner-sells-476m-in-stock-93CH-4918266",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Rush Street Interactive director Jack Markell buys $29,025 in stock",
+    "source": "Investinglive",
+    "published": "2026-09-25T22:31:03+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/rush-street-interactive-director-jack-markell-buys-29025-in-stock-93CH-4918265",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Klaviyo director Ed Hallen sells $22,126 in company stock",
+    "source": "Investinglive",
+    "published": "2026-09-25T22:16:08+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/klaviyo-director-ed-hallen-sells-22126-in-company-stock-93CH-4918254",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Qualcomm president & CEO Amon sells $2 million in stock",
+    "source": "Investinglive",
+    "published": "2026-09-25T22:15:57+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/qualcomm-president--ceo-amon-sells-2-million-in-stock-93CH-4918253",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Fed’s Hammack worried inflation expectations could deteriorate",
+    "source": "Investinglive",
+    "published": "2026-09-25T21:43:25+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-hammack-worried-inflation-expectations-could-deteriorate-4918170",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trump administration weighs options to curb record US diesel costs - Bloomberg",
+    "source": "Investinglive",
+    "published": "2026-09-25T21:18:20+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-administration-weighs-options-to-curb-record-us-diesel-costs--bloomberg-4918178",
+    "category_hint": "macro"
   }
 ]
