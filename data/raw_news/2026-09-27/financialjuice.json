@@ -1,5 +1,806 @@
 [
   {
+    "NewsID": 9780947,
+    "title": "S.Korea finmin: to enhance collaboration with central bank on market oversight - ministry",
+    "published": "2026-09-27T21:30:03.07",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780947/SKorea-finmin-to-enhance-collaboration-with-central-bank-on-market-oversight---ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T22:45:01.841349-04:00"
+  },
+  {
+    "NewsID": 9780946,
+    "title": "S.Korea finance minister: to pursue balanced policy mix with central bank — ministry",
+    "published": "2026-09-27T21:30:02.953",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780946/SKorea-finance-minister-to-pursue-balanced-policy-mix-with-central-bank--ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T22:45:01.841414-04:00"
+  },
+  {
+    "NewsID": 9780874,
+    "title": "S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.140% yield",
+    "published": "2026-09-27T20:40:03.65",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780874/SKorea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-3140-yield.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:45:01.942687-04:00"
+  },
+  {
+    "NewsID": 9780869,
+    "title": "China central bank injects 300 bln yuan via 14-day reverse repos: statement",
+    "published": "2026-09-27T20:31:23.257",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780869/China-central-bank-injects-300-bln-yuan-via-14-day-reverse-repos-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:45:01.942740-04:00"
+  },
+  {
+    "NewsID": 9780866,
+    "title": "China aug industrial profits rise 4.2% yr/yr: stats bureau",
+    "published": "2026-09-27T20:30:38.953",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780866/China-aug-industrial-profits-rise-42-yryr-stats-bureau.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:45:01.942785-04:00"
+  },
+  {
+    "NewsID": 9780863,
+    "title": "China industrial profits rise 15.7% year on year Jan-Aug: stats bureau",
+    "published": "2026-09-27T20:30:31.693",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780863/China-industrial-profits-rise-157-year-on-year-Jan-Aug-stats-bureau.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:45:01.942806-04:00"
+  },
+  {
+    "NewsID": 9780861,
+    "title": "Chinese Industrial profit YTD Actual 15.7% (Forecast -, Previous 17.6%)",
+    "published": "2026-09-27T20:30:57.77",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780861/Chinese-Industrial-profit-YTD-Actual-157-Forecast---Previous-176.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:45:01.942764-04:00"
+  },
+  {
+    "NewsID": 9780860,
+    "title": "China c.bank to inject 661 billion yuan via overnight reverse repos: statement",
+    "published": "2026-09-27T20:24:03.707",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780860/China-cbank-to-inject-661-billion-yuan-via-overnight-reverse-repos-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:30:02.103013-04:00"
+  },
+  {
+    "NewsID": 9780859,
+    "title": "China central bank to inject 139 billion yuan via 7-day reverse repos: statement",
+    "published": "2026-09-27T20:22:28.23",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780859/China-central-bank-to-inject-139-billion-yuan-via-7-day-reverse-repos-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:30:02.103067-04:00"
+  },
+  {
+    "NewsID": 9780858,
+    "title": "China c.bank injects 139 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+    "published": "2026-09-27T20:21:40.16",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780858/China-cbank-injects-139-bln-yuan-through-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:30:02.103091-04:00"
+  },
+  {
+    "NewsID": 9780857,
+    "title": "PBOC establishes yuan midpoint at strongest level since Feb. 3, 2023",
+    "published": "2026-09-27T20:17:57.15",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780857/PBOC-establishes-yuan-midpoint-at-strongest-level-since-Feb-3-2023.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:30:02.103112-04:00"
+  },
+  {
+    "NewsID": 9780845,
+    "title": "China commerce ministry: both sides agree to keep talks on boosting China-US flights and related issues",
+    "published": "2026-09-27T20:11:28.373",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780845/China-commerce-ministry-both-sides-agree-to-keep-talks-on-boosting-China-US-flights-and-related-issues.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:15:02.196645-04:00"
+  },
+  {
+    "NewsID": 9780844,
+    "title": "China commerce ministry: both sides likely to keep working on positive solution for continued extension via high-level economic and trade talks before year-end",
+    "published": "2026-09-27T20:11:16.697",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780844/China-commerce-ministry-both-sides-likely-to-keep-working-on-positive-solution-for-continued-extension-via-high-level-economic-and-trade-talks-before-year-end.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:15:02.196698-04:00"
+  },
+  {
+    "NewsID": 9780843,
+    "title": "China commerce ministry: trade truce offers room for both sides to review and evaluate joint arrangement implementation and explore ways to boost China-US economic and trade relations",
+    "published": "2026-09-27T20:10:59.26",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780843/China-commerce-ministry-trade-truce-offers-room-for-both-sides-to-review-and-evaluate-joint-arrangement-implementation-and-explore-ways-to-boost-China-US-economic-and-trade-relations.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:15:02.196723-04:00"
+  },
+  {
+    "NewsID": 9780842,
+    "title": "China commerce ministry: trade ceasefire with US to be extended to January 2027",
+    "published": "2026-09-27T20:10:11.15",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780842/China-commerce-ministry-trade-ceasefire-with-US-to-be-extended-to-January-2027.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:15:02.196745-04:00"
+  },
+  {
+    "NewsID": 9780841,
+    "title": "China commerce ministry: both parties agreed to maintain dialogue on boosting China-US flights and related issues",
+    "published": "2026-09-27T20:09:28.077",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780841/China-commerce-ministry-both-parties-agreed-to-maintain-dialogue-on-boosting-China-US-flights-and-related-issues.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:15:02.196766-04:00"
+  },
+  {
+    "NewsID": 9780840,
+    "title": "China commerce ministry: China, US agree to set up communication channel for AI incidents",
+    "published": "2026-09-27T20:08:02.493",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780840/China-commerce-ministry-China-US-agree-to-set-up-communication-channel-for-AI-incidents.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:15:02.196786-04:00"
+  },
+  {
+    "NewsID": 9780839,
+    "title": "China commerce ministry: China expects US to offer fair, transparent, and stable policy environment for Chinese financial institutions",
+    "published": "2026-09-27T20:07:39.397",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780839/China-commerce-ministry-China-expects-US-to-offer-fair-transparent-and-stable-policy-environment-for-Chinese-financial-institutions.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:15:02.196807-04:00"
+  },
+  {
+    "NewsID": 9780838,
+    "title": "China commerce ministry: China will review and approve applications from financial service institutions worldwide, including those with US capital, to operate and open branches",
+    "published": "2026-09-27T20:07:28.66",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780838/China-commerce-ministry-China-will-review-and-approve-applications-from-financial-service-institutions-worldwide-including-those-with-US-capital-to-operate-and-open-branches.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:15:02.196828-04:00"
+  },
+  {
+    "NewsID": 9780837,
+    "title": "China commerce ministry: both parties agree to hold first agriculture working group meeting before end of 2026",
+    "published": "2026-09-27T20:07:10.2",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780837/China-commerce-ministry-both-parties-agree-to-hold-first-agriculture-working-group-meeting-before-end-of-2026.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:15:02.196848-04:00"
+  },
+  {
+    "NewsID": 9780836,
+    "title": "China commerce ministry: China and US agree to form agricultural working group",
+    "published": "2026-09-27T20:06:49.94",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780836/China-commerce-ministry-China-and-US-agree-to-form-agricultural-working-group.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:15:02.196869-04:00"
+  },
+  {
+    "NewsID": 9780835,
+    "title": "China commerce ministry: We look forward to expanding China-US collaboration in coal sector",
+    "published": "2026-09-27T20:06:21.67",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780835/China-commerce-ministry-We-look-forward-to-expanding-China-US-collaboration-in-coal-sector.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:15:02.196889-04:00"
+  },
+  {
+    "NewsID": 9780834,
+    "title": "China commerce ministry: importing US coal complements domestic market, offers stable economic returns and jobs for US industry",
+    "published": "2026-09-27T20:06:07.203",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780834/China-commerce-ministry-importing-US-coal-complements-domestic-market-offers-stable-economic-returns-and-jobs-for-US-industry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T21:15:02.196923-04:00"
+  },
+  {
+    "NewsID": 9780817,
+    "title": "Momenta enters global strategic alliance with Dongfeng Stellantis automotive technology (Wuhan) Co",
+    "published": "2026-09-27T19:30:02.73",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780817/Momenta-enters-global-strategic-alliance-with-Dongfeng-Stellantis-automotive-technology-Wuhan-Co.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:45:02.276063-04:00"
+  },
+  {
+    "NewsID": 9780816,
+    "title": "Momenta: technology to be deployed in China, Europe and other worldwide markets",
+    "published": "2026-09-27T19:30:02.543",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780816/Momenta-technology-to-be-deployed-in-China-Europe-and-other-worldwide-markets.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:45:02.276128-04:00"
+  },
+  {
+    "NewsID": 9780815,
+    "title": "Momenta: two firms to jointly develop enhanced driver-assistance system for new mass-produced Peugeot and Jeep models",
+    "published": "2026-09-27T19:30:02.53",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780815/Momenta-two-firms-to-jointly-develop-enhanced-driver-assistance-system-for-new-mass-produced-Peugeot-and-Jeep-models.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:45:02.276155-04:00"
+  },
+  {
+    "NewsID": 9780814,
+    "title": "China PBOC likely to set yuan midpoint at 6.7085 per dollar: estimate",
+    "published": "2026-09-27T19:20:46.32",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780814/China-PBOC-likely-to-set-yuan-midpoint-at-67085-per-dollar-estimate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:30:02.523547-04:00"
+  },
+  {
+    "NewsID": 9780812,
+    "title": "South Korea 10-year Treasury bond futures drop by 120 ticks",
+    "published": "2026-09-27T19:16:08.79",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780812/South-Korea-10-year-Treasury-bond-futures-drop-by-120-ticks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:30:02.523623-04:00"
+  },
+  {
+    "NewsID": 9780811,
+    "title": "South Korea 3-year Treasury bond futures KTBC1 drop by 30 ticks",
+    "published": "2026-09-27T19:16:06.28",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780811/South-Korea-3-year-Treasury-bond-futures-KTBC1-drop-by-30-ticks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:30:02.523648-04:00"
+  },
+  {
+    "NewsID": 9780809,
+    "title": "BOJ minutes: cabinet office official says suitable monetary policy crucial for stable inflation, hopes BOJ collaborates with government",
+    "published": "2026-09-27T19:07:37.893",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780809/BOJ-minutes-cabinet-office-official-says-suitable-monetary-policy-crucial-for-stable-inflation-hopes-BOJ-collaborates-with-government.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:15:01.762316-04:00"
+  },
+  {
+    "NewsID": 9780808,
+    "title": "BOJ minutes: board discussed long-term interest rate changes with some members saying term premia could increase if markets doubt BOJ will raise rates adequately",
+    "published": "2026-09-27T19:07:16.697",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780808/BOJ-minutes-board-discussed-long-term-interest-rate-changes-with-some-members-saying-term-premia-could-increase-if-markets-doubt-BOJ-will-raise-rates-adequately.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:15:01.762369-04:00"
+  },
+  {
+    "NewsID": 9780807,
+    "title": "BOJ minutes: several members said it was difficult to anticipate pace and timing of future rate increases",
+    "published": "2026-09-27T19:04:41.15",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780807/BOJ-minutes-several-members-said-it-was-difficult-to-anticipate-pace-and-timing-of-future-rate-increases.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:15:01.762393-04:00"
+  },
+  {
+    "NewsID": 9780806,
+    "title": "BOJ minutes: some members said central bank must signal focus on upside inflation risks more clearly",
+    "published": "2026-09-27T19:04:26.25",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780806/BOJ-minutes-some-members-said-central-bank-must-signal-focus-on-upside-inflation-risks-more-clearly.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:15:01.762414-04:00"
+  },
+  {
+    "NewsID": 9780805,
+    "title": "BOJ minutes: one member says bank must speed up rate hikes as inflation risks could cause significant harm to economy",
+    "published": "2026-09-27T19:03:47.717",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780805/BOJ-minutes-one-member-says-bank-must-speed-up-rate-hikes-as-inflation-risks-could-cause-significant-harm-to-economy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:15:01.762435-04:00"
+  },
+  {
+    "NewsID": 9780804,
+    "title": "BoJ minutes: one member said bank must adjust policy rate nimbly with focus on upside inflation risks",
+    "published": "2026-09-27T19:02:48.953",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780804/BoJ-minutes-one-member-said-bank-must-adjust-policy-rate-nimbly-with-focus-on-upside-inflation-risks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:15:01.762456-04:00"
+  },
+  {
+    "NewsID": 9780803,
+    "title": "BOJ minutes: one member said markets appear to expect BOJ to raise rates about once every six months, but hikes could come more quickly",
+    "published": "2026-09-27T19:02:19.827",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780803/BOJ-minutes-one-member-said-markets-appear-to-expect-BOJ-to-raise-rates-about-once-every-six-months-but-hikes-could-come-more-quickly.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:15:01.762476-04:00"
+  },
+  {
+    "NewsID": 9780802,
+    "title": "boj minutes: many members said central bank gradually moving to phase focusing on stabilising underlying inflation around 2%, not pushing up inflation",
+    "published": "2026-09-27T19:01:54.237",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780802/boj-minutes-many-members-said-central-bank-gradually-moving-to-phase-focusing-on-stabilising-underlying-inflation-around-2-not-pushing-up-inflation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:15:01.762496-04:00"
+  },
+  {
+    "NewsID": 9780796,
+    "title": "BOJ minutes: one member said central bank must ensure nimble policy decisions by raising policy rate, which stayed below estimated neutral rate range",
+    "published": "2026-09-27T19:00:33.89",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780796/BOJ-minutes-one-member-said-central-bank-must-ensure-nimble-policy-decisions-by-raising-policy-rate-which-stayed-below-estimated-neutral-rate-range.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:15:01.762516-04:00"
+  },
+  {
+    "NewsID": 9780794,
+    "title": "BOJ minutes: one member said Bank of Japan must taper monetary support gradually to prevent delay in interest-rate increases",
+    "published": "2026-09-27T18:59:23.243",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780794/BOJ-minutes-one-member-said-Bank-of-Japan-must-taper-monetary-support-gradually-to-prevent-delay-in-interest-rate-increases.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.079865-04:00"
+  },
+  {
+    "NewsID": 9780793,
+    "title": "BOJ minutes: one member noted it takes 1-1.5 years for rate hike effect to ease inflation, economy",
+    "published": "2026-09-27T18:58:26.48",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780793/BOJ-minutes-one-member-noted-it-takes-1-15-years-for-rate-hike-effect-to-ease-inflation-economy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.079903-04:00"
+  },
+  {
+    "NewsID": 9780792,
+    "title": "BoJ minutes: one member notes rising upside price risks as recent weak yen, Middle East events could boost inflation expectations",
+    "published": "2026-09-27T18:56:54.24",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780792/BoJ-minutes-one-member-notes-rising-upside-price-risks-as-recent-weak-yen-Middle-East-events-could-boost-inflation-expectations.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.079917-04:00"
+  },
+  {
+    "NewsID": 9780791,
+    "title": "BOJ minutes: members concur fx volatility impacts economy, prices more than before as firms increase pass-through of rising import costs",
+    "published": "2026-09-27T18:56:41.377",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780791/BOJ-minutes-members-concur-fx-volatility-impacts-economy-prices-more-than-before-as-firms-increase-pass-through-of-rising-import-costs.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.079930-04:00"
+  },
+  {
+    "NewsID": 9780790,
+    "title": "Bank of Korea: to closely watch financial and forex markets",
+    "published": "2026-09-27T18:55:35.727",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780790/Bank-of-Korea-to-closely-watch-financial-and-forex-markets.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.079942-04:00"
+  },
+  {
+    "NewsID": 9780789,
+    "title": "BOJ minutes: one member said focus needed on whether long-term inflation expectations will settle near 2%",
+    "published": "2026-09-27T18:55:20.13",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780789/BOJ-minutes-one-member-said-focus-needed-on-whether-long-term-inflation-expectations-will-settle-near-2.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.079954-04:00"
+  },
+  {
+    "NewsID": 9780788,
+    "title": "BOJ minutes: many members said underlying inflation nearing 2%, requiring focus on stabilising price growth around that level",
+    "published": "2026-09-27T18:55:20.11",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780788/BOJ-minutes-many-members-said-underlying-inflation-nearing-2-requiring-focus-on-stabilising-price-growth-around-that-level.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.079966-04:00"
+  },
+  {
+    "NewsID": 9780787,
+    "title": "Rising price growth near that level",
+    "published": "2026-09-27T18:54:56.683",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780787/Rising-price-growth-near-that-level.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.079978-04:00"
+  },
+  {
+    "NewsID": 9780786,
+    "title": "BoJ minutes: many members noted underlying inflation nearing 2%, demanding focus on stability",
+    "published": "2026-09-27T18:54:56.593",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780786/BoJ-minutes-many-members-noted-underlying-inflation-nearing-2-demanding-focus-on-stability.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.079990-04:00"
+  },
+  {
+    "NewsID": 9780785,
+    "title": "BOJ minutes: several members expect consumer goods price increases to expand from summer onward",
+    "published": "2026-09-27T18:54:05.29",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780785/BOJ-minutes-several-members-expect-consumer-goods-price-increases-to-expand-from-summer-onward.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.080002-04:00"
+  },
+  {
+    "NewsID": 9780784,
+    "title": "BOJ minutes: many members say medium-, long-term inflation expectations rising for households, companies",
+    "published": "2026-09-27T18:53:18.96",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780784/BOJ-minutes-many-members-say-medium--long-term-inflation-expectations-rising-for-households-companies.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.080013-04:00"
+  },
+  {
+    "NewsID": 9780783,
+    "title": "boj minutes: several members noted companies steadily pass rising raw material costs, sustaining high wholesale inflation",
+    "published": "2026-09-27T18:52:52.773",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780783/boj-minutes-several-members-noted-companies-steadily-pass-rising-raw-material-costs-sustaining-high-wholesale-inflation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.080025-04:00"
+  },
+  {
+    "NewsID": 9780782,
+    "title": "BOJ minutes: some members note consumer prices rising, reflecting increased import costs",
+    "published": "2026-09-27T18:52:19.77",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780782/BOJ-minutes-some-members-note-consumer-prices-rising-reflecting-increased-import-costs.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.080049-04:00"
+  },
+  {
+    "NewsID": 9780781,
+    "title": "Japanese Service PPI Actual 3.7% (Forecast 3.6%, Previous 3.6%)",
+    "published": "2026-09-27T18:52:42.78",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780781/Japanese-Service-PPI-Actual-37-Forecast-36-Previous-36.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.080037-04:00"
+  },
+  {
+    "NewsID": 9780780,
+    "title": "BOJ july meeting minutes: members agreed financial conditions remain accommodative",
+    "published": "2026-09-27T18:50:47.827",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780780/BOJ-july-meeting-minutes-members-agreed-financial-conditions-remain-accommodative.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T20:00:02.080069-04:00"
+  },
+  {
+    "NewsID": 9780750,
+    "title": "Being Eswin computing technology announces 1.57 billion H shares offered globally",
+    "published": "2026-09-27T17:10:49.333",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780750/Being-Eswin-computing-technology-announces-157-billion-H-shares-offered-globally.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T18:15:02.668489-04:00"
+  },
+  {
+    "NewsID": 9780726,
+    "title": "South Korea presidential office demands official explanation and apology from Ukraine over revealing North Korean POW transfer",
+    "published": "2026-09-27T15:06:48.18",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780726/South-Korea-presidential-office-demands-official-explanation-and-apology-from-Ukraine-over-revealing-North-Korean-POW-transfer.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T16:15:02.515644-04:00"
+  },
+  {
+    "NewsID": 9780725,
+    "title": "South Korea presidential office: Ukraine's revelation of North Korean POW transfer sparks unnecessary local controversy",
+    "published": "2026-09-27T15:05:13.87",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780725/South-Korea-presidential-office-Ukraines-revelation-of-North-Korean-POW-transfer-sparks-unnecessary-local-controversy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T16:15:02.515695-04:00"
+  },
+  {
+    "NewsID": 9780724,
+    "title": "South Korea presidential office: Ukraine revealed North Korean POWs transfer to South Korea in UN speech without enough prior consultation",
+    "published": "2026-09-27T15:05:03.247",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780724/South-Korea-presidential-office-Ukraine-revealed-North-Korean-POWs-transfer-to-South-Korea-in-UN-speech-without-enough-prior-consultation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T16:15:02.515717-04:00"
+  },
+  {
+    "NewsID": 9780723,
+    "title": "South Korea presidential office: South Korea agreed to keep North Korean POW transfer under wraps due to security, diplomatic concerns",
+    "published": "2026-09-27T15:04:34.993",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780723/South-Korea-presidential-office-South-Korea-agreed-to-keep-North-Korean-POW-transfer-under-wraps-due-to-security-diplomatic-concerns.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T16:15:02.515737-04:00"
+  },
+  {
+    "NewsID": 9780722,
+    "title": "South Korea presidential office: Ukraine asked to keep transfer of North Korean POWs confidential",
+    "published": "2026-09-27T15:04:14.783",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780722/South-Korea-presidential-office-Ukraine-asked-to-keep-transfer-of-North-Korean-POWs-confidential.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T16:15:02.515756-04:00"
+  },
+  {
+    "NewsID": 9780701,
+    "title": "Israeli prime minister visited Abu Dhabi on Sunday: UAE president met, Axios sources",
+    "published": "2026-09-27T14:04:09.433",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780701/Israeli-prime-minister-visited-Abu-Dhabi-on-Sunday-UAE-president-met-Axios-sources.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T15:15:02.143958-04:00"
+  },
+  {
+    "NewsID": 9780691,
+    "title": "Downing Street: UK PM Burnham and Norway PM hail deal between Denmark, Greenland and US",
+    "published": "2026-09-27T13:04:35.937",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780691/Downing-Street-UK-PM-Burnham-and-Norway-PM-hail-deal-between-Denmark-Greenland-and-US.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T14:15:02.128035-04:00"
+  },
+  {
+    "NewsID": 9780690,
+    "title": "Downing Street: UK PM and Norway PM discuss Lunna House strategic defense pact between UK and Norway",
+    "published": "2026-09-27T13:03:34.357",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780690/Downing-Street-UK-PM-and-Norway-PM-discuss-Lunna-House-strategic-defense-pact-between-UK-and-Norway.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T14:15:02.128085-04:00"
+  },
+  {
+    "NewsID": 9780689,
+    "title": "Serbia’s President Aleksandar Vucic resigns, clears path for early presidential election",
+    "published": "2026-09-27T13:03:08.87",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780689/Serbias-President-Aleksandar-Vucic-resigns-clears-path-for-early-presidential-election.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T14:15:02.128108-04:00"
+  },
+  {
+    "NewsID": 9780688,
+    "title": "Downing Street: UK PM Burnham greeted Norwegian Prime Minister Jonas Store in Liverpool today",
+    "published": "2026-09-27T13:02:35.327",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780688/Downing-Street-UK-PM-Burnham-greeted-Norwegian-Prime-Minister-Jonas-Store-in-Liverpool-today.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T14:15:02.128128-04:00"
+  },
+  {
+    "NewsID": 9780686,
+    "title": "Israeli foreign ministry: diplomatic immunity of Dutch envoys in Ramallah to end in seven days",
+    "published": "2026-09-27T12:54:57.073",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780686/Israeli-foreign-ministry-diplomatic-immunity-of-Dutch-envoys-in-Ramallah-to-end-in-seven-days.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T14:00:02.405869-04:00"
+  },
+  {
+    "NewsID": 9780685,
+    "title": "Israeli foreign ministry: Israel cancels diplomatic status of Dutch diplomats in Ramallah",
+    "published": "2026-09-27T12:53:47.857",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780685/Israeli-foreign-ministry-Israel-cancels-diplomatic-status-of-Dutch-diplomats-in-Ramallah.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T14:00:02.405924-04:00"
+  },
+  {
+    "NewsID": 9780656,
+    "title": "Anthropic's Dario Amodei to Attend White House Dinner With Trump: Axios",
+    "published": "2026-09-27T10:28:31.6",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780656/Anthropics-Dario-Amodei-to-Attend-White-House-Dinner-With-Trump-Axios.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T11:30:02.153520-04:00"
+  },
+  {
+    "NewsID": 9780655,
+    "title": "Anthropic's Dario Amodei to attend White House dinner with Trump: Axios",
+    "published": "2026-09-27T10:28:30.273",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780655/Anthropics-Dario-Amodei-to-attend-White-House-dinner-with-Trump-Axios.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T11:30:02.153575-04:00"
+  },
+  {
+    "NewsID": 9780653,
+    "title": "China considers permitting ByteDance, Alibaba to buy new Nvidia chips - The Information",
+    "published": "2026-09-27T10:06:44.947",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780653/China-considers-permitting-ByteDance-Alibaba-to-buy-new-Nvidia-chips---The-Information.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T11:15:02.289431-04:00"
+  },
+  {
+    "NewsID": 9780649,
+    "title": "South Korean presidency: country contemplating extra actions on issue - Yonhap",
+    "published": "2026-09-27T10:01:30.597",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780649/South-Korean-presidency-country-contemplating-extra-actions-on-issue---Yonhap.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T11:15:02.289484-04:00"
+  },
+  {
+    "NewsID": 9780646,
+    "title": "South Korea expresses strong regret over Ukraine's refusal of nondisclosure agreement on North Korean POWs - Yonhap",
+    "published": "2026-09-27T10:00:18.087",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780646/South-Korea-expresses-strong-regret-over-Ukraines-refusal-of-nondisclosure-agreement-on-North-Korean-POWs---Yonhap.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T11:15:02.289508-04:00"
+  },
+  {
+    "NewsID": 9780645,
+    "title": "Trump tells Axios: expects US negotiators to hold more talks with Iran this week",
+    "published": "2026-09-27T09:58:31.777",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780645/Trump-tells-Axios-expects-US-negotiators-to-hold-more-talks-with-Iran-this-week.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T11:00:02.545783-04:00"
+  },
+  {
+    "NewsID": 9780644,
+    "title": "Libya's NOC: first refining units at Zawiya refinery, crude oil flow through main Sharara-Zawiya pipeline resumed after valve 7 reopening - statement",
+    "published": "2026-09-27T09:51:26.303",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780644/Libyas-NOC-first-refining-units-at-Zawiya-refinery-crude-oil-flow-through-main-Sharara-Zawiya-pipeline-resumed-after-valve-7-reopening---statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T11:00:02.545836-04:00"
+  },
+  {
+    "NewsID": 9780641,
+    "title": "Trump: suspects aimed to cause major harm",
+    "published": "2026-09-27T09:43:49.87",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780641/Trump-suspects-aimed-to-cause-major-harm.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T10:45:01.816496-04:00"
+  },
+  {
+    "NewsID": 9780640,
+    "title": "Trump: Suspects had been under surveillance for a long time and we captured them",
+    "published": "2026-09-27T09:42:18.117",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780640/Trump-Suspects-had-been-under-surveillance-for-a-long-time-and-we-captured-them.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T10:45:01.816555-04:00"
+  },
+  {
+    "NewsID": 9780639,
+    "title": "Trump: Arrests in UK were a positive development",
+    "published": "2026-09-27T09:41:54.327",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780639/Trump-Arrests-in-UK-were-a-positive-development.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T10:45:01.816581-04:00"
+  },
+  {
+    "NewsID": 9780626,
+    "title": "UK government spokesperson: UK Prime Minister is being kept informed on Gloucestershire incident",
+    "published": "2026-09-27T09:07:30.987",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780626/UK-government-spokesperson-UK-Prime-Minister-is-being-kept-informed-on-Gloucestershire-incident.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T10:15:02.330309-04:00"
+  },
+  {
+    "NewsID": 9780611,
+    "title": "UK police: 5 men near RAF Fairford further apprehended on suspicion of preparing terrorist act",
+    "published": "2026-09-27T08:01:26.53",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780611/UK-police-5-men-near-RAF-Fairford-further-apprehended-on-suspicion-of-preparing-terrorist-act.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T09:15:02.117815-04:00"
+  },
+  {
+    "NewsID": 9780603,
+    "title": "UK police: working closely with partners in counterterrorism efforts",
+    "published": "2026-09-27T07:55:02",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780603/UK-police-working-closely-with-partners-in-counterterrorism-efforts.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T09:00:02.325053-04:00"
+  },
+  {
+    "NewsID": 9780602,
+    "title": "UK police: working to determine full scope of this incident",
+    "published": "2026-09-27T07:54:51.83",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780602/UK-police-working-to-determine-full-scope-of-this-incident.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T09:00:02.325110-04:00"
+  },
+  {
+    "NewsID": 9780601,
+    "title": "UK police: 85 households told to evacuate",
+    "published": "2026-09-27T07:54:30.5",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780601/UK-police-85-households-told-to-evacuate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T09:00:02.325133-04:00"
+  },
+  {
+    "NewsID": 9780600,
+    "title": "UK police on Fairford air base incident: men held in custody",
+    "published": "2026-09-27T07:54:17.093",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780600/UK-police-on-Fairford-air-base-incident-men-held-in-custody.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T09:00:02.325155-04:00"
+  },
+  {
+    "NewsID": 9780599,
+    "title": "UK police on Fairford air base incident: 5 men arrested near RAF Fairford",
+    "published": "2026-09-27T07:54:11.853",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780599/UK-police-on-Fairford-air-base-incident-5-men-arrested-near-RAF-Fairford.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T09:00:02.325201-04:00"
+  },
+  {
+    "NewsID": 9780576,
+    "title": "Pakistan information ministry rejects Afghan allegations of backing fighters in Nuristan, denies training ex-Afghan security personnel",
+    "published": "2026-09-27T06:37:40.083",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780576/Pakistan-information-ministry-rejects-Afghan-allegations-of-backing-fighters-in-Nuristan-denies-training-ex-Afghan-security-personnel.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T07:45:02.222669-04:00"
+  },
+  {
+    "NewsID": 9780556,
+    "title": "Yemen's Houthi-run health ministry: 7 killed, 40 wounded in market strike in Taiz - Saba News Agency",
+    "published": "2026-09-27T05:44:14.57",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780556/Yemens-Houthi-run-health-ministry-7-killed-40-wounded-in-market-strike-in-Taiz---Saba-News-Agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T06:45:02.295531-04:00"
+  },
+  {
+    "NewsID": 9780553,
+    "title": "Iran's Revolutionary Guards navy: captures US autonomous underwater vehicle in Strait of Hormuz - state media",
+    "published": "2026-09-27T05:32:05.163",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780553/Irans-Revolutionary-Guards-navy-captures-US-autonomous-underwater-vehicle-in-Strait-of-Hormuz---state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T06:45:02.295600-04:00"
+  },
+  {
+    "NewsID": 9780552,
+    "title": "South Korea military, UN command open probe into DMZ blast: Korean military",
+    "published": "2026-09-27T05:28:04.297",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780552/South-Korea-military-UN-command-open-probe-into-DMZ-blast-Korean-military.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T06:30:02.490856-04:00"
+  },
+  {
+    "NewsID": 9780535,
+    "title": "Swiss voters poised to dismiss neutrality initiative, according to SRF projections",
+    "published": "2026-09-27T05:01:54.89",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780535/Swiss-voters-poised-to-dismiss-neutrality-initiative-according-to-SRF-projections.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T06:15:02.739097-04:00"
+  },
+  {
+    "NewsID": 9780529,
+    "title": "UK government spokesperson: UK Prime Minister receiving updates on Gloucestershire incident",
+    "published": "2026-09-27T04:46:28.73",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9780529/UK-government-spokesperson-UK-Prime-Minister-receiving-updates-on-Gloucestershire-incident.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-27T06:00:01.917836-04:00"
+  },
+  {
     "NewsID": 9780527,
     "title": "Afghan defence ministry: 28 fighters killed after crossing from Pakistan into eastern Afghanistan; most were ex-Afghan security personnel",
     "published": "2026-09-27T04:08:12.2",
