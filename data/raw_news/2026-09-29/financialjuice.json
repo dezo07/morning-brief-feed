@@ -1,0 +1,794 @@
+[
+  {
+    "NewsID": 9783241,
+    "title": "China FX Regulator: AI-related exports and imports expected to maintain rapid growth.",
+    "published": "2026-09-29T04:30:32.167",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783241/China-FX-Regulator-AI-related-exports-and-imports-expected-to-maintain-rapid-growth.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T05:45:01.739467-04:00"
+  },
+  {
+    "NewsID": 9783235,
+    "title": "UK PM expected to signal plans for electoral reform - Guardian",
+    "published": "2026-09-29T04:22:56.66",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783235/UK-PM-expected-to-signal-plans-for-electoral-reform---Guardian.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T05:30:02.024793-04:00"
+  },
+  {
+    "NewsID": 9783218,
+    "title": "Italian PPI YoY Actual 10.9% (Forecast -, Previous 7.8%)",
+    "published": "2026-09-29T04:12:28.927",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783218/Italian-PPI-YoY-Actual-109-Forecast---Previous-78.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T05:15:02.200930-04:00"
+  },
+  {
+    "NewsID": 9783217,
+    "title": "Italian PPI MoM Actual 2.4% (Forecast -, Previous 2.4%)",
+    "published": "2026-09-29T04:12:26.057",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783217/Italian-PPI-MoM-Actual-24-Forecast---Previous-24.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T05:15:02.200993-04:00"
+  },
+  {
+    "NewsID": 9783216,
+    "title": "OpenAI to debut always-on AI agent at DevDay - Axios",
+    "published": "2026-09-29T04:05:57.3",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783216/OpenAI-to-debut-always-on-AI-agent-at-DevDay---Axios.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T05:15:02.201018-04:00"
+  },
+  {
+    "NewsID": 9783215,
+    "title": "UK 10 Yr Gilt Bid-to-Cover Actual 3.34 (Forecast -, Previous 3.65)",
+    "published": "2026-09-29T04:02:53.88",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783215/UK-10-Yr-Gilt-Bid-to-Cover-Actual-334-Forecast---Previous-365.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T05:15:02.201038-04:00"
+  },
+  {
+    "NewsID": 9783214,
+    "title": "UK 10 Yr Gilt Yield Actual 5.383% (Forecast -, Previous 5.155%)",
+    "published": "2026-09-29T04:02:52.963",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783214/UK-10-Yr-Gilt-Yield-Actual-5383-Forecast---Previous-5155.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T05:15:02.201057-04:00"
+  },
+  {
+    "NewsID": 9783185,
+    "title": "UK AI Minister Narayan: Need to build data centres with control, UK values.",
+    "published": "2026-09-29T03:52:21.877",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783185/UK-AI-Minister-Narayan-Need-to-build-data-centres-with-control-UK-values.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T05:00:02.117825-04:00"
+  },
+  {
+    "NewsID": 9783184,
+    "title": "NVIDIA and AMD up White House lobbying on China exports - Politico",
+    "published": "2026-09-29T03:47:40.393",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783184/NVIDIA-and-AMD-up-White-House-lobbying-on-China-exports---Politico.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T05:00:02.117867-04:00"
+  },
+  {
+    "NewsID": 9783135,
+    "title": "UK Mortgage Approvals Actual 54.918k (Forecast 56.1k, Previous 56.053k)",
+    "published": "2026-09-29T03:30:05.61",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783135/UK-Mortgage-Approvals-Actual-54918k-Forecast-561k-Previous-56053k.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T04:45:02.390632-04:00"
+  },
+  {
+    "NewsID": 9783134,
+    "title": "BoE Consumer Credit Actual 2.464B (Forecast 1.9B, Previous 2.006B)",
+    "published": "2026-09-29T03:30:41.377",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783134/BoE-Consumer-Credit-Actual-2464B-Forecast-19B-Previous-2006B.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T04:45:02.390538-04:00"
+  },
+  {
+    "NewsID": 9783133,
+    "title": "UK M4 Money Supply Actual 0.4% (Forecast -, Previous -0.3%)",
+    "published": "2026-09-29T03:30:41.097",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783133/UK-M4-Money-Supply-Actual-04-Forecast---Previous--03.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T04:45:02.390590-04:00"
+  },
+  {
+    "NewsID": 9783132,
+    "title": "UK Mortgage Lending Actual 4.410B (Forecast 4.4B, Previous 4.292B ,Revision 4.082B)",
+    "published": "2026-09-29T03:30:40.927",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783132/UK-Mortgage-Lending-Actual-4410B-Forecast-44B-Previous-4292B-Revision-4082B.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T04:45:02.390612-04:00"
+  },
+  {
+    "NewsID": 9783131,
+    "title": "ECB's Kazimir: We need flexibility, we have enough time.",
+    "published": "2026-09-29T03:29:31.64",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783131/ECBs-Kazimir-We-need-flexibility-we-have-enough-time.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T04:30:01.651882-04:00"
+  },
+  {
+    "NewsID": 9783130,
+    "title": "ECB's Kazimir: Key for me will be January repricing.",
+    "published": "2026-09-29T03:28:56.01",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783130/ECBs-Kazimir-Key-for-me-will-be-January-repricing.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T04:30:01.651932-04:00"
+  },
+  {
+    "NewsID": 9783129,
+    "title": "ECB's Kazimir: Energy prices remain key factor.",
+    "published": "2026-09-29T03:28:40.58",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783129/ECBs-Kazimir-Energy-prices-remain-key-factor.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T04:30:01.651954-04:00"
+  },
+  {
+    "NewsID": 9783128,
+    "title": "ECB's Kazimir: Rate hike was unavoidable.",
+    "published": "2026-09-29T03:28:31.74",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783128/ECBs-Kazimir-Rate-hike-was-unavoidable.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T04:30:01.651974-04:00"
+  },
+  {
+    "NewsID": 9783099,
+    "title": "Italian Industrial Sales MoM Actual 0.6% (Forecast -, Previous -1.0%)",
+    "published": "2026-09-29T03:01:14.05",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783099/Italian-Industrial-Sales-MoM-Actual-06-Forecast---Previous--10.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T04:15:01.928679-04:00"
+  },
+  {
+    "NewsID": 9783073,
+    "title": "Iran's Parliament Speaker Qalibaf: No one in the region shall sell its oil if Iran cannot sell its oil, if Iran has no security then no regional infrastructure shall be safe - State Media",
+    "published": "2026-09-29T02:39:27.133",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783073/Irans-Parliament-Speaker-Qalibaf-No-one-in-the-region-shall-sell-its-oil-if-Iran-cannot-sell-its-oil-if-Iran-has-no-security-then-no-regional-infrastructure-shall-be-safe---State-Media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T03:45:02.584636-04:00"
+  },
+  {
+    "NewsID": 9783034,
+    "title": "Iran's IRGC Spokesperson: US has no other choice but to declare failure and leave the region.",
+    "published": "2026-09-29T02:24:54.89",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783034/Irans-IRGC-Spokesperson-US-has-no-other-choice-but-to-declare-failure-and-leave-the-region.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T03:30:01.754775-04:00"
+  },
+  {
+    "NewsID": 9783033,
+    "title": "Iran's Revolutionary Guards Spokesperson: Trump is 'a big liar’, US people need to be told the truth.",
+    "published": "2026-09-29T02:13:39.977",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783033/Irans-Revolutionary-Guards-Spokesperson-Trump-is-a-big-liar-US-people-need-to-be-told-the-truth.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T03:15:01.993346-04:00"
+  },
+  {
+    "NewsID": 9783032,
+    "title": "Currency Strength Chart: Strongest: USD, JPY, CAD, EUR, GBP, CHF, NZD, AUD - Weakest",
+    "published": "2026-09-29T02:01:42.477",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9783032/Currency-Strength-Chart-Strongest-USD-JPY-CAD-EUR-GBP-CHF-NZD-AUD---Weakest.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T03:15:01.993400-04:00"
+  },
+  {
+    "NewsID": 9783010,
+    "title": "Spanish Retail Sales SA YoY Actual -0.4% (Forecast -, Previous -0.3%)",
+    "published": "2026-09-29T02:00:15.8",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783010/Spanish-Retail-Sales-SA-YoY-Actual--04-Forecast---Previous--03.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T03:15:01.993425-04:00"
+  },
+  {
+    "NewsID": 9783009,
+    "title": "Spanish CPI YoY Flash Actual 4.9% (Forecast 4.6%, Previous 4.3%)",
+    "published": "2026-09-29T02:00:01.513",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783009/Spanish-CPI-YoY-Flash-Actual-49-Forecast-46-Previous-43.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T03:15:01.993446-04:00"
+  },
+  {
+    "NewsID": 9783008,
+    "title": "Swiss KOF Indicator Actual 109.1 (Forecast 106, Previous 106.7)",
+    "published": "2026-09-29T02:00:01.44",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783008/Swiss-KOF-Indicator-Actual-1091-Forecast-106-Previous-1067.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T03:15:01.993467-04:00"
+  },
+  {
+    "NewsID": 9783007,
+    "title": "Spanish HICP YoY Flash  Actual 5% (Forecast 4.9%, Previous 4.6%)",
+    "published": "2026-09-29T02:00:01.313",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783007/Spanish-HICP-YoY-Flash--Actual-5-Forecast-49-Previous-46.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T03:15:01.993488-04:00"
+  },
+  {
+    "NewsID": 9783006,
+    "title": "Spanish HICP MoM Flash  Actual 0.6% (Forecast 0.6%, Previous 0.7%)",
+    "published": "2026-09-29T02:00:01.25",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783006/Spanish-HICP-MoM-Flash--Actual-06-Forecast-06-Previous-07.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T03:15:01.993509-04:00"
+  },
+  {
+    "NewsID": 9783005,
+    "title": "Spanish CPI MoM Flash Actual 0.3% (Forecast 0.1%, Previous 0.70%)",
+    "published": "2026-09-29T02:00:01.19",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9783005/Spanish-CPI-MoM-Flash-Actual-03-Forecast-01-Previous-070.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T03:15:01.993530-04:00"
+  },
+  {
+    "NewsID": 9782962,
+    "title": "RBA's Gov. Bullock: We need to see quarterly core inflation numbers sitting around 0.6%.",
+    "published": "2026-09-29T01:22:33.877",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782962/RBAs-Gov-Bullock-We-need-to-see-quarterly-core-inflation-numbers-sitting-around-06.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T02:30:02.294682-04:00"
+  },
+  {
+    "NewsID": 9782956,
+    "title": "RBA's Gov. Bullock: Neutral interest rate moving up in australia, globally.",
+    "published": "2026-09-29T01:19:38.34",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782956/RBAs-Gov-Bullock-Neutral-interest-rate-moving-up-in-australia-globally.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T02:30:02.294738-04:00"
+  },
+  {
+    "NewsID": 9782945,
+    "title": "RBA's Gov. Bullock: There is no wage price spiral in Australia",
+    "published": "2026-09-29T01:03:07.97",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782945/RBAs-Gov-Bullock-There-is-no-wage-price-spiral-in-Australia.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T02:15:02.538677-04:00"
+  },
+  {
+    "NewsID": 9782944,
+    "title": "RBA's Gov. Bullock: We're looking to schedule board meetings around ABS inflation data",
+    "published": "2026-09-29T01:02:52.037",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782944/RBAs-Gov-Bullock-Were-looking-to-schedule-board-meetings-around-ABS-inflation-data.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T02:15:02.538728-04:00"
+  },
+  {
+    "NewsID": 9782931,
+    "title": "RBA's Gov. Bullock: We are aiming to tighten in a measured way",
+    "published": "2026-09-29T00:58:23.49",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782931/RBAs-Gov-Bullock-We-are-aiming-to-tighten-in-a-measured-way.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T02:00:02.369070-04:00"
+  },
+  {
+    "NewsID": 9782930,
+    "title": "RBA's Gov. Bullock: The board considered pause and 25-bps hike today",
+    "published": "2026-09-29T00:46:22.08",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782930/RBAs-Gov-Bullock-The-board-considered-pause-and-25-bps-hike-today.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T02:00:02.369111-04:00"
+  },
+  {
+    "NewsID": 9782915,
+    "title": "RBA's Gov. Bullock: Bond markets are reacting in an orderly way, but we are watching closely",
+    "published": "2026-09-29T00:45:05.59",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782915/RBAs-Gov-Bullock-Bond-markets-are-reacting-in-an-orderly-way-but-we-are-watching-closely.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T02:00:02.369125-04:00"
+  },
+  {
+    "NewsID": 9782914,
+    "title": "RBA's Gov. Bullock: The Middle East made things worse, but had a CPI problem before",
+    "published": "2026-09-29T00:43:49.25",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782914/RBAs-Gov-Bullock-The-Middle-East-made-things-worse-but-had-a-CPI-problem-before.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:45:01.649511-04:00"
+  },
+  {
+    "NewsID": 9782913,
+    "title": "RBA's Gov. Bullock: If inflation comes down, then it's possible no more hikes are needed",
+    "published": "2026-09-29T00:40:34.12",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782913/RBAs-Gov-Bullock-If-inflation-comes-down-then-its-possible-no-more-hikes-are-needed.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:45:01.649564-04:00"
+  },
+  {
+    "NewsID": 9782912,
+    "title": "RBA's Gov. Bullock: I hope 4 rate hikes will be restrictive enough to slow inflation",
+    "published": "2026-09-29T00:37:48.477",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782912/RBAs-Gov-Bullock-I-hope-4-rate-hikes-will-be-restrictive-enough-to-slow-inflation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:45:01.649588-04:00"
+  },
+  {
+    "NewsID": 9782911,
+    "title": "Global Stocks Drop to One-Week Low as Oil Rallies - Asia Market Wrap",
+    "published": "2026-09-29T00:37:29.33",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782911/Global-Stocks-Drop-to-One-Week-Low-as-Oil-Rallies---Asia-Market-Wrap.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:45:01.649609-04:00"
+  },
+  {
+    "NewsID": 9782910,
+    "title": "RBA's Gov. Bullock: Recession isn't the central base case at this point",
+    "published": "2026-09-29T00:35:49.107",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782910/RBAs-Gov-Bullock-Recession-isnt-the-central-base-case-at-this-point.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:45:01.649630-04:00"
+  },
+  {
+    "NewsID": 9782909,
+    "title": "RBA's Gov. Bullock: Unemployment is still quite low by historical standards",
+    "published": "2026-09-29T00:34:03.563",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782909/RBAs-Gov-Bullock-Unemployment-is-still-quite-low-by-historical-standards.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:45:01.649650-04:00"
+  },
+  {
+    "NewsID": 9782908,
+    "title": "RBA's Gov. Bullock: I still think the labor market is a little bit tight",
+    "published": "2026-09-29T00:33:26.71",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782908/RBAs-Gov-Bullock-I-still-think-the-labor-market-is-a-little-bit-tight.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:45:01.649681-04:00"
+  },
+  {
+    "NewsID": 9782907,
+    "title": "RBA's Gov. Bullock: The board will raise rates again if needed",
+    "published": "2026-09-29T00:32:45.7",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782907/RBAs-Gov-Bullock-The-board-will-raise-rates-again-if-needed.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:45:01.649706-04:00"
+  },
+  {
+    "NewsID": 9782906,
+    "title": "RBA's Gov. Bullock: Inflationary pressures to last longer than expected.",
+    "published": "2026-09-29T00:32:01.667",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782906/RBAs-Gov-Bullock-Inflationary-pressures-to-last-longer-than-expected.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:45:01.649726-04:00"
+  },
+  {
+    "NewsID": 9782903,
+    "title": "RBA's Gov. Bullock: Inflation is driven by domestic capacity pressures.",
+    "published": "2026-09-29T00:31:19.71",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782903/RBAs-Gov-Bullock-Inflation-is-driven-by-domestic-capacity-pressures.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:45:01.649747-04:00"
+  },
+  {
+    "NewsID": 9782887,
+    "title": "Morning Juice - Europe Session Prep",
+    "published": "2026-09-29T00:22:06.74",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9782887/Morning-Juice---Europe-Session-Prep.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:30:01.935686-04:00"
+  },
+  {
+    "NewsID": 9782881,
+    "title": "Japanese Leading Indicator Change Rev. Actual 1.5 (Forecast -, Previous 1.7)",
+    "published": "2026-09-29T00:05:42.183",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9782881/Japanese-Leading-Indicator-Change-Rev-Actual-15-Forecast---Previous-17.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:15:02.191532-04:00"
+  },
+  {
+    "NewsID": 9782859,
+    "title": "Alphabet’s Google challenges EU orders to open up AI search-engine rivals, company says",
+    "published": "2026-09-29T00:00:02.517",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782859/Alphabets-Google-challenges-EU-orders-to-open-up-AI-search-engine-rivals-company-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T01:15:02.191588-04:00"
+  },
+  {
+    "NewsID": 9782845,
+    "title": "RBA: Middle East conflict remains unresolved, with scenarios of higher inflation and lower activity than forecast",
+    "published": "2026-09-28T23:31:32.88",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782845/RBA-Middle-East-conflict-remains-unresolved-with-scenarios-of-higher-inflation-and-lower-activity-than-forecast.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494039-04:00"
+  },
+  {
+    "NewsID": 9782842,
+    "title": "Dutch Manufacturing Confidence Actual 4.2 (Forecast -, Previous 3.7)",
+    "published": "2026-09-28T23:31:15.977",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782842/Dutch-Manufacturing-Confidence-Actual-42-Forecast---Previous-37.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494095-04:00"
+  },
+  {
+    "NewsID": 9782841,
+    "title": "RBA: uncertainties remain elevated about outlook for domestic economic activity and inflation",
+    "published": "2026-09-28T23:31:13.32",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782841/RBA-uncertainties-remain-elevated-about-outlook-for-domestic-economic-activity-and-inflation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494119-04:00"
+  },
+  {
+    "NewsID": 9782837,
+    "title": "RBA: some of the upside risks to inflation are emerging since the previous meeting",
+    "published": "2026-09-28T23:31:10.47",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782837/RBA-some-of-the-upside-risks-to-inflation-are-emerging-since-the-previous-meeting.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494141-04:00"
+  },
+  {
+    "NewsID": 9782831,
+    "title": "RBA: labour market conditions have generally eased as expected in recent months, with leading indicators broadly stable",
+    "published": "2026-09-28T23:31:02.083",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782831/RBA-labour-market-conditions-have-generally-eased-as-expected-in-recent-months-with-leading-indicators-broadly-stable.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494181-04:00"
+  },
+  {
+    "NewsID": 9782830,
+    "title": "RBA: monetary policy is well positioned to address developments, board focused on mandate for price stability and full employment",
+    "published": "2026-09-28T23:30:59.387",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782830/RBA-monetary-policy-is-well-positioned-to-address-developments-board-focused-on-mandate-for-price-stability-and-full-employment.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494207-04:00"
+  },
+  {
+    "NewsID": 9782829,
+    "title": "RBA: board will continue necessary measures to bring inflation sustainably back to target, including raising cash rate further if needed",
+    "published": "2026-09-28T23:30:49.907",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782829/RBA-board-will-continue-necessary-measures-to-bring-inflation-sustainably-back-to-target-including-raising-cash-rate-further-if-needed.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494227-04:00"
+  },
+  {
+    "NewsID": 9782828,
+    "title": "RBA: recent inflation results in Australia exceeded expectations from previous meeting",
+    "published": "2026-09-28T23:30:44.233",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782828/RBA-recent-inflation-results-in-Australia-exceeded-expectations-from-previous-meeting.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494248-04:00"
+  },
+  {
+    "NewsID": 9782827,
+    "title": "RBA: inflation remains elevated, board decides further financial tightening needed to ensure inflation returns to target",
+    "published": "2026-09-28T23:30:43.987",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782827/RBA-inflation-remains-elevated-board-decides-further-financial-tightening-needed-to-ensure-inflation-returns-to-target.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494268-04:00"
+  },
+  {
+    "NewsID": 9782826,
+    "title": "Rba: short-term inflation expectations stay elevated",
+    "published": "2026-09-28T23:30:37.007",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782826/Rba-short-term-inflation-expectations-stay-elevated.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494289-04:00"
+  },
+  {
+    "NewsID": 9782825,
+    "title": "RBA: three cash rate hikes since start of year tighten financial conditions as economy shows signs of slowing",
+    "published": "2026-09-28T23:30:32.91",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782825/RBA-three-cash-rate-hikes-since-start-of-year-tighten-financial-conditions-as-economy-shows-signs-of-slowing.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494309-04:00"
+  },
+  {
+    "NewsID": 9782824,
+    "title": "RBA: conflict in the Middle East has expanded, global energy prices now far exceed August forecast",
+    "published": "2026-09-28T23:30:30.233",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782824/RBA-conflict-in-the-Middle-East-has-expanded-global-energy-prices-now-far-exceed-August-forecast.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494340-04:00"
+  },
+  {
+    "NewsID": 9782822,
+    "title": "RBA: inflation stays high as some upside risks flagged in August emerge",
+    "published": "2026-09-28T23:30:23.423",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782822/RBA-inflation-stays-high-as-some-upside-risks-flagged-in-August-emerge.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494366-04:00"
+  },
+  {
+    "NewsID": 9782821,
+    "title": "Reserve Bank of Australia at its meeting today raises cash rate target by 25 basis points to 4.60%",
+    "published": "2026-09-28T23:30:09.633",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782821/Reserve-Bank-of-Australia-at-its-meeting-today-raises-cash-rate-target-by-25-basis-points-to-460.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494386-04:00"
+  },
+  {
+    "NewsID": 9782820,
+    "title": "Reserve Bank of Australia sets cash rate at 4.60%",
+    "published": "2026-09-28T23:30:09.593",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782820/Reserve-Bank-of-Australia-sets-cash-rate-at-460.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494407-04:00"
+  },
+  {
+    "NewsID": 9782819,
+    "title": "RBA Cash Rate Actual 4.6% (Forecast 4.6%, Previous 4.35%)",
+    "published": "2026-09-28T23:30:05.1",
+    "level": "active",
+    "link": "https://www.financialjuice.com/News/9782819/RBA-Cash-Rate-Actual-46-Forecast-46-Previous-435.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:45:02.494427-04:00"
+  },
+  {
+    "NewsID": 9782818,
+    "title": "Alaris Equity Partners income trust ad_u:to: Canaccord Genuity lifts target to C$30.25 from C$30",
+    "published": "2026-09-28T23:19:12.737",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782818/Alaris-Equity-Partners-income-trust-ad_uto-Canaccord-Genuity-lifts-target-to-C3025-from-C30.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:30:02.125607-04:00"
+  },
+  {
+    "NewsID": 9782797,
+    "title": "Nvidia turns to insurers to share risk of AI expansion - FT",
+    "published": "2026-09-28T23:05:41.333",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782797/Nvidia-turns-to-insurers-to-share-risk-of-AI-expansion---FT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:15:02.402544-04:00"
+  },
+  {
+    "NewsID": 9782796,
+    "title": "Germany, the Netherlands, Sweden, Denmark, Austria and Finland tell Brussels to cut ‘hundreds of billions’ in planned spending - FT",
+    "published": "2026-09-28T23:04:43.733",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782796/Germany-the-Netherlands-Sweden-Denmark-Austria-and-Finland-tell-Brussels-to-cut-hundreds-of-billions-in-planned-spending---FT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:15:02.402599-04:00"
+  },
+  {
+    "NewsID": 9782795,
+    "title": "Germany delivers EU budget ultimatum - FT",
+    "published": "2026-09-28T23:03:24.583",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782795/Germany-delivers-EU-budget-ultimatum---FT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:15:02.402644-04:00"
+  },
+  {
+    "NewsID": 9782752,
+    "title": "CNN, MSNBC and Politico ask judge to block Trump from reviving White House ban",
+    "published": "2026-09-28T22:23:29.313",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782752/CNN-MSNBC-and-Politico-ask-judge-to-block-Trump-from-reviving-White-House-ban.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701502-04:00"
+  },
+  {
+    "NewsID": 9782726,
+    "title": "China’s FAW signs strategic framework pact with Guangzhou Automobile Industry Group",
+    "published": "2026-09-28T21:20:42.47",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782726/Chinas-FAW-signs-strategic-framework-pact-with-Guangzhou-Automobile-Industry-Group.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701541-04:00"
+  },
+  {
+    "NewsID": 9782712,
+    "title": "Japan finmin katayama: will engage closely with market participants while maintaining strong urgency",
+    "published": "2026-09-28T21:04:49.393",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782712/Japan-finmin-katayama-will-engage-closely-with-market-participants-while-maintaining-strong-urgency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701566-04:00"
+  },
+  {
+    "NewsID": 9782711,
+    "title": "Japan finmin Katayama: will coordinate closely with bond markets, pursue suitable debt management policy",
+    "published": "2026-09-28T21:03:11.79",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782711/Japan-finmin-Katayama-will-coordinate-closely-with-bond-markets-pursue-suitable-debt-management-policy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701580-04:00"
+  },
+  {
+    "NewsID": 9782710,
+    "title": "Japan finmin Katayama: interest rates set by markets",
+    "published": "2026-09-28T21:02:37.51",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782710/Japan-finmin-Katayama-interest-rates-set-by-markets.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701592-04:00"
+  },
+  {
+    "NewsID": 9782709,
+    "title": "S.Korea finmin: will carry out treasury bond repurchase if yields surge excessively",
+    "published": "2026-09-28T21:02:14.83",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782709/SKorea-finmin-will-carry-out-treasury-bond-repurchase-if-yields-surge-excessively.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701604-04:00"
+  },
+  {
+    "NewsID": 9782708,
+    "title": "S.Korea finance minister: closely watching bond market",
+    "published": "2026-09-28T21:02:00.13",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782708/SKorea-finance-minister-closely-watching-bond-market.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701616-04:00"
+  },
+  {
+    "NewsID": 9782707,
+    "title": "Japan finance minister Katayama: Takaichi's government is not reflationary",
+    "published": "2026-09-28T21:01:48.43",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782707/Japan-finance-minister-Katayama-Takaichis-government-is-not-reflationary.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701628-04:00"
+  },
+  {
+    "NewsID": 9782654,
+    "title": "Japan finance minister Katayama: will keep close talks with US Treasury to ensure stable forex markets",
+    "published": "2026-09-28T21:00:43.453",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782654/Japan-finance-minister-Katayama-will-keep-close-talks-with-US-Treasury-to-ensure-stable-forex-markets.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701640-04:00"
+  },
+  {
+    "NewsID": 9782618,
+    "title": "Japan finmin katayama: undervalued yen generally poses problems",
+    "published": "2026-09-28T21:00:14.873",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782618/Japan-finmin-katayama-undervalued-yen-generally-poses-problems.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701652-04:00"
+  },
+  {
+    "NewsID": 9782617,
+    "title": "Japan finance minister katayama: agreed with bessent to strengthen cooperation on phone talks sept 25",
+    "published": "2026-09-28T20:59:34.21",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782617/Japan-finance-minister-katayama-agreed-with-bessent-to-strengthen-cooperation-on-phone-talks-sept-25.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701664-04:00"
+  },
+  {
+    "NewsID": 9782588,
+    "title": "Australia August household spending unchanged month on month seasonally adjusted - ABS",
+    "published": "2026-09-28T20:30:03.793",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782588/Australia-August-household-spending-unchanged-month-on-month-seasonally-adjusted---ABS.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701676-04:00"
+  },
+  {
+    "NewsID": 9782587,
+    "title": "China central bank injects 698.5 billion yuan through overnight reverse repos: statement",
+    "published": "2026-09-28T20:22:57.677",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782587/China-central-bank-injects-6985-billion-yuan-through-overnight-reverse-repos-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701689-04:00"
+  },
+  {
+    "NewsID": 9782586,
+    "title": "China central bank injects 90.5 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+    "published": "2026-09-28T20:20:19.71",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782586/China-central-bank-injects-905-billion-yuan-through-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701701-04:00"
+  },
+  {
+    "NewsID": 9782578,
+    "title": "US secretary of state Rubio: uk base incident involved foreign actor",
+    "published": "2026-09-28T20:05:48.35",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782578/US-secretary-of-state-Rubio-uk-base-incident-involved-foreign-actor.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701712-04:00"
+  },
+  {
+    "NewsID": 9782577,
+    "title": "Taiwan overnight interbank rate starts at 0.805% versus 0.804% in previous session opening",
+    "published": "2026-09-28T20:05:13.62",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782577/Taiwan-overnight-interbank-rate-starts-at-0805-versus-0804-in-previous-session-opening.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701724-04:00"
+  },
+  {
+    "NewsID": 9782546,
+    "title": "China PBOC seen setting yuan midpoint at 6.7177 per dollar: estimate",
+    "published": "2026-09-28T19:25:08.273",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782546/China-PBOC-seen-setting-yuan-midpoint-at-67177-per-dollar-estimate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701736-04:00"
+  },
+  {
+    "NewsID": 9782537,
+    "title": "ITC Properties Group targets Guangzhou Chaog! Xiyang Technology",
+    "published": "2026-09-28T19:02:03.02",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782537/ITC-Properties-Group-targets-Guangzhou-Chaog-Xiyang-Technology.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701748-04:00"
+  },
+  {
+    "NewsID": 9782528,
+    "title": "ITC Neocloud Group to acquire 80% stake in target company for RMB83.62 million",
+    "published": "2026-09-28T19:01:02.593",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782528/ITC-Neocloud-Group-to-acquire-80-stake-in-target-company-for-RMB8362-million.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701760-04:00"
+  },
+  {
+    "NewsID": 9782527,
+    "title": "Pope Leo urges Russia, Ukraine to negotiate end to four-year war",
+    "published": "2026-09-28T19:00:04.58",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9782527/Pope-Leo-urges-Russia-Ukraine-to-negotiate-end-to-four-year-war.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-09-29T00:00:02.701772-04:00"
+  }
+]
