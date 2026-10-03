@@ -1,5 +1,1724 @@
 [
   {
+    "NewsID": 9790313,
+    "title": "North Korea slams UN secretary general human rights report - KCNA",
+    "published": "2026-10-02T22:11:44.367",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790313/North-Korea-slams-UN-secretary-general-human-rights-report---KCNA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T23:15:02.118403-04:00"
+  },
+  {
+    "NewsID": 9790311,
+    "title": "Trump’s top national security aides meet secretly at Camp David on Iran, Yemen: Axios",
+    "published": "2026-10-02T22:05:01.29",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790311/Trumps-top-national-security-aides-meet-secretly-at-Camp-David-on-Iran-Yemen-Axios.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T23:15:02.118455-04:00"
+  },
+  {
+    "NewsID": 9790303,
+    "title": "Trump finally taps fund, along with favored nations deals, to significantly cut costs for seniors",
+    "published": "2026-10-02T21:58:56.173",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790303/Trump-finally-taps-fund-along-with-favored-nations-deals-to-significantly-cut-costs-for-seniors.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T23:00:02.379674-04:00"
+  },
+  {
+    "NewsID": 9790302,
+    "title": "Trump: Sending nearly $100 payments to over 20 million seniors to help cover their Medicare Part B premiums",
+    "published": "2026-10-02T21:58:22.63",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790302/Trump-Sending-nearly-100-payments-to-over-20-million-seniors-to-help-cover-their-Medicare-Part-B-premiums.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T23:00:02.379729-04:00"
+  },
+  {
+    "NewsID": 9790295,
+    "title": "China commerce ministry launches anti-dumping probe into p-nitrotoluene from EU",
+    "published": "2026-10-02T21:21:59.29",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790295/China-commerce-ministry-launches-anti-dumping-probe-into-p-nitrotoluene-from-EU.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T22:30:01.776293-04:00"
+  },
+  {
+    "NewsID": 9790191,
+    "title": "Japan finance minister katayama: government transparency on forex reserve makeup has limits",
+    "published": "2026-10-02T20:25:36.387",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790191/Japan-finance-minister-katayama-government-transparency-on-forex-reserve-makeup-has-limits.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T21:30:01.681799-04:00"
+  },
+  {
+    "NewsID": 9790185,
+    "title": "Japan finance minister Katayama: Bessent questions if Japan government has been sending consistent messages to markets",
+    "published": "2026-10-02T20:10:39",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790185/Japan-finance-minister-Katayama-Bessent-questions-if-Japan-government-has-been-sending-consistent-messages-to-markets.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T21:15:01.947487-04:00"
+  },
+  {
+    "NewsID": 9790184,
+    "title": "Japan finance minister Katayama: forex trend shifted somewhat since joint currency intervention",
+    "published": "2026-10-02T20:06:20.523",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790184/Japan-finance-minister-Katayama-forex-trend-shifted-somewhat-since-joint-currency-intervention.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T21:15:01.947539-04:00"
+  },
+  {
+    "NewsID": 9790183,
+    "title": "Japan finance minister Katayama: US and Japan agree to remain ready for decisive measures against forex volatility",
+    "published": "2026-10-02T20:05:46.477",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790183/Japan-finance-minister-Katayama-US-and-Japan-agree-to-remain-ready-for-decisive-measures-against-forex-volatility.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T21:15:01.947564-04:00"
+  },
+  {
+    "NewsID": 9790160,
+    "title": "Trump: we're going to soon replenish our strategic oil reserves",
+    "published": "2026-10-02T19:17:31.847",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790160/Trump-were-going-to-soon-replenish-our-strategic-oil-reserves.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T20:30:02.522656-04:00"
+  },
+  {
+    "NewsID": 9790158,
+    "title": "North Korean missile flew over 700 kilometers: South Korean military",
+    "published": "2026-10-02T19:03:03.2",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790158/North-Korean-missile-flew-over-700-kilometers-South-Korean-military.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T20:15:01.658766-04:00"
+  },
+  {
+    "NewsID": 9790138,
+    "title": "South Korea's Blue House: convenes national security council meeting on North Korea missile launch",
+    "published": "2026-10-02T18:23:12.7",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790138/South-Koreas-Blue-House-convenes-national-security-council-meeting-on-North-Korea-missile-launch.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T19:30:01.731038-04:00"
+  },
+  {
+    "NewsID": 9790137,
+    "title": "David Robinson, leader on OpenAI's safety systems team, resigns from company - Business Insider",
+    "published": "2026-10-02T18:19:45.16",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790137/David-Robinson-leader-on-OpenAIs-safety-systems-team-resigns-from-company---Business-Insider.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T19:30:01.731090-04:00"
+  },
+  {
+    "NewsID": 9790136,
+    "title": "UKMTO: all crew reported safe with no environmental impact so far",
+    "published": "2026-10-02T18:17:25.363",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790136/UKMTO-all-crew-reported-safe-with-no-environmental-impact-so-far.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T19:30:01.731115-04:00"
+  },
+  {
+    "NewsID": 9790135,
+    "title": "UKMTO: master of crude oil tanker reports being hit by unknown projectile on port side",
+    "published": "2026-10-02T18:17:03.38",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790135/UKMTO-master-of-crude-oil-tanker-reports-being-hit-by-unknown-projectile-on-port-side.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T19:30:01.731137-04:00"
+  },
+  {
+    "NewsID": 9790134,
+    "title": "Ukmto: incident reported 4 nautical miles east of Oman",
+    "published": "2026-10-02T18:16:27.58",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790134/Ukmto-incident-reported-4-nautical-miles-east-of-Oman.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T19:30:01.731172-04:00"
+  },
+  {
+    "NewsID": 9790125,
+    "title": "South Korean military heightens alert on additional launches: South Korea's defense ministry",
+    "published": "2026-10-02T17:43:13.827",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790125/South-Korean-military-heightens-alert-on-additional-launches-South-Koreas-defense-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T18:45:01.861381-04:00"
+  },
+  {
+    "NewsID": 9790124,
+    "title": "North Korea launches ballistic missile from Wonsan: South Korean military",
+    "published": "2026-10-02T17:42:35.68",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790124/North-Korea-launches-ballistic-missile-from-Wonsan-South-Korean-military.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T18:45:01.861434-04:00"
+  },
+  {
+    "NewsID": 9790123,
+    "title": "North Korea's projectile was ballistic missile: South Korean military",
+    "published": "2026-10-02T17:42:14.553",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790123/North-Koreas-projectile-was-ballistic-missile-South-Korean-military.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T18:45:01.861458-04:00"
+  },
+  {
+    "NewsID": 9790119,
+    "title": "OpenAI's Altman: Cerebras is a close partner with deep engagement after partnership speculation",
+    "published": "2026-10-02T17:23:19.25",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790119/OpenAIs-Altman-Cerebras-is-a-close-partner-with-deep-engagement-after-partnership-speculation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T18:30:01.929149-04:00"
+  },
+  {
+    "NewsID": 9790118,
+    "title": "Saudi civil defense: shrapnel from intercepted ballistic missile in Ahad Rafidah governorate in Asir injures one person - state news agency",
+    "published": "2026-10-02T17:10:04.96",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790118/Saudi-civil-defense-shrapnel-from-intercepted-ballistic-missile-in-Ahad-Rafidah-governorate-in-Asir-injures-one-person---state-news-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T18:15:01.876671-04:00"
+  },
+  {
+    "NewsID": 9790117,
+    "title": "IMF: board greenlit 36-month deal under the EFF for Bolivia, with access to SDR 1.369 billion, or 570% of quota, about $1.9 billion",
+    "published": "2026-10-02T17:03:35.107",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790117/IMF-board-greenlit-36-month-deal-under-the-EFF-for-Bolivia-with-access-to-SDR-1369-billion-or-570-of-quota-about-19-billion.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T18:15:01.876709-04:00"
+  },
+  {
+    "NewsID": 9790116,
+    "title": "IMF: executive board endorses 36-month extended fund facility for Bolivia",
+    "published": "2026-10-02T17:02:39.023",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790116/IMF-executive-board-endorses-36-month-extended-fund-facility-for-Bolivia.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T18:15:01.876723-04:00"
+  },
+  {
+    "NewsID": 9790104,
+    "title": "North Korean missile seems to have landed beyond Japan's EEZ: NHK",
+    "published": "2026-10-02T17:00:58.943",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790104/North-Korean-missile-seems-to-have-landed-beyond-Japans-EEZ-NHK.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T18:15:01.876736-04:00"
+  },
+  {
+    "NewsID": 9790086,
+    "title": "North Korea launches unidentified projectile into sea off east coast: South Korea military",
+    "published": "2026-10-02T16:41:04.78",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790086/North-Korea-launches-unidentified-projectile-into-sea-off-east-coast-South-Korea-military.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T17:45:02.183456-04:00"
+  },
+  {
+    "NewsID": 9790036,
+    "title": "Scope affirms US long-term ratings at aa- with stable outlook",
+    "published": "2026-10-02T15:20:01.04",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9790036/Scope-affirms-US-long-term-ratings-at-aa--with-stable-outlook.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:30:01.940897-04:00"
+  },
+  {
+    "NewsID": 9790013,
+    "title": "Stocks Rise as Weak Jobs Report Eases Fed Rate-Hike Fears – US Market Wrap",
+    "published": "2026-10-02T15:06:48.89",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9790013/Stocks-Rise-as-Weak-Jobs-Report-Eases-Fed-Rate-Hike-Fears--US-Market-Wrap.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:15:02.179799-04:00"
+  },
+  {
+    "NewsID": 9790012,
+    "title": "Trump ends comments at the White House",
+    "published": "2026-10-02T15:03:17.423",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9790012/Trump-ends-comments-at-the-White-House.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:15:02.179853-04:00"
+  },
+  {
+    "NewsID": 9790008,
+    "title": "Trump on Diesel: Export ban was never really on the table",
+    "published": "2026-10-02T15:01:58.82",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9790008/Trump-on-Diesel-Export-ban-was-never-really-on-the-table.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:15:02.179877-04:00"
+  },
+  {
+    "NewsID": 9790007,
+    "title": "Trump: We were never going to do a diesel export ban",
+    "published": "2026-10-02T15:01:41.3",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9790007/Trump-We-were-never-going-to-do-a-diesel-export-ban.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:15:02.179898-04:00"
+  },
+  {
+    "NewsID": 9789994,
+    "title": "CME Group withdraws filing for 10-barrel oil futures.\n",
+    "published": "2026-10-02T15:01:04.147",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789994/CME-Group-withdraws-filing-for-10-barrel-oil-futures.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:15:02.179919-04:00"
+  },
+  {
+    "NewsID": 9789992,
+    "title": "trump on Diesel: Europe is making a major contribution, so are we",
+    "published": "2026-10-02T15:00:25.22",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789992/trump-on-Diesel-Europe-is-making-a-major-contribution-so-are-we.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:15:02.179940-04:00"
+  },
+  {
+    "NewsID": 9789991,
+    "title": "Hedge funds turn short UK pound for the first time since 2024 - CFTC.",
+    "published": "2026-10-02T15:00:03.163",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789991/Hedge-funds-turn-short-UK-pound-for-the-first-time-since-2024---CFTC.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:15:02.179960-04:00"
+  },
+  {
+    "NewsID": 9789990,
+    "title": "Trump on Diesel: Won't do export ban.",
+    "published": "2026-10-02T15:00:00.977",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789990/Trump-on-Diesel-Wont-do-export-ban.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:15:02.179980-04:00"
+  },
+  {
+    "NewsID": 9789989,
+    "title": "Trump Departs White House - WATCH LIVE",
+    "published": "2026-10-02T14:59:38.46",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789989/Trump-Departs-White-House---WATCH-LIVE.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:00:02.427695-04:00"
+  },
+  {
+    "NewsID": 9789987,
+    "title": "Trump: If South Korea doesn't do the pipeline, will charge them more.",
+    "published": "2026-10-02T14:59:35.603",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789987/Trump-If-South-Korea-doesnt-do-the-pipeline-will-charge-them-more.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:00:02.427748-04:00"
+  },
+  {
+    "NewsID": 9789986,
+    "title": "Trump on South Korea investment in the US: I didn't jump the gun on the Alaska pipeline.",
+    "published": "2026-10-02T14:59:09.797",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789986/Trump-on-South-Korea-investment-in-the-US-I-didnt-jump-the-gun-on-the-Alaska-pipeline.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:00:02.427773-04:00"
+  },
+  {
+    "NewsID": 9789985,
+    "title": "Trump: Iran is not doing well.",
+    "published": "2026-10-02T14:58:40.56",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789985/Trump-Iran-is-not-doing-well.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:00:02.427795-04:00"
+  },
+  {
+    "NewsID": 9789982,
+    "title": "Oman banned Flydubai attacker from flying for radical views, sources say - WSJ",
+    "published": "2026-10-02T14:55:21.83",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789982/Oman-banned-Flydubai-attacker-from-flying-for-radical-views-sources-say---WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:00:02.427816-04:00"
+  },
+  {
+    "NewsID": 9789981,
+    "title": "Nature of radicalization couldn't be determined - WSJ",
+    "published": "2026-10-02T14:54:52.327",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789981/Nature-of-radicalization-couldnt-be-determined---WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:00:02.427838-04:00"
+  },
+  {
+    "NewsID": 9789980,
+    "title": "attacker subsequently allowed to fly a sensitive route to Tel Aviv from Dubai - WSJ",
+    "published": "2026-10-02T14:54:39.943",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789980/attacker-subsequently-allowed-to-fly-a-sensitive-route-to-Tel-Aviv-from-Dubai---WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:00:02.427859-04:00"
+  },
+  {
+    "NewsID": 9789979,
+    "title": "Oman banned Flydubai attacker from flying for radical views, sources say - WSJ",
+    "published": "2026-10-02T14:54:22.727",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789979/Oman-banned-Flydubai-attacker-from-flying-for-radical-views-sources-say---WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:00:02.427880-04:00"
+  },
+  {
+    "NewsID": 9789978,
+    "title": "MOC Imbalance",
+    "published": "2026-10-02T14:50:31.697",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789978/MOC-Imbalance.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T16:00:02.427901-04:00"
+  },
+  {
+    "NewsID": 9789955,
+    "title": "Hedge funds turned short yen in the week ended September 29th - CFTC",
+    "published": "2026-10-02T14:42:27.817",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789955/Hedge-funds-turned-short-yen-in-the-week-ended-September-29th---CFTC.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:45:02.534689-04:00"
+  },
+  {
+    "NewsID": 9789947,
+    "title": "US Army to create autonomous systems command - Axios citing memo",
+    "published": "2026-10-02T14:36:04.067",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789947/US-Army-to-create-autonomous-systems-command---Axios-citing-memo.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:45:02.534744-04:00"
+  },
+  {
+    "NewsID": 9789946,
+    "title": "ECB's Nagel: Possible that the German economy will grow around 1% this year",
+    "published": "2026-10-02T14:35:35.977",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789946/ECBs-Nagel-Possible-that-the-German-economy-will-grow-around-1-this-year.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:45:02.534768-04:00"
+  },
+  {
+    "NewsID": 9789934,
+    "title": "CFTC Positions in the Week Ended September 29th, 2026",
+    "published": "2026-10-02T14:30:50.553",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789934/CFTC-Positions-in-the-Week-Ended-September-29th-2026.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:45:02.534791-04:00"
+  },
+  {
+    "NewsID": 9789933,
+    "title": "Week Ahead: Economic Indicators 5th – 9th October (US)\n",
+    "published": "2026-10-02T14:27:25.823",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789933/Week-Ahead-Economic-Indicators-5th--9th-October-US.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:30:01.773371-04:00"
+  },
+  {
+    "NewsID": 9789932,
+    "title": "Monday FX Options Expiries ",
+    "published": "2026-10-02T14:22:27.287",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789932/Monday-FX-Options-Expiries-.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:30:01.773425-04:00"
+  },
+  {
+    "NewsID": 9789919,
+    "title": "US to offer $4 billion loan for vistra to boost nuclear output",
+    "published": "2026-10-02T14:15:29.97",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789919/US-to-offer-4-billion-loan-for-vistra-to-boost-nuclear-output.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:30:01.773450-04:00"
+  },
+  {
+    "NewsID": 9789917,
+    "title": "Independent community Bankers of America: Granting charters to such firms exceeds regulatory authority",
+    "published": "2026-10-02T14:14:16.76",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789917/Independent-community-Bankers-of-America-Granting-charters-to-such-firms-exceeds-regulatory-authority.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:15:01.966048-04:00"
+  },
+  {
+    "NewsID": 9789916,
+    "title": "US community Bank Organization sues the Office of the Comptroller of the currency over granting trust charters to Crypto firms - Statement",
+    "published": "2026-10-02T14:13:55.183",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789916/US-community-Bank-Organization-sues-the-Office-of-the-Comptroller-of-the-currency-over-granting-trust-charters-to-Crypto-firms---Statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:15:01.966102-04:00"
+  },
+  {
+    "NewsID": 9789915,
+    "title": "Fed's Goolsbee: Low progress on services inflation could be a sign of spread",
+    "published": "2026-10-02T14:08:08.977",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789915/Feds-Goolsbee-Low-progress-on-services-inflation-could-be-a-sign-of-spread.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:15:01.966127-04:00"
+  },
+  {
+    "NewsID": 9789914,
+    "title": "Council of Economic Advisers Chair Phelan ends remarks on Bloomberg TV",
+    "published": "2026-10-02T14:07:53.727",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789914/Council-of-Economic-Advisers-Chair-Phelan-ends-remarks-on-Bloomberg-TV.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:15:01.966149-04:00"
+  },
+  {
+    "NewsID": 9789913,
+    "title": "Council of Economic Advisers Chair Phelan: Inflation is coming down sufficiently fast",
+    "published": "2026-10-02T14:07:38.32",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789913/Council-of-Economic-Advisers-Chair-Phelan-Inflation-is-coming-down-sufficiently-fast.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:15:01.966187-04:00"
+  },
+  {
+    "NewsID": 9789912,
+    "title": "Council of Economic Advisers Chair Phelan: Did not think the last interest rate hike was justified.",
+    "published": "2026-10-02T14:07:17.963",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789912/Council-of-Economic-Advisers-Chair-Phelan-Did-not-think-the-last-interest-rate-hike-was-justified.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:15:01.966209-04:00"
+  },
+  {
+    "NewsID": 9789911,
+    "title": "Fed's Goolsbee: Inflation going the wrong way and stalled there - Fox Business",
+    "published": "2026-10-02T14:06:48.567",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789911/Feds-Goolsbee-Inflation-going-the-wrong-way-and-stalled-there---Fox-Business.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:15:01.966231-04:00"
+  },
+  {
+    "NewsID": 9789910,
+    "title": "SEC's Atkins: More regulatory proposals for Crypto on the horizon ",
+    "published": "2026-10-02T14:05:49.47",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789910/SECs-Atkins-More-regulatory-proposals-for-Crypto-on-the-horizon-.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:15:01.966253-04:00"
+  },
+  {
+    "NewsID": 9789909,
+    "title": "OpenAI hires ex Trump AI official Lind - The Information",
+    "published": "2026-10-02T14:04:40.263",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789909/OpenAI-hires-ex-Trump-AI-official-Lind---The-Information.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:15:01.966274-04:00"
+  },
+  {
+    "NewsID": 9789908,
+    "title": "Hackers breached the propulsion system of US-bound oil tanker",
+    "published": "2026-10-02T14:01:58.73",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789908/Hackers-breached-the-propulsion-system-of-US-bound-oil-tanker.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:15:01.966295-04:00"
+  },
+  {
+    "NewsID": 9789891,
+    "title": "Attorney General Blanche: The DoJ is satisfied with the Fed IG report, and is not reopening the criminal probe into Powell. ",
+    "published": "2026-10-02T13:57:33.48",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789891/Attorney-General-Blanche-The-DoJ-is-satisfied-with-the-Fed-IG-report-and-is-not-reopening-the-criminal-probe-into-Powell-.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:00:02.072946-04:00"
+  },
+  {
+    "NewsID": 9789890,
+    "title": "Brent Crude futures settle at $102.25/bbl, down 6 cents, 0.06%.",
+    "published": "2026-10-02T13:53:35.153",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789890/Brent-Crude-futures-settle-at-10225bbl-down-6-cents-006.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T15:00:02.072985-04:00"
+  },
+  {
+    "NewsID": 9789880,
+    "title": "NYMEX Natural Gas November futures settle at $3.0350/MMBtu.\n",
+    "published": "2026-10-02T13:31:49.423",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789880/NYMEX-Natural-Gas-November-futures-settle-at-30350MMBtu.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T14:45:02.300193-04:00"
+  },
+  {
+    "NewsID": 9789879,
+    "title": "NYMEX Diesel November futures settle at $4.5011 a gallon.",
+    "published": "2026-10-02T13:31:21.337",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789879/NYMEX-Diesel-November-futures-settle-at-45011-a-gallon.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T14:45:02.300246-04:00"
+  },
+  {
+    "NewsID": 9789870,
+    "title": "NYMEX Gasoline November futures settle at $3.3124 a gallon.",
+    "published": "2026-10-02T13:31:11.187",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789870/NYMEX-Gasoline-November-futures-settle-at-33124-a-gallon.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T14:45:02.300270-04:00"
+  },
+  {
+    "NewsID": 9789869,
+    "title": "NYMEX WTI Crude November futures settle at $91.11 a barrel, down $1.76, 1.9%.",
+    "published": "2026-10-02T13:31:01.16",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789869/NYMEX-WTI-Crude-November-futures-settle-at-9111-a-barrel-down-176-19.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T14:45:02.300292-04:00"
+  },
+  {
+    "NewsID": 9789841,
+    "title": "Joint US-Ukraine investment fund seals first critical minerals deal - US official ",
+    "published": "2026-10-02T13:00:38.93",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789841/Joint-US-Ukraine-investment-fund-seals-first-critical-minerals-deal---US-official-.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T14:15:02.677465-04:00"
+  },
+  {
+    "NewsID": 9789825,
+    "title": "Meta lets go of virtue ai employees hired in June - Semafor $META",
+    "published": "2026-10-02T12:31:29.93",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789825/Meta-lets-go-of-virtue-ai-employees-hired-in-June---Semafor-META.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:45:02.399864-04:00"
+  },
+  {
+    "NewsID": 9789820,
+    "title": "Trump allegedly involved in a coup plot in iran - Fars News",
+    "published": "2026-10-02T12:29:21.87",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9789820/Trump-allegedly-involved-in-a-coup-plot-in-iran---Fars-News.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:30:07.578431-04:00"
+  },
+  {
+    "NewsID": 9789801,
+    "title": "Fed's Goolsbee: Won't rule out any decision at the next rate meeting",
+    "published": "2026-10-02T12:07:12.337",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789801/Feds-Goolsbee-Wont-rule-out-any-decision-at-the-next-rate-meeting.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:15:01.743770-04:00"
+  },
+  {
+    "NewsID": 9789800,
+    "title": "Fed's Goolsbee: Won't react strongly to one month of data.",
+    "published": "2026-10-02T12:04:57.76",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789800/Feds-Goolsbee-Wont-react-strongly-to-one-month-of-data.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:15:01.743822-04:00"
+  },
+  {
+    "NewsID": 9789799,
+    "title": "Fed's Goolsbee: Open to seeing if we get evidence we are heading back to 2% inflation",
+    "published": "2026-10-02T12:04:11.62",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789799/Feds-Goolsbee-Open-to-seeing-if-we-get-evidence-we-are-heading-back-to-2-inflation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:15:01.743845-04:00"
+  },
+  {
+    "NewsID": 9789798,
+    "title": "Fed's Goolsbee: Plenty of room for anything on the table as far as rate hike or pause",
+    "published": "2026-10-02T12:03:43.403",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789798/Feds-Goolsbee-Plenty-of-room-for-anything-on-the-table-as-far-as-rate-hike-or-pause.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:15:01.743866-04:00"
+  },
+  {
+    "NewsID": 9789797,
+    "title": "Fed's Goolsbee: labor market is steady, the inflation side of the fed's job is more important - Fox Business ",
+    "published": "2026-10-02T12:03:23.83",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789797/Feds-Goolsbee-labor-market-is-steady-the-inflation-side-of-the-feds-job-is-more-important---Fox-Business-.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:15:01.743887-04:00"
+  },
+  {
+    "NewsID": 9789782,
+    "title": "US Baker Hughes Total Rig Count Actual 598 (Forecast -, Previous 599)",
+    "published": "2026-10-02T12:01:04.533",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9789782/US-Baker-Hughes-Total-Rig-Count-Actual-598-Forecast---Previous-599.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:15:01.743908-04:00"
+  },
+  {
+    "NewsID": 9789781,
+    "title": "US Baker Hughes Oil Rig Count Actual 456 (Forecast -, Previous 455)",
+    "published": "2026-10-02T12:01:03.59",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9789781/US-Baker-Hughes-Oil-Rig-Count-Actual-456-Forecast---Previous-455.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:15:01.743928-04:00"
+  },
+  {
+    "NewsID": 9789780,
+    "title": "US Senators expect a vote before December 13th on Trump Administration's pact to share nuclear power technology with Saudi Arabia",
+    "published": "2026-10-02T11:55:10",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789780/US-Senators-expect-a-vote-before-December-13th-on-Trump-Administrations-pact-to-share-nuclear-power-technology-with-Saudi-Arabia.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:00:02.188446-04:00"
+  },
+  {
+    "NewsID": 9789779,
+    "title": "Italy sees 2026 deficit below 3% of GDP in 2026",
+    "published": "2026-10-02T11:47:59.79",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789779/Italy-sees-2026-deficit-below-3-of-GDP-in-2026.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:00:02.188483-04:00"
+  },
+  {
+    "NewsID": 9789778,
+    "title": "Italy raises 2026 GDP growth forecast to 1% from 0.6% forecast made in April",
+    "published": "2026-10-02T11:47:09.31",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789778/Italy-raises-2026-GDP-growth-forecast-to-1-from-06-forecast-made-in-April.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:00:02.188497-04:00"
+  },
+  {
+    "NewsID": 9789775,
+    "title": "Italy to ask EU for deficit leeway worth 0.6% of GDP in 2027",
+    "published": "2026-10-02T11:46:29.037",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789775/Italy-to-ask-EU-for-deficit-leeway-worth-06-of-GDP-in-2027.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T13:00:02.188509-04:00"
+  },
+  {
+    "NewsID": 9789770,
+    "title": "IEA's Birol: We will finalise distribution once we have consulted with member states, we have enough reserves and can release more if necessary\n",
+    "published": "2026-10-02T11:41:55.91",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789770/IEAs-Birol-We-will-finalise-distribution-once-we-have-consulted-with-member-states-we-have-enough-reserves-and-can-release-more-if-necessary.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T12:45:02.423730-04:00"
+  },
+  {
+    "NewsID": 9789769,
+    "title": "IEA's Birol: Oil prices dropped at least $5 after our announcement of releasing oil and diesel from our reserves into the market in the coming days and weeks\n",
+    "published": "2026-10-02T11:41:47.97",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789769/IEAs-Birol-Oil-prices-dropped-at-least-5-after-our-announcement-of-releasing-oil-and-diesel-from-our-reserves-into-the-market-in-the-coming-days-and-weeks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T12:45:02.423783-04:00"
+  },
+  {
+    "NewsID": 9789732,
+    "title": "Google raises price of budget Pixel 10A phone by $100 to $599. $GOOGL",
+    "published": "2026-10-02T11:07:03.097",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789732/Google-raises-price-of-budget-Pixel-10A-phone-by-100-to-599-GOOGL.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T12:15:01.887951-04:00"
+  },
+  {
+    "NewsID": 9789731,
+    "title": "Saudis plan assault on Houthis to break Red Sea chokehold, according to western and regional officials",
+    "published": "2026-10-02T11:06:07.843",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9789731/Saudis-plan-assault-on-Houthis-to-break-Red-Sea-chokehold-according-to-western-and-regional-officials.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T12:15:01.888005-04:00"
+  },
+  {
+    "NewsID": 9789711,
+    "title": "2 unarmed Pakistani civilians killed in firing by Indian border security forces - Pakistani security sources",
+    "published": "2026-10-02T10:58:27.783",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789711/2-unarmed-Pakistani-civilians-killed-in-firing-by-Indian-border-security-forces---Pakistani-security-sources.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T12:00:02.652873-04:00"
+  },
+  {
+    "NewsID": 9789710,
+    "title": "IEA's Birol: Oil prices are starting to fall.",
+    "published": "2026-10-02T10:57:38.803",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789710/IEAs-Birol-Oil-prices-are-starting-to-fall.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T12:00:02.652962-04:00"
+  },
+  {
+    "NewsID": 9789694,
+    "title": "UKMTO: Incident resulted in a small fire and blackout onboard.",
+    "published": "2026-10-02T10:45:01.49",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789694/UKMTO-Incident-resulted-in-a-small-fire-and-blackout-onboard.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T12:00:02.652991-04:00"
+  },
+  {
+    "NewsID": 9789693,
+    "title": "UKMTO: Tanker has reported being struck by an unknown projectile, whilst conducting an outbound transit within Strait of Hormuz",
+    "published": "2026-10-02T10:44:29.573",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789693/UKMTO-Tanker-has-reported-being-struck-by-an-unknown-projectile-whilst-conducting-an-outbound-transit-within-Strait-of-Hormuz.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T11:45:02.687490-04:00"
+  },
+  {
+    "NewsID": 9789692,
+    "title": "China trade envoy tells G20 willing to talk on industry policy.",
+    "published": "2026-10-02T10:37:03.813",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789692/China-trade-envoy-tells-G20-willing-to-talk-on-industry-policy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T11:45:02.687544-04:00"
+  },
+  {
+    "NewsID": 9789672,
+    "title": "News sources reported that several powerful explosions were heard in Riyadh, the capital of Saudi Arabia - Tasnim News",
+    "published": "2026-10-02T10:19:50.187",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789672/News-sources-reported-that-several-powerful-explosions-were-heard-in-Riyadh-the-capital-of-Saudi-Arabia---Tasnim-News.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T11:30:02.311810-04:00"
+  },
+  {
+    "NewsID": 9789634,
+    "title": "Fitch affirms Walmart's ratings at 'AA' and 'F1+'. Outlook stable. $WMT",
+    "published": "2026-10-02T09:58:22.44",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789634/Fitch-affirms-Walmarts-ratings-at-AA-and-F1-Outlook-stable-WMT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T11:00:02.331783-04:00"
+  },
+  {
+    "NewsID": 9789633,
+    "title": "Fitch affirms Walmart's ratings at 'AA' and 'F1+'. Outlook stable. $WMT",
+    "published": "2026-10-02T09:58:06.03",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789633/Fitch-affirms-Walmarts-ratings-at-AA-and-F1-Outlook-stable-WMT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T11:00:02.331821-04:00"
+  },
+  {
+    "NewsID": 9789632,
+    "title": "TD sees Fed hikes in December and March, previously October and January",
+    "published": "2026-10-02T09:55:20.883",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789632/TD-sees-Fed-hikes-in-December-and-March-previously-October-and-January.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T11:00:02.331835-04:00"
+  },
+  {
+    "NewsID": 9789630,
+    "title": "South Korea's Industry Ministry Official: $8.4 bln oil project mentioned by Trump not part of agreement with the US - Yonhap",
+    "published": "2026-10-02T09:51:02.8",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789630/South-Koreas-Industry-Ministry-Official-84-bln-oil-project-mentioned-by-Trump-not-part-of-agreement-with-the-US---Yonhap.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T11:00:02.331847-04:00"
+  },
+  {
+    "NewsID": 9789606,
+    "title": "Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from IRGC - IRNA\n",
+    "published": "2026-10-02T09:36:21.39",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789606/Irans-General-Naghdi-The-enemys-economic-siege-will-have-no-effect-and-if-it-does-not-back-down-it-will-receive-a-severe-blow-from-IRGC---IRNA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:45:02.519520-04:00"
+  },
+  {
+    "NewsID": 9789603,
+    "title": "Iran's General Naghdi: The enemy's economic siege will have no effect, and if it does not back down, it will receive a severe blow from the armed forces of the Islamic Republic of Iran - IRNA",
+    "published": "2026-10-02T09:35:59.98",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789603/Irans-General-Naghdi-The-enemys-economic-siege-will-have-no-effect-and-if-it-does-not-back-down-it-will-receive-a-severe-blow-from-the-armed-forces-of-the-Islamic-Republic-of-Iran---IRNA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:45:02.519572-04:00"
+  },
+  {
+    "NewsID": 9789584,
+    "title": "G7: Call on all producers to refrain from imposing bans that could exacerbate market tensions.",
+    "published": "2026-10-02T09:22:25.023",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789584/G7-Call-on-all-producers-to-refrain-from-imposing-bans-that-could-exacerbate-market-tensions.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:30:02.628829-04:00"
+  },
+  {
+    "NewsID": 9789583,
+    "title": "Crypto Fear & Greed Index: 72/100 - Greed",
+    "published": "2026-10-02T09:18:53.333",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789583/Crypto-Fear--Greed-Index-72100---Greed.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:30:02.628884-04:00"
+  },
+  {
+    "NewsID": 9789582,
+    "title": "France's Elysee: Will discuss in coming days more potential releases.",
+    "published": "2026-10-02T09:18:37.353",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789582/Frances-Elysee-Will-discuss-in-coming-days-more-potential-releases.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:30:02.628908-04:00"
+  },
+  {
+    "NewsID": 9789581,
+    "title": "Fear & Greed Index: 32/100 - Fear",
+    "published": "2026-10-02T09:18:02.977",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789581/Fear--Greed-Index-32100---Fear.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:30:02.628929-04:00"
+  },
+  {
+    "NewsID": 9789580,
+    "title": "France's Elysee: There will a substantial diesel release within first 20 days.",
+    "published": "2026-10-02T09:17:12.317",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789580/Frances-Elysee-There-will-a-substantial-diesel-release-within-first-20-days.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:30:02.628949-04:00"
+  },
+  {
+    "NewsID": 9789563,
+    "title": "France’s President Macron: We agreed to continue to co ordinate actions to help supplies come out of Hormuz",
+    "published": "2026-10-02T09:07:04.673",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789563/Frances-President-Macron-We-agreed-to-continue-to-co-ordinate-actions-to-help-supplies-come-out-of-Hormuz.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:15:01.809712-04:00"
+  },
+  {
+    "NewsID": 9789562,
+    "title": "US Factory Orders and Durable Goods August Reports ",
+    "published": "2026-10-02T09:02:25.74",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789562/US-Factory-Orders-and-Durable-Goods-August-Reports-.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:15:01.809773-04:00"
+  },
+  {
+    "NewsID": 9789561,
+    "title": "Trump: Europe agreed to release a massive amount of their heavily stocked Diesel Oil. The process begins immediately - Truth Social",
+    "published": "2026-10-02T09:01:52.79",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789561/Trump-Europe-agreed-to-release-a-massive-amount-of-their-heavily-stocked-Diesel-Oil-The-process-begins-immediately---Truth-Social.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:15:01.809799-04:00"
+  },
+  {
+    "NewsID": 9789538,
+    "title": "Fed's Logan does not comment on economic outlook, monetary policy in remarks at Dallas Fed conference on migration.",
+    "published": "2026-10-02T09:00:18.85",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789538/Feds-Logan-does-not-comment-on-economic-outlook-monetary-policy-in-remarks-at-Dallas-Fed-conference-on-migration.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:15:01.809820-04:00"
+  },
+  {
+    "NewsID": 9789537,
+    "title": "US Durable Goods Revised Actual -0.1% (Forecast 0%, Previous 0.0%)",
+    "published": "2026-10-02T09:00:02.48",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9789537/US-Durable-Goods-Revised-Actual--01-Forecast-0-Previous-00.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:15:01.809839-04:00"
+  },
+  {
+    "NewsID": 9789536,
+    "title": "US Core Durable Goods Revised Actual 0.2% (Forecast 0.3%, Previous 0.3%)",
+    "published": "2026-10-02T09:00:01.477",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9789536/US-Core-Durable-Goods-Revised-Actual-02-Forecast-03-Previous-03.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:15:01.809857-04:00"
+  },
+  {
+    "NewsID": 9789535,
+    "title": "US Factory Orders MoM Actual 0.1% (Forecast 0.2%, Previous 0.9%)",
+    "published": "2026-10-02T09:00:00.533",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9789535/US-Factory-Orders-MoM-Actual-01-Forecast-02-Previous-09.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:15:01.809886-04:00"
+  },
+  {
+    "NewsID": 9789534,
+    "title": "France’s President Macron: We will release up to 100 mln barrels.",
+    "published": "2026-10-02T08:58:34.497",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9789534/Frances-President-Macron-We-will-release-up-to-100-mln-barrels.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:00:02.101319-04:00"
+  },
+  {
+    "NewsID": 9789533,
+    "title": "France’s President Macron: Diesel and crude stocks to be released over 4 months.",
+    "published": "2026-10-02T08:58:01.907",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9789533/Frances-President-Macron-Diesel-and-crude-stocks-to-be-released-over-4-months.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:00:02.101379-04:00"
+  },
+  {
+    "NewsID": 9789532,
+    "title": "WH Sr. Adviser Hassett: Only Iranian oil isn't flowing through Hormuz",
+    "published": "2026-10-02T08:57:42.86",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789532/WH-Sr-Adviser-Hassett-Only-Iranian-oil-isnt-flowing-through-Hormuz.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:00:02.101403-04:00"
+  },
+  {
+    "NewsID": 9789531,
+    "title": "WH Sr. Adviser Hassett ends remarks on Bloomberg TV",
+    "published": "2026-10-02T08:55:39.013",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789531/WH-Sr-Adviser-Hassett-ends-remarks-on-Bloomberg-TV.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:00:02.101422-04:00"
+  },
+  {
+    "NewsID": 9789530,
+    "title": "WH Sr. Adviser Hassett: We do not want to inflate our way out of debt.",
+    "published": "2026-10-02T08:52:33.64",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789530/WH-Sr-Adviser-Hassett-We-do-not-want-to-inflate-our-way-out-of-debt.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:00:02.101440-04:00"
+  },
+  {
+    "NewsID": 9789529,
+    "title": "WH Sr. Adviser Hassett on yields: They're higher due to strong economy.",
+    "published": "2026-10-02T08:50:44.8",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789529/WH-Sr-Adviser-Hassett-on-yields-Theyre-higher-due-to-strong-economy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:00:02.101458-04:00"
+  },
+  {
+    "NewsID": 9789528,
+    "title": "WH Sr. Adviser Hassett: It's going to be a strong holiday season.",
+    "published": "2026-10-02T08:49:11.93",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789528/WH-Sr-Adviser-Hassett-Its-going-to-be-a-strong-holiday-season.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:00:02.101475-04:00"
+  },
+  {
+    "NewsID": 9789527,
+    "title": "WH Sr. Adviser Hassett: We see in the data that the consumer is very strong",
+    "published": "2026-10-02T08:48:58.983",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789527/WH-Sr-Adviser-Hassett-We-see-in-the-data-that-the-consumer-is-very-strong.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:00:02.101493-04:00"
+  },
+  {
+    "NewsID": 9789526,
+    "title": "WH Sr. Adviser Hassett: This job's report was about expected.",
+    "published": "2026-10-02T08:47:19.18",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789526/WH-Sr-Adviser-Hassett-This-jobs-report-was-about-expected.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:00:02.101510-04:00"
+  },
+  {
+    "NewsID": 9789523,
+    "title": "WH Sr. Adviser Hassett: A lot of news this week has been positive",
+    "published": "2026-10-02T08:46:30.463",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789523/WH-Sr-Adviser-Hassett-A-lot-of-news-this-week-has-been-positive.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T10:00:02.101528-04:00"
+  },
+  {
+    "NewsID": 9789518,
+    "title": "WH Sr. Adviser Hassett ends remarks on Fox news",
+    "published": "2026-10-02T08:43:57.19",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789518/WH-Sr-Adviser-Hassett-ends-remarks-on-Fox-news.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:45:02.282768-04:00"
+  },
+  {
+    "NewsID": 9789517,
+    "title": "Trump expected to pick Clayton to be the new AI Czar - CNN",
+    "published": "2026-10-02T08:43:44.48",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789517/Trump-expected-to-pick-Clayton-to-be-the-new-AI-Czar---CNN.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:45:02.282819-04:00"
+  },
+  {
+    "NewsID": 9789515,
+    "title": "WH Sr. Adviser Hassett: Housing data are up because the economy is so strong.",
+    "published": "2026-10-02T08:39:41.633",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789515/WH-Sr-Adviser-Hassett-Housing-data-are-up-because-the-economy-is-so-strong.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:45:02.282841-04:00"
+  },
+  {
+    "NewsID": 9789514,
+    "title": "WH Sr. Adviser Hassett: More announcements next week on energy.",
+    "published": "2026-10-02T08:38:20.26",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789514/WH-Sr-Adviser-Hassett-More-announcements-next-week-on-energy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:45:02.282861-04:00"
+  },
+  {
+    "NewsID": 9789513,
+    "title": "WH Sr. Adviser Hassett: The Navy has opened Hormuz and crude is coming through",
+    "published": "2026-10-02T08:38:05.05",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789513/WH-Sr-Adviser-Hassett-The-Navy-has-opened-Hormuz-and-crude-is-coming-through.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:45:02.282880-04:00"
+  },
+  {
+    "NewsID": 9789512,
+    "title": "UK Defence Secretary Streeting: Iran likely behind fairford, not formally named",
+    "published": "2026-10-02T08:37:36.287",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789512/UK-Defence-Secretary-Streeting-Iran-likely-behind-fairford-not-formally-named.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:45:02.282898-04:00"
+  },
+  {
+    "NewsID": 9789493,
+    "title": "MOO Imbalance",
+    "published": "2026-10-02T08:30:36.14",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789493/MOO-Imbalance.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:45:02.282917-04:00"
+  },
+  {
+    "NewsID": 9789476,
+    "title": "WH Sr. Adviser Hassett on Diesel: I am hopeful to have news on that sometime soon.",
+    "published": "2026-10-02T08:23:27.903",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789476/WH-Sr-Adviser-Hassett-on-Diesel-I-am-hopeful-to-have-news-on-that-sometime-soon.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:30:02.501941-04:00"
+  },
+  {
+    "NewsID": 9789475,
+    "title": "WH Sr. Adviser Hassett, on diesel: We have been talking with Europe",
+    "published": "2026-10-02T08:22:45.277",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789475/WH-Sr-Adviser-Hassett-on-diesel-We-have-been-talking-with-Europe.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:30:02.502009-04:00"
+  },
+  {
+    "NewsID": 9789474,
+    "title": "WH Sr. Adviser Hassett: GDP still hovering around 4%.",
+    "published": "2026-10-02T08:20:54.133",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789474/WH-Sr-Adviser-Hassett-GDP-still-hovering-around-4.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:30:02.502035-04:00"
+  },
+  {
+    "NewsID": 9789473,
+    "title": "WH Sr. Adviser Hassett: Government employment down, everything else is up",
+    "published": "2026-10-02T08:19:01.727",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789473/WH-Sr-Adviser-Hassett-Government-employment-down-everything-else-is-up.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:30:02.502057-04:00"
+  },
+  {
+    "NewsID": 9789472,
+    "title": "WH Sr. Adviser Hassett: I am not disappointed in jobs report.",
+    "published": "2026-10-02T08:18:36.383",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789472/WH-Sr-Adviser-Hassett-I-am-not-disappointed-in-jobs-report.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:30:02.502078-04:00"
+  },
+  {
+    "NewsID": 9789462,
+    "title": "Tesla Q3 Deliveries Beat Estimates, Energy Storage Deployments Reach 13.7 GWh $TSLA",
+    "published": "2026-10-02T08:02:18.797",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789462/Tesla-Q3-Deliveries-Beat-Estimates-Energy-Storage-Deployments-Reach-137-GWh-TSLA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:15:01.743406-04:00"
+  },
+  {
+    "NewsID": 9789445,
+    "title": "Effective Fed Funds Rate 3.88% October 1 vs 3.88% September 30.",
+    "published": "2026-10-02T08:00:28.787",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789445/Effective-Fed-Funds-Rate-388-October-1-vs-388-September-30.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:15:01.743454-04:00"
+  },
+  {
+    "NewsID": 9789442,
+    "title": "Israel's Prime Minister Netanyahu: We are investigating whether the pilot was sent, and whoever sent him will pay a very heavy price - i24 News Reporter.",
+    "published": "2026-10-02T07:55:45.62",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789442/Israels-Prime-Minister-Netanyahu-We-are-investigating-whether-the-pilot-was-sent-and-whoever-sent-him-will-pay-a-very-heavy-price---i24-News-Reporter.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T09:00:01.796992-04:00"
+  },
+  {
+    "NewsID": 9789422,
+    "title": "Trump: $8.4b for enhanced oil recovery project.",
+    "published": "2026-10-02T07:39:28.613",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789422/Trump-84b-for-enhanced-oil-recovery-project.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.038785-04:00"
+  },
+  {
+    "NewsID": 9789421,
+    "title": "Trump: Republic of Korea deal keeps getting better.",
+    "published": "2026-10-02T07:39:17.087",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789421/Trump-Republic-of-Korea-deal-keeps-getting-better.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.038836-04:00"
+  },
+  {
+    "NewsID": 9789420,
+    "title": "Fed-dated swaps no longer price one full rate hike this year.",
+    "published": "2026-10-02T07:36:57.793",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9789420/Fed-dated-swaps-no-longer-price-one-full-rate-hike-this-year.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.038860-04:00"
+  },
+  {
+    "NewsID": 9789419,
+    "title": "Russia's oil refining volumes down 14% year on year in January-September - Two industry sources",
+    "published": "2026-10-02T07:35:35.57",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789419/Russias-oil-refining-volumes-down-14-year-on-year-in-January-September---Two-industry-sources.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.038882-04:00"
+  },
+  {
+    "NewsID": 9789418,
+    "title": "Traders pare bets on October Fed rate hike",
+    "published": "2026-10-02T07:32:24.647",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789418/Traders-pare-bets-on-October-Fed-rate-hike.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.038902-04:00"
+  },
+  {
+    "NewsID": 9789417,
+    "title": "US short-term interest-rate futures jump after weaker-than-expected jobs data, traders trim Fed rate hike bets.",
+    "published": "2026-10-02T07:31:58.097",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9789417/US-short-term-interest-rate-futures-jump-after-weaker-than-expected-jobs-data-traders-trim-Fed-rate-hike-bets.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.038924-04:00"
+  },
+  {
+    "NewsID": 9789415,
+    "title": "US Employment Situation September 2026 Report",
+    "published": "2026-10-02T07:31:27.183",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789415/US-Employment-Situation-September-2026-Report.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.038945-04:00"
+  },
+  {
+    "NewsID": 9789387,
+    "title": "US Government Payrolls Actual -17k (Forecast -, Previous 35k ,Revision 44k)",
+    "published": "2026-10-02T07:30:47.11",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9789387/US-Government-Payrolls-Actual--17k-Forecast---Previous-35k-Revision-44k.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.038966-04:00"
+  },
+  {
+    "NewsID": 9789386,
+    "title": "US Average Earnings MoM Actual 0.1% (Forecast 0.3%, Previous 0.3%)",
+    "published": "2026-10-02T07:30:05.207",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9789386/US-Average-Earnings-MoM-Actual-01-Forecast-03-Previous-03.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.039008-04:00"
+  },
+  {
+    "NewsID": 9789385,
+    "title": "US Unemployment Rate Actual 4.2% (Forecast 4.1%, Previous 4.1%)",
+    "published": "2026-10-02T07:30:04.5",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9789385/US-Unemployment-Rate-Actual-42-Forecast-41-Previous-41.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.039029-04:00"
+  },
+  {
+    "NewsID": 9789384,
+    "title": "US Labor Force Participation  Actual 61.8% (Forecast 61.6%, Previous 61.6%)",
+    "published": "2026-10-02T07:30:04.417",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9789384/US-Labor-Force-Participation--Actual-618-Forecast-616-Previous-616.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.039049-04:00"
+  },
+  {
+    "NewsID": 9789383,
+    "title": "US Nonfarm Payrolls Actual 29k (Forecast 90k, Previous 162k, Revised 133k)",
+    "published": "2026-10-02T07:30:04.33",
+    "level": "active",
+    "link": "https://www.financialjuice.com/News/9789383/US-Nonfarm-Payrolls-Actual-29k-Forecast-90k-Previous-162k-Revised-133k.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.039070-04:00"
+  },
+  {
+    "NewsID": 9789382,
+    "title": "US Private Payrolls Actual 46k (Forecast 81k, Previous 127k, Revised 89k)",
+    "published": "2026-10-02T07:30:04.227",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9789382/US-Private-Payrolls-Actual-46k-Forecast-81k-Previous-127k-Revised-89k.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.039090-04:00"
+  },
+  {
+    "NewsID": 9789381,
+    "title": "US Average Earnings YoY Actual 3% (Forecast 3.1%, Previous 3.1%)",
+    "published": "2026-10-02T07:30:04.15",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9789381/US-Average-Earnings-YoY-Actual-3-Forecast-31-Previous-31.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.039111-04:00"
+  },
+  {
+    "NewsID": 9789380,
+    "title": "US Manufacturing Payrolls Actual 9k (Forecast 10k, Previous 16k ,Revision 15k)",
+    "published": "2026-10-02T07:30:43.987",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9789380/US-Manufacturing-Payrolls-Actual-9k-Forecast-10k-Previous-16k-Revision-15k.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.038987-04:00"
+  },
+  {
+    "NewsID": 9789379,
+    "title": "US Average Workweek Hrs Actual 34.4 (Forecast 34.3, Previous 34.4)",
+    "published": "2026-10-02T07:30:03.27",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9789379/US-Average-Workweek-Hrs-Actual-344-Forecast-343-Previous-344.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:45:02.039132-04:00"
+  },
+  {
+    "NewsID": 9789378,
+    "title": "Pakistan's foreign minister: More than six countries are keen to join the Makkah defence pact",
+    "published": "2026-10-02T07:25:20.143",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789378/Pakistans-foreign-minister-More-than-six-countries-are-keen-to-join-the-Makkah-defence-pact.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:30:02.123542-04:00"
+  },
+  {
+    "NewsID": 9789377,
+    "title": "Pakistan Foreign Minister: We will discuss political engagement with Houthis instead of kinetic action in the meeting next week",
+    "published": "2026-10-02T07:19:17.55",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789377/Pakistan-Foreign-Minister-We-will-discuss-political-engagement-with-Houthis-instead-of-kinetic-action-in-the-meeting-next-week.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:30:02.123606-04:00"
+  },
+  {
+    "NewsID": 9789365,
+    "title": "Pakistan foreign minister: Meeting in Riyadh next week will focus on Houthi attacks in Saudi Arabia",
+    "published": "2026-10-02T07:03:17.543",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789365/Pakistan-foreign-minister-Meeting-in-Riyadh-next-week-will-focus-on-Houthi-attacks-in-Saudi-Arabia.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:15:02.358846-04:00"
+  },
+  {
+    "NewsID": 9789364,
+    "title": "Price of Russian gas for China may rise 1.4% in 2027 - Tass",
+    "published": "2026-10-02T07:02:23.023",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789364/Price-of-Russian-gas-for-China-may-rise-14-in-2027---Tass.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:15:02.358908-04:00"
+  },
+  {
+    "NewsID": 9789342,
+    "title": "Secured overnight financing rate 3.87% October 1st vs 3.90% September 30th.",
+    "published": "2026-10-02T07:00:08.37",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789342/Secured-overnight-financing-rate-387-October-1st-vs-390-September-30th.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:15:02.358933-04:00"
+  },
+  {
+    "NewsID": 9789341,
+    "title": "Morning Juice – US Session Prep (2nd October)\n",
+    "published": "2026-10-02T06:58:12.14",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789341/Morning-Juice--US-Session-Prep-2nd-October.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:00:02.657924-04:00"
+  },
+  {
+    "NewsID": 9789340,
+    "title": "Iran's IRGC: Ready for response to any threat or attack. The response would be more lethal than the previous one",
+    "published": "2026-10-02T06:58:11.903",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789340/Irans-IRGC-Ready-for-response-to-any-threat-or-attack-The-response-would-be-more-lethal-than-the-previous-one.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:00:02.657968-04:00"
+  },
+  {
+    "NewsID": 9789339,
+    "title": "The EU presidency will convene a meeting of coreper i at 15:30 to discuss the global energy situation",
+    "published": "2026-10-02T06:51:51.243",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789339/The-EU-presidency-will-convene-a-meeting-of-coreper-i-at-1530-to-discuss-the-global-energy-situation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:00:02.657986-04:00"
+  },
+  {
+    "NewsID": 9789338,
+    "title": "France's Macron to chair a videoconference of G7 leaders today at 2:30 PM focused on the global energy situation - Elysee",
+    "published": "2026-10-02T06:50:12.537",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789338/Frances-Macron-to-chair-a-videoconference-of-G7-leaders-today-at-230-PM-focused-on-the-global-energy-situation---Elysee.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:00:02.658002-04:00"
+  },
+  {
+    "NewsID": 9789334,
+    "title": "Pakistan Foreign Minister: A meeting of the strategic political defence committee under the Makkah Accord to meet in Riyadh soon",
+    "published": "2026-10-02T06:45:52.343",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789334/Pakistan-Foreign-Minister-A-meeting-of-the-strategic-political-defence-committee-under-the-Makkah-Accord-to-meet-in-Riyadh-soon.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T08:00:02.658018-04:00"
+  },
+  {
+    "NewsID": 9789328,
+    "title": "Standard Chartered expects the ECB to deliver a 25 bp rate cut in Q4 2027 vs. the prior forecast of Q3",
+    "published": "2026-10-02T06:38:06.297",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789328/Standard-Chartered-expects-the-ECB-to-deliver-a-25-bp-rate-cut-in-Q4-2027-vs-the-prior-forecast-of-Q3.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T07:45:01.805923-04:00"
+  },
+  {
+    "NewsID": 9789327,
+    "title": "Standard Chartered expects the ECB to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of unchanged rates",
+    "published": "2026-10-02T06:35:09.157",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789327/Standard-Chartered-expects-the-ECB-to-deliver-a-25-bps-rate-hike-in-December-2026-vs-the-prior-forecast-of-unchanged-rates.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T07:45:01.805977-04:00"
+  },
+  {
+    "NewsID": 9789310,
+    "title": "Saudi Arabia has about 4.5m b/d pipeline flow available for export",
+    "published": "2026-10-02T06:33:18.423",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789310/Saudi-Arabia-has-about-45m-bd-pipeline-flow-available-for-export.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T07:45:01.806001-04:00"
+  },
+  {
+    "NewsID": 9789309,
+    "title": "Saudi Arabia pumping close to 6m b/d oil on East-West pipeline.",
+    "published": "2026-10-02T06:33:08.89",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789309/Saudi-Arabia-pumping-close-to-6m-bd-oil-on-East-West-pipeline.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T07:45:01.806022-04:00"
+  },
+  {
+    "NewsID": 9789308,
+    "title": "ECB's Vujcic: Bank capital levels are not a competitive disadvantage for Europe, but rules could be simplified",
+    "published": "2026-10-02T06:30:53.59",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789308/ECBs-Vujcic-Bank-capital-levels-are-not-a-competitive-disadvantage-for-Europe-but-rules-could-be-simplified.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T07:45:01.806043-04:00"
+  },
+  {
+    "NewsID": 9789301,
+    "title": "Microsoft & Amazon cloud arms set to face deeper EU scrutiny $MSFT $AMZN",
+    "published": "2026-10-02T06:16:45.983",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789301/Microsoft--Amazon-cloud-arms-set-to-face-deeper-EU-scrutiny-MSFT-AMZN.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T07:30:02.069641-04:00"
+  },
+  {
+    "NewsID": 9789278,
+    "title": "Russia’s Deputy PM Novak: OPEC+ members continue production capacity review - Tass",
+    "published": "2026-10-02T06:14:39.15",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789278/Russias-Deputy-PM-Novak-OPEC-members-continue-production-capacity-review---Tass.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T07:15:02.310925-04:00"
+  },
+  {
+    "NewsID": 9789277,
+    "title": "Russian Deputy PM Novak: Russia is currently basing its 2027 oil production forecast on a moderately conservative scenario",
+    "published": "2026-10-02T06:13:05.31",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789277/Russian-Deputy-PM-Novak-Russia-is-currently-basing-its-2027-oil-production-forecast-on-a-moderately-conservative-scenario.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T07:15:02.310991-04:00"
+  },
+  {
+    "NewsID": 9789276,
+    "title": "OPEC+ oil capacity assessment exercise is expected to be completed by mid-November - Source.",
+    "published": "2026-10-02T06:12:21.827",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789276/OPEC-oil-capacity-assessment-exercise-is-expected-to-be-completed-by-mid-November---Source.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T07:15:02.311017-04:00"
+  },
+  {
+    "NewsID": 9789275,
+    "title": "OPEC+ oil production capacity assessment exercise is delayed because not all countries have submitted data - Sources",
+    "published": "2026-10-02T06:12:20.333",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789275/OPEC-oil-production-capacity-assessment-exercise-is-delayed-because-not-all-countries-have-submitted-data---Sources.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T07:15:02.311038-04:00"
+  },
+  {
+    "NewsID": 9789274,
+    "title": "Russian Deputy PM Novak: OPEC+ countries will discuss standard issues relating to the oil market and quota compliance at Sunday's meeting",
+    "published": "2026-10-02T06:12:02.333",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789274/Russian-Deputy-PM-Novak-OPEC-countries-will-discuss-standard-issues-relating-to-the-oil-market-and-quota-compliance-at-Sundays-meeting.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T07:15:02.311059-04:00"
+  },
+  {
+    "NewsID": 9789273,
+    "title": "Stocks Climb as Calm Prevails Before Payrolls - Europe Market Wrap",
+    "published": "2026-10-02T06:11:39.743",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789273/Stocks-Climb-as-Calm-Prevails-Before-Payrolls---Europe-Market-Wrap.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T07:15:02.311079-04:00"
+  },
+  {
+    "NewsID": 9789244,
+    "title": "EU Spokesperson: We reject any ban on diesel.",
+    "published": "2026-10-02T05:42:07.423",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789244/EU-Spokesperson-We-reject-any-ban-on-diesel.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:45:02.082458-04:00"
+  },
+  {
+    "NewsID": 9789243,
+    "title": "EU Spokesperson: Supplies are stable for the time being",
+    "published": "2026-10-02T05:42:07.347",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789243/EU-Spokesperson-Supplies-are-stable-for-the-time-being.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:45:02.082506-04:00"
+  },
+  {
+    "NewsID": 9789225,
+    "title": "The EU is ready for collective oil market action if the IEA sees it as necessary",
+    "published": "2026-10-02T05:29:40.477",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789225/The-EU-is-ready-for-collective-oil-market-action-if-the-IEA-sees-it-as-necessary.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:30:02.366051-04:00"
+  },
+  {
+    "NewsID": 9789224,
+    "title": "EU Spokesperson: A coordination meeting between the Commission and member states was held this morning, and further discussions might happen in the afternoon",
+    "published": "2026-10-02T05:29:23.573",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789224/EU-Spokesperson-A-coordination-meeting-between-the-Commission-and-member-states-was-held-this-morning-and-further-discussions-might-happen-in-the-afternoon.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:30:02.366120-04:00"
+  },
+  {
+    "NewsID": 9789223,
+    "title": "EU Spokesperson: The EU is ready for collective action on possible stock release under IEA coordination",
+    "published": "2026-10-02T05:28:50.093",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789223/EU-Spokesperson-The-EU-is-ready-for-collective-action-on-possible-stock-release-under-IEA-coordination.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:30:02.366146-04:00"
+  },
+  {
+    "NewsID": 9789222,
+    "title": "German Government wants to stabilize diesel supply - Spokesman",
+    "published": "2026-10-02T05:28:36.333",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789222/German-Government-wants-to-stabilize-diesel-supply---Spokesman.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:30:02.366190-04:00"
+  },
+  {
+    "NewsID": 9789221,
+    "title": "EU Spokesperson: Next oil coordination group on the 15th of October, if the situation requires, we are ready to convene one earlier",
+    "published": "2026-10-02T05:25:52.807",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789221/EU-Spokesperson-Next-oil-coordination-group-on-the-15th-of-October-if-the-situation-requires-we-are-ready-to-convene-one-earlier.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:30:02.366213-04:00"
+  },
+  {
+    "NewsID": 9789220,
+    "title": "EU Spokesperson: Any release is something that is organized by the International Energy Agency",
+    "published": "2026-10-02T05:25:42.463",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789220/EU-Spokesperson-Any-release-is-something-that-is-organized-by-the-International-Energy-Agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:30:02.366234-04:00"
+  },
+  {
+    "NewsID": 9789219,
+    "title": "German Government Spokesperson on diesel stocks: We do not want to unsettle markets further",
+    "published": "2026-10-02T05:22:49.527",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789219/German-Government-Spokesperson-on-diesel-stocks-We-do-not-want-to-unsettle-markets-further.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:30:02.366254-04:00"
+  },
+  {
+    "NewsID": 9789218,
+    "title": "EU Spokesperson: A ban would not be beneficial to anyone. It would undermine our trust in the United States as a reliable partner",
+    "published": "2026-10-02T05:22:38.253",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789218/EU-Spokesperson-A-ban-would-not-be-beneficial-to-anyone-It-would-undermine-our-trust-in-the-United-States-as-a-reliable-partner.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:30:02.366275-04:00"
+  },
+  {
+    "NewsID": 9789217,
+    "title": "EU Spokesperson: We fully reject any ban on diesel",
+    "published": "2026-10-02T05:22:22.923",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789217/EU-Spokesperson-We-fully-reject-any-ban-on-diesel.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:30:02.366295-04:00"
+  },
+  {
+    "NewsID": 9789216,
+    "title": "German Government Spokesperson: We continue to see the US as a reliable supplier of fuel",
+    "published": "2026-10-02T05:22:13.337",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789216/German-Government-Spokesperson-We-continue-to-see-the-US-as-a-reliable-supplier-of-fuel.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:30:02.366316-04:00"
+  },
+  {
+    "NewsID": 9789197,
+    "title": "UK diesel average prices rise above £2/litre for the first time - RAC",
+    "published": "2026-10-02T05:06:05.74",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789197/UK-diesel-average-prices-rise-above-2litre-for-the-first-time---RAC.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:30:02.366336-04:00"
+  },
+  {
+    "NewsID": 9789167,
+    "title": "Russia’s Deputy PM Novak: Russia may allow diesel exports if overproduction - Tass",
+    "published": "2026-10-02T04:51:35.493",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789167/Russias-Deputy-PM-Novak-Russia-may-allow-diesel-exports-if-overproduction---Tass.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:00:02.215873-04:00"
+  },
+  {
+    "NewsID": 9789166,
+    "title": "Russian Deputy PM Novak: Russia will be considering partially lifting diesel export restrictions",
+    "published": "2026-10-02T04:51:12.773",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789166/Russian-Deputy-PM-Novak-Russia-will-be-considering-partially-lifting-diesel-export-restrictions.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:00:02.215912-04:00"
+  },
+  {
+    "NewsID": 9789165,
+    "title": "Russian Deputy PM Novak: Russia repelled attacks on 4 oil refineries overnight",
+    "published": "2026-10-02T04:51:01.03",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789165/Russian-Deputy-PM-Novak-Russia-repelled-attacks-on-4-oil-refineries-overnight.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:00:02.215926-04:00"
+  },
+  {
+    "NewsID": 9789164,
+    "title": "Russia’s Deputy PM Novak: Damage to refineries much lower now - Tass",
+    "published": "2026-10-02T04:50:47.873",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789164/Russias-Deputy-PM-Novak-Damage-to-refineries-much-lower-now---Tass.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:00:02.215940-04:00"
+  },
+  {
+    "NewsID": 9789163,
+    "title": "Russia’s Deputy PM Novak: Russia did a lot of work on protecting refineries - TASS",
+    "published": "2026-10-02T04:50:33.22",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789163/Russias-Deputy-PM-Novak-Russia-did-a-lot-of-work-on-protecting-refineries---TASS.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:00:02.215953-04:00"
+  },
+  {
+    "NewsID": 9789162,
+    "title": "Poll: US Dollar More likely to trade stronger than expectations at year-end, according to 52 of 66 FX strategists",
+    "published": "2026-10-02T04:50:01.353",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789162/Poll-US-Dollar-More-likely-to-trade-stronger-than-expectations-at-year-end-according-to-52-of-66-FX-strategists.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:00:02.215965-04:00"
+  },
+  {
+    "NewsID": 9789161,
+    "title": "Poll: Euro forecast to trade at $1.15 at year-end, $1.15 in six months and $1.16 in a year (vs $1.16, $1.17 and $1.18 in the September poll)",
+    "published": "2026-10-02T04:49:39.213",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9789161/Poll-Euro-forecast-to-trade-at-115-at-year-end-115-in-six-months-and-116-in-a-year-vs-116-117-and-118-in-the-September-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-02T06:00:02.215977-04:00"
+  },
+  {
     "NewsID": 9789094,
     "title": "Eurozone CPI MoM Flash Actual 0.6% (Forecast 0.5%, Previous 0.4%)",
     "published": "2026-10-02T04:00:04.64",
