@@ -1,5 +1,356 @@
 [
   {
+    "NewsID": 9790650,
+    "title": "Grenada’s government schedules general election for November 5: official gazette",
+    "published": "2026-10-03T20:54:23.743",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790650/Grenadas-government-schedules-general-election-for-November-5-official-gazette.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T22:00:01.815032-04:00"
+  },
+  {
+    "NewsID": 9790621,
+    "title": "Petroecuador: working to restart operations at SOTE pipeline within six days - statement",
+    "published": "2026-10-03T17:34:41.85",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790621/Petroecuador-working-to-restart-operations-at-SOTE-pipeline-within-six-days---statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T18:45:01.683874-04:00"
+  },
+  {
+    "NewsID": 9790614,
+    "title": "Jay Clayton, head of Office of the Director of National Intelligence, to chair group, effectively making him President Trump's al czar - WSJ",
+    "published": "2026-10-03T17:28:56.393",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790614/Jay-Clayton-head-of-Office-of-the-Director-of-National-Intelligence-to-chair-group-effectively-making-him-President-Trumps-al-czar---WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T18:30:01.946215-04:00"
+  },
+  {
+    "NewsID": 9790613,
+    "title": "Jay Clayton, head of Office of the Director of National Intelligence, will lead group: making him President Trump’s al czar - WSJ",
+    "published": "2026-10-03T17:28:55.763",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790613/Jay-Clayton-head-of-Office-of-the-Director-of-National-Intelligence-will-lead-group-making-him-President-Trumps-al-czar---WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T18:30:01.946267-04:00"
+  },
+  {
+    "NewsID": 9790612,
+    "title": "White House task force has 120 days to prepare report on AI risks, opportunities and US federal responsibility - WSJ",
+    "published": "2026-10-03T17:28:31.61",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790612/White-House-task-force-has-120-days-to-prepare-report-on-AI-risks-opportunities-and-US-federal-responsibility---WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T18:30:01.946291-04:00"
+  },
+  {
+    "NewsID": 9790611,
+    "title": "White House task force has 120 days to prepare report on AI risks, opportunities and US government's responsibility - WSJ",
+    "published": "2026-10-03T17:28:31.12",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790611/White-House-task-force-has-120-days-to-prepare-report-on-AI-risks-opportunities-and-US-governments-responsibility---WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T18:30:01.946312-04:00"
+  },
+  {
+    "NewsID": 9790610,
+    "title": "New AI group to outline technology risks following public and industry worries: WSJ",
+    "published": "2026-10-03T17:27:52.363",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790610/New-AI-group-to-outline-technology-risks-following-public-and-industry-worries-WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T18:30:01.946333-04:00"
+  },
+  {
+    "NewsID": 9790606,
+    "title": "Petroecuador declares force majeure at pumping station in Sote pipeline after fire on Oct. 1",
+    "published": "2026-10-03T16:34:29.657",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790606/Petroecuador-declares-force-majeure-at-pumping-station-in-Sote-pipeline-after-fire-on-Oct-1.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T17:45:02.515863-04:00"
+  },
+  {
+    "NewsID": 9790601,
+    "title": "US State Dept: strongly urge Ethiopia and Eritrea to show maximum restraint, resume dialogue and cooperation",
+    "published": "2026-10-03T16:17:29.74",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790601/US-State-Dept-strongly-urge-Ethiopia-and-Eritrea-to-show-maximum-restraint-resume-dialogue-and-cooperation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T17:30:02.703249-04:00"
+  },
+  {
+    "NewsID": 9790600,
+    "title": "US State Dept: Urges Ethiopia and Eritrea to respect neighbors' sovereignty and territorial integrity",
+    "published": "2026-10-03T16:17:21.507",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790600/US-State-Dept-Urges-Ethiopia-and-Eritrea-to-respect-neighbors-sovereignty-and-territorial-integrity.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T17:30:02.703302-04:00"
+  },
+  {
+    "NewsID": 9790599,
+    "title": "US State Dept: rising cross-border tensions between Ethiopia and Eritrea risk impacting entire region",
+    "published": "2026-10-03T16:16:27.79",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790599/US-State-Dept-rising-cross-border-tensions-between-Ethiopia-and-Eritrea-risk-impacting-entire-region.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T17:30:02.703326-04:00"
+  },
+  {
+    "NewsID": 9790598,
+    "title": "Yemen's Houthi-run Al Masirah TV reports Saudi strike on Sanaa; no confirmation from Riyadh",
+    "published": "2026-10-03T16:14:56.803",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790598/Yemens-Houthi-run-Al-Masirah-TV-reports-Saudi-strike-on-Sanaa-no-confirmation-from-Riyadh.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T17:30:02.703348-04:00"
+  },
+  {
+    "NewsID": 9790597,
+    "title": "North Korea: Kim Jong Un supervised missile test - KCNA",
+    "published": "2026-10-03T16:09:55.943",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790597/North-Korea-Kim-Jong-Un-supervised-missile-test---KCNA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T17:15:01.870390-04:00"
+  },
+  {
+    "NewsID": 9790596,
+    "title": "North Korea says missile struck target 1,000 km away in sea off eastern coast",
+    "published": "2026-10-03T16:09:22.573",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790596/North-Korea-says-missile-struck-target-1000-km-away-in-sea-off-eastern-coast.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T17:15:01.870442-04:00"
+  },
+  {
+    "NewsID": 9790595,
+    "title": "North Korea conducts intermediate-range strategic missile launch drill on Oct. 3: KCNA",
+    "published": "2026-10-03T16:08:56.28",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790595/North-Korea-conducts-intermediate-range-strategic-missile-launch-drill-on-Oct-3-KCNA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T17:15:01.870467-04:00"
+  },
+  {
+    "NewsID": 9790570,
+    "title": "Iraqi oil tankers company: seeking to acquire specialised crude tankers to grow fleet",
+    "published": "2026-10-03T13:59:31.757",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790570/Iraqi-oil-tankers-company-seeking-to-acquire-specialised-crude-tankers-to-grow-fleet.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T15:00:02.114222-04:00"
+  },
+  {
+    "NewsID": 9790569,
+    "title": "Iraq: move aims to give state oil marketer Somo greater sales flexibility",
+    "published": "2026-10-03T13:59:01.827",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790569/Iraq-move-aims-to-give-state-oil-marketer-Somo-greater-sales-flexibility.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T15:00:02.114288-04:00"
+  },
+  {
+    "NewsID": 9790568,
+    "title": "Iraqi oil tankers company: shipment is first of its kind in decades - statement",
+    "published": "2026-10-03T13:56:59.533",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790568/Iraqi-oil-tankers-company-shipment-is-first-of-its-kind-in-decades---statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T15:00:02.114315-04:00"
+  },
+  {
+    "NewsID": 9790567,
+    "title": "Iraq: shipped 2 million barrels of crude on VLCC past Strait of Hormuz - statement",
+    "published": "2026-10-03T13:56:26.157",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790567/Iraq-shipped-2-million-barrels-of-crude-on-VLCC-past-Strait-of-Hormuz---statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T15:00:02.114337-04:00"
+  },
+  {
+    "NewsID": 9790566,
+    "title": "No immediate Saudi confirmation of Houthis' claim on attacking Aramco facility in Riyadh",
+    "published": "2026-10-03T13:52:50.523",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790566/No-immediate-Saudi-confirmation-of-Houthis-claim-on-attacking-Aramco-facility-in-Riyadh.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T15:00:02.114358-04:00"
+  },
+  {
+    "NewsID": 9790565,
+    "title": "Yemen's Houthis: Attack on Aramco facility in Saudi Arabia's Riyadh with ballistic missiles and drones",
+    "published": "2026-10-03T13:51:04.043",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790565/Yemens-Houthis-Attack-on-Aramco-facility-in-Saudi-Arabias-Riyadh-with-ballistic-missiles-and-drones.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T15:00:02.114378-04:00"
+  },
+  {
+    "NewsID": 9790557,
+    "title": "Flights between Iran and Iraq's Najaf to restart on Sunday: Iraqi state news agency",
+    "published": "2026-10-03T12:23:55.223",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790557/Flights-between-Iran-and-Iraqs-Najaf-to-restart-on-Sunday-Iraqi-state-news-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T13:30:02.294881-04:00"
+  },
+  {
+    "NewsID": 9790546,
+    "title": "India government: India denies accusations about incident in Ferozepur sector, Punjab, along international border on 2 October 2026",
+    "published": "2026-10-03T11:32:58.78",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790546/India-government-India-denies-accusations-about-incident-in-Ferozepur-sector-Punjab-along-international-border-on-2-October-2026.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T12:45:02.748655-04:00"
+  },
+  {
+    "NewsID": 9790545,
+    "title": "India govt: ministry of external affairs summons charge d'affaires of Pakistan high commission",
+    "published": "2026-10-03T11:32:14.267",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790545/India-govt-ministry-of-external-affairs-summons-charge-daffaires-of-Pakistan-high-commission.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T12:45:02.748707-04:00"
+  },
+  {
+    "NewsID": 9790543,
+    "title": "Zelenskiy says Ukraine’s domestically made FP-9 ballistic missile expected by autumn",
+    "published": "2026-10-03T11:00:03.197",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790543/Zelenskiy-says-Ukraines-domestically-made-FP-9-ballistic-missile-expected-by-autumn.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T12:15:01.701285-04:00"
+  },
+  {
+    "NewsID": 9790542,
+    "title": "Zelenskiy: Ukraine stabilised situation on eastern Donetsk front, operation Vivaldi successful and ongoing",
+    "published": "2026-10-03T11:00:03.09",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790542/Zelenskiy-Ukraine-stabilised-situation-on-eastern-Donetsk-front-operation-Vivaldi-successful-and-ongoing.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T12:15:01.701334-04:00"
+  },
+  {
+    "NewsID": 9790541,
+    "title": "Zelenskiy: Ukraine heavily depends on aviation to shoot down jet-powered Russian drones, requires 20 mm ammunition",
+    "published": "2026-10-03T11:00:03.06",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790541/Zelenskiy-Ukraine-heavily-depends-on-aviation-to-shoot-down-jet-powered-Russian-drones-requires-20-mm-ammunition.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T12:15:01.701356-04:00"
+  },
+  {
+    "NewsID": 9790540,
+    "title": "Zelenskiy: Ukraine will not strike civilian Russian targets, source says in interview",
+    "published": "2026-10-03T11:00:03.053",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790540/Zelenskiy-Ukraine-will-not-strike-civilian-Russian-targets-source-says-in-interview.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T12:15:01.701376-04:00"
+  },
+  {
+    "NewsID": 9790539,
+    "title": "Zelenskiy: Russia's hybrid attacks on Europe aim to split, cut backing for Ukraine",
+    "published": "2026-10-03T11:00:02.87",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790539/Zelenskiy-Russias-hybrid-attacks-on-Europe-aim-to-split-cut-backing-for-Ukraine.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T12:15:01.701415-04:00"
+  },
+  {
+    "NewsID": 9790538,
+    "title": "President Zelenskiy: Ukraine will respond to intensified Russian strikes, targeting oil refineries",
+    "published": "2026-10-03T11:00:02.86",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790538/President-Zelenskiy-Ukraine-will-respond-to-intensified-Russian-strikes-targeting-oil-refineries.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T12:15:01.701435-04:00"
+  },
+  {
+    "NewsID": 9790537,
+    "title": "Zelenskiy: Russia's strikes on Ukrainian cities occur as Moscow fails to meet battlefield objectives",
+    "published": "2026-10-03T11:00:02.857",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790537/Zelenskiy-Russias-strikes-on-Ukrainian-cities-occur-as-Moscow-fails-to-meet-battlefield-objectives.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T12:15:01.701454-04:00"
+  },
+  {
+    "NewsID": 9790530,
+    "title": "Ukrainian shelling damages external power supply equipment at Zaporizhzhia nuclear power plant: station management says situation under control",
+    "published": "2026-10-03T10:35:35.627",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790530/Ukrainian-shelling-damages-external-power-supply-equipment-at-Zaporizhzhia-nuclear-power-plant-station-management-says-situation-under-control.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T11:45:01.717983-04:00"
+  },
+  {
+    "NewsID": 9790517,
+    "title": "Russia hits cargo vessel in Ukraine's Odesa port: Ifax",
+    "published": "2026-10-03T09:31:04.323",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790517/Russia-hits-cargo-vessel-in-Ukraines-Odesa-port-Ifax.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T10:45:02.636825-04:00"
+  },
+  {
+    "NewsID": 9790515,
+    "title": "Venezuela September inflation rises 8.4%: central bank",
+    "published": "2026-10-03T09:18:23.193",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790515/Venezuela-September-inflation-rises-84-central-bank.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T10:30:01.813965-04:00"
+  },
+  {
+    "NewsID": 9790462,
+    "title": "No immediate confirmation from Saudi authorities or Aramco on fire near Riyadh site",
+    "published": "2026-10-03T06:32:28.927",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790462/No-immediate-confirmation-from-Saudi-authorities-or-Aramco-on-fire-near-Riyadh-site.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T07:45:02.096072-04:00"
+  },
+  {
+    "NewsID": 9790459,
+    "title": "Large plume of smoke and flames seen near Aramco facility in Riyadh: witness",
+    "published": "2026-10-03T06:30:47.657",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790459/Large-plume-of-smoke-and-flames-seen-near-Aramco-facility-in-Riyadh-witness.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T07:45:02.096127-04:00"
+  },
+  {
+    "NewsID": 9790436,
+    "title": "Russia strikes foreign-flagged vessel in Ukraine's Odesa port: one sailor killed, three injured - Ukrainian port authorities",
+    "published": "2026-10-03T05:29:39.993",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790436/Russia-strikes-foreign-flagged-vessel-in-Ukraines-Odesa-port-one-sailor-killed-three-injured---Ukrainian-port-authorities.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T06:30:02.502809-04:00"
+  },
+  {
+    "NewsID": 9790433,
+    "title": "North Korea's Kim Yo Jong: Intermediate-range strategic missile employed in drill - KCNA",
+    "published": "2026-10-03T05:07:11.913",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790433/North-Koreas-Kim-Yo-Jong-Intermediate-range-strategic-missile-employed-in-drill---KCNA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T06:15:02.629262-04:00"
+  },
+  {
+    "NewsID": 9790432,
+    "title": "North Korea reports completion of strategic weapons launch exercise - KCNA",
+    "published": "2026-10-03T05:06:35.673",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790432/North-Korea-reports-completion-of-strategic-weapons-launch-exercise---KCNA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-03T06:15:02.629315-04:00"
+  },
+  {
     "NewsID": 9790426,
     "title": "Two killed, three wounded in assault on Ukraine's Luhansk region: Russian-installed governor",
     "published": "2026-10-03T04:37:11.907",
