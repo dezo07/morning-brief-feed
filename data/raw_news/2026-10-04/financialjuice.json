@@ -1,5 +1,410 @@
 [
   {
+    "NewsID": 9791157,
+    "title": "Sterling falls 0.27% to $1.32019",
+    "published": "2026-10-04T22:06:18.25",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791157/Sterling-falls-027-to-132019.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T23:15:01.838531-04:00"
+  },
+  {
+    "NewsID": 9791156,
+    "title": "Euro declines further, down 0.7% at $1.11735",
+    "published": "2026-10-04T22:05:30.66",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791156/Euro-declines-further-down-07-at-111735.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T23:15:01.838584-04:00"
+  },
+  {
+    "NewsID": 9791131,
+    "title": "euro falls to lowest since May 2025, down 0.35% at $1.1213",
+    "published": "2026-10-04T21:26:43.547",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791131/euro-falls-to-lowest-since-May-2025-down-035-at-11213.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T22:30:02.536024-04:00"
+  },
+  {
+    "NewsID": 9791130,
+    "title": "euro slides 0.38% to $1.1211",
+    "published": "2026-10-04T21:24:39.217",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791130/euro-slides-038-to-11211.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T22:30:02.536079-04:00"
+  },
+  {
+    "NewsID": 9791057,
+    "title": "Taiwan stocks gain over 2%",
+    "published": "2026-10-04T20:01:20.597",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791057/Taiwan-stocks-gain-over-2.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T21:15:02.354406-04:00"
+  },
+  {
+    "NewsID": 9791034,
+    "title": "Japan s&p global september services pmi at 51.3 vs flash 51.6",
+    "published": "2026-10-04T19:30:04.377",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791034/Japan-sp-global-september-services-pmi-at-513-vs-flash-516.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T20:45:02.508722-04:00"
+  },
+  {
+    "NewsID": 9791033,
+    "title": "Japanese Services PMI Actual 51.3 (Forecast -, Previous 51.6)",
+    "published": "2026-10-04T19:30:46.687",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791033/Japanese-Services-PMI-Actual-513-Forecast---Previous-516.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T20:45:02.508645-04:00"
+  },
+  {
+    "NewsID": 9791032,
+    "title": "Japanese Composite PMI Final Actual 52.3 (Forecast -, Previous 52.5)",
+    "published": "2026-10-04T19:30:46.177",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791032/Japanese-Composite-PMI-Final-Actual-523-Forecast---Previous-525.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T20:45:02.508697-04:00"
+  },
+  {
+    "NewsID": 9791031,
+    "title": "BoJ deputy governor Uchida: Tentatively, demand-side impact of al appears first, making financial conditions more accommodative on balance, while correction risk remains if profits do not",
+    "published": "2026-10-04T19:29:02.337",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791031/BoJ-deputy-governor-Uchida-Tentatively-demand-side-impact-of-al-appears-first-making-financial-conditions-more-accommodative-on-balance-while-correction-risk-remains-if-profits-do-not.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T20:30:02.686733-04:00"
+  },
+  {
+    "NewsID": 9791030,
+    "title": "BoJ deputy governor Uchida: We will keep closely monitoring economic and financial indicators to understand the consistent effects of AI adoption",
+    "published": "2026-10-04T19:28:48.64",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791030/BoJ-deputy-governor-Uchida-We-will-keep-closely-monitoring-economic-and-financial-indicators-to-understand-the-consistent-effects-of-AI-adoption.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T20:30:02.686798-04:00"
+  },
+  {
+    "NewsID": 9791029,
+    "title": "BOJ deputy governor Uchida: AI has driven up stock prices, easing financial conditions, while significant bond sales by AI-related firms have pushed long-term rates higher",
+    "published": "2026-10-04T19:28:31.69",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791029/BOJ-deputy-governor-Uchida-AI-has-driven-up-stock-prices-easing-financial-conditions-while-significant-bond-sales-by-AI-related-firms-have-pushed-long-term-rates-higher.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T20:30:02.686825-04:00"
+  },
+  {
+    "NewsID": 9791028,
+    "title": "BoJ deputy governor Uchida: AI may influence supply side, potentially boosting productivity and increasing capital stock accumulation",
+    "published": "2026-10-04T19:28:18.94",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791028/BoJ-deputy-governor-Uchida-AI-may-influence-supply-side-potentially-boosting-productivity-and-increasing-capital-stock-accumulation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T20:30:02.686847-04:00"
+  },
+  {
+    "NewsID": 9791027,
+    "title": "BoJ Deputy Governor Uchida: AI a major positive demand shock putting upward pressure on economy and prices",
+    "published": "2026-10-04T19:28:06.067",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791027/BoJ-Deputy-Governor-Uchida-AI-a-major-positive-demand-shock-putting-upward-pressure-on-economy-and-prices.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T20:30:02.686867-04:00"
+  },
+  {
+    "NewsID": 9791026,
+    "title": "BoJ deputy governor Uchida: AI impacts key monetary policy parameters including output gap, financial conditions, and star variables",
+    "published": "2026-10-04T19:27:51.427",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791026/BoJ-deputy-governor-Uchida-AI-impacts-key-monetary-policy-parameters-including-output-gap-financial-conditions-and-star-variables.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T20:30:02.686888-04:00"
+  },
+  {
+    "NewsID": 9791025,
+    "title": "BOJ deputy governor uchida: AI has become a major focus among central banks, including at BOJ monetary policy meetings",
+    "published": "2026-10-04T19:27:26.07",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791025/BOJ-deputy-governor-uchida-AI-has-become-a-major-focus-among-central-banks-including-at-BOJ-monetary-policy-meetings.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T20:30:02.686909-04:00"
+  },
+  {
+    "NewsID": 9791024,
+    "title": "BOJ deputy governor Uchida: adoption of AI could have both positive and negative effects on productivity and labor markets",
+    "published": "2026-10-04T19:26:05.693",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791024/BOJ-deputy-governor-Uchida-adoption-of-AI-could-have-both-positive-and-negative-effects-on-productivity-and-labor-markets.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T20:30:02.686930-04:00"
+  },
+  {
+    "NewsID": 9791013,
+    "title": "Ireland S&P Global September services PMI at 54.1 versus 55.4 in August",
+    "published": "2026-10-04T19:01:03.75",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9791013/Ireland-SP-Global-September-services-PMI-at-541-versus-554-in-August.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T20:15:01.903923-04:00"
+  },
+  {
+    "NewsID": 9790996,
+    "title": "US B-1 bombers evacuated from UK base after attack threats from Iran - Axios",
+    "published": "2026-10-04T17:40:30.103",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9790996/US-B-1-bombers-evacuated-from-UK-base-after-attack-threats-from-Iran---Axios.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T18:45:02.288286-04:00"
+  },
+  {
+    "NewsID": 9790995,
+    "title": "US B-1 bombers evacuated from UK base after attack threats from Iran - Axios",
+    "published": "2026-10-04T17:40:10.073",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9790995/US-B-1-bombers-evacuated-from-UK-base-after-attack-threats-from-Iran---Axios.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T18:45:02.288340-04:00"
+  },
+  {
+    "NewsID": 9790989,
+    "title": "Australian Composite PMI Final Actual 51.3 (Forecast -, Previous 50.8)",
+    "published": "2026-10-04T17:00:46.57",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790989/Australian-Composite-PMI-Final-Actual-513-Forecast---Previous-508.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T18:15:02.591576-04:00"
+  },
+  {
+    "NewsID": 9790988,
+    "title": "Australian Services PMI Final Actual 51.9 (Forecast -, Previous 51.4)",
+    "published": "2026-10-04T17:00:46.153",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790988/Australian-Services-PMI-Final-Actual-519-Forecast---Previous-514.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T18:15:02.591626-04:00"
+  },
+  {
+    "NewsID": 9790965,
+    "title": "Ex-Anthropic researcher Jacob Coxon to testify at NYC hearing on AI",
+    "published": "2026-10-04T15:17:33.497",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790965/Ex-Anthropic-researcher-Jacob-Coxon-to-testify-at-NYC-hearing-on-AI.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T16:30:02.043657-04:00"
+  },
+  {
+    "NewsID": 9790950,
+    "title": "Austrian Vice Chancellor Andreas Babler: Finance Minister Markus Marterbauer to succeed him as vice chancellor at start of next year",
+    "published": "2026-10-04T14:28:11.287",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790950/Austrian-Vice-Chancellor-Andreas-Babler-Finance-Minister-Markus-Marterbauer-to-succeed-him-as-vice-chancellor-at-start-of-next-year.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T15:30:02.579364-04:00"
+  },
+  {
+    "NewsID": 9790945,
+    "title": "UkMto: crew safe, no environmental impact reported",
+    "published": "2026-10-04T13:55:39.757",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790945/UkMto-crew-safe-no-environmental-impact-reported.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T15:00:01.877832-04:00"
+  },
+  {
+    "NewsID": 9790944,
+    "title": "UKMTO: tanker reports several explosions near vessel",
+    "published": "2026-10-04T13:55:16.477",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790944/UKMTO-tanker-reports-several-explosions-near-vessel.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T15:00:01.877885-04:00"
+  },
+  {
+    "NewsID": 9790943,
+    "title": "UKMTO: reports incident 60 nm south of Al Mukha, Yemen",
+    "published": "2026-10-04T13:54:53.29",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790943/UKMTO-reports-incident-60-nm-south-of-Al-Mukha-Yemen.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T15:00:01.877910-04:00"
+  },
+  {
+    "NewsID": 9790935,
+    "title": "One leftist, two nationalist contenders lead election for Bosnia's inter-ethnic tripartite presidency, partial preliminary results show",
+    "published": "2026-10-04T13:18:13.28",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790935/One-leftist-two-nationalist-contenders-lead-election-for-Bosnias-inter-ethnic-tripartite-presidency-partial-preliminary-results-show.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T14:30:02.216275-04:00"
+  },
+  {
+    "NewsID": 9790919,
+    "title": "Iran oil minister steps down: state media",
+    "published": "2026-10-04T12:05:34.927",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790919/Iran-oil-minister-steps-down-state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T13:15:02.113680-04:00"
+  },
+  {
+    "NewsID": 9790861,
+    "title": "Ukraine, Germany discuss LNG supply through German infrastructure, involving EU firms in cooperation with Kyiv's gas storage facilities",
+    "published": "2026-10-04T08:46:27.337",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790861/Ukraine-Germany-discuss-LNG-supply-through-German-infrastructure-involving-EU-firms-in-cooperation-with-Kyivs-gas-storage-facilities.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T10:00:01.789747-04:00"
+  },
+  {
+    "NewsID": 9790846,
+    "title": "no immediate Saudi confirmation of Houthi claim",
+    "published": "2026-10-04T08:13:50.48",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790846/no-immediate-Saudi-confirmation-of-Houthi-claim.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T09:15:02.499885-04:00"
+  },
+  {
+    "NewsID": 9790845,
+    "title": "Yemen's Houthis: Attack on Saudi Aramco sites in Riyadh and Khurais with ballistic missiles and drones causes major fires",
+    "published": "2026-10-04T08:02:44.433",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790845/Yemens-Houthis-Attack-on-Saudi-Aramco-sites-in-Riyadh-and-Khurais-with-ballistic-missiles-and-drones-causes-major-fires.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T09:15:02.499946-04:00"
+  },
+  {
+    "NewsID": 9790840,
+    "title": "Russia's Deputy PM Novak: russia and Saudi Arabia to discuss oil market and 2026-2027 outlook on October 12 in Riyadh",
+    "published": "2026-10-04T07:39:45.503",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790840/Russias-Deputy-PM-Novak-russia-and-Saudi-Arabia-to-discuss-oil-market-and-2026-2027-outlook-on-October-12-in-Riyadh.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T08:45:01.956541-04:00"
+  },
+  {
+    "NewsID": 9790839,
+    "title": "Russia's deputy PM Novak: JMMC observed significant fluctuations in global oil markets, citing a supply shortfall",
+    "published": "2026-10-04T07:37:14.387",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790839/Russias-deputy-PM-Novak-JMMC-observed-significant-fluctuations-in-global-oil-markets-citing-a-supply-shortfall.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T08:45:01.956615-04:00"
+  },
+  {
+    "NewsID": 9790831,
+    "title": "Trump: John Coale named as new special presidential envoy for hostage affairs",
+    "published": "2026-10-04T07:23:58.047",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790831/Trump-John-Coale-named-as-new-special-presidential-envoy-for-hostage-affairs.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T08:30:02.132147-04:00"
+  },
+  {
+    "NewsID": 9790821,
+    "title": "Head of Yemen's presidential leadership council al-Alimi: military operations have started to reclaim remaining Houthi-held territory",
+    "published": "2026-10-04T07:05:06.323",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790821/Head-of-Yemens-presidential-leadership-council-al-Alimi-military-operations-have-started-to-reclaim-remaining-Houthi-held-territory.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T08:15:02.357573-04:00"
+  },
+  {
+    "NewsID": 9790819,
+    "title": "Germany's Chancellor Merz: preparing winter energy support package of about 350 million euros for Ukraine",
+    "published": "2026-10-04T07:00:04.457",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790819/Germanys-Chancellor-Merz-preparing-winter-energy-support-package-of-about-350-million-euros-for-Ukraine.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T08:15:02.357626-04:00"
+  },
+  {
+    "NewsID": 9790818,
+    "title": "Germany’s Chancellor Merz: unveiling military aid package of about 1 billion euros for Ukraine",
+    "published": "2026-10-04T07:00:04.433",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790818/Germanys-Chancellor-Merz-unveiling-military-aid-package-of-about-1-billion-euros-for-Ukraine.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T08:15:02.357651-04:00"
+  },
+  {
+    "NewsID": 9790817,
+    "title": "Germany's Chancellor Merz: Russia intends to shatter morale of Ukrainians",
+    "published": "2026-10-04T07:00:04.357",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790817/Germanys-Chancellor-Merz-Russia-intends-to-shatter-morale-of-Ukrainians.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T08:15:02.357671-04:00"
+  },
+  {
+    "NewsID": 9790816,
+    "title": "Germany's Chancellor Merz: Russian strikes on Germany won't cease if Berlin halts support for Ukraine",
+    "published": "2026-10-04T07:00:04.283",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790816/Germanys-Chancellor-Merz-Russian-strikes-on-Germany-wont-cease-if-Berlin-halts-support-for-Ukraine.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T08:15:02.357692-04:00"
+  },
+  {
+    "NewsID": 9790815,
+    "title": "Germany’s Chancellor Merz: immeasurable consequences for Europe if government fails to meet challenges, will do everything to keep government stable",
+    "published": "2026-10-04T07:00:04.23",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790815/Germanys-Chancellor-Merz-immeasurable-consequences-for-Europe-if-government-fails-to-meet-challenges-will-do-everything-to-keep-government-stable.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T08:15:02.357733-04:00"
+  },
+  {
+    "NewsID": 9790814,
+    "title": "Germany's Chancellor Merz urges Russia to join peace talks",
+    "published": "2026-10-04T07:00:04.23",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790814/Germanys-Chancellor-Merz-urges-Russia-to-join-peace-talks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T08:15:02.357712-04:00"
+  },
+  {
+    "NewsID": 9790813,
+    "title": "Germany's Chancellor Merz: undeterred by assault during our visit",
+    "published": "2026-10-04T07:00:04.11",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790813/Germanys-Chancellor-Merz-undeterred-by-assault-during-our-visit.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T08:15:02.357753-04:00"
+  },
+  {
+    "NewsID": 9790797,
+    "title": "OPEC+ keeps oil output quotas unchanged for November at Sunday meeting: statement",
+    "published": "2026-10-04T06:14:13.01",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790797/OPEC-keeps-oil-output-quotas-unchanged-for-November-at-Sunday-meeting-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T07:15:01.995969-04:00"
+  },
+  {
+    "NewsID": 9790774,
+    "title": "Iran’s army spokesperson: After war with US, Tehran plans to enhance missile range - Fars News",
+    "published": "2026-10-04T05:07:10.11",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790774/Irans-army-spokesperson-After-war-with-US-Tehran-plans-to-enhance-missile-range---Fars-News.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T06:15:01.765085-04:00"
+  },
+  {
+    "NewsID": 9790768,
+    "title": "Russia to ramp up strikes on Kyiv and other Ukraine regions following Zelenskiy remarks: Tass cites Russia defence ministry",
+    "published": "2026-10-04T04:53:31.28",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9790768/Russia-to-ramp-up-strikes-on-Kyiv-and-other-Ukraine-regions-following-Zelenskiy-remarks-Tass-cites-Russia-defence-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-04T06:00:01.947127-04:00"
+  },
+  {
     "NewsID": 9790766,
     "title": "Fire erupts at enterprise in Russia's Krasnodar region after drone debris falls; three hurt, authorities say",
     "published": "2026-10-04T04:37:23.897",
