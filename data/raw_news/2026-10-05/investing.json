@@ -243,5 +243,439 @@
     "published": "2026-10-05T04:36:24+00:00",
     "link": "https://www.investing.com/news/economy-news/morning-bid-the-euro-has-a-france-problem-4930999",
     "category_hint": "macro"
+  },
+  {
+    "title": "Euro hits 17-month low, dollar near pre-Liberation Day highs",
+    "source": "Investinglive",
+    "published": "2026-10-05T11:42:24+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-french-fiscal-woes-keep-euro-on-back-foot-4930983",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Alector stock surging today?",
+    "source": "Investinglive",
+    "published": "2026-10-05T11:41:41+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-alector-stock-surging-today-93CH-4931892",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Wainwright reiterates Buy on Vanda stock after sleep disorder trial",
+    "source": "Investinglive",
+    "published": "2026-10-05T11:40:54+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/wainwright-reiterates-buy-on-vanda-stock-after-sleep-disorder-trial-93CH-4931890",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Northland cuts T1 Energy stock price target on EBITDA concerns",
+    "source": "Investinglive",
+    "published": "2026-10-05T11:40:54+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/northland-cuts-t1-energy-stock-price-target-on-ebitda-concerns-93CH-4931891",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright reiterates Cognition Therapeutics stock rating ahead of FDA meeting",
+    "source": "Investinglive",
+    "published": "2026-10-05T11:40:44+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-cognition-therapeutics-stock-rating-ahead-of-fda-meeting-93CH-4931888",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright reiterates Orchestra BioMed stock rating on trial enrollment",
+    "source": "Investinglive",
+    "published": "2026-10-05T11:40:44+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-orchestra-biomed-stock-rating-on-trial-enrollment-93CH-4931889",
+    "category_hint": "markets"
+  },
+  {
+    "title": "H.C. Wainwright reiterates Buy on CervoMed stock on new formulation",
+    "source": "Investinglive",
+    "published": "2026-10-05T11:40:43+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-cervomed-stock-on-new-formulation-93CH-4931887",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Raymond James reiterates B2Gold stock rating after Goose Mine visit",
+    "source": "Investinglive",
+    "published": "2026-10-05T11:40:38+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-b2gold-stock-rating-after-goose-mine-visit-93CH-4931886",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Faraday Future robotics unit reports September sales record",
+    "source": "Investinglive",
+    "published": "2026-10-05T11:36:40+00:00",
+    "link": "https://www.investing.com/news/company-news/faraday-future-robotics-unit-reports-september-sales-record-93CH-4931884",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Euro slides on France worries; Fed pause hopes support stocks",
+    "source": "Investinglive",
+    "published": "2026-10-05T11:42:55+00:00",
+    "link": "https://www.investing.com/news/economy-news/stocks-upbeat-dollar-wobbles-as-fed-hike-bets-recede-4930982",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Yemeni government forces advance towards Bab el-Mandeb Strait - Reuters",
+    "source": "Investinglive",
+    "published": "2026-10-05T11:32:38+00:00",
+    "link": "https://www.investing.com/news/economy-news/yemeni-government-forces-advance-towards-bab-elmandeb-strait--reuters-4931871",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Wall St futures dip as tech stocks take a breather",
+    "source": "Investinglive",
+    "published": "2026-10-05T10:48:59+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-dip-as-tech-stocks-take-a-breather-4931591",
+    "category_hint": "macro"
+  },
+  {
+    "title": "What will Washington do next if US bond yields keep rising?",
+    "source": "Investinglive",
+    "published": "2026-10-05T10:18:44+00:00",
+    "link": "https://www.investing.com/news/economy-news/what-will-washington-do-next-if-us-bond-yields-keep-rising-4931501",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US goes into midterm elections with a less dynamic form of full employment",
+    "source": "Investinglive",
+    "published": "2026-10-05T10:14:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-goes-into-midterm-elections-with-a-less-dynamic-form-of-full-employment-4931466",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil: Investor and analyst reactions to Bolsonaro lead over Lula in election",
+    "source": "Investinglive",
+    "published": "2026-10-05T09:54:45+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-investor-and-analyst-reactions-to-bolsonaro-lead-over-lula-in-election-4931418",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Hedge funds deliver mixed September results on AI swings",
+    "source": "Investinglive",
+    "published": "2026-10-05T09:36:53+00:00",
+    "link": "https://www.investing.com/news/economy-news/hedge-funds-deliver-mixed-september-results-on-ai-swings-4931392",
+    "category_hint": "macro"
+  },
+  {
+    "title": "European shares rise after selloff; French stocks hit 6-month low",
+    "source": "Investinglive",
+    "published": "2026-10-05T09:36:38+00:00",
+    "link": "https://www.investing.com/news/economy-news/european-shares-rise-after-last-weeks-selloff-french-stocks-lag-4931163",
+    "category_hint": "macro"
+  },
+  {
+    "title": "U.S. stocks tick higher as bond market moves, oil prices remain in the spotlight",
+    "source": "Investinglive",
+    "published": "2026-10-05T15:56:39+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-tick-higher-as-soft-jobs-data-eases-fed-hike-bets-4930969",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US Supreme Court hears bid by oil companies to avoid climate lawsuit",
+    "source": "Investinglive",
+    "published": "2026-10-05T15:54:28+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/us-supreme-court-weighs-bid-by-oil-companies-to-avoid-climate-lawsuit-4931499",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Penguin Solutions options flow leans bullish amid high implied volatility",
+    "source": "Investinglive",
+    "published": "2026-10-05T15:52:48+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/penguin-solutions-options-flow-leans-bullish-amid-high-implied-volatility-93CH-4932555",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Qualcomm and Arm begin new trial over chip testing tools",
+    "source": "Investinglive",
+    "published": "2026-10-05T15:52:42+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/qualcomm-and-arm-begin-new-trial-over-chip-testing-tools-4932554",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Polar Capital Technology Trust discloses top holdings",
+    "source": "Investinglive",
+    "published": "2026-10-05T15:48:50+00:00",
+    "link": "https://www.investing.com/news/company-news/polar-capital-technology-trust-discloses-top-holdings-93CH-4932553",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US stocks mixed, while euro slides on France worries and Brazil markets surge",
+    "source": "Investinglive",
+    "published": "2026-10-05T15:43:20+00:00",
+    "link": "https://www.investing.com/news/economy-news/stocks-upbeat-dollar-wobbles-as-fed-hike-bets-recede-4930982",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Oil market turmoil could last for years, executives say",
+    "source": "Investinglive",
+    "published": "2026-10-05T15:42:44+00:00",
+    "link": "https://www.investing.com/news/commodities-news/replenishing-crude-and-fuel-stocks-could-take-two-years-saudi-aramco-ceo-says-4931614",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Chevron elevates CFO to lead oil and gas operations",
+    "source": "Investinglive",
+    "published": "2026-10-05T15:42:28+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/chevron-elevates-cfo-to-head-oil-and-gas-operations-4932414",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Johnson Controls stock hits all-time high at 157.06 USD",
+    "source": "Investinglive",
+    "published": "2026-10-05T15:41:57+00:00",
+    "link": "https://www.investing.com/news/company-news/johnson-controls-stock-hits-alltime-high-at-15706-usd-93CH-4932548",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Charles River Laboratories stock hits 52-week high at 303.33 USD",
+    "source": "Investinglive",
+    "published": "2026-10-05T15:39:55+00:00",
+    "link": "https://www.investing.com/news/company-news/charles-river-laboratories-stock-hits-52week-high-at-30333-usd-93CH-4932547",
+    "category_hint": "markets"
+  },
+  {
+    "title": "France, Germany propose new rapid EU trade response tool",
+    "source": "Investinglive",
+    "published": "2026-10-05T15:01:02+00:00",
+    "link": "https://www.investing.com/news/economy-news/france-germany-propose-new-rapid-eu-trade-response-tool-4932514",
+    "category_hint": "macro"
+  },
+  {
+    "title": "S&P 500 up, Nasdaq at record high as megacap tech stocks rise",
+    "source": "Investinglive",
+    "published": "2026-10-05T14:55:22+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-dip-as-tech-stocks-take-a-breather-4931591",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US services sector activity slows in September; price pressures mount",
+    "source": "Investinglive",
+    "published": "2026-10-05T14:48:19+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-services-sector-activity-slows-in-september-price-pressures-mount-4932428",
+    "category_hint": "macro"
+  },
+  {
+    "title": "BIS chief warns soaring debt, market changes could complicate future crisis response",
+    "source": "Investinglive",
+    "published": "2026-10-05T14:18:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/bis-chief-warns-soaring-debt-market-changes-could-complicate-future-crisis-response-4932459",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Xometry stock hits all-time high at 107.96 USD",
+    "source": "Investinglive",
+    "published": "2026-10-05T19:38:46+00:00",
+    "link": "https://www.investing.com/news/company-news/xometry-stock-hits-alltime-high-at-10796-usd-93CH-4932774",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Telos stock rallying today?",
+    "source": "Investinglive",
+    "published": "2026-10-05T19:37:17+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-telos-stock-rallying-today-93CH-4932773",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nutex Health stock hits 52-week high at 224.35 USD",
+    "source": "Investinglive",
+    "published": "2026-10-05T19:34:45+00:00",
+    "link": "https://www.investing.com/news/company-news/nutex-health-stock-hits-52week-high-at-22435-usd-93CH-4932772",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Stacks Opens Second Bitcoin Staking Bond as Liquid Staking Takes the Majority of Capacity",
+    "source": "Investinglive",
+    "published": "2026-10-05T19:33:58+00:00",
+    "link": "https://www.investing.com/news/press-releases/stacks-opens-second-bitcoin-staking-bond-as-liquid-staking-takes-the-majority-of-capacity-4932771",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Top power technology stocks for selective trading, says Oppenheimer",
+    "source": "Investinglive",
+    "published": "2026-10-05T19:33:40+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/top-power-technology-stocks-for-selective-trading-says-oppenheimer-4932770",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Starbucks sued over ’sugar-free’ claims for protein beverages",
+    "source": "Investinglive",
+    "published": "2026-10-05T19:30:24+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/starbucks-sued-over-sugarfree-claims-for-protein-beverages-4932506",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Telos stock gains after $13.5M Air Force contract win",
+    "source": "Investinglive",
+    "published": "2026-10-05T19:25:28+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/telos-stock-gains-after-135m-air-force-contract-win-4932760",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US Supreme Court won’t hear Zillow’s bid to escape investor class action",
+    "source": "Investinglive",
+    "published": "2026-10-05T19:24:23+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/us-supreme-court-wont-hear-zillows-bid-to-escape-investor-class-action-4932371",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Alphabet C wedged near $350 resistance: Live levels",
+    "source": "Investinglive",
+    "published": "2026-10-05T19:20:48+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/alphabet-c-consolidates-332350-breakout-levels-live-93CH-4932453",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Bitcoin battles $83,900 support amid fading momentum: Live levels",
+    "source": "Investinglive",
+    "published": "2026-10-05T19:20:46+00:00",
+    "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Euro drops to 17-month low on France debt concerns",
+    "source": "Investinglive",
+    "published": "2026-10-05T19:13:21+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-french-fiscal-woes-keep-euro-on-back-foot-4930983",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Nasdaq hits record high as investors focus on earnings",
+    "source": "Investinglive",
+    "published": "2026-10-05T18:54:46+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-dip-as-tech-stocks-take-a-breather-4931591",
+    "category_hint": "macro"
+  },
+  {
+    "title": "IMF research shows better tax system design can raise revenue, growth without higher rates",
+    "source": "Investinglive",
+    "published": "2026-10-05T18:36:07+00:00",
+    "link": "https://www.investing.com/news/economy-news/imf-research-shows-better-tax-system-design-can-raise-revenue-growth-without-higher-rates-4932715",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease",
+    "source": "Investinglive",
+    "published": "2026-10-05T18:18:31+00:00",
+    "link": "https://www.investing.com/news/economy-news/stocks-upbeat-dollar-wobbles-as-fed-hike-bets-recede-4930982",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US commodities regulator proposes new federal crypto oversight rules",
+    "source": "Investinglive",
+    "published": "2026-10-05T17:48:24+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-commodities-regulator-proposes-new-federal-crypto-oversight-rules-4932569",
+    "category_hint": "macro"
+  },
+  {
+    "title": "French bond contagion fears are rattling the euro",
+    "source": "Investinglive",
+    "published": "2026-10-05T17:30:19+00:00",
+    "link": "https://www.investing.com/news/economy-news/french-bond-contagion-fears-are-rattling-the-euro-4932638",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US services sector cools in September, price pressures building",
+    "source": "Investinglive",
+    "published": "2026-10-05T17:06:45+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-services-sector-activity-slows-in-september-price-pressures-mount-4932428",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Europe’s STOXX 600 gains on banks boost; French stocks slide on fiscal fears",
+    "source": "Investinglive",
+    "published": "2026-10-05T16:49:23+00:00",
+    "link": "https://www.investing.com/news/economy-news/european-shares-rise-after-last-weeks-selloff-french-stocks-lag-4931163",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Outset Medical director Braden Leonard buys $870,260 in shares",
+    "source": "Investinglive",
+    "published": "2026-10-05T23:50:21+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/outset-medical-director-braden-leonard-buys-870260-in-shares-93CH-4933110",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Alpha Compute CBO Yury Mitin sells $1,630 in stock, buys $51,482",
+    "source": "Investinglive",
+    "published": "2026-10-05T23:46:05+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/alpha-compute-cbo-yury-mitin-sells-1630-in-stock-buys-51482-93CH-4933104",
+    "category_hint": "markets"
+  },
+  {
+    "title": "GameStop PFO and PAO Moore sells $177,025 in shares",
+    "source": "Investinglive",
+    "published": "2026-10-05T23:46:02+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/gamestop-pfo-and-pao-moore-sells-177025-in-shares-93CH-4933103",
+    "category_hint": "markets"
+  },
+  {
+    "title": "GameStop general counsel sells over $275,000 in GME stock",
+    "source": "Investinglive",
+    "published": "2026-10-05T23:46:01+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/gamestop-general-counsel-sells-over-275000-in-gme-stock-93CH-4933102",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Wayfair CTO Fiona Tan sells $715,260 of company stock",
+    "source": "Investinglive",
+    "published": "2026-10-05T23:46:00+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/wayfair-cto-fiona-tan-sells-715260-of-company-stock-93CH-4933101",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait",
+    "source": "Investinglive",
+    "published": "2026-10-05T23:42:23+00:00",
+    "link": "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376",
+    "category_hint": "markets"
+  },
+  {
+    "title": "KKR to acquire Gen II Fund Services for $5.1 billion",
+    "source": "Investinglive",
+    "published": "2026-10-05T23:36:30+00:00",
+    "link": "https://www.investing.com/news/company-news/kkr-to-acquire-gen-ii-fund-services-for-51-billion-93CH-4933096",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Dolphin entertainment CEO William O’Dowd IV buys $4,855 in stock",
+    "source": "Investinglive",
+    "published": "2026-10-05T23:31:19+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/dolphin-entertainment-ceo-william-odowd-iv-buys-4855-in-stock-93CH-4933092",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Wayfair president Jon Blotner sells $630,611 in Wayfair stock",
+    "source": "Investinglive",
+    "published": "2026-10-05T23:31:19+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/wayfair-president-jon-blotner-sells-630611-in-wayfair-stock-93CH-4933093",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Carvana CFO Mark Jenkins sells $3.9m of CVNA stock",
+    "source": "Investinglive",
+    "published": "2026-10-05T23:01:14+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/carvana-cfo-mark-jenkins-sells-39m-of-cvna-stock-93CH-4933068",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nasdaq notches record high close as investors focus on earnings",
+    "source": "Investinglive",
+    "published": "2026-10-05T22:42:51+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-dip-as-tech-stocks-take-a-breather-4931591",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trading Day: Nasdaq highs, Brazil surprise",
+    "source": "Investinglive",
+    "published": "2026-10-05T21:06:29+00:00",
+    "link": "https://www.investing.com/news/economy-news/trading-day-nasdaq-highs-brazil-surprise-4932947",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US says foreign financial institutions doing business with Iran may be sanctioned without notice",
+    "source": "Investinglive",
+    "published": "2026-10-05T20:30:36+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-says-foreign-financial-institutions-doing-business-with-iran-may-be-sanctioned-without-notice-4932881",
+    "category_hint": "macro"
   }
 ]
