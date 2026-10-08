@@ -1,0 +1,803 @@
+[
+  {
+    "NewsID": 9796872,
+    "title": "The US is to announce AI firms to commit $1B+ compute credits - WaPo",
+    "published": "2026-10-08T04:06:40.373",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796872/The-US-is-to-announce-AI-firms-to-commit-1B-compute-credits---WaPo.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T05:15:02.417848-04:00"
+  },
+  {
+    "NewsID": 9796845,
+    "title": "Fed's Waller: AI productivity seen anecdotally, not yet in data.",
+    "published": "2026-10-08T03:58:34.997",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796845/Feds-Waller-AI-productivity-seen-anecdotally-not-yet-in-data.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T05:00:01.676693-04:00"
+  },
+  {
+    "NewsID": 9796832,
+    "title": "SNB's Vice Chairman Martin: We don't see a need to change rates at this point.",
+    "published": "2026-10-08T03:33:26.27",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796832/SNBs-Vice-Chairman-Martin-We-dont-see-a-need-to-change-rates-at-this-point.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:45:01.974723-04:00"
+  },
+  {
+    "NewsID": 9796831,
+    "title": "Fed's Waller: Anticipate additional hikes if data come in as expected.",
+    "published": "2026-10-08T03:32:00.22",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796831/Feds-Waller-Anticipate-additional-hikes-if-data-come-in-as-expected.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:45:01.974772-04:00"
+  },
+  {
+    "NewsID": 9796830,
+    "title": "Fed's Waller: Labor market \"solid and stable\" in September even though number of jobs created was down.",
+    "published": "2026-10-08T03:31:45.427",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796830/Feds-Waller-Labor-market-solid-and-stable-in-September-even-though-number-of-jobs-created-was-down.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:45:01.974795-04:00"
+  },
+  {
+    "NewsID": 9796829,
+    "title": "Fed's Waller: Concerned high inflation, now approaching 5-1/2 years above target, will put inflation expectations at risk.",
+    "published": "2026-10-08T03:31:31.81",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796829/Feds-Waller-Concerned-high-inflation-now-approaching-5-12-years-above-target-will-put-inflation-expectations-at-risk.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:45:01.974814-04:00"
+  },
+  {
+    "NewsID": 9796828,
+    "title": "Fed's Waller: Evidence that economy is strengthening in the second half of 2026.",
+    "published": "2026-10-08T03:31:21.843",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796828/Feds-Waller-Evidence-that-economy-is-strengthening-in-the-second-half-of-2026.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:45:01.974833-04:00"
+  },
+  {
+    "NewsID": 9796827,
+    "title": "Fed's Waller: Inflation too high, with AI buildout, ongoing energy shock among a range of persistent inflationary forces.",
+    "published": "2026-10-08T03:31:12.82",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796827/Feds-Waller-Inflation-too-high-with-AI-buildout-ongoing-energy-shock-among-a-range-of-persistent-inflationary-forces.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:45:01.974852-04:00"
+  },
+  {
+    "NewsID": 9796812,
+    "title": "Fed's Waller: Further hikes do not need to come at consecutive meetings.",
+    "published": "2026-10-08T03:30:58.837",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796812/Feds-Waller-Further-hikes-do-not-need-to-come-at-consecutive-meetings.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:45:01.974871-04:00"
+  },
+  {
+    "NewsID": 9796811,
+    "title": "Fed's Waller: More hikes needed but flexible about the pace.",
+    "published": "2026-10-08T03:30:47.997",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796811/Feds-Waller-More-hikes-needed-but-flexible-about-the-pace.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:45:01.974911-04:00"
+  },
+  {
+    "NewsID": 9796806,
+    "title": "SNB's Vice Chairman Martin: We will be very attentive to inflation in Switzerland and to second round inflationary effects.",
+    "published": "2026-10-08T03:24:46.413",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796806/SNBs-Vice-Chairman-Martin-We-will-be-very-attentive-to-inflation-in-Switzerland-and-to-second-round-inflationary-effects.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:30:02.239750-04:00"
+  },
+  {
+    "NewsID": 9796805,
+    "title": "SNB's Vice Chairman Martin: We are not observing any second round inflationary effects which is extremely reassuring.",
+    "published": "2026-10-08T03:20:29.313",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796805/SNBs-Vice-Chairman-Martin-We-are-not-observing-any-second-round-inflationary-effects-which-is-extremely-reassuring.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:30:02.239799-04:00"
+  },
+  {
+    "NewsID": 9796804,
+    "title": "SNB vice chairman: Inflation is lower and more stable than in other countries.",
+    "published": "2026-10-08T03:17:02.03",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796804/SNB-vice-chairman-Inflation-is-lower-and-more-stable-than-in-other-countries.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:30:02.239822-04:00"
+  },
+  {
+    "NewsID": 9796774,
+    "title": "South Korea to summon ambassador from Ukraine: Korean foreign ministry",
+    "published": "2026-10-08T03:13:59.63",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796774/South-Korea-to-summon-ambassador-from-Ukraine-Korean-foreign-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:15:02.467966-04:00"
+  },
+  {
+    "NewsID": 9796773,
+    "title": "SNB vice chairman: inflationary pressure rises slightly since June",
+    "published": "2026-10-08T03:10:32.993",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796773/SNB-vice-chairman-inflationary-pressure-rises-slightly-since-June.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:15:02.468002-04:00"
+  },
+  {
+    "NewsID": 9796772,
+    "title": "Swiss National Bank vice chairman: Swiss franc has weakened recently but stayed stable in real terms since 2020",
+    "published": "2026-10-08T03:09:55.627",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796772/Swiss-National-Bank-vice-chairman-Swiss-franc-has-weakened-recently-but-stayed-stable-in-real-terms-since-2020.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:15:02.468016-04:00"
+  },
+  {
+    "NewsID": 9796771,
+    "title": "SNB's Vice Chairman Martin: Recent rise in swiss inflation due to oil products.",
+    "published": "2026-10-08T03:09:34.313",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796771/SNBs-Vice-Chairman-Martin-Recent-rise-in-swiss-inflation-due-to-oil-products.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:15:02.468028-04:00"
+  },
+  {
+    "NewsID": 9796767,
+    "title": "ECB's Dolenc on rising yields, spreads: Monetary policy is transmitted more or less homogeneously into broader financial conditions.",
+    "published": "2026-10-08T03:01:01.463",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796767/ECBs-Dolenc-on-rising-yields-spreads-Monetary-policy-is-transmitted-more-or-less-homogeneously-into-broader-financial-conditions.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:15:02.468040-04:00"
+  },
+  {
+    "NewsID": 9796765,
+    "title": "ECB's Dolenc: Persistently elevated inflation supports the case for moving policy rates towards a more restrictive territory.",
+    "published": "2026-10-08T03:00:51.647",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796765/ECBs-Dolenc-Persistently-elevated-inflation-supports-the-case-for-moving-policy-rates-towards-a-more-restrictive-territory.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:15:02.468053-04:00"
+  },
+  {
+    "NewsID": 9796764,
+    "title": "ECB's Dolenc: Inflation risks skewed to the upside on oil, gas, food, strong growth.",
+    "published": "2026-10-08T03:00:43.93",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796764/ECBs-Dolenc-Inflation-risks-skewed-to-the-upside-on-oil-gas-food-strong-growth.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:15:02.468065-04:00"
+  },
+  {
+    "NewsID": 9796763,
+    "title": "ECB's Dolenc: More stable core provides some reassurance that broader price pressures contained.",
+    "published": "2026-10-08T03:00:35.473",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796763/ECBs-Dolenc-More-stable-core-provides-some-reassurance-that-broader-price-pressures-contained.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:15:02.468084-04:00"
+  },
+  {
+    "NewsID": 9796755,
+    "title": "EU's Trade Chief Sefcovic: EU businesses need improved access to China market.",
+    "published": "2026-10-08T03:00:03.49",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796755/EUs-Trade-Chief-Sefcovic-EU-businesses-need-improved-access-to-China-market.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T04:15:02.468099-04:00"
+  },
+  {
+    "NewsID": 9796734,
+    "title": "Maersk to raise emergency fuel surcharge.",
+    "published": "2026-10-08T02:41:58.827",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796734/Maersk-to-raise-emergency-fuel-surcharge.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T03:45:02.121912-04:00"
+  },
+  {
+    "NewsID": 9796711,
+    "title": "ECB's Wunsch: The reasoning to raise the minimum reserve requirement is not very clear or convincing",
+    "published": "2026-10-08T02:28:56.173",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796711/ECBs-Wunsch-The-reasoning-to-raise-the-minimum-reserve-requirement-is-not-very-clear-or-convincing.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T03:30:02.282697-04:00"
+  },
+  {
+    "NewsID": 9796701,
+    "title": "French president's diplomatic adviser to visit China October 9-13th",
+    "published": "2026-10-08T02:09:07.243",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796701/French-presidents-diplomatic-adviser-to-visit-China-October-9-13th.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T03:15:02.439785-04:00"
+  },
+  {
+    "NewsID": 9796700,
+    "title": "ECB's Sleijpen: Inflation expectations are well anchored",
+    "published": "2026-10-08T02:04:38.017",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796700/ECBs-Sleijpen-Inflation-expectations-are-well-anchored.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T03:15:02.439838-04:00"
+  },
+  {
+    "NewsID": 9796699,
+    "title": "Currency Strength Chart: Strongest: CHF, USD, CAD, EUR, JPY, NZD, GBP, AUD - Weakest",
+    "published": "2026-10-08T02:03:14.803",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796699/Currency-Strength-Chart-Strongest-CHF-USD-CAD-EUR-JPY-NZD-GBP-AUD---Weakest.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T03:15:02.439861-04:00"
+  },
+  {
+    "NewsID": 9796674,
+    "title": "ECB's Moulin: Economic growth in the Euro area has been quite resilient",
+    "published": "2026-10-08T01:57:35.54",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796674/ECBs-Moulin-Economic-growth-in-the-Euro-area-has-been-quite-resilient.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T03:00:01.791957-04:00"
+  },
+  {
+    "NewsID": 9796673,
+    "title": "ECB's Moulin: Geopolitical shock is transmitting into financial shock",
+    "published": "2026-10-08T01:52:14.23",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796673/ECBs-Moulin-Geopolitical-shock-is-transmitting-into-financial-shock.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T03:00:01.791994-04:00"
+  },
+  {
+    "NewsID": 9796672,
+    "title": "ECB's Moulin: We don't see second round effects",
+    "published": "2026-10-08T01:51:58.853",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796672/ECBs-Moulin-We-dont-see-second-round-effects.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T03:00:01.792008-04:00"
+  },
+  {
+    "NewsID": 9796671,
+    "title": "ECB's Moulin: Inflation is 100% energy in the Euro area",
+    "published": "2026-10-08T01:51:44.08",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796671/ECBs-Moulin-Inflation-is-100-energy-in-the-Euro-area.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T03:00:01.792021-04:00"
+  },
+  {
+    "NewsID": 9796670,
+    "title": "ECB's Moulin: ECB is faced with an inflationary shock",
+    "published": "2026-10-08T01:51:30.12",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796670/ECBs-Moulin-ECB-is-faced-with-an-inflationary-shock.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T03:00:01.792033-04:00"
+  },
+  {
+    "NewsID": 9796668,
+    "title": "BoJ Osaka Branch Manager: Financial conditions remain loose in the region, though we must be vigilant about the cumulative impact of rate hikes on funding conditions.",
+    "published": "2026-10-08T01:45:29.91",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796668/BoJ-Osaka-Branch-Manager-Financial-conditions-remain-loose-in-the-region-though-we-must-be-vigilant-about-the-cumulative-impact-of-rate-hikes-on-funding-conditions.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T03:00:01.792045-04:00"
+  },
+  {
+    "NewsID": 9796664,
+    "title": "ECB's Sleijpen: Energy shock is quite persistent",
+    "published": "2026-10-08T01:43:34.177",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796664/ECBs-Sleijpen-Energy-shock-is-quite-persistent.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T02:45:02.020740-04:00"
+  },
+  {
+    "NewsID": 9796663,
+    "title": "BoJ Osaka Branch Manager: Big firms and exporters in the area are benefiting from the weak Yen, while smaller, service-oriented firms are more vulnerable to the demerits of the weak yen",
+    "published": "2026-10-08T01:38:21.81",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796663/BoJ-Osaka-Branch-Manager-Big-firms-and-exporters-in-the-area-are-benefiting-from-the-weak-Yen-while-smaller-service-oriented-firms-are-more-vulnerable-to-the-demerits-of-the-weak-yen.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T02:45:02.020792-04:00"
+  },
+  {
+    "NewsID": 9796619,
+    "title": "Japan's PM Takaichi: We will work to keep JGB sales around FY 2025's 40T Yen",
+    "published": "2026-10-08T01:12:55.093",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796619/Japans-PM-Takaichi-We-will-work-to-keep-JGB-sales-around-FY-2025s-40T-Yen.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T02:15:02.469137-04:00"
+  },
+  {
+    "NewsID": 9796599,
+    "title": "German Imports MoM SA Actual 0.9% (Forecast 2.8%, Previous -5.7%)",
+    "published": "2026-10-08T01:00:04.98",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796599/German-Imports-MoM-SA-Actual-09-Forecast-28-Previous--57.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T02:15:02.469209-04:00"
+  },
+  {
+    "NewsID": 9796598,
+    "title": "German Exports MoM SA Actual -0.8% (Forecast 0.9%, Previous -0.8%)",
+    "published": "2026-10-08T01:00:04.93",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796598/German-Exports-MoM-SA-Actual--08-Forecast-09-Previous--08.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T02:15:02.469234-04:00"
+  },
+  {
+    "NewsID": 9796597,
+    "title": "German Trade Balance SA Actual 19.5B (Forecast 19B, Previous 21.3B)",
+    "published": "2026-10-08T01:00:04",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796597/German-Trade-Balance-SA-Actual-195B-Forecast-19B-Previous-213B.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T02:15:02.469255-04:00"
+  },
+  {
+    "NewsID": 9796590,
+    "title": "US Secretary of State Rubio: Greece is a model ally",
+    "published": "2026-10-08T00:43:51.51",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796590/US-Secretary-of-State-Rubio-Greece-is-a-model-ally.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:45:02.195281-04:00"
+  },
+  {
+    "NewsID": 9796589,
+    "title": "US Secretary of State Rubio on NATO: Germans have stepped up to do their part",
+    "published": "2026-10-08T00:42:47.58",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796589/US-Secretary-of-State-Rubio-on-NATO-Germans-have-stepped-up-to-do-their-part.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:45:02.195333-04:00"
+  },
+  {
+    "NewsID": 9796588,
+    "title": "Stocks & Treasuries Fall as Brent Crude Tops $102 Amid Middle East Tensions - Asia Market Wrap",
+    "published": "2026-10-08T00:40:26.537",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796588/Stocks--Treasuries-Fall-as-Brent-Crude-Tops-102-Amid-Middle-East-Tensions---Asia-Market-Wrap.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:45:02.195357-04:00"
+  },
+  {
+    "NewsID": 9796571,
+    "title": "Morning Juice - Europe Session Prep",
+    "published": "2026-10-08T00:28:41.313",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9796571/Morning-Juice---Europe-Session-Prep.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:30:02.381058-04:00"
+  },
+  {
+    "NewsID": 9796556,
+    "title": "World Bank appoints David Vaillant as managing director and CFO",
+    "published": "2026-10-08T00:07:18.22",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796556/World-Bank-appoints-David-Vaillant-as-managing-director-and-CFO.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.654885-04:00"
+  },
+  {
+    "NewsID": 9796555,
+    "title": "BOJ: many regions reported consumption stayed resilient despite poor weather",
+    "published": "2026-10-08T00:05:04.77",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796555/BOJ-many-regions-reported-consumption-stayed-resilient-despite-poor-weather.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.654940-04:00"
+  },
+  {
+    "NewsID": 9796554,
+    "title": "BoJ: Many regions report corporate investment appetite remains strong",
+    "published": "2026-10-08T00:04:29.31",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796554/BoJ-Many-regions-report-corporate-investment-appetite-remains-strong.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.654965-04:00"
+  },
+  {
+    "NewsID": 9796553,
+    "title": "UK FCDO: Foreign Secretary Ed Miliband in Kyiv today to affirm UK’s steadfast backing for Ukraine",
+    "published": "2026-10-08T00:03:37.673",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796553/UK-FCDO-Foreign-Secretary-Ed-Miliband-in-Kyiv-today-to-affirm-UKs-steadfast-backing-for-Ukraine.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.654983-04:00"
+  },
+  {
+    "NewsID": 9796552,
+    "title": "BOJ: many regions report firms boosting output on strong global AI-related demand",
+    "published": "2026-10-08T00:03:31.657",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796552/BOJ-many-regions-report-firms-boosting-output-on-strong-global-AI-related-demand.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.655001-04:00"
+  },
+  {
+    "NewsID": 9796551,
+    "title": "BoJ: some regions reported firms increasing prices more often than before",
+    "published": "2026-10-08T00:02:45.613",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796551/BoJ-some-regions-reported-firms-increasing-prices-more-often-than-before.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.655019-04:00"
+  },
+  {
+    "NewsID": 9796550,
+    "title": "BOJ: many regions report firms passing on rising costs from Middle East conflict, weak yen, distribution and labour expenses",
+    "published": "2026-10-08T00:02:29.743",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796550/BOJ-many-regions-report-firms-passing-on-rising-costs-from-Middle-East-conflict-weak-yen-distribution-and-labour-expenses.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.655036-04:00"
+  },
+  {
+    "NewsID": 9796549,
+    "title": "BOJ: some areas say companies struggling to transfer costs may limit pay raises",
+    "published": "2026-10-08T00:02:10.633",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796549/BOJ-some-areas-say-companies-struggling-to-transfer-costs-may-limit-pay-raises.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.655054-04:00"
+  },
+  {
+    "NewsID": 9796548,
+    "title": "Japan PM Takaichi: challenging to immediately begin AI calling in Japan",
+    "published": "2026-10-08T00:01:27.057",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796548/Japan-PM-Takaichi-challenging-to-immediately-begin-AI-calling-in-Japan.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.655071-04:00"
+  },
+  {
+    "NewsID": 9796547,
+    "title": "BOJ: many areas report companies still providing high wages",
+    "published": "2026-10-08T00:01:17.047",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796547/BOJ-many-areas-report-companies-still-providing-high-wages.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.655089-04:00"
+  },
+  {
+    "NewsID": 9796546,
+    "title": "OJ holds steady assessment for 7 of Japan's 9 regions in quarterly report",
+    "published": "2026-10-08T00:01:16.95",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796546/OJ-holds-steady-assessment-for-7-of-Japans-9-regions-in-quarterly-report.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.655107-04:00"
+  },
+  {
+    "NewsID": 9796529,
+    "title": "Finnish August industrial output rises 0.8% year on year: Statistics Finland",
+    "published": "2026-10-08T00:00:22.87",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796529/Finnish-August-industrial-output-rises-08-year-on-year-Statistics-Finland.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.655124-04:00"
+  },
+  {
+    "NewsID": 9796528,
+    "title": "Finnish August industrial output rises 0.8% year-on-year: Statistics Finland",
+    "published": "2026-10-08T00:00:16.867",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796528/Finnish-August-industrial-output-rises-08-year-on-year-Statistics-Finland.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.655176-04:00"
+  },
+  {
+    "NewsID": 9796527,
+    "title": "BoJ lifts forecast for 2 of Japan's 9 regions in quarterly report",
+    "published": "2026-10-08T00:00:15.553",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796527/BoJ-lifts-forecast-for-2-of-Japans-9-regions-in-quarterly-report.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.655201-04:00"
+  },
+  {
+    "NewsID": 9796526,
+    "title": "Japanese Economy Watchers Poll Actual 47 (Forecast 46.7, Previous 46.4)",
+    "published": "2026-10-08T00:00:09.147",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796526/Japanese-Economy-Watchers-Poll-Actual-47-Forecast-467-Previous-464.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:15:01.655219-04:00"
+  },
+  {
+    "NewsID": 9796525,
+    "title": "Nigeria cenbank: sells 38.55 billion naira of 91-day treasury bills at Oct. 7 auction",
+    "published": "2026-10-07T23:46:11.41",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796525/Nigeria-cenbank-sells-3855-billion-naira-of-91-day-treasury-bills-at-Oct-7-auction.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T01:00:02.348786-04:00"
+  },
+  {
+    "NewsID": 9796515,
+    "title": "Japan PM Takaichi: We respect Bank of Japan's monetary approach",
+    "published": "2026-10-07T23:41:05.56",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796515/Japan-PM-Takaichi-We-respect-Bank-of-Japans-monetary-approach.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:45:02.586584-04:00"
+  },
+  {
+    "NewsID": 9796514,
+    "title": "Japan PM Takaichi: aiming to gain market trust by keeping communication highly transparent",
+    "published": "2026-10-07T23:39:44.353",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796514/Japan-PM-Takaichi-aiming-to-gain-market-trust-by-keeping-communication-highly-transparent.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:45:02.586634-04:00"
+  },
+  {
+    "NewsID": 9796513,
+    "title": "Japan PM Takaichi: Japan does not require reflationary policy now",
+    "published": "2026-10-07T23:36:56.67",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796513/Japan-PM-Takaichi-Japan-does-not-require-reflationary-policy-now.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:45:02.586656-04:00"
+  },
+  {
+    "NewsID": 9796512,
+    "title": "China records 2.14 billion passenger trips during Oct golden week holiday: Chinese state media",
+    "published": "2026-10-07T23:32:36.16",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796512/China-records-214-billion-passenger-trips-during-Oct-golden-week-holiday-Chinese-state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:45:02.586676-04:00"
+  },
+  {
+    "NewsID": 9796504,
+    "title": "Dutch August consumer spending rises 2.1% year-on-year after 1.2% in July: CBS",
+    "published": "2026-10-07T23:30:03.267",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796504/Dutch-August-consumer-spending-rises-21-year-on-year-after-12-in-July-CBS.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:45:02.586695-04:00"
+  },
+  {
+    "NewsID": 9796503,
+    "title": "Dutch Consumer Spending Actual 2.1% (Forecast -, Previous 1.2%)",
+    "published": "2026-10-07T23:30:00.847",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796503/Dutch-Consumer-Spending-Actual-21-Forecast---Previous-12.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:45:02.586713-04:00"
+  },
+  {
+    "NewsID": 9796480,
+    "title": "Workers at British Consulate in Jerusalem take down signage as Israeli shutdown deadline passes, source witnesses say",
+    "published": "2026-10-07T23:04:14.117",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796480/Workers-at-British-Consulate-in-Jerusalem-take-down-signage-as-Israeli-shutdown-deadline-passes-source-witnesses-say.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:15:01.766458-04:00"
+  },
+  {
+    "NewsID": 9796479,
+    "title": "India’s regulatory framework for satellite communication services: fair and unbiased",
+    "published": "2026-10-07T23:04:13.82",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796479/Indias-regulatory-framework-for-satellite-communication-services-fair-and-unbiased.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:15:01.766508-04:00"
+  },
+  {
+    "NewsID": 9796460,
+    "title": "Swedish single-family home prices rise 3.9% in July-September vs year earlier, Svensk Maklarstatistik data shows",
+    "published": "2026-10-07T23:00:03.73",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796460/Swedish-single-family-home-prices-rise-39-in-July-September-vs-year-earlier-Svensk-Maklarstatistik-data-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:15:01.766549-04:00"
+  },
+  {
+    "NewsID": 9796459,
+    "title": "Swedish apartment prices rise 5.4% in July-September vs same period a year earlier: svensk maklarstatistik data shows",
+    "published": "2026-10-07T23:00:03.56",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796459/Swedish-apartment-prices-rise-54-in-July-September-vs-same-period-a-year-earlier-svensk-maklarstatistik-data-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:15:01.766570-04:00"
+  },
+  {
+    "NewsID": 9796458,
+    "title": "India govt: India's regulatory framework for satellite communication services is equitable and impartial",
+    "published": "2026-10-07T22:52:09.19",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796458/India-govt-Indias-regulatory-framework-for-satellite-communication-services-is-equitable-and-impartial.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650407-04:00"
+  },
+  {
+    "NewsID": 9796450,
+    "title": "China finance ministry offers 1-month bills at 0.8479% yield: traders",
+    "published": "2026-10-07T22:40:58.007",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796450/China-finance-ministry-offers-1-month-bills-at-08479-yield-traders.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650446-04:00"
+  },
+  {
+    "NewsID": 9796449,
+    "title": "China finance ministry auctions 5-year special treasury bonds at 1.37% yield: traders",
+    "published": "2026-10-07T22:38:57.953",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796449/China-finance-ministry-auctions-5-year-special-treasury-bonds-at-137-yield-traders.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650460-04:00"
+  },
+  {
+    "NewsID": 9796448,
+    "title": "China finance ministry auctions 30-year ultra-long special treasury bonds at 2.1078% yield: traders",
+    "published": "2026-10-07T22:37:49.75",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796448/China-finance-ministry-auctions-30-year-ultra-long-special-treasury-bonds-at-21078-yield-traders.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650472-04:00"
+  },
+  {
+    "NewsID": 9796447,
+    "title": "South Korea, Egypt sign agreements on shipbuilding, clean energy, power infrastructure, information and technology: Korean presidential office",
+    "published": "2026-10-07T22:33:08.92",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796447/South-Korea-Egypt-sign-agreements-on-shipbuilding-clean-energy-power-infrastructure-information-and-technology-Korean-presidential-office.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650484-04:00"
+  },
+  {
+    "NewsID": 9796438,
+    "title": "South Korea, Egypt to start talks on broad economic partnership: Korean presidential office",
+    "published": "2026-10-07T22:29:04.813",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796438/South-Korea-Egypt-to-start-talks-on-broad-economic-partnership-Korean-presidential-office.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650496-04:00"
+  },
+  {
+    "NewsID": 9796437,
+    "title": "South Korea, Egypt elevate bilateral relations to strategic partnership: Korean presidential office",
+    "published": "2026-10-07T22:25:16.123",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796437/South-Korea-Egypt-elevate-bilateral-relations-to-strategic-partnership-Korean-presidential-office.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650509-04:00"
+  },
+  {
+    "NewsID": 9796433,
+    "title": "Trump: support Mike Rogers with my full endorsement",
+    "published": "2026-10-07T22:16:38.61",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796433/Trump-support-Mike-Rogers-with-my-full-endorsement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650521-04:00"
+  },
+  {
+    "NewsID": 9796421,
+    "title": "North Korea's Kim Yo Jong: hostile nature of inter-Korean ties and South Korea's identity won’t change - KCNA",
+    "published": "2026-10-07T22:08:42.31",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796421/North-Koreas-Kim-Yo-Jong-hostile-nature-of-inter-Korean-ties-and-South-Koreas-identity-wont-change---KCNA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650533-04:00"
+  },
+  {
+    "NewsID": 9796420,
+    "title": "North Korea's Kim Yo Jong: South Korea's medical aid plans are political provocation - KCNA",
+    "published": "2026-10-07T22:07:49.91",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796420/North-Koreas-Kim-Yo-Jong-South-Koreas-medical-aid-plans-are-political-provocation---KCNA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650546-04:00"
+  },
+  {
+    "NewsID": 9796419,
+    "title": "Yemen's Houthis: Saudi airspace to be focus of military operations except over Mecca, Medina",
+    "published": "2026-10-07T22:03:43.02",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796419/Yemens-Houthis-Saudi-airspace-to-be-focus-of-military-operations-except-over-Mecca-Medina.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650558-04:00"
+  },
+  {
+    "NewsID": 9796407,
+    "title": "No immediate Saudi confirmation of Houthi claim on Riyadh airport attack",
+    "published": "2026-10-07T21:57:14.58",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796407/No-immediate-Saudi-confirmation-of-Houthi-claim-on-Riyadh-airport-attack.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650570-04:00"
+  },
+  {
+    "NewsID": 9796406,
+    "title": "Yemen's Houthis: Ballistic missile strike on King Khalid International Airport in Riyadh",
+    "published": "2026-10-07T21:55:27.11",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796406/Yemens-Houthis-Ballistic-missile-strike-on-King-Khalid-International-Airport-in-Riyadh.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650582-04:00"
+  },
+  {
+    "NewsID": 9796293,
+    "title": "China central bank conducts no 7-day reverse repos: statement",
+    "published": "2026-10-07T20:23:03.66",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796293/China-central-bank-conducts-no-7-day-reverse-repos-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650594-04:00"
+  },
+  {
+    "NewsID": 9796292,
+    "title": "China c.bank injects 606 billion yuan through overnight reverse repos: statement",
+    "published": "2026-10-07T20:22:52.79",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796292/China-cbank-injects-606-billion-yuan-through-overnight-reverse-repos-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650606-04:00"
+  },
+  {
+    "NewsID": 9796291,
+    "title": "South Korea's foreign ministry: to pursue legal measures against unlawful shipments if verified",
+    "published": "2026-10-07T20:18:06.603",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796291/South-Koreas-foreign-ministry-to-pursue-legal-measures-against-unlawful-shipments-if-verified.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650619-04:00"
+  },
+  {
+    "NewsID": 9796290,
+    "title": "South Korea’s foreign ministry: South Korean fuel export to Russia not confirmed",
+    "published": "2026-10-07T20:17:16.02",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796290/South-Koreas-foreign-ministry-South-Korean-fuel-export-to-Russia-not-confirmed.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650630-04:00"
+  },
+  {
+    "NewsID": 9796289,
+    "title": "South Korea's foreign ministry: commercial diesel and jet fuel excluded from export controls to Russia",
+    "published": "2026-10-07T20:16:27.187",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796289/South-Koreas-foreign-ministry-commercial-diesel-and-jet-fuel-excluded-from-export-controls-to-Russia.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650642-04:00"
+  },
+  {
+    "NewsID": 9796264,
+    "title": "Taiwan overnight interbank rate starts at 0.805% vs previous session open at 0.805%",
+    "published": "2026-10-07T20:00:25.437",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796264/Taiwan-overnight-interbank-rate-starts-at-0805-vs-previous-session-open-at-0805.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650654-04:00"
+  },
+  {
+    "NewsID": 9796259,
+    "title": "Trump administration paving path for temporary sale of certain unapproved peptides: Washington Post",
+    "published": "2026-10-07T19:43:05.093",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9796259/Trump-administration-paving-path-for-temporary-sale-of-certain-unapproved-peptides-Washington-Post.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-08T00:00:02.650666-04:00"
+  }
+]
