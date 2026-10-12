@@ -1,5 +1,842 @@
 [
   {
+    "NewsID": 9800906,
+    "title": "China announces countermeasures against Paraguay and Belize ministers effective Oct. 12",
+    "published": "2026-10-11T21:21:47.62",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800906/China-announces-countermeasures-against-Paraguay-and-Belize-ministers-effective-Oct-12.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T22:30:02.731487-04:00"
+  },
+  {
+    "NewsID": 9800905,
+    "title": "China’s countermeasures against Paraguay and Belize ministers include visa bans and restrictions on cooperation with Chinese organizations and individuals",
+    "published": "2026-10-11T21:21:35.567",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800905/Chinas-countermeasures-against-Paraguay-and-Belize-ministers-include-visa-bans-and-restrictions-on-cooperation-with-Chinese-organizations-and-individuals.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T22:30:02.731537-04:00"
+  },
+  {
+    "NewsID": 9800904,
+    "title": "China imposes countermeasures on Belize foreign minister over Taiwan issue: Chinese foreign ministry",
+    "published": "2026-10-11T21:20:26.34",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800904/China-imposes-countermeasures-on-Belize-foreign-minister-over-Taiwan-issue-Chinese-foreign-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T22:30:02.731559-04:00"
+  },
+  {
+    "NewsID": 9800903,
+    "title": "China imposes counteractions on Paraguay’s minister of communications and technology over Taiwan issue: Chinese foreign ministry",
+    "published": "2026-10-11T21:19:31.31",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800903/China-imposes-counteractions-on-Paraguays-minister-of-communications-and-technology-over-Taiwan-issue-Chinese-foreign-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T22:30:02.731579-04:00"
+  },
+  {
+    "NewsID": 9800893,
+    "title": "China commerce ministry: Premier Li Qiang to join opening ceremony of Canton Fair Oct. 15 - Nov. 4",
+    "published": "2026-10-11T21:01:41.32",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800893/China-commerce-ministry-Premier-Li-Qiang-to-join-opening-ceremony-of-Canton-Fair-Oct-15---Nov-4.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T22:15:01.915906-04:00"
+  },
+  {
+    "NewsID": 9800839,
+    "title": "South Korea presidential office: North Korea’s repeated ballistic missile launches breach UN Security Council resolutions, urges immediate halt",
+    "published": "2026-10-11T20:42:18.66",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800839/South-Korea-presidential-office-North-Koreas-repeated-ballistic-missile-launches-breach-UN-Security-Council-resolutions-urges-immediate-halt.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:45:02.216842-04:00"
+  },
+  {
+    "NewsID": 9800838,
+    "title": "South Korea's National Security Council holds emergency meeting on North Korea's missile launch",
+    "published": "2026-10-11T20:41:52.99",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800838/South-Koreas-National-Security-Council-holds-emergency-meeting-on-North-Koreas-missile-launch.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:45:02.216893-04:00"
+  },
+  {
+    "NewsID": 9800837,
+    "title": "S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.180% yield",
+    "published": "2026-10-11T20:40:05.18",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800837/SKorea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-3180-yield.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:45:02.216916-04:00"
+  },
+  {
+    "NewsID": 9800836,
+    "title": "South Korea military spokesperson: N.Korea missiles seem to demonstrate missile capabilities, show force after S.Korea hypersonic missile test-fire",
+    "published": "2026-10-11T20:37:11.457",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800836/South-Korea-military-spokesperson-NKorea-missiles-seem-to-demonstrate-missile-capabilities-show-force-after-SKorea-hypersonic-missile-test-fire.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:45:02.216936-04:00"
+  },
+  {
+    "NewsID": 9800835,
+    "title": "North Korean missiles traveled over 900 kilometers: South Korean military",
+    "published": "2026-10-11T20:34:35.363",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800835/North-Korean-missiles-traveled-over-900-kilometers-South-Korean-military.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:45:02.216954-04:00"
+  },
+  {
+    "NewsID": 9800822,
+    "title": "Shares of Chinese Apple supplier Luxshare set to open 2% lower after US patent infringement probe",
+    "published": "2026-10-11T20:26:02.533",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800822/Shares-of-Chinese-Apple-supplier-Luxshare-set-to-open-2-lower-after-US-patent-infringement-probe.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:30:02.451921-04:00"
+  },
+  {
+    "NewsID": 9800821,
+    "title": "North Korea launches missiles from Pyongyang region: South Korean military",
+    "published": "2026-10-11T20:22:07.363",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800821/North-Korea-launches-missiles-from-Pyongyang-region-South-Korean-military.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:30:02.451971-04:00"
+  },
+  {
+    "NewsID": 9800820,
+    "title": "North Korea launches missiles: South Korea military",
+    "published": "2026-10-11T20:21:50.757",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800820/North-Korea-launches-missiles-South-Korea-military.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:30:02.451993-04:00"
+  },
+  {
+    "NewsID": 9800819,
+    "title": "North Korean projectile identified as ballistic missile: South Korean defense ministry",
+    "published": "2026-10-11T20:21:44.35",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800819/North-Korean-projectile-identified-as-ballistic-missile-South-Korean-defense-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:30:02.452013-04:00"
+  },
+  {
+    "NewsID": 9800818,
+    "title": "China c.bank injects 50 bln yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+    "published": "2026-10-11T20:20:24.37",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800818/China-cbank-injects-50-bln-yuan-via-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:30:02.452032-04:00"
+  },
+  {
+    "NewsID": 9800817,
+    "title": "PBOC sets yuan midpoint at strongest level since Feb. 2, 2023",
+    "published": "2026-10-11T20:17:05.383",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800817/PBOC-sets-yuan-midpoint-at-strongest-level-since-Feb-2-2023.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:30:02.452051-04:00"
+  },
+  {
+    "NewsID": 9800803,
+    "title": "South Korean won reaches strongest level vs dollar since Oct. 4, 2024",
+    "published": "2026-10-11T20:04:15.3",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800803/South-Korean-won-reaches-strongest-level-vs-dollar-since-Oct-4-2024.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:15:02.599382-04:00"
+  },
+  {
+    "NewsID": 9800798,
+    "title": "Taiwan overnight interbank rate starts at 0.805% vs 0.805% in previous session opening",
+    "published": "2026-10-11T20:00:38.303",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800798/Taiwan-overnight-interbank-rate-starts-at-0805-vs-0805-in-previous-session-opening.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:15:02.599436-04:00"
+  },
+  {
+    "NewsID": 9800795,
+    "title": "North Korean missile appears to have landed beyond Japan's exclusive economic zone: NHK",
+    "published": "2026-10-11T19:51:34.3",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800795/North-Korean-missile-appears-to-have-landed-beyond-Japans-exclusive-economic-zone-NHK.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:00:02.458673-04:00"
+  },
+  {
+    "NewsID": 9800794,
+    "title": "Japan Coast Guard issues second alert on possible North Korean ballistic missile impact",
+    "published": "2026-10-11T19:49:23.84",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800794/Japan-Coast-Guard-issues-second-alert-on-possible-North-Korean-ballistic-missile-impact.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T21:00:02.458719-04:00"
+  },
+  {
+    "NewsID": 9800791,
+    "title": "Japan coast guard issues second alert on possible North Korea ballistic missile",
+    "published": "2026-10-11T19:41:56.493",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800791/Japan-coast-guard-issues-second-alert-on-possible-North-Korea-ballistic-missile.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T20:45:02.618232-04:00"
+  },
+  {
+    "NewsID": 9800790,
+    "title": "North Korea fired potential ballistic missile, seems to have already landed: Japan coast guard",
+    "published": "2026-10-11T19:39:09.447",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800790/North-Korea-fired-potential-ballistic-missile-seems-to-have-already-landed-Japan-coast-guard.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T20:45:02.618287-04:00"
+  },
+  {
+    "NewsID": 9800789,
+    "title": "Projectile believed to be a ballistic missile from North Korea seems to have already landed: Japan Coast Guard",
+    "published": "2026-10-11T19:38:19.04",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800789/Projectile-believed-to-be-a-ballistic-missile-from-North-Korea-seems-to-have-already-landed-Japan-Coast-Guard.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T20:45:02.618312-04:00"
+  },
+  {
+    "NewsID": 9800784,
+    "title": "China PBOC likely to set yuan midpoint at 6.6977 per dollar: estimate",
+    "published": "2026-10-11T19:24:54.987",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800784/China-PBOC-likely-to-set-yuan-midpoint-at-66977-per-dollar-estimate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T20:30:01.837981-04:00"
+  },
+  {
+    "NewsID": 9800783,
+    "title": "North Korea launches unidentified projectile toward sea off east coast: South Korea military",
+    "published": "2026-10-11T19:22:52.61",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800783/North-Korea-launches-unidentified-projectile-toward-sea-off-east-coast-South-Korea-military.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T20:30:01.838046-04:00"
+  },
+  {
+    "NewsID": 9800769,
+    "title": "S.Korea oct 1-10 exports rise 102% y/y: customs agency",
+    "published": "2026-10-11T19:00:04.83",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800769/SKorea-oct-1-10-exports-rise-102-yy-customs-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T20:15:02.045916-04:00"
+  },
+  {
+    "NewsID": 9800768,
+    "title": "S.Korea Oct 1-10 chip exports rise 170.9% y/y: customs agency",
+    "published": "2026-10-11T19:00:02.59",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800768/SKorea-Oct-1-10-chip-exports-rise-1709-yy-customs-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T20:15:02.045966-04:00"
+  },
+  {
+    "NewsID": 9800767,
+    "title": "S. Korea Oct 1-10 imports jump 65.5% y/y: customs agency",
+    "published": "2026-10-11T19:00:02.53",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800767/S-Korea-Oct-1-10-imports-jump-655-yy-customs-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T20:15:02.045989-04:00"
+  },
+  {
+    "NewsID": 9800766,
+    "title": "S. Korea Oct 1-10 trade surplus provisional $3.8 billion: customs agency",
+    "published": "2026-10-11T19:00:02.483",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800766/S-Korea-Oct-1-10-trade-surplus-provisional-38-billion-customs-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T20:15:02.046010-04:00"
+  },
+  {
+    "NewsID": 9800765,
+    "title": "Saudi-led coalition: intercepted ballistic missile launched by Yemen's Houthis toward Saudi Arabia's Khamis Mushait",
+    "published": "2026-10-11T18:59:13.72",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800765/Saudi-led-coalition-intercepted-ballistic-missile-launched-by-Yemens-Houthis-toward-Saudi-Arabias-Khamis-Mushait.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T20:00:01.967029-04:00"
+  },
+  {
+    "NewsID": 9800760,
+    "title": "Saudi civil defence: danger has passed in Abha",
+    "published": "2026-10-11T18:43:06.413",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800760/Saudi-civil-defence-danger-has-passed-in-Abha.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T19:45:02.143946-04:00"
+  },
+  {
+    "NewsID": 9800759,
+    "title": "South Korea finance minister: will implement market stabilizing steps if necessary amid high global yields",
+    "published": "2026-10-11T18:42:42.26",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800759/South-Korea-finance-minister-will-implement-market-stabilizing-steps-if-necessary-amid-high-global-yields.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T19:45:02.144000-04:00"
+  },
+  {
+    "NewsID": 9800758,
+    "title": "Saudi civil defense issues warning over potential hazard in Abha - post on X",
+    "published": "2026-10-11T18:42:14.597",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800758/Saudi-civil-defense-issues-warning-over-potential-hazard-in-Abha---post-on-X.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T19:45:02.144023-04:00"
+  },
+  {
+    "NewsID": 9800757,
+    "title": "Judge orders immediate stop to taxpayer-funded pro-Trump ads, including those planned for tonight - Politico",
+    "published": "2026-10-11T18:40:01.2",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800757/Judge-orders-immediate-stop-to-taxpayer-funded-pro-Trump-ads-including-those-planned-for-tonight---Politico.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T19:45:02.144045-04:00"
+  },
+  {
+    "NewsID": 9800730,
+    "title": "Saudi civil aviation: one dead, 11 wounded in Sunday assault on King Khalid International Airport in Riyadh",
+    "published": "2026-10-11T17:16:41.527",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800730/Saudi-civil-aviation-one-dead-11-wounded-in-Sunday-assault-on-King-Khalid-International-Airport-in-Riyadh.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T18:30:02.038210-04:00"
+  },
+  {
+    "NewsID": 9800723,
+    "title": "Trump: new press secretary Zacharia to hold news conference on Tuesday",
+    "published": "2026-10-11T16:38:39.34",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800723/Trump-new-press-secretary-Zacharia-to-hold-news-conference-on-Tuesday.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T17:45:02.650012-04:00"
+  },
+  {
+    "NewsID": 9800715,
+    "title": "UK embassy in Saudi Arabia cautions British citizens against all but essential travel to Jeddah, Dammam and all Saudi airports except Medina airport - post on X",
+    "published": "2026-10-11T16:20:00.933",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800715/UK-embassy-in-Saudi-Arabia-cautions-British-citizens-against-all-but-essential-travel-to-Jeddah-Dammam-and-all-Saudi-airports-except-Medina-airport---post-on-X.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T17:30:01.782732-04:00"
+  },
+  {
+    "NewsID": 9800712,
+    "title": "Amazon in talks to acquire AI startup Decart for about $7 billion - WSJ",
+    "published": "2026-10-11T16:09:12.79",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800712/Amazon-in-talks-to-acquire-AI-startup-Decart-for-about-7-billion---WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T17:15:01.994495-04:00"
+  },
+  {
+    "NewsID": 9800711,
+    "title": "UKMTO: Tanker hit by drone, local authorities help evacuate crew",
+    "published": "2026-10-11T16:05:13.617",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800711/UKMTO-Tanker-hit-by-drone-local-authorities-help-evacuate-crew.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T17:15:01.994548-04:00"
+  },
+  {
+    "NewsID": 9800710,
+    "title": "UKMTO: reclassified event at Anchorage in Oman’s Sohar as an attack",
+    "published": "2026-10-11T16:04:40.597",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800710/UKMTO-reclassified-event-at-Anchorage-in-Omans-Sohar-as-an-attack.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T17:15:01.994573-04:00"
+  },
+  {
+    "NewsID": 9800705,
+    "title": "Iran's foreign minister tells Saudi counterpart Tehran prepared to aid dialogue between Saudi and Yemen - post on Telegram",
+    "published": "2026-10-11T15:31:26.9",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800705/Irans-foreign-minister-tells-Saudi-counterpart-Tehran-prepared-to-aid-dialogue-between-Saudi-and-Yemen---post-on-Telegram.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T16:45:02.392937-04:00"
+  },
+  {
+    "NewsID": 9800703,
+    "title": "Canada's PM Carney: supports energy truce between Ukraine and Russia",
+    "published": "2026-10-11T15:20:22.113",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800703/Canadas-PM-Carney-supports-energy-truce-between-Ukraine-and-Russia.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T16:30:02.531468-04:00"
+  },
+  {
+    "NewsID": 9800702,
+    "title": "Carney's office: Carney spoke to Trump",
+    "published": "2026-10-11T15:19:54.253",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800702/Carneys-office-Carney-spoke-to-Trump.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T16:30:02.531522-04:00"
+  },
+  {
+    "NewsID": 9800694,
+    "title": "Foreign ministers of Saudi Arabia and Iran discuss recent regional escalation: Saudi state news agency",
+    "published": "2026-10-11T15:14:38.623",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800694/Foreign-ministers-of-Saudi-Arabia-and-Iran-discuss-recent-regional-escalation-Saudi-state-news-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T16:15:02.724458-04:00"
+  },
+  {
+    "NewsID": 9800693,
+    "title": "MOU between Saudi Arabia and Qatar aims to establish framework for collaboration in petroleum, gas, petrochemicals and explore joint pipeline opportunities for transport and export: S",
+    "published": "2026-10-11T15:02:31.087",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800693/MOU-between-Saudi-Arabia-and-Qatar-aims-to-establish-framework-for-collaboration-in-petroleum-gas-petrochemicals-and-explore-joint-pipeline-opportunities-for-transport-and-export-S.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T16:15:02.724511-04:00"
+  },
+  {
+    "NewsID": 9800690,
+    "title": "Saudi energy minister signs three energy collaboration agreements with Kuwait, Qatar and Egypt: state news agency",
+    "published": "2026-10-11T14:59:56.74",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800690/Saudi-energy-minister-signs-three-energy-collaboration-agreements-with-Kuwait-Qatar-and-Egypt-state-news-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T16:15:02.724535-04:00"
+  },
+  {
+    "NewsID": 9800689,
+    "title": "UK PM Andy Burnham discussed Trump's call today for a sustained energy ceasefire between Russia and Ukraine to start now",
+    "published": "2026-10-11T14:52:48.237",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800689/UK-PM-Andy-Burnham-discussed-Trumps-call-today-for-a-sustained-energy-ceasefire-between-Russia-and-Ukraine-to-start-now.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T16:00:01.959251-04:00"
+  },
+  {
+    "NewsID": 9800688,
+    "title": "Saudi-led coalition: drone intercepted and destroyed in eastern province",
+    "published": "2026-10-11T14:45:58.65",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800688/Saudi-led-coalition-drone-intercepted-and-destroyed-in-eastern-province.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T16:00:01.959288-04:00"
+  },
+  {
+    "NewsID": 9800685,
+    "title": "Syria central bank issues first letter of credit to facilitate petroleum supply deal between Syrian Petroleum Company and Saudi Aramco: statement",
+    "published": "2026-10-11T14:44:02.813",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800685/Syria-central-bank-issues-first-letter-of-credit-to-facilitate-petroleum-supply-deal-between-Syrian-Petroleum-Company-and-Saudi-Aramco-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T15:45:01.983513-04:00"
+  },
+  {
+    "NewsID": 9800678,
+    "title": "At least 72 Sudanese artisanal miners killed in Saturday airstrike: rights monitor",
+    "published": "2026-10-11T14:04:25.95",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800678/At-least-72-Sudanese-artisanal-miners-killed-in-Saturday-airstrike-rights-monitor.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T15:15:01.851246-04:00"
+  },
+  {
+    "NewsID": 9800665,
+    "title": "Saudi civil aviation: efforts underway to evaluate airport damage",
+    "published": "2026-10-11T13:28:39.473",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800665/Saudi-civil-aviation-efforts-underway-to-evaluate-airport-damage.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T14:30:02.468650-04:00"
+  },
+  {
+    "NewsID": 9800664,
+    "title": "Saudi civil aviation: Dammam airport targeted on Sunday evening",
+    "published": "2026-10-11T13:28:19.053",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800664/Saudi-civil-aviation-Dammam-airport-targeted-on-Sunday-evening.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T14:30:02.468714-04:00"
+  },
+  {
+    "NewsID": 9800663,
+    "title": "UKMTO: status of crew, damage evaluation, and environmental impact unknown at time of report",
+    "published": "2026-10-11T13:17:00.093",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800663/UKMTO-status-of-crew-damage-evaluation-and-environmental-impact-unknown-at-time-of-report.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T14:30:02.468739-04:00"
+  },
+  {
+    "NewsID": 9800662,
+    "title": "UKMTO reports incident involving tanker near Sohar anchorage, Oman",
+    "published": "2026-10-11T13:16:47.223",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800662/UKMTO-reports-incident-involving-tanker-near-Sohar-anchorage-Oman.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T14:30:02.468759-04:00"
+  },
+  {
+    "NewsID": 9800650,
+    "title": "US lobbied European capitals and Kyiv to halt attacks on Russian oil refineries: FT",
+    "published": "2026-10-11T12:22:31.58",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800650/US-lobbied-European-capitals-and-Kyiv-to-halt-attacks-on-Russian-oil-refineries-FT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T13:30:02.337577-04:00"
+  },
+  {
+    "NewsID": 9800649,
+    "title": "US threatens to block weapons for Ukraine over assaults on Russian refineries - FT",
+    "published": "2026-10-11T12:21:29.8",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800649/US-threatens-to-block-weapons-for-Ukraine-over-assaults-on-Russian-refineries---FT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T13:30:02.337629-04:00"
+  },
+  {
+    "NewsID": 9800632,
+    "title": "European Commission: EU to increase funding for drones and missiles to boost Ukraine's defenses and secure its skies",
+    "published": "2026-10-11T11:17:08.973",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800632/European-Commission-EU-to-increase-funding-for-drones-and-missiles-to-boost-Ukraines-defenses-and-secure-its-skies.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T12:30:02.022698-04:00"
+  },
+  {
+    "NewsID": 9800630,
+    "title": "Saudi civil aviation: injuries reported in assault on King Khaled airport in Riyadh on Sunday",
+    "published": "2026-10-11T11:16:24.04",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800630/Saudi-civil-aviation-injuries-reported-in-assault-on-King-Khaled-airport-in-Riyadh-on-Sunday.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T12:30:02.022752-04:00"
+  },
+  {
+    "NewsID": 9800628,
+    "title": "European Commission: President von der Leyen backs Ukraine president Zelenskiy’s call for ceasefire with Russia",
+    "published": "2026-10-11T11:16:06.75",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800628/European-Commission-President-von-der-Leyen-backs-Ukraine-president-Zelenskiys-call-for-ceasefire-with-Russia.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T12:30:02.022776-04:00"
+  },
+  {
+    "NewsID": 9800627,
+    "title": "Yemen's Houthis say they struck Dammam airport and Aramco facilities in Saudi eastern province; no immediate Saudi confirmation",
+    "published": "2026-10-11T11:03:37.373",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800627/Yemens-Houthis-say-they-struck-Dammam-airport-and-Aramco-facilities-in-Saudi-eastern-province-no-immediate-Saudi-confirmation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T12:15:02.090390-04:00"
+  },
+  {
+    "NewsID": 9800622,
+    "title": "Yemen's Houthis claim responsibility for deadly assault on Riyadh airport",
+    "published": "2026-10-11T11:00:30.43",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800622/Yemens-Houthis-claim-responsibility-for-deadly-assault-on-Riyadh-airport.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T12:15:02.090457-04:00"
+  },
+  {
+    "NewsID": 9800621,
+    "title": "Secretary of Iran's supreme national security council: US accepted some conditions, others remain unclear",
+    "published": "2026-10-11T10:52:00.673",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800621/Secretary-of-Irans-supreme-national-security-council-US-accepted-some-conditions-others-remain-unclear.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T12:00:02.146729-04:00"
+  },
+  {
+    "NewsID": 9800620,
+    "title": "Secretary of Iran's supreme national security council: US must clarify outstanding issues for Iran - Fars",
+    "published": "2026-10-11T10:51:09.383",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800620/Secretary-of-Irans-supreme-national-security-council-US-must-clarify-outstanding-issues-for-Iran---Fars.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T12:00:02.146785-04:00"
+  },
+  {
+    "NewsID": 9800619,
+    "title": "Iran security chief: US response to latest proposal ‘insufficient’ - Fars News Agency",
+    "published": "2026-10-11T10:50:39.623",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800619/Iran-security-chief-US-response-to-latest-proposal-insufficient---Fars-News-Agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T12:00:02.146811-04:00"
+  },
+  {
+    "NewsID": 9800610,
+    "title": "India shipping minister: All 11 Indian crew members reported safe after unknown projectile hits M/T Valthera",
+    "published": "2026-10-11T10:42:47.293",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800610/India-shipping-minister-All-11-Indian-crew-members-reported-safe-after-unknown-projectile-hits-MT-Valthera.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T11:45:02.375594-04:00"
+  },
+  {
+    "NewsID": 9800609,
+    "title": "India shipping minister: on Oct 11, Marshall Islands-flagged tanker M/T Valthera with 11 Indian seafarers hit by projectile in Strait of Hormuz",
+    "published": "2026-10-11T10:41:50.07",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800609/India-shipping-minister-on-Oct-11-Marshall-Islands-flagged-tanker-MT-Valthera-with-11-Indian-seafarers-hit-by-projectile-in-Strait-of-Hormuz.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T11:45:02.375653-04:00"
+  },
+  {
+    "NewsID": 9800608,
+    "title": "Ukraine awaits details of ceasefire plans from U.S.: Zelenskiy",
+    "published": "2026-10-11T10:40:18.44",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800608/Ukraine-awaits-details-of-ceasefire-plans-from-US-Zelenskiy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T11:45:02.375677-04:00"
+  },
+  {
+    "NewsID": 9800607,
+    "title": "Zelenskiy: Ukraine backs ceasefire, stresses importance of Russia's support",
+    "published": "2026-10-11T10:39:54.6",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800607/Zelenskiy-Ukraine-backs-ceasefire-stresses-importance-of-Russias-support.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T11:45:02.375696-04:00"
+  },
+  {
+    "NewsID": 9800587,
+    "title": "Zelenskiy: Ukraine will agree if Russians accept energy ceasefire - Axios",
+    "published": "2026-10-11T09:47:07.3",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800587/Zelenskiy-Ukraine-will-agree-if-Russians-accept-energy-ceasefire---Axios.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T11:00:01.998394-04:00"
+  },
+  {
+    "NewsID": 9800586,
+    "title": "Zelenskiy: Trump’s ceasefire declaration was news to me - Axios",
+    "published": "2026-10-11T09:46:50.48",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800586/Zelenskiy-Trumps-ceasefire-declaration-was-news-to-me---Axios.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T11:00:01.998445-04:00"
+  },
+  {
+    "NewsID": 9800585,
+    "title": "Saudi-led coalition: air defense intercepts missile near Riyadh airport",
+    "published": "2026-10-11T09:36:40.71",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800585/Saudi-led-coalition-air-defense-intercepts-missile-near-Riyadh-airport.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T10:45:02.267083-04:00"
+  },
+  {
+    "NewsID": 9800584,
+    "title": "Saudi-led coalition: fire from attack is being directly managed by site authorities",
+    "published": "2026-10-11T09:35:02.773",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800584/Saudi-led-coalition-fire-from-attack-is-being-directly-managed-by-site-authorities.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T10:45:02.267137-04:00"
+  },
+  {
+    "NewsID": 9800580,
+    "title": "Saudi-led coalition: unidentified projectile targets terminal 4 at King Khalid airport in Riyadh",
+    "published": "2026-10-11T09:30:37.38",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800580/Saudi-led-coalition-unidentified-projectile-targets-terminal-4-at-King-Khalid-airport-in-Riyadh.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T10:45:02.267176-04:00"
+  },
+  {
+    "NewsID": 9800579,
+    "title": "Trump: effective immediately, there is an energy truce in conflict between Russia and Ukraine",
+    "published": "2026-10-11T09:17:02.5",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800579/Trump-effective-immediately-there-is-an-energy-truce-in-conflict-between-Russia-and-Ukraine.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T10:30:02.398355-04:00"
+  },
+  {
+    "NewsID": 9800570,
+    "title": "Pakistan foreign minister: Pakistan remains committed to kingdom’s sovereignty, territorial integrity, security under Makkah joint defense pact",
+    "published": "2026-10-11T08:59:19.89",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800570/Pakistan-foreign-minister-Pakistan-remains-committed-to-kingdoms-sovereignty-territorial-integrity-security-under-Makkah-joint-defense-pact.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T10:00:02.646567-04:00"
+  },
+  {
+    "NewsID": 9800569,
+    "title": "Pakistan foreign minister Dar: instructed embassy in Riyadh to work with authorities to aid injured Pakistani nationals",
+    "published": "2026-10-11T08:54:08.077",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800569/Pakistan-foreign-minister-Dar-instructed-embassy-in-Riyadh-to-work-with-authorities-to-aid-injured-Pakistani-nationals.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T10:00:02.646623-04:00"
+  },
+  {
+    "NewsID": 9800568,
+    "title": "Pakistan foreign minister Ishaq Dar: in contact with Saudi authorities, closely monitoring situation",
+    "published": "2026-10-11T08:53:03.98",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800568/Pakistan-foreign-minister-Ishaq-Dar-in-contact-with-Saudi-authorities-closely-monitoring-situation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T10:00:02.646646-04:00"
+  },
+  {
+    "NewsID": 9800567,
+    "title": "Pakistan foreign minister Ishaq Dar: Pakistan condemns Houthi strike on King Khalid international airport in Riyadh",
+    "published": "2026-10-11T08:52:12.317",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800567/Pakistan-foreign-minister-Ishaq-Dar-Pakistan-condemns-Houthi-strike-on-King-Khalid-international-airport-in-Riyadh.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T10:00:02.646664-04:00"
+  },
+  {
+    "NewsID": 9800557,
+    "title": "Ukraine President Zelenskiy tells ABC: If Putin agrees to 60-day truce, Ukraine will hold elections",
+    "published": "2026-10-11T08:29:26.05",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800557/Ukraine-President-Zelenskiy-tells-ABC-If-Putin-agrees-to-60-day-truce-Ukraine-will-hold-elections.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T09:30:02.141100-04:00"
+  },
+  {
+    "NewsID": 9800556,
+    "title": "Houthi-linked media reports attack on Sanaa airport",
+    "published": "2026-10-11T08:28:36.46",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800556/Houthi-linked-media-reports-attack-on-Sanaa-airport.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T09:30:02.141190-04:00"
+  },
+  {
+    "NewsID": 9800548,
+    "title": "US Treasury Secretary Bessent: we will proceed using all legal powers available - fox news",
+    "published": "2026-10-11T08:10:32.09",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800548/US-Treasury-Secretary-Bessent-we-will-proceed-using-all-legal-powers-available---fox-news.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T09:15:02.265256-04:00"
+  },
+  {
+    "NewsID": 9800547,
+    "title": "US Treasury Secretary Bessent: Russia diesel pact benefits Americans - Fox News",
+    "published": "2026-10-11T08:09:24.647",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800547/US-Treasury-Secretary-Bessent-Russia-diesel-pact-benefits-Americans---Fox-News.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T09:15:02.265315-04:00"
+  },
+  {
+    "NewsID": 9800546,
+    "title": "UKMTO: ship sustained damage in incident",
+    "published": "2026-10-11T08:06:35.013",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800546/UKMTO-ship-sustained-damage-in-incident.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T09:15:02.265339-04:00"
+  },
+  {
+    "NewsID": 9800545,
+    "title": "Ukmto: all crew members reported safe",
+    "published": "2026-10-11T08:06:09.97",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800545/Ukmto-all-crew-members-reported-safe.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T09:15:02.265358-04:00"
+  },
+  {
+    "NewsID": 9800544,
+    "title": "UKMTO: tanker hit on port side by unidentified projectile",
+    "published": "2026-10-11T08:06:00.67",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800544/UKMTO-tanker-hit-on-port-side-by-unidentified-projectile.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T09:15:02.265376-04:00"
+  },
+  {
+    "NewsID": 9800543,
+    "title": "UKMTO: received report of incident in Strait of Hormuz",
+    "published": "2026-10-11T08:05:30.3",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800543/UKMTO-received-report-of-incident-in-Strait-of-Hormuz.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T09:15:02.265393-04:00"
+  },
+  {
+    "NewsID": 9800538,
+    "title": "France deplores Palestinian president's move to delay elections: foreign ministry spokesperson calls for reversal",
+    "published": "2026-10-11T07:57:59.227",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800538/France-deplores-Palestinian-presidents-move-to-delay-elections-foreign-ministry-spokesperson-calls-for-reversal.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T09:00:02.521929-04:00"
+  },
+  {
+    "NewsID": 9800533,
+    "title": "Pakistan to deploy military forces in province once governed by ex-PM Imran Khan’s party after emergency declared: interior ministry order",
+    "published": "2026-10-11T07:42:40.88",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800533/Pakistan-to-deploy-military-forces-in-province-once-governed-by-ex-PM-Imran-Khans-party-after-emergency-declared-interior-ministry-order.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T08:45:02.488310-04:00"
+  },
+  {
+    "NewsID": 9800532,
+    "title": "Russia: it condemns attack on Riyadh airport - IFax",
+    "published": "2026-10-11T07:39:31.19",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800532/Russia-it-condemns-attack-on-Riyadh-airport---IFax.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T08:45:02.488366-04:00"
+  },
+  {
+    "NewsID": 9800520,
+    "title": "Egypt's core inflation slows to 14.1% year-on-year in September from 14.9% in August: central bank",
+    "published": "2026-10-11T07:05:58.483",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800520/Egypts-core-inflation-slows-to-141-year-on-year-in-September-from-149-in-August-central-bank.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T08:15:01.768169-04:00"
+  },
+  {
+    "NewsID": 9800513,
+    "title": "Two killed in Ukrainian drone strike in Russian-controlled Lysychansk: RIA",
+    "published": "2026-10-11T06:39:06.957",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800513/Two-killed-in-Ukrainian-drone-strike-in-Russian-controlled-Lysychansk-RIA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T07:45:02.072368-04:00"
+  },
+  {
+    "NewsID": 9800506,
+    "title": "Governor to lead administration in Pakistan province once governed by Imran Khan's party: law minister",
+    "published": "2026-10-11T06:19:50.367",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800506/Governor-to-lead-administration-in-Pakistan-province-once-governed-by-Imran-Khans-party-law-minister.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T07:30:02.225900-04:00"
+  },
+  {
+    "NewsID": 9800505,
+    "title": "Ex-Pakistan PM Imran Khan's provincial government ends after emergency declared: law minister",
+    "published": "2026-10-11T06:19:34.82",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9800505/Ex-Pakistan-PM-Imran-Khans-provincial-government-ends-after-emergency-declared-law-minister.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-11T07:30:02.225955-04:00"
+  },
+  {
     "NewsID": 9800474,
     "title": "Zelenskiy: We will continue coordinating with European partners today, discussing air defense packages",
     "published": "2026-10-11T04:23:27.887",
