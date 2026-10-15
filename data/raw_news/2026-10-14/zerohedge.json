@@ -1,1 +1,429 @@
-[]
+[
+  {
+    "title": "SpaceX Reportedly Caps Starlink Speed As Kiev Defies Trump's Calls To Halt Refinery Strikes",
+    "source": "Zerohedge",
+    "published": "2026-10-14T11:20:00+00:00",
+    "link": "https://www.zerohedge.com/geopolitical/spacex-reportedly-caps-starlink-speed-kiev-defies-trumps-calls-halt-refinery-strikes",
+    "category_hint": "general"
+  },
+  {
+    "title": "\"NO TURKS - ALL OUT\" - CDU Candidate With Turkish Background Allegedly Faked Hate Crime Attack",
+    "source": "Zerohedge",
+    "published": "2026-10-14T10:20:00+00:00",
+    "link": "https://www.zerohedge.com/markets/no-turks-all-out-cdu-candidate-turkish-background-allegedly-faked-hate-crime-attack-right",
+    "category_hint": "general"
+  },
+  {
+    "title": "Pump-Pain Squeezes Convenience Store Spending: Citi Says \"More Subdued\" Mood Among Beverage Companies",
+    "source": "Zerohedge",
+    "published": "2026-10-14T09:45:00+00:00",
+    "link": "https://www.zerohedge.com/personal-finance/pump-pain-squeezes-convenience-store-spending-citi-says-more-subdued-mood-among",
+    "category_hint": "general"
+  },
+  {
+    "title": "British Prime Minister Says Russia Meddled In 2016 Referendum On Leaving EU",
+    "source": "Zerohedge",
+    "published": "2026-10-14T09:00:00+00:00",
+    "link": "https://www.zerohedge.com/geopolitical/british-prime-minister-says-russia-meddled-2016-referendum-leaving-eu",
+    "category_hint": "general"
+  },
+  {
+    "title": "From EVs To Attack Drones: Battery Factory Conversion Echoes WWII Industrial Mobilization",
+    "source": "Zerohedge",
+    "published": "2026-10-14T08:15:00+00:00",
+    "link": "https://www.zerohedge.com/military/evs-attack-drones-battery-factory-conversion-echoes-wwii-industrial-mobilization",
+    "category_hint": "general"
+  },
+  {
+    "title": "Guess Which European Country Is Tolerating Child Marriages?",
+    "source": "Zerohedge",
+    "published": "2026-10-14T07:30:00+00:00",
+    "link": "https://www.zerohedge.com/geopolitical/guess-which-european-country-tolerating-child-marriages",
+    "category_hint": "general"
+  },
+  {
+    "title": "Is The West Funding Mexican Narcoterroist Soldiers In Ukraine?",
+    "source": "Zerohedge",
+    "published": "2026-10-14T06:45:00+00:00",
+    "link": "https://www.zerohedge.com/military/west-funding-mexican-narcoterroist-soldiers-ukraine",
+    "category_hint": "general"
+  },
+  {
+    "title": "WHO Issues Update On Russian Plague Lab Worker's Death",
+    "source": "Zerohedge",
+    "published": "2026-10-14T06:00:00+00:00",
+    "link": "https://www.zerohedge.com/medical/who-issues-update-russian-plague-lab-workers-death",
+    "category_hint": "general"
+  },
+  {
+    "title": "Nobody Goes To War For The Rules-Based Order",
+    "source": "Zerohedge",
+    "published": "2026-10-14T03:50:00+00:00",
+    "link": "https://www.zerohedge.com/geopolitical/nobody-goes-war-rules-based-order",
+    "category_hint": "general"
+  },
+  {
+    "title": "Iran Threatens Neighbors With Ground Invasions If US Bombs Again, Preps Citizen Insurgency",
+    "source": "Zerohedge",
+    "published": "2026-10-14T03:25:00+00:00",
+    "link": "https://www.zerohedge.com/geopolitical/iran-threatens-neighbors-ground-invasions-if-us-bombs-again-preps-citizen-insurgency",
+    "category_hint": "general"
+  },
+  {
+    "title": "ATF Director Denies Existence Of Gun Registry, Warns That Future Admins Could Develop One",
+    "source": "Zerohedge",
+    "published": "2026-10-14T03:00:00+00:00",
+    "link": "https://www.zerohedge.com/political/atf-director-denies-existence-gun-registry-warns-future-admins-could-develop-one",
+    "category_hint": "general"
+  },
+  {
+    "title": "Ilhan Omar's Staff Scrambled To Change Her Birth Year Days After Fraud Allegations Emerged",
+    "source": "Zerohedge",
+    "published": "2026-10-14T02:35:00+00:00",
+    "link": "https://www.zerohedge.com/markets/ilhan-omars-staff-scrambled-change-her-birth-year-after-fraud-allegations-emerged",
+    "category_hint": "general"
+  },
+  {
+    "title": "Philly Cop Killer Admits He Targeted Officers Because They Were White",
+    "source": "Zerohedge",
+    "published": "2026-10-14T02:10:00+00:00",
+    "link": "https://www.zerohedge.com/political/philly-cop-killer-admits-he-targeted-officers-because-they-were-white",
+    "category_hint": "general"
+  },
+  {
+    "title": "Trump Announces Federal Support To Keep Local Energy Provider Online In Ohio",
+    "source": "Zerohedge",
+    "published": "2026-10-14T01:20:00+00:00",
+    "link": "https://www.zerohedge.com/political/trump-announces-federal-support-keep-local-energy-provider-online-ohio",
+    "category_hint": "general"
+  },
+  {
+    "title": "Shock Video: Family Makes Horrifying Discovery After Finding Daughter Alive In Coffin During Wake",
+    "source": "Zerohedge",
+    "published": "2026-10-14T00:55:00+00:00",
+    "link": "https://www.zerohedge.com/political/shock-video-family-makes-horrifying-discovery-after-finding-daughter-alive-coffin-during",
+    "category_hint": "general"
+  },
+  {
+    "title": "OpenAI Says Employee Planted \"Sophisticated\" Recording Device In Office; FBI Arrests Saudi National",
+    "source": "Zerohedge",
+    "published": "2026-10-14T00:45:00+00:00",
+    "link": "https://www.zerohedge.com/ai/openai-says-employee-planted-sophisticated-recording-device-office-fbi-makes-arrest",
+    "category_hint": "general"
+  },
+  {
+    "title": "\"I'll Be Short Whole Year\": Paul Tudor Jones Warns Of Looming Dot-Com Style Equity Supply Tsunami",
+    "source": "Zerohedge",
+    "published": "2026-10-14T00:45:00+00:00",
+    "link": "https://www.zerohedge.com/markets/ill-be-short-whole-year-paul-tudor-jones-warns-looming-dot-com-style-equity-supply-tsnuami",
+    "category_hint": "general"
+  },
+  {
+    "title": "\"We Have Guns Too\": Totally Drunk Indiana Democrat Goes On Live TV, Makes Ass",
+    "source": "Zerohedge",
+    "published": "2026-10-14T00:30:00+00:00",
+    "link": "https://www.zerohedge.com/political/we-have-guns-too-totally-drunk-indiana-democrat-goes-live-tv-makes-ass",
+    "category_hint": "general"
+  },
+  {
+    "title": "Military's Top Archbishop Tells Catholic Troops To Seek Exemption From Hasan Firing Squad, Likens Livestream To Terrorists",
+    "source": "Zerohedge",
+    "published": "2026-10-14T00:05:00+00:00",
+    "link": "https://www.zerohedge.com/markets/militarys-top-archbishop-tells-catholic-troops-seek-exemption-hasan-firing-squad-likens",
+    "category_hint": "general"
+  },
+  {
+    "title": "Trump Hints At Possible Meeting With North Korean Leader",
+    "source": "Zerohedge",
+    "published": "2026-10-13T23:45:00+00:00",
+    "link": "https://www.zerohedge.com/geopolitical/trump-hints-possible-meeting-north-korean-leader",
+    "category_hint": "general"
+  },
+  {
+    "title": "Selma Blair Hit With FBI Summons And State Assault Counts After Allegedly Biting Flight Attendant On Delta Flight",
+    "source": "Zerohedge",
+    "published": "2026-10-13T23:20:00+00:00",
+    "link": "https://www.zerohedge.com/political/selma-blair-hit-fbi-summons-and-state-assault-counts-after-allegedly-biting-flight",
+    "category_hint": "general"
+  },
+  {
+    "title": "Bank Of America Fined $1.2 Billion For Failing To Report $5 Billion In Suspicious Transactions, Including Chinese Money-Laundering Networks",
+    "source": "Zerohedge",
+    "published": "2026-10-13T23:00:00+00:00",
+    "link": "https://www.zerohedge.com/markets/bank-america-fined-12-billion-failing-report-5-billion-suspicious-transactions-including",
+    "category_hint": "general"
+  },
+  {
+    "title": "Jon Stewart Tells Democrats To Skip 'Performative' Impeachment Hearings If They Win Congress",
+    "source": "Zerohedge",
+    "published": "2026-10-13T22:40:00+00:00",
+    "link": "https://www.zerohedge.com/political/jon-stewart-tells-democrats-skip-performative-impeachment-hearings-if-they-win-congress",
+    "category_hint": "general"
+  },
+  {
+    "title": "Iran Rebuilding Missile Stockpile For Possible Renewed Fighting, Israeli Officials Say",
+    "source": "Zerohedge",
+    "published": "2026-10-13T22:20:00+00:00",
+    "link": "https://www.zerohedge.com/political/iran-rebuilding-missile-stockpile-possible-renewed-fighting-israeli-officials-say",
+    "category_hint": "general"
+  },
+  {
+    "title": "Can Elon Musk Rescue Republicans In November?",
+    "source": "Zerohedge",
+    "published": "2026-10-13T21:40:00+00:00",
+    "link": "https://www.zerohedge.com/political/can-elon-musk-rescue-republicans-november",
+    "category_hint": "general"
+  },
+  {
+    "title": "Bill Gates Fearmongers \"Grim\" AI Cyberattack Surprises",
+    "source": "Zerohedge",
+    "published": "2026-10-14T14:05:00+00:00",
+    "link": "https://www.zerohedge.com/ai/bill-gates-fearmongers-grim-ai-cyberattack-surprises",
+    "category_hint": "general"
+  },
+  {
+    "title": "$20 Billion In Suspicious Biden-Era Climate Grants Remains Frozen As Trump Administration Eyes Supreme Court Fight",
+    "source": "Zerohedge",
+    "published": "2026-10-14T13:25:00+00:00",
+    "link": "https://www.zerohedge.com/political/20-billion-suspicious-biden-era-climate-grants-remains-frozen-trump-administration-eyes",
+    "category_hint": "general"
+  },
+  {
+    "title": "Burning Container Ship Sinks In Strait Of Hormuz, As IRGC Proclaims '5 Or 6' Vessels Targeted Nightly",
+    "source": "Zerohedge",
+    "published": "2026-10-14T13:10:00+00:00",
+    "link": "https://www.zerohedge.com/geopolitical/burning-container-ship-sinks-strait-hormuz-irgc-proclaims-5-or-6-vessels-targeted",
+    "category_hint": "general"
+  },
+  {
+    "title": "London Police Chief: DEI Is An \"Operational Necessity\"",
+    "source": "Zerohedge",
+    "published": "2026-10-14T12:55:00+00:00",
+    "link": "https://www.zerohedge.com/political/london-police-chief-dei-operational-necessity",
+    "category_hint": "general"
+  },
+  {
+    "title": "\"Flashing Red\": Rate-Hike Odds, Bond Yields Explode Higher After Hotter-Than-Expected CPI",
+    "source": "Zerohedge",
+    "published": "2026-10-14T12:43:09+00:00",
+    "link": "https://www.zerohedge.com/markets/rate-hike-odds-bond-yields-explode-higher-after-hotter-expected-cpi",
+    "category_hint": "general"
+  },
+  {
+    "title": "Futures Rise Ahead Of Hot CPI As Houthis Torch Aramco HQ, ASML Beat Fails To Revive Chip Trade",
+    "source": "Zerohedge",
+    "published": "2026-10-14T12:29:54+00:00",
+    "link": "https://www.zerohedge.com/markets/futures-rise-ahead-hot-cpi-houthis-torch-aramco-hq-asml-beat-fails-revive-chip-trade",
+    "category_hint": "general"
+  },
+  {
+    "title": "Pope Leo XIV Diagnosed With Cancer As Doctors Remove Part Of His Lung",
+    "source": "Zerohedge",
+    "published": "2026-10-14T12:20:00+00:00",
+    "link": "https://www.zerohedge.com/medical/pope-leo-xiv-diagnosed-cancer-doctors-remove-part-his-lung",
+    "category_hint": "general"
+  },
+  {
+    "title": "Bank Of America Tumbles After Trading Miss Across The Board",
+    "source": "Zerohedge",
+    "published": "2026-10-14T12:11:22+00:00",
+    "link": "https://www.zerohedge.com/markets/bank-america-tumbles-after-trading-miss-across-board",
+    "category_hint": "general"
+  },
+  {
+    "title": "Saudi Arabia Planning To Bypass Hormuz With Massive Expansion Of Oil Pipeline",
+    "source": "Zerohedge",
+    "published": "2026-10-14T12:05:00+00:00",
+    "link": "https://www.zerohedge.com/energy/saudi-arabia-planning-bypass-hormuz-massive-expansion-oil-pipeline",
+    "category_hint": "general"
+  },
+  {
+    "title": "Trump Announces \"Massive\" Greenland Oil Exploration Plans",
+    "source": "Zerohedge",
+    "published": "2026-10-14T11:45:00+00:00",
+    "link": "https://www.zerohedge.com/geopolitical/trump-announces-massive-greenland-oil-exploration-plans",
+    "category_hint": "general"
+  },
+  {
+    "title": "ZeroHedge Debate: Sankey Predicts 2028 Oil Futures Will Feel The Pain Soon",
+    "source": "Zerohedge",
+    "published": "2026-10-14T19:05:00+00:00",
+    "link": "https://www.zerohedge.com/energy/sankey-2028-oil-futures-will-feel-pain-soon",
+    "category_hint": "general"
+  },
+  {
+    "title": "CVS To Pay $315 Million Over Claims It Filled Unlawful Opioid Prescriptions",
+    "source": "Zerohedge",
+    "published": "2026-10-14T18:50:00+00:00",
+    "link": "https://www.zerohedge.com/medical/cvs-pay-315-million-over-claims-it-filled-unlawful-opioid-prescriptions",
+    "category_hint": "general"
+  },
+  {
+    "title": "Former Gang Leader Sentenced To 40 Years To Life In Tupac Shakur Murder",
+    "source": "Zerohedge",
+    "published": "2026-10-14T18:20:00+00:00",
+    "link": "https://www.zerohedge.com/political/former-gang-leader-sentenced-40-years-life-tupac-shakur-murder",
+    "category_hint": "general"
+  },
+  {
+    "title": "Trump Touts Taiwan-Alaska LNG Deal Offering Decades Of Conflict-Free Supply Beyond Hormuz",
+    "source": "Zerohedge",
+    "published": "2026-10-14T18:05:00+00:00",
+    "link": "https://www.zerohedge.com/energy/trump-taiwan-alaska-lng-deal-offering-decades-conflict-free-supply-beyond-hormuz",
+    "category_hint": "general"
+  },
+  {
+    "title": "Hillary Clinton Launches Political Podcast Ahead Of Midterm Elections",
+    "source": "Zerohedge",
+    "published": "2026-10-14T17:50:00+00:00",
+    "link": "https://www.zerohedge.com/political/hillary-clinton-launches-political-podcast-ahead-midterm-elections",
+    "category_hint": "general"
+  },
+  {
+    "title": "Can Lasers Beat Drone Swarms? The Pentagon Is About To Find Out",
+    "source": "Zerohedge",
+    "published": "2026-10-14T17:20:00+00:00",
+    "link": "https://www.zerohedge.com/political/can-lasers-beat-drone-swarms-pentagon-about-find-out",
+    "category_hint": "general"
+  },
+  {
+    "title": "Royal Found Passed Out After Cocaine Binge As Toddler Wanders Toward Traffic",
+    "source": "Zerohedge",
+    "published": "2026-10-14T17:05:00+00:00",
+    "link": "https://www.zerohedge.com/political/royal-found-passed-out-after-cocaine-binge-toddler-wanders-toward-traffic",
+    "category_hint": "general"
+  },
+  {
+    "title": "'Malicious Intent': OpenAI CFO Warns Companies Against 'Cheap Chinese AI Models' Due To Safety Risks",
+    "source": "Zerohedge",
+    "published": "2026-10-14T16:50:00+00:00",
+    "link": "https://www.zerohedge.com/ai/malicious-intent-openai-cfo-warns-companies-against-cheap-chinese-ai-models-due-safety-risks",
+    "category_hint": "general"
+  },
+  {
+    "title": "Two Emirati Ships Sink In Hormuz In Under 24 Hours As IRGC Claims 5-6 Vessels Targeted Nightly",
+    "source": "Zerohedge",
+    "published": "2026-10-14T16:40:00+00:00",
+    "link": "https://www.zerohedge.com/geopolitical/burning-container-ship-sinks-strait-hormuz-irgc-proclaims-5-or-6-vessels-targeted",
+    "category_hint": "general"
+  },
+  {
+    "title": "Judge Extends Order Allowing News Agencies White House Access",
+    "source": "Zerohedge",
+    "published": "2026-10-14T16:35:00+00:00",
+    "link": "https://www.zerohedge.com/political/judge-extends-order-allowing-news-agencies-white-house-access",
+    "category_hint": "general"
+  },
+  {
+    "title": "Ukraine Attacks Two More Refineries After Trump's Proclaimed 'Energy Ceasefire': Kremlin",
+    "source": "Zerohedge",
+    "published": "2026-10-14T16:05:00+00:00",
+    "link": "https://www.zerohedge.com/energy/ukraine-attacks-two-more-refineries-after-trumps-proclaimed-energy-ceasefire-kremlin",
+    "category_hint": "general"
+  },
+  {
+    "title": "Anthropic Opens Its Books To Wall Street As OpenAI's $20 Billion \"Gross-Net\" Hole Hangs Over AI Trade",
+    "source": "Zerohedge",
+    "published": "2026-10-14T15:50:00+00:00",
+    "link": "https://www.zerohedge.com/ai/anthropic-opens-its-books-wall-street-openais-20-billion-gross-net-hole-hangs-over-ai-trade",
+    "category_hint": "general"
+  },
+  {
+    "title": "Cornell Bans Fraternity Parties Amid Gang Rape Allegations",
+    "source": "Zerohedge",
+    "published": "2026-10-14T15:20:00+00:00",
+    "link": "https://www.zerohedge.com/political/cornell-bans-fraternity-parties-amid-gang-rape-allegations",
+    "category_hint": "general"
+  },
+  {
+    "title": "Netflix Makes Biggest Workforce Cut Since 2022",
+    "source": "Zerohedge",
+    "published": "2026-10-14T15:05:00+00:00",
+    "link": "https://www.zerohedge.com/markets/netflix-makes-biggest-workforce-cut-2022",
+    "category_hint": "general"
+  },
+  {
+    "title": "Nation's Largest Power Grid Declares Emergency As Hot Temps Collide With Maintenance Shutdowns",
+    "source": "Zerohedge",
+    "published": "2026-10-14T14:35:00+00:00",
+    "link": "https://www.zerohedge.com/weather/nations-largest-power-grid-declares-emergency-hot-temps-collide-maintenance-shutdowns",
+    "category_hint": "general"
+  },
+  {
+    "title": "Houthi Missile On Riyadh Wounds Residents, As IMF Chief Warns Of Spillover 'For Everybody, Everywhere'",
+    "source": "Zerohedge",
+    "published": "2026-10-14T14:20:00+00:00",
+    "link": "https://www.zerohedge.com/geopolitical/houthi-missile-riyadh-wounds-residents-imf-chief-warns-spillover-everybody-everywhere",
+    "category_hint": "general"
+  },
+  {
+    "title": "Congresswoman Warns Incoming Socialists Are \"National Security Threat,\" Wants Their Access To Intel Limited",
+    "source": "Zerohedge",
+    "published": "2026-10-14T22:50:00+00:00",
+    "link": "https://www.zerohedge.com/political/congresswoman-warns-incoming-socialists-are-national-security-threat-wants-their-access",
+    "category_hint": "general"
+  },
+  {
+    "title": "\"F**k You!\" Hollywood Civil War Erupts As Ari Emanuel Goes Nuclear On Legendary Kingmaker",
+    "source": "Zerohedge",
+    "published": "2026-10-14T22:00:00+00:00",
+    "link": "https://www.zerohedge.com/political/fk-you-hollywood-civil-war-erupts-ari-emanuel-goes-nuclear-legendary-kingmaker",
+    "category_hint": "general"
+  },
+  {
+    "title": "Judge \"Highly Likely\" To Grant Apple Injunction As OpenAI Fires Back With Its Own Theft Allegations",
+    "source": "Zerohedge",
+    "published": "2026-10-14T21:40:00+00:00",
+    "link": "https://www.zerohedge.com/ai/judge-highly-likely-grant-apple-injunction-openai-fires-back-its-own-theft-allegations",
+    "category_hint": "general"
+  },
+  {
+    "title": "Russia Arrests Japanese Journalist On Espionage Charges, Tokyo Summons Ambassador",
+    "source": "Zerohedge",
+    "published": "2026-10-14T21:20:00+00:00",
+    "link": "https://www.zerohedge.com/markets/russia-arrests-japanese-journalist-espionage-charges-tokyo-summons-ambassador",
+    "category_hint": "general"
+  },
+  {
+    "title": "Not 'The Onion': Harper's Magazine To Honor NPR CEO Katherine Maher With First Amendment Award",
+    "source": "Zerohedge",
+    "published": "2026-10-14T21:00:00+00:00",
+    "link": "https://www.zerohedge.com/political/not-onion-harpers-magazine-honor-npr-ceo-katherine-maher-first-amendment-award",
+    "category_hint": "general"
+  },
+  {
+    "title": "\"I Come From Your Future\": A Frenchman's Warning To All Americans Voting Democrat",
+    "source": "Zerohedge",
+    "published": "2026-10-14T20:40:00+00:00",
+    "link": "https://www.zerohedge.com/political/i-come-your-future-frenchmans-warning-all-americans-voting-democrat",
+    "category_hint": "general"
+  },
+  {
+    "title": "America Looks Richer Than Ever. What Happens When The Fed's Asset Bubble Bursts?",
+    "source": "Zerohedge",
+    "published": "2026-10-14T20:20:00+00:00",
+    "link": "https://www.zerohedge.com/personal-finance/america-looks-richer-ever-what-happens-when-feds-asset-bubble-bursts",
+    "category_hint": "general"
+  },
+  {
+    "title": "Pizza Losing Value War As Cash-Strapped \"Proteinmaxxing\" Consumers Flock To Chicken",
+    "source": "Zerohedge",
+    "published": "2026-10-14T19:50:00+00:00",
+    "link": "https://www.zerohedge.com/personal-finance/pizza-losing-value-war-cash-strapped-proteinmaxxing-consumers-flock-chicken",
+    "category_hint": "general"
+  },
+  {
+    "title": "Useless Without Transmission: DOE Backs $581 Million TVA Grid Expansion",
+    "source": "Zerohedge",
+    "published": "2026-10-14T19:35:00+00:00",
+    "link": "https://www.zerohedge.com/energy/useless-without-transmission-doe-backs-581-million-tva-grid-expansion",
+    "category_hint": "general"
+  },
+  {
+    "title": "Dowd: \"Investment Bubbles Are A Feature Of Capitalism, Not A Bug\"",
+    "source": "Zerohedge",
+    "published": "2026-10-14T19:20:00+00:00",
+    "link": "https://www.zerohedge.com/markets/dowd-investment-bubbles-are-feature-capitalism-not-bug",
+    "category_hint": "general"
+  }
+]

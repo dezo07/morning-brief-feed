@@ -1,0 +1,920 @@
+[
+  {
+    "NewsID": 9806778,
+    "title": "Poll: UK gross domestic product to grow 1.3% in 2026, 1.2% in 2027 (vs 1.1%, 1.2% in September poll)",
+    "published": "2026-10-15T04:27:28.88",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806778/Poll-UK-gross-domestic-product-to-grow-13-in-2026-12-in-2027-vs-11-12-in-September-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:30:02.252893-04:00"
+  },
+  {
+    "NewsID": 9806777,
+    "title": "Poll: UK inflation forecast to average 3.6% in 4 2026, 3.8% in Q1 2027, 3.0% in 2027 (vs 3.3%, 3.2%, 2.5% in September poll)",
+    "published": "2026-10-15T04:27:19.46",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806777/Poll-UK-inflation-forecast-to-average-36-in-4-2026-38-in-Q1-2027-30-in-2027-vs-33-32-25-in-September-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:30:02.252946-04:00"
+  },
+  {
+    "NewsID": 9806776,
+    "title": "Poll: BoE to hike bank rate to 4.00% on November 5th, said 54 of 63 economists (54 out of 65 forecast a hold in the last poll)",
+    "published": "2026-10-15T04:27:03.41",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806776/Poll-BoE-to-hike-bank-rate-to-400-on-November-5th-said-54-of-63-economists-54-out-of-65-forecast-a-hold-in-the-last-poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:30:02.252970-04:00"
+  },
+  {
+    "NewsID": 9806760,
+    "title": "Japan's economy minister Kiuchi: Proactive fiscal policy not meant to expand unnecessary expenditures",
+    "published": "2026-10-15T04:07:15.46",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806760/Japans-economy-minister-Kiuchi-Proactive-fiscal-policy-not-meant-to-expand-unnecessary-expenditures.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:15:02.416800-04:00"
+  },
+  {
+    "NewsID": 9806731,
+    "title": "Eurozone Industrial Production MoM Actual -0.5% (Forecast 0%, Previous -0.1%)",
+    "published": "2026-10-15T04:00:02.31",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806731/Eurozone-Industrial-Production-MoM-Actual--05-Forecast-0-Previous--01.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:15:02.416865-04:00"
+  },
+  {
+    "NewsID": 9806730,
+    "title": "Eurozone Industrial Production YoY Actual -1.1% (Forecast -0.1%, Previous 0.0%)",
+    "published": "2026-10-15T04:00:01.29",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806730/Eurozone-Industrial-Production-YoY-Actual--11-Forecast--01-Previous-00.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:15:02.416891-04:00"
+  },
+  {
+    "NewsID": 9806729,
+    "title": "French 5 Yr OAT Yield Actual 4.16% (Forecast -, Previous 3.92%)",
+    "published": "2026-10-15T03:57:31.083",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806729/French-5-Yr-OAT-Yield-Actual-416-Forecast---Previous-392.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:00:02.463063-04:00"
+  },
+  {
+    "NewsID": 9806728,
+    "title": "French 5 Yr OAT Bid-to-Cover Actual 2.297 (Forecast -, Previous 2.22)",
+    "published": "2026-10-15T03:57:31.017",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806728/French-5-Yr-OAT-Bid-to-Cover-Actual-2297-Forecast---Previous-222.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:00:02.463100-04:00"
+  },
+  {
+    "NewsID": 9806726,
+    "title": "UK's Chancellor Healey: I won't speculate on taxes ahead of budget.",
+    "published": "2026-10-15T03:53:28.82",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806726/UKs-Chancellor-Healey-I-wont-speculate-on-taxes-ahead-of-budget.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:00:02.463114-04:00"
+  },
+  {
+    "NewsID": 9806725,
+    "title": "Japan Economy Minister Kiuchi: Proactive fiscal policy does not mean lax fiscal discipline.",
+    "published": "2026-10-15T03:53:10.663",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806725/Japan-Economy-Minister-Kiuchi-Proactive-fiscal-policy-does-not-mean-lax-fiscal-discipline.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:00:02.463126-04:00"
+  },
+  {
+    "NewsID": 9806724,
+    "title": "UK's Chancellor Healey: Rise in UK yields has been driven by global uncertainties.",
+    "published": "2026-10-15T03:50:06.853",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806724/UKs-Chancellor-Healey-Rise-in-UK-yields-has-been-driven-by-global-uncertainties.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:00:02.463138-04:00"
+  },
+  {
+    "NewsID": 9806723,
+    "title": "UK's Chancellor Healey: Budget will give britain \"breathing space\".",
+    "published": "2026-10-15T03:47:56.85",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806723/UKs-Chancellor-Healey-Budget-will-give-britain-breathing-space.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:00:02.463149-04:00"
+  },
+  {
+    "NewsID": 9806722,
+    "title": "UK's Chancellor Healey: Already seeing signs AI improves productivity.",
+    "published": "2026-10-15T03:47:37.393",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806722/UKs-Chancellor-Healey-Already-seeing-signs-AI-improves-productivity.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T05:00:02.463172-04:00"
+  },
+  {
+    "NewsID": 9806701,
+    "title": "Japan Economy Minister Kiuchi: Japan's economy can no longer be described as deflationary.",
+    "published": "2026-10-15T03:36:19.99",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806701/Japan-Economy-Minister-Kiuchi-Japans-economy-can-no-longer-be-described-as-deflationary.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:45:02.692261-04:00"
+  },
+  {
+    "NewsID": 9806700,
+    "title": "Russia to continue gasoline imports until at least year-end - IFX",
+    "published": "2026-10-15T03:31:13.127",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806700/Russia-to-continue-gasoline-imports-until-at-least-year-end---IFX.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:45:02.692314-04:00"
+  },
+  {
+    "NewsID": 9806695,
+    "title": "Russia mulls ban on LPG exports amid market conditions - IFX",
+    "published": "2026-10-15T03:30:58.21",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806695/Russia-mulls-ban-on-LPG-exports-amid-market-conditions---IFX.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:45:02.692338-04:00"
+  },
+  {
+    "NewsID": 9806690,
+    "title": "BoE Breeden: Activity is not falling off cliff, labor market is holding up.",
+    "published": "2026-10-15T03:21:07.81",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806690/BoE-Breeden-Activity-is-not-falling-off-cliff-labor-market-is-holding-up.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:30:01.882392-04:00"
+  },
+  {
+    "NewsID": 9806689,
+    "title": "Germany’s Chancellor Merz: I do not expect an agreement on long-term EU budget this weekend.",
+    "published": "2026-10-15T03:19:18.953",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806689/Germanys-Chancellor-Merz-I-do-not-expect-an-agreement-on-long-term-EU-budget-this-weekend.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:30:01.882456-04:00"
+  },
+  {
+    "NewsID": 9806688,
+    "title": "Germany’s Chancellor Merz: Hope for agreement on eu budget before end of year.",
+    "published": "2026-10-15T03:19:00.137",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806688/Germanys-Chancellor-Merz-Hope-for-agreement-on-eu-budget-before-end-of-year.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:30:01.882483-04:00"
+  },
+  {
+    "NewsID": 9806686,
+    "title": "Germany’s Chancellor Merz: No EU member can afford the current EU budget proposal.",
+    "published": "2026-10-15T03:17:44.577",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806686/Germanys-Chancellor-Merz-No-EU-member-can-afford-the-current-EU-budget-proposal.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:30:01.882504-04:00"
+  },
+  {
+    "NewsID": 9806683,
+    "title": "UBS expects US Fed to deliver a third rate hike in march 2027 vs prior forecast for hiking cycle to end in December.",
+    "published": "2026-10-15T03:16:17.08",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806683/UBS-expects-US-Fed-to-deliver-a-third-rate-hike-in-march-2027-vs-prior-forecast-for-hiking-cycle-to-end-in-December.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:30:01.882525-04:00"
+  },
+  {
+    "NewsID": 9806675,
+    "title": "BoE's Breeden: easing of labor market hopes to avoid wage price pressure like in 2022",
+    "published": "2026-10-15T03:10:59.85",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806675/BoEs-Breeden-easing-of-labor-market-hopes-to-avoid-wage-price-pressure-like-in-2022.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:15:02.060371-04:00"
+  },
+  {
+    "NewsID": 9806674,
+    "title": "Brussels - Spanish PM Sanchez: we disagree with current EU budget plan, it is inadequate",
+    "published": "2026-10-15T03:10:43.63",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806674/Brussels---Spanish-PM-Sanchez-we-disagree-with-current-EU-budget-plan-it-is-inadequate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:15:02.060424-04:00"
+  },
+  {
+    "NewsID": 9806673,
+    "title": "Bank of England’s Breeden: companies speak to focus on cost-cutting not passing on energy price shock",
+    "published": "2026-10-15T03:09:26.843",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806673/Bank-of-Englands-Breeden-companies-speak-to-focus-on-cost-cutting-not-passing-on-energy-price-shock.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:15:02.060448-04:00"
+  },
+  {
+    "NewsID": 9806672,
+    "title": "South Korea, Japan to extend currency swap agreement.",
+    "published": "2026-10-15T03:01:36.33",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806672/South-Korea-Japan-to-extend-currency-swap-agreement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:15:02.060469-04:00"
+  },
+  {
+    "NewsID": 9806654,
+    "title": "ECB's Kazaks: ECB is in no immediate need to rush on rates.",
+    "published": "2026-10-15T03:00:26.077",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806654/ECBs-Kazaks-ECB-is-in-no-immediate-need-to-rush-on-rates.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:15:02.060490-04:00"
+  },
+  {
+    "NewsID": 9806649,
+    "title": "ECB's Kazaks: Inflationary forces still stronger in immediate future.",
+    "published": "2026-10-15T03:00:13.973",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806649/ECBs-Kazaks-Inflationary-forces-still-stronger-in-immediate-future.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T04:15:02.060510-04:00"
+  },
+  {
+    "NewsID": 9806618,
+    "title": "Saudi Arabia issues early warning alert for potential threat in Najran and Jazan - State TV",
+    "published": "2026-10-15T02:22:49.353",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806618/Saudi-Arabia-issues-early-warning-alert-for-potential-threat-in-Najran-and-Jazan---State-TV.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T03:30:02.488337-04:00"
+  },
+  {
+    "NewsID": 9806592,
+    "title": "Currency Strength Chart: Strongest: CHF, EUR, GBP, NZD, JPY, CAD, USD, AUD - Weakest",
+    "published": "2026-10-15T02:01:08.55",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806592/Currency-Strength-Chart-Strongest-CHF-EUR-GBP-NZD-JPY-CAD-USD-AUD---Weakest.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T03:15:01.650492-04:00"
+  },
+  {
+    "NewsID": 9806588,
+    "title": "BoE’s Greene: Relying on market pricing doesn't work in the long term",
+    "published": "2026-10-15T01:58:36.42",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806588/BoEs-Greene-Relying-on-market-pricing-doesnt-work-in-the-long-term.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T03:00:02.247232-04:00"
+  },
+  {
+    "NewsID": 9806587,
+    "title": "BoE’s Greene: Risk of second-round effects are \"pretty significant\"",
+    "published": "2026-10-15T01:54:38.287",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806587/BoEs-Greene-Risk-of-second-round-effects-are-pretty-significant.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T03:00:02.247276-04:00"
+  },
+  {
+    "NewsID": 9806566,
+    "title": "French CPI MoM NSA Actual -0.3% (Forecast -0.3%, Previous 0.3%)",
+    "published": "2026-10-15T01:45:00.543",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9806566/French-CPI-MoM-NSA-Actual--03-Forecast--03-Previous-03.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T03:00:02.247295-04:00"
+  },
+  {
+    "NewsID": 9806565,
+    "title": "French HICP MoM Final Actual -0.3% (Forecast -0.4%, Previous 0.4%)",
+    "published": "2026-10-15T01:45:00.493",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806565/French-HICP-MoM-Final-Actual--03-Forecast--04-Previous-04.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T03:00:02.247311-04:00"
+  },
+  {
+    "NewsID": 9806564,
+    "title": "French CPI YoY NSA Actual 3.1% (Forecast 3%, Previous 3.0%)",
+    "published": "2026-10-15T01:45:00.42",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9806564/French-CPI-YoY-NSA-Actual-31-Forecast-3-Previous-30.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T03:00:02.247327-04:00"
+  },
+  {
+    "NewsID": 9806563,
+    "title": "French HICP YoY Final Actual 3.4% (Forecast 3.4%, Previous 3.4%)",
+    "published": "2026-10-15T01:45:00.34",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9806563/French-HICP-YoY-Final-Actual-34-Forecast-34-Previous-34.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T03:00:02.247343-04:00"
+  },
+  {
+    "NewsID": 9806562,
+    "title": "TSMC is considering Texas as a potential site for expansion - CEO $TSM",
+    "published": "2026-10-15T01:35:06.167",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806562/TSMC-is-considering-Texas-as-a-potential-site-for-expansion---CEO-TSM.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:45:02.402569-04:00"
+  },
+  {
+    "NewsID": 9806561,
+    "title": "Mitsubishi Heavy and Ingeteam form a partnership on AI data centers",
+    "published": "2026-10-15T01:32:26.54",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806561/Mitsubishi-Heavy-and-Ingeteam-form-a-partnership-on-AI-data-centers.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:45:02.402616-04:00"
+  },
+  {
+    "NewsID": 9806546,
+    "title": "Swiss PPI YoY Actual -0.2% (Forecast -, Previous -0.7%)",
+    "published": "2026-10-15T01:31:07.467",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806546/Swiss-PPI-YoY-Actual--02-Forecast---Previous--07.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:45:02.402636-04:00"
+  },
+  {
+    "NewsID": 9806545,
+    "title": "Swiss PPI MoM Actual 0.3% (Forecast -, Previous 0.7%)",
+    "published": "2026-10-15T01:30:00.277",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806545/Swiss-PPI-MoM-Actual-03-Forecast---Previous-07.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:45:02.402655-04:00"
+  },
+  {
+    "NewsID": 9806544,
+    "title": "Russian Ryazan refinery attacked by drones overnight - Governor",
+    "published": "2026-10-15T01:25:12.95",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806544/Russian-Ryazan-refinery-attacked-by-drones-overnight---Governor.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:30:02.657238-04:00"
+  },
+  {
+    "NewsID": 9806543,
+    "title": "TSMC: Hold strong conviction in AI mega trend $TSM",
+    "published": "2026-10-15T01:17:30.503",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806543/TSMC-Hold-strong-conviction-in-AI-mega-trend-TSM.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:30:02.657301-04:00"
+  },
+  {
+    "NewsID": 9806494,
+    "title": "South Korea Regulator orders proactive response to ensure market stability and investor protection",
+    "published": "2026-10-15T01:08:44.87",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806494/South-Korea-Regulator-orders-proactive-response-to-ensure-market-stability-and-investor-protection.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725027-04:00"
+  },
+  {
+    "NewsID": 9806490,
+    "title": "South Korea financial regulator holds emergency meeting on stock market - Statement",
+    "published": "2026-10-15T01:07:11.843",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806490/South-Korea-financial-regulator-holds-emergency-meeting-on-stock-market---Statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725079-04:00"
+  },
+  {
+    "NewsID": 9806489,
+    "title": "Azerbaijan's oil output stood at 61.000 tons per day in January-September - Energy Ministry",
+    "published": "2026-10-15T01:04:41.91",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806489/Azerbaijans-oil-output-stood-at-61000-tons-per-day-in-January-September---Energy-Ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725103-04:00"
+  },
+  {
+    "NewsID": 9806486,
+    "title": "UK GDP Estimate August 2026 Report",
+    "published": "2026-10-15T01:01:06.88",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806486/UK-GDP-Estimate-August-2026-Report.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725210-04:00"
+  },
+  {
+    "NewsID": 9806482,
+    "title": "UK Goods Trade Balance Non-EU Actual -5.287B (Forecast -, Previous -9.663B)",
+    "published": "2026-10-15T01:01:13.1",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806482/UK-Goods-Trade-Balance-Non-EU-Actual--5287B-Forecast---Previous--9663B.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725125-04:00"
+  },
+  {
+    "NewsID": 9806481,
+    "title": "Norwegian Trade Balance Actual 105.028B (Forecast -, Previous 100.40B)",
+    "published": "2026-10-15T01:00:05.803",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806481/Norwegian-Trade-Balance-Actual-105028B-Forecast---Previous-10040B.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725231-04:00"
+  },
+  {
+    "NewsID": 9806480,
+    "title": "UK Manufacturing Production YoY Actual 3.0% (Forecast -, Previous 2.6%)",
+    "published": "2026-10-15T01:01:10.577",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806480/UK-Manufacturing-Production-YoY-Actual-30-Forecast---Previous-26.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725145-04:00"
+  },
+  {
+    "NewsID": 9806479,
+    "title": "UK GDP Estimate YoY Actual 2.1% (Forecast 1.7%, Previous 1.6%)",
+    "published": "2026-10-15T01:01:09.997",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9806479/UK-GDP-Estimate-YoY-Actual-21-Forecast-17-Previous-16.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725186-04:00"
+  },
+  {
+    "NewsID": 9806478,
+    "title": "UK Manufacturing Production MoM Actual 1.2% (Forecast 0%, Previous 0.9%)",
+    "published": "2026-10-15T01:00:04.007",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9806478/UK-Manufacturing-Production-MoM-Actual-12-Forecast-0-Previous-09.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725251-04:00"
+  },
+  {
+    "NewsID": 9806477,
+    "title": "UK Goods Trade Balance Actual -18.007B (Forecast -21.9B, Previous -20.96B)",
+    "published": "2026-10-15T01:00:03.897",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806477/UK-Goods-Trade-Balance-Actual--18007B-Forecast--219B-Previous--2096B.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725272-04:00"
+  },
+  {
+    "NewsID": 9806476,
+    "title": "UK Industrial Production MoM Actual 0.8% (Forecast -0.1%, Previous 0.2%)",
+    "published": "2026-10-15T01:00:03.007",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806476/UK-Industrial-Production-MoM-Actual-08-Forecast--01-Previous-02.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725292-04:00"
+  },
+  {
+    "NewsID": 9806475,
+    "title": "UK Industrial Production YoY Actual 1.6% (Forecast 0.7%, Previous 0.6%)",
+    "published": "2026-10-15T01:00:02.84",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806475/UK-Industrial-Production-YoY-Actual-16-Forecast-07-Previous-06.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725313-04:00"
+  },
+  {
+    "NewsID": 9806474,
+    "title": "UK Construction Output MoM Actual -0.2% (Forecast 0%, Previous 0.1%)",
+    "published": "2026-10-15T01:00:02.037",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806474/UK-Construction-Output-MoM-Actual--02-Forecast-0-Previous-01.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725333-04:00"
+  },
+  {
+    "NewsID": 9806473,
+    "title": "UK GDP Estimate MoM Actual 0.1% (Forecast -0.1%, Previous 0.4%)",
+    "published": "2026-10-15T01:00:01.873",
+    "level": "active",
+    "link": "https://www.financialjuice.com/News/9806473/UK-GDP-Estimate-MoM-Actual-01-Forecast--01-Previous-04.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725354-04:00"
+  },
+  {
+    "NewsID": 9806472,
+    "title": "UK Services MoM Actual 0% (Forecast -0.1%, Previous 0.4%)",
+    "published": "2026-10-15T01:00:01.82",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806472/UK-Services-MoM-Actual-0-Forecast--01-Previous-04.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725374-04:00"
+  },
+  {
+    "NewsID": 9806471,
+    "title": "UK GDP Estimate 3M/3M Actual 0.7% (Forecast 0.5%, Previous 0.4%)",
+    "published": "2026-10-15T01:00:00.887",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9806471/UK-GDP-Estimate-3M3M-Actual-07-Forecast-05-Previous-04.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:15:02.725394-04:00"
+  },
+  {
+    "NewsID": 9806470,
+    "title": "BoJ's Koeda: September rate hike reflected additional data showing resilience of the economy",
+    "published": "2026-10-15T00:54:47.967",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806470/BoJs-Koeda-September-rate-hike-reflected-additional-data-showing-resilience-of-the-economy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:00:02.140795-04:00"
+  },
+  {
+    "NewsID": 9806469,
+    "title": "Chip Stocks Plunge & Treasuries Rally - Asia Market Wrap",
+    "published": "2026-10-15T00:13:24.84",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806469/Chip-Stocks-Plunge--Treasuries-Rally---Asia-Market-Wrap.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:00:02.140888-04:00"
+  },
+  {
+    "NewsID": 9806468,
+    "title": "Boj's Koeda: Pace of passing costs to prices has been in line with BoJ's main scenario in July",
+    "published": "2026-10-15T00:52:09.89",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806468/Bojs-Koeda-Pace-of-passing-costs-to-prices-has-been-in-line-with-BoJs-main-scenario-in-July.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:00:02.140831-04:00"
+  },
+  {
+    "NewsID": 9806449,
+    "title": "BoJ's Koeda: Need discussion over whether price target is achieved.",
+    "published": "2026-10-15T00:45:10.91",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806449/BoJs-Koeda-Need-discussion-over-whether-price-target-is-achieved.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:00:02.140845-04:00"
+  },
+  {
+    "NewsID": 9806448,
+    "title": "BoJ's Koeda: No specific pace in mind for rate hike.",
+    "published": "2026-10-15T00:45:00.467",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806448/BoJs-Koeda-No-specific-pace-in-mind-for-rate-hike.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T02:00:02.140872-04:00"
+  },
+  {
+    "NewsID": 9806447,
+    "title": "BoJ's Koeda: Monetary environment has been accommodative.",
+    "published": "2026-10-15T00:40:22.697",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806447/BoJs-Koeda-Monetary-environment-has-been-accommodative.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T01:45:02.384044-04:00"
+  },
+  {
+    "NewsID": 9806446,
+    "title": "BoJ's Koeda: Need to adjust rate in timely manner.",
+    "published": "2026-10-15T00:40:09.613",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806446/BoJs-Koeda-Need-to-adjust-rate-in-timely-manner.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T01:45:02.384097-04:00"
+  },
+  {
+    "NewsID": 9806445,
+    "title": "BoJ Koeda: Basic stance on neutral rate is that we have to consider in a range.",
+    "published": "2026-10-15T00:39:51.247",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806445/BoJ-Koeda-Basic-stance-on-neutral-rate-is-that-we-have-to-consider-in-a-range.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T01:45:02.384121-04:00"
+  },
+  {
+    "NewsID": 9806444,
+    "title": "TSMC Q3 Earnings",
+    "published": "2026-10-15T00:37:03.67",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806444/TSMC-Q3-Earnings.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T01:45:02.384143-04:00"
+  },
+  {
+    "NewsID": 9806443,
+    "title": "Morning Juice - Europe Session Prep",
+    "published": "2026-10-15T00:33:40.143",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806443/Morning-Juice---Europe-Session-Prep.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T01:45:02.384180-04:00"
+  },
+  {
+    "NewsID": 9806426,
+    "title": "Italy plans to collect 0.44% of GDP from financial sector over 2027-2029 period - Draft Budgetary Plan",
+    "published": "2026-10-15T00:29:10.81",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9806426/Italy-plans-to-collect-044-of-GDP-from-financial-sector-over-2027-2029-period---Draft-Budgetary-Plan.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T01:30:02.305706-04:00"
+  },
+  {
+    "NewsID": 9806380,
+    "title": "Gabon secures $580 million eurobond with 8-year term, 9.375% coupon; order book almost doubles to $1 billion - finance ministry",
+    "published": "2026-10-14T23:42:45.01",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806380/Gabon-secures-580-million-eurobond-with-8-year-term-9375-coupon-order-book-almost-doubles-to-1-billion---finance-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:45:02.516795-04:00"
+  },
+  {
+    "NewsID": 9806379,
+    "title": "Russian military strikes two shipments heading to Ukraine's Odesa port: Interfax quotes defense ministry",
+    "published": "2026-10-14T23:36:11.45",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806379/Russian-military-strikes-two-shipments-heading-to-Ukraines-Odesa-port-Interfax-quotes-defense-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:45:02.516858-04:00"
+  },
+  {
+    "NewsID": 9806367,
+    "title": "IMF: robust but uneven recovery forecast in Middle East, North Africa and Pakistan region by 2027, growth to reach 6.6%",
+    "published": "2026-10-14T23:30:13.61",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806367/IMF-robust-but-uneven-recovery-forecast-in-Middle-East-North-Africa-and-Pakistan-region-by-2027-growth-to-reach-66.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:45:02.516883-04:00"
+  },
+  {
+    "NewsID": 9806366,
+    "title": "Japanese Capacity Utilization MoM Actual -4.2% (Forecast -, Previous 0.5%)",
+    "published": "2026-10-14T23:30:08.11",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806366/Japanese-Capacity-Utilization-MoM-Actual--42-Forecast---Previous-05.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:45:02.516902-04:00"
+  },
+  {
+    "NewsID": 9806365,
+    "title": "IMF: oil exporters hit by war to face sharp contraction in 2026, rebound in 2027, but output stays below pre-war forecasts",
+    "published": "2026-10-14T23:30:04.55",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806365/IMF-oil-exporters-hit-by-war-to-face-sharp-contraction-in-2026-rebound-in-2027-but-output-stays-below-pre-war-forecasts.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:45:02.516922-04:00"
+  },
+  {
+    "NewsID": 9806364,
+    "title": "IMF: predicts 1.3% shrinkage in Middle East, North Africa and Pakistan area in 2026 vs 3.3% expansion in 2025",
+    "published": "2026-10-14T23:30:04.453",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806364/IMF-predicts-13-shrinkage-in-Middle-East-North-Africa-and-Pakistan-area-in-2026-vs-33-expansion-in-2025.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:45:02.516941-04:00"
+  },
+  {
+    "NewsID": 9806363,
+    "title": "IMF: inventories are lower, spare capacity tighter, fresh disruption could trigger bigger price shifts",
+    "published": "2026-10-14T23:30:04.423",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806363/IMF-inventories-are-lower-spare-capacity-tighter-fresh-disruption-could-trigger-bigger-price-shifts.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:45:02.516960-04:00"
+  },
+  {
+    "NewsID": 9806362,
+    "title": "IMF urges countries to rebuild buffers, prioritize price stability, tighter monetary policies and prudent fiscal measures",
+    "published": "2026-10-14T23:30:04.36",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806362/IMF-urges-countries-to-rebuild-buffers-prioritize-price-stability-tighter-monetary-policies-and-prudent-fiscal-measures.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:45:02.516979-04:00"
+  },
+  {
+    "NewsID": 9806361,
+    "title": "IMF: Pre-war surpluses, alternative paths and demand shifts helped mitigate oil output shock, but cushions are limited",
+    "published": "2026-10-14T23:30:04.343",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806361/IMF-Pre-war-surpluses-alternative-paths-and-demand-shifts-helped-mitigate-oil-output-shock-but-cushions-are-limited.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:45:02.516998-04:00"
+  },
+  {
+    "NewsID": 9806360,
+    "title": "IMF official: biggest risk is prolonged conflict",
+    "published": "2026-10-14T23:30:04.32",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806360/IMF-official-biggest-risk-is-prolonged-conflict.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:45:02.517016-04:00"
+  },
+  {
+    "NewsID": 9806359,
+    "title": "Imf official: middle east war causes highly uneven economic shock across region, severe strain on directly affected states",
+    "published": "2026-10-14T23:30:04.27",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806359/Imf-official-middle-east-war-causes-highly-uneven-economic-shock-across-region-severe-strain-on-directly-affected-states.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:45:02.517035-04:00"
+  },
+  {
+    "NewsID": 9806358,
+    "title": "Dutch Unemployment rate SA Actual 4% (Forecast -, Previous 4.0%)",
+    "published": "2026-10-14T23:30:00.713",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806358/Dutch-Unemployment-rate-SA-Actual-4-Forecast---Previous-40.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:45:02.517054-04:00"
+  },
+  {
+    "NewsID": 9806335,
+    "title": "US considering deploying ‘mother of all bombs’ against Iran: CNN",
+    "published": "2026-10-14T23:03:56.173",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806335/US-considering-deploying-mother-of-all-bombs-against-Iran-CNN.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:15:01.928919-04:00"
+  },
+  {
+    "NewsID": 9806334,
+    "title": "Ukraine to restart attacks on Russian refineries: Zelenskyy - FT",
+    "published": "2026-10-14T23:02:41.823",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806334/Ukraine-to-restart-attacks-on-Russian-refineries-Zelenskyy---FT.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:15:01.928969-04:00"
+  },
+  {
+    "NewsID": 9806302,
+    "title": "North Korean premier also gives video address: Xinhua",
+    "published": "2026-10-14T22:58:29.62",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806302/North-Korean-premier-also-gives-video-address-Xinhua.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925188-04:00"
+  },
+  {
+    "NewsID": 9806301,
+    "title": "China Premier Li Qiang on new Yalu River bridge: hopes both sides use chance to improve border clearance, boost connectivity and explore cooperation potential in border regions",
+    "published": "2026-10-14T22:57:46.12",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806301/China-Premier-Li-Qiang-on-new-Yalu-River-bridge-hopes-both-sides-use-chance-to-improve-border-clearance-boost-connectivity-and-explore-cooperation-potential-in-border-regions.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925239-04:00"
+  },
+  {
+    "NewsID": 9806300,
+    "title": "China Premier Li Qiang: new Yalu river bridge opening to boost economic, trade ties and enhance personnel exchanges - Xinhua",
+    "published": "2026-10-14T22:57:14.053",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806300/China-Premier-Li-Qiang-new-Yalu-river-bridge-opening-to-boost-economic-trade-ties-and-enhance-personnel-exchanges---Xinhua.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925263-04:00"
+  },
+  {
+    "NewsID": 9806299,
+    "title": "China Premier Li Qiang delivers video speech at opening of new Yalu River Bridge - Xinhua",
+    "published": "2026-10-14T22:56:13.46",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806299/China-Premier-Li-Qiang-delivers-video-speech-at-opening-of-new-Yalu-River-Bridge---Xinhua.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925284-04:00"
+  },
+  {
+    "NewsID": 9806298,
+    "title": "S.Korea August M2 money supply rises 5.6% y/y vs 5.8% in July: central bank",
+    "published": "2026-10-14T22:56:13.323",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806298/SKorea-August-M2-money-supply-rises-56-yy-vs-58-in-July-central-bank.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925306-04:00"
+  },
+  {
+    "NewsID": 9806250,
+    "title": "S.Korea September bank lending to households net 0.6 trillion won vs 3.5 trillion won in August: central bank",
+    "published": "2026-10-14T22:00:04.667",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806250/SKorea-September-bank-lending-to-households-net-06-trillion-won-vs-35-trillion-won-in-August-central-bank.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925327-04:00"
+  },
+  {
+    "NewsID": 9806249,
+    "title": "S. Korea Aug L-money supply rises 7.2% y/y vs 8.1% in Jul: central bank",
+    "published": "2026-10-14T22:00:04.4",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806249/S-Korea-Aug-L-money-supply-rises-72-yy-vs-81-in-Jul-central-bank.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925348-04:00"
+  },
+  {
+    "NewsID": 9806248,
+    "title": "Japan Prime Minister Takaichi: No evidence of espionage in Russia",
+    "published": "2026-10-14T21:54:14.887",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806248/Japan-Prime-Minister-Takaichi-No-evidence-of-espionage-in-Russia.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925369-04:00"
+  },
+  {
+    "NewsID": 9806247,
+    "title": "ByteDance in talks to obtain MediaTek AI chips for data centers",
+    "published": "2026-10-14T21:50:04.06",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806247/ByteDance-in-talks-to-obtain-MediaTek-AI-chips-for-data-centers.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925390-04:00"
+  },
+  {
+    "NewsID": 9806223,
+    "title": "ECB's Santos Pereira: Growth exceeds expectations, wouldn't be surprised if it persists in coming months",
+    "published": "2026-10-14T21:16:52.193",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806223/ECBs-Santos-Pereira-Growth-exceeds-expectations-wouldnt-be-surprised-if-it-persists-in-coming-months.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925411-04:00"
+  },
+  {
+    "NewsID": 9806222,
+    "title": "Euro last up 0.63% at $1.1228",
+    "published": "2026-10-14T21:13:24.743",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806222/Euro-last-up-063-at-11228.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925432-04:00"
+  },
+  {
+    "NewsID": 9806221,
+    "title": "China, North Korea hold inauguration for new Yalu River bridge: Xinhua",
+    "published": "2026-10-14T21:04:30.063",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806221/China-North-Korea-hold-inauguration-for-new-Yalu-River-bridge-Xinhua.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925453-04:00"
+  },
+  {
+    "NewsID": 9806135,
+    "title": "ECB's Santos Pereira: If inflation widens, central banks will be compelled to respond",
+    "published": "2026-10-14T20:55:23.437",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806135/ECBs-Santos-Pereira-If-inflation-widens-central-banks-will-be-compelled-to-respond.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925473-04:00"
+  },
+  {
+    "NewsID": 9806134,
+    "title": "ECB's Santos Pereira: positive news is inflation is not spreading",
+    "published": "2026-10-14T20:54:30.26",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806134/ECBs-Santos-Pereira-positive-news-is-inflation-is-not-spreading.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925495-04:00"
+  },
+  {
+    "NewsID": 9806133,
+    "title": "ECB's Santos Pereira: if winter resembles last year, natural gas prices will pose a problem",
+    "published": "2026-10-14T20:54:13.857",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806133/ECBs-Santos-Pereira-if-winter-resembles-last-year-natural-gas-prices-will-pose-a-problem.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925515-04:00"
+  },
+  {
+    "NewsID": 9806132,
+    "title": "South Korea defense ministry spokesperson: shifting goalposts will make transfer of operational control to South Korea unfeasible",
+    "published": "2026-10-14T20:49:05.827",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806132/South-Korea-defense-ministry-spokesperson-shifting-goalposts-will-make-transfer-of-operational-control-to-South-Korea-unfeasible.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925536-04:00"
+  },
+  {
+    "NewsID": 9806131,
+    "title": "German Bund futures rise 0.65%; French OAT futures increase 0.76%",
+    "published": "2026-10-14T20:47:53.32",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806131/German-Bund-futures-rise-065-French-OAT-futures-increase-076.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925557-04:00"
+  },
+  {
+    "NewsID": 9806124,
+    "title": "ECB's Santos Pereira: Yield increase is more linked to fiscal concerns",
+    "published": "2026-10-14T20:44:59.82",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806124/ECBs-Santos-Pereira-Yield-increase-is-more-linked-to-fiscal-concerns.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925578-04:00"
+  },
+  {
+    "NewsID": 9806123,
+    "title": "USD/KRW climbs 0.7%, not 1%: co",
+    "published": "2026-10-14T20:39:05.99",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806123/USDKRW-climbs-07-not-1-co.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925598-04:00"
+  },
+  {
+    "NewsID": 9806122,
+    "title": "BOJ’s Koeda: it is crucial for BOJ to continue calmly with normalization of its balance sheet",
+    "published": "2026-10-14T20:38:02.857",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9806122/BOJs-Koeda-it-is-crucial-for-BOJ-to-continue-calmly-with-normalization-of-its-balance-sheet.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-15T00:00:01.925619-04:00"
+  }
+]
