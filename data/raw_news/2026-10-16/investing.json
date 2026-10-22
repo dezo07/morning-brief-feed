@@ -1,0 +1,695 @@
+[
+  {
+    "title": "Asia stocks rebound as chipmakers recover, Indonesia rout deepens with 11% slump",
+    "source": "Investinglive",
+    "published": "2026-10-16T03:48:16+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029",
+    "category_hint": "markets"
+  },
+  {
+    "title": "CoTec completes $20M convertible debenture offering",
+    "source": "Investinglive",
+    "published": "2026-10-16T03:32:36+00:00",
+    "link": "https://www.investing.com/news/company-news/cotec-completes-20m-convertible-debenture-offering-93CH-4953028",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Mideast war alters global bunker buying patterns, industry execs say",
+    "source": "Investinglive",
+    "published": "2026-10-16T03:24:17+00:00",
+    "link": "https://www.investing.com/news/commodities-news/mideast-war-alters-global-bunker-buying-patterns-industry-execs-say-4953018",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Shift stock surging today?",
+    "source": "Investinglive",
+    "published": "2026-10-16T03:19:14+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-shift-stock-surging-today-93CH-4953016",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Japan core inflation likely exceeded BOJ target for first time since December",
+    "source": "Investinglive",
+    "published": "2026-10-16T03:18:19+00:00",
+    "link": "https://www.investing.com/news/economy-news/japan-core-inflation-likely-exceeded-boj-target-for-first-time-since-december-4953015",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Everpure chief product officer Ajay Singh sells $2.8m in company shares",
+    "source": "Investinglive",
+    "published": "2026-10-16T03:16:15+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/everpure-chief-product-officer-ajay-singh-sells-28m-in-company-shares-93CH-4953014",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is BayCurrent stock surging today?",
+    "source": "Investinglive",
+    "published": "2026-10-16T03:10:07+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-baycurrent-stock-surging-today-93CH-4953006",
+    "category_hint": "markets"
+  },
+  {
+    "title": "World Bank’s Banga sets goal of quintupling critical minerals financing in five years",
+    "source": "Investinglive",
+    "published": "2026-10-16T03:07:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/world-banks-banga-sets-goal-of-quintupling-critical-minerals-financing-in-five-years-4953003",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Most Asian stocks rise as calm returns after CoreWeave shock; Indonesia faces market downgrade",
+    "source": "Investinglive",
+    "published": "2026-10-16T03:07:18+00:00",
+    "link": "https://www.investing.com/news/economy-news/most-asian-stocks-rise-as-calm-returns-after-coreweave-shock-indonesia-faces-market-downgrade-4952993",
+    "category_hint": "markets"
+  },
+  {
+    "title": "AI selloff hammers hedge funds this week, Asia managers lead losses",
+    "source": "Investinglive",
+    "published": "2026-10-16T03:06:25+00:00",
+    "link": "https://www.investing.com/news/economy-news/ai-selloff-hammers-hedge-funds-this-week-asia-managers-lead-losses-4952963",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Trump says considering more military action against Iran",
+    "source": "Investinglive",
+    "published": "2026-10-16T02:48:47+00:00",
+    "link": "https://www.investing.com/news/economy-news/trump-says-considering-more-military-action-against-iran-4952990",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil candidates focus fiscal plans on voter-friendly measures before runoff",
+    "source": "Investinglive",
+    "published": "2026-10-16T02:12:47+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-candidates-focus-fiscal-plans-on-voterfriendly-measures-before-runoff-4952519",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Euro gets much-needed reprieve as AI wobbles rock the dollar",
+    "source": "Investinglive",
+    "published": "2026-10-16T01:24:21+00:00",
+    "link": "https://www.investing.com/news/economy-news/euro-gets-muchneeded-reprieve-as-ai-wobbles-rock-the-dollar-4952939",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Goolsbee on inflation: discouraging, but still some optimism",
+    "source": "Investinglive",
+    "published": "2026-10-15T23:54:23+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-goolsbee-on-inflation-discouraging-but-still-some-optimism-4952861",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Market selloff, rising rates test AI data centre deal boom",
+    "source": "Investinglive",
+    "published": "2026-10-15T23:48:23+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysismarket-selloff-rising-rates-test-ai-data-centre-deal-boom-4951734",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Lula pledges free weekend transit nationwide as Brazil runoff nears",
+    "source": "Investinglive",
+    "published": "2026-10-15T22:48:39+00:00",
+    "link": "https://www.investing.com/news/economy-news/lula-pledges-free-weekend-transit-nationwide-as-brazil-runoff-nears-4952797",
+    "category_hint": "macro"
+  },
+  {
+    "title": "William Blair initiates Revolution stock with outperform on RAS franchise",
+    "source": "Investinglive",
+    "published": "2026-10-16T07:42:56+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/william-blair-initiates-revolution-stock-with-outperform-on-ras-franchise-93CH-4953294",
+    "category_hint": "markets"
+  },
+  {
+    "title": "William Blair initiates Immunome stock coverage with outperform rating",
+    "source": "Investinglive",
+    "published": "2026-10-16T07:42:52+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/william-blair-initiates-immunome-stock-coverage-with-outperform-rating-93CH-4953293",
+    "category_hint": "markets"
+  },
+  {
+    "title": "William Blair initiates Ideaya Biosciences stock with outperform rating",
+    "source": "Investinglive",
+    "published": "2026-10-16T07:42:51+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/william-blair-initiates-ideaya-biosciences-stock-with-outperform-rating-93CH-4953292",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Eurozone yields languish near multi-week lows as safe-haven inflows",
+    "source": "Investinglive",
+    "published": "2026-10-16T07:42:46+00:00",
+    "link": "https://www.investing.com/news/forex-news/eurozone-yields-languish-near-multiweek-lows-as-safehaven-inflows-4953291",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Analysis-Hedge funds’ role comes into focus following European bonds turmoil",
+    "source": "Investinglive",
+    "published": "2026-10-16T07:42:24+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysiseuropes-bond-market-turmoil-shines-a-spotlight-on-hedge-funds-role-in-key-markets-4953095",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Man stock climbing today?",
+    "source": "Investinglive",
+    "published": "2026-10-16T07:38:19+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-man-stock-climbing-today-93CH-4953290",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Aixtron stock rallying today?",
+    "source": "Investinglive",
+    "published": "2026-10-16T07:37:42+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-aixtron-stock-rallying-today-93CH-4953289",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Schneider Electric Q3 2026 slides: record revenue, upgraded guidance",
+    "source": "Investinglive",
+    "published": "2026-10-16T07:37:04+00:00",
+    "link": "https://www.investing.com/news/company-news/schneider-electric-q3-2026-slides-record-revenue-upgraded-guidance-93CH-4953288",
+    "category_hint": "markets"
+  },
+  {
+    "title": "William Blair initiates Edgewise Therapeutics stock with outperform rating",
+    "source": "Investinglive",
+    "published": "2026-10-16T07:36:54+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/william-blair-initiates-edgewise-therapeutics-stock-with-outperform-rating-93CH-4953287",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Exclusive-PetroChina set for record trading profit as war upends market, sources say",
+    "source": "Investinglive",
+    "published": "2026-10-16T07:36:42+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/exclusivepetrochina-set-for-record-trading-profit-as-war-upends-market-sources-say-4953286",
+    "category_hint": "markets"
+  },
+  {
+    "title": "BOJ chief flags inflation overshoot risk, stresses importance of 2% anchor",
+    "source": "Investinglive",
+    "published": "2026-10-16T07:36:27+00:00",
+    "link": "https://www.investing.com/news/economy-news/boj-chief-flags-inflation-overshoot-risk-stresses-importance-of-2-anchor-4953285",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027",
+    "source": "Investinglive",
+    "published": "2026-10-16T07:24:29+00:00",
+    "link": "https://www.investing.com/news/economy-news/factboxbrokerages-expect-next-boj-rate-hike-in-dec-further-tightening-in-2027-4953275",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Top economic adviser says Centerview remains Venezuela’s financial adviser",
+    "source": "Investinglive",
+    "published": "2026-10-16T06:48:55+00:00",
+    "link": "https://www.investing.com/news/economy-news/top-economic-adviser-says-centerview-remains-venezuelas-financial-adviser-4953157",
+    "category_hint": "macro"
+  },
+  {
+    "title": "How Healey’s first UK budget could ripple through markets",
+    "source": "Investinglive",
+    "published": "2026-10-16T06:48:42+00:00",
+    "link": "https://www.investing.com/news/economy-news/how-healeys-first-uk-budget-could-ripple-through-markets-4953110",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Warsh sees US economic tailwinds, mum on rate-path view",
+    "source": "Investinglive",
+    "published": "2026-10-16T05:48:16+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-warsh-gives-no-hint-on-october-policy-decision-4953046",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Analysis-India widens rupee defence to rates, but cautiously",
+    "source": "Investinglive",
+    "published": "2026-10-16T05:36:38+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysisindia-widens-rupee-defence-to-rates-but-cautiously-4953121",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Eni shares may move 1.1% on Oct. 23 earnings release",
+    "source": "Investinglive",
+    "published": "2026-10-16T11:55:04+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/eni-shares-may-move-11-on-oct-23-earnings-release-93CH-4953931",
+    "category_hint": "markets"
+  },
+  {
+    "title": "On the campaign trail, JB Pritzker courts farmers like he’s running for president",
+    "source": "Investinglive",
+    "published": "2026-10-16T11:54:54+00:00",
+    "link": "https://www.investing.com/news/economy-news/on-the-campaign-trail-jb-pritzker-courts-farmers-like-hes-running-for-president-4953577",
+    "category_hint": "markets"
+  },
+  {
+    "title": "South Indian Bank Q2 FY27 slides: record profit, asset quality shines",
+    "source": "Investinglive",
+    "published": "2026-10-16T11:54:52+00:00",
+    "link": "https://www.investing.com/news/company-news/south-indian-bank-q2-fy27-slides-record-profit-asset-quality-shines-93CH-4953929",
+    "category_hint": "markets"
+  },
+  {
+    "title": "U.S. yields edge up after rally as markets digest AI debt worries",
+    "source": "Investinglive",
+    "published": "2026-10-16T11:54:45+00:00",
+    "link": "https://www.investing.com/news/forex-news/eurozone-yields-languish-near-multiweek-lows-as-safehaven-inflows-4953291",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Factbox-Weight-loss drug developers line up to tap lucrative market as competition heats up",
+    "source": "Investinglive",
+    "published": "2026-10-16T11:54:38+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/factboxweightloss-drug-developers-line-up-to-tap-lucrative-market-as-competition-heats-up-4953890",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Tesla shares rise after unveiling new Roadster with flight capabilities",
+    "source": "Investinglive",
+    "published": "2026-10-16T11:54:28+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: I-Tech Q3 2026 sales rise, but stock falls 10%",
+    "source": "Investinglive",
+    "published": "2026-10-16T11:54:28+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-itech-q3-2026-sales-rise-but-stock-falls-10-93CH-4953928",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Saab AB options signal 5.7% move ahead of earnings release",
+    "source": "Investinglive",
+    "published": "2026-10-16T11:53:51+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/saab-ab-options-signal-57-move-ahead-of-earnings-release-93CH-4953927",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Aurum PropTech Q2 FY27 slides: profit streak continues as Housing.com deal closes",
+    "source": "Investinglive",
+    "published": "2026-10-16T11:53:42+00:00",
+    "link": "https://www.investing.com/news/company-news/aurum-proptech-q2-fy27-slides-profit-streak-continues-as-housingcom-deal-closes-93CH-4953926",
+    "category_hint": "markets"
+  },
+  {
+    "title": "European stocks rise, dollar set for weekly loss after yields drop",
+    "source": "Investinglive",
+    "published": "2026-10-16T11:43:19+00:00",
+    "link": "https://www.investing.com/news/economy-news/most-asian-stocks-rise-as-calm-returns-after-coreweave-shock-indonesia-faces-market-downgrade-4952993",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar heads for weekly fall as investors gauge AI selloff impact",
+    "source": "Investinglive",
+    "published": "2026-10-16T11:43:05+00:00",
+    "link": "https://www.investing.com/news/economy-news/euro-gets-muchneeded-reprieve-as-ai-wobbles-rock-the-dollar-4952939",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Wall St futures mixed as tech wobbles again, Tesla gains",
+    "source": "Investinglive",
+    "published": "2026-10-16T11:06:24+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-st-futures-mixed-as-tech-wobbles-again-tesla-gains-4953758",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Houthis in Yemen attack palace in Aden - media reports",
+    "source": "Investinglive",
+    "published": "2026-10-16T10:51:00+00:00",
+    "link": "https://www.investing.com/news/economy-news/houthis-in-yemen-attack-palace-in-aden--media-reports-4953688",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Germany raises taxes on cigarettes, sugary drinks and alcohol",
+    "source": "Investinglive",
+    "published": "2026-10-16T10:43:31+00:00",
+    "link": "https://www.investing.com/news/economy-news/germany-raises-taxes-on-cigarettes-sugary-drinks-and-alcohol-93CH-4953662",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Take Five: Earnings, an election and an MSCI headache",
+    "source": "Investinglive",
+    "published": "2026-10-16T10:30:42+00:00",
+    "link": "https://www.investing.com/news/economy-news/take-five-earnings-an-election-and-an-msci-headache-4953632",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Italy’s August trade surplus narrows to €1.77 billion",
+    "source": "Investinglive",
+    "published": "2026-10-16T10:28:20+00:00",
+    "link": "https://www.investing.com/news/economy-news/italys-august-trade-surplus-narrows-to-177-billion-93CH-4953628",
+    "category_hint": "macro"
+  },
+  {
+    "title": "CoreWeave shares, bonds headed for steep weekly losses as AI borrowing concerns mount",
+    "source": "Investinglive",
+    "published": "2026-10-16T10:25:43+00:00",
+    "link": "https://www.investing.com/news/economy-news/coreweave-shares-bonds-headed-for-steep-weekly-losses-as-ai-borrowing-concerns-mount-4953586",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Eli Lilly’s weight-loss pill wins EU drug regulator’s backing",
+    "source": "Investinglive",
+    "published": "2026-10-16T15:37:11+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/eli-lillys-weightloss-pill-wins-eu-drug-regulators-backing-4954218",
+    "category_hint": "markets"
+  },
+  {
+    "title": "KFC switch to Coke puts PepsiCo’s food service ties in focus, analysts say",
+    "source": "Investinglive",
+    "published": "2026-10-16T15:36:57+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/kfc-switch-to-coke-puts-pepsicos-food-service-ties-in-focus-analysts-say-4954567",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Fox Factory shares tumble following CEO departure and outlook reduction",
+    "source": "Investinglive",
+    "published": "2026-10-16T15:36:57+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/fox-factory-shares-tumble-following-ceo-departure-and-outlook-reduction-4954568",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Poland stocks higher at close of trade; WIG30 up 1.11%",
+    "source": "Investinglive",
+    "published": "2026-10-16T15:35:03+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-111-4954565",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Data centers may benefit from massive rural utility loan, US official says",
+    "source": "Investinglive",
+    "published": "2026-10-16T15:30:47+00:00",
+    "link": "https://www.investing.com/news/commodities-news/data-centers-may-benefit-from-massive-rural-utility-loan-us-official-says-4954564",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Pebblebrook Hotel Trust stock hits 52-week high at $19.94",
+    "source": "Investinglive",
+    "published": "2026-10-16T15:30:42+00:00",
+    "link": "https://www.investing.com/news/company-news/pebblebrook-hotel-trust-stock-hits-52week-high-at-1994-93CH-4954563",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Turkey stocks lower at close of trade; BIST 100 down 2.89%",
+    "source": "Investinglive",
+    "published": "2026-10-16T15:30:32+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-289-4954562",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US federal bankruptcy court operations disrupted by cybersecurity incident",
+    "source": "Investinglive",
+    "published": "2026-10-16T15:30:31+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/usfederal-bankruptcy-court-operations-disrupted-bycybersecurity-incident-4954551",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.27%",
+    "source": "Investinglive",
+    "published": "2026-10-16T15:30:04+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-027-4954559",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Roadside Real Estate shareholders to sell 7.16% stake at 51p",
+    "source": "Investinglive",
+    "published": "2026-10-16T15:26:32+00:00",
+    "link": "https://www.investing.com/news/company-news/roadside-real-estate-shareholders-to-sell-716-stake-at-51p-93CH-4954558",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Chile’s pension funds requested curbs on interest-rate bets before losses, Bloomberg reports",
+    "source": "Investinglive",
+    "published": "2026-10-16T15:25:16+00:00",
+    "link": "https://www.investing.com/news/economy-news/chiles-pension-funds-requested-curbs-on-interestrate-bets-before-losses-bloomberg-reports-4954557",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar set for weekly loss as Fed hike bets fade, AI clouds outlook",
+    "source": "Investinglive",
+    "published": "2026-10-16T15:24:42+00:00",
+    "link": "https://www.investing.com/news/economy-news/euro-gets-muchneeded-reprieve-as-ai-wobbles-rock-the-dollar-4952939",
+    "category_hint": "macro"
+  },
+  {
+    "title": "CoreWeave stock, bond set for weekly plunge as rate-hike fears hit AI bet",
+    "source": "Investinglive",
+    "published": "2026-10-16T14:13:16+00:00",
+    "link": "https://www.investing.com/news/economy-news/coreweave-shares-bonds-headed-for-steep-weekly-losses-as-ai-borrowing-concerns-mount-4953586",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Canadian home sales fall in September as mortgage rates increase, CREA says",
+    "source": "Investinglive",
+    "published": "2026-10-16T14:00:46+00:00",
+    "link": "https://www.investing.com/news/economy-news/canadian-home-sales-fall-in-september-as-mortgage-rates-increase-crea-says-4953422",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US import prices increase; post largest annual gain in more than four years",
+    "source": "Investinglive",
+    "published": "2026-10-16T14:00:25+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-import-prices-increase-more-than-expected-in-september-4954066",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Central bankers eye higher rates as AI boom fuels scramble for cash",
+    "source": "Investinglive",
+    "published": "2026-10-16T13:37:02+00:00",
+    "link": "https://www.investing.com/news/economy-news/central-bankers-eye-higher-rates-as-ai-boom-fuels-scramble-for-cash-4954264",
+    "category_hint": "macro"
+  },
+  {
+    "title": "BOJ chief vows to keep raising rates, anchor inflation around target",
+    "source": "Investinglive",
+    "published": "2026-10-16T13:31:19+00:00",
+    "link": "https://www.investing.com/news/economy-news/global-inflation-debate-puts-boj-ratehike-pace-in-spotlight-4953375",
+    "category_hint": "macro"
+  },
+  {
+    "title": "IMF chief urges cooperation on AI and war risks, as US hails economic momentum",
+    "source": "Investinglive",
+    "published": "2026-10-16T13:13:08+00:00",
+    "link": "https://www.investing.com/news/economy-news/imf-chief-urges-cooperation-on-ai-and-war-risks-as-us-hails-economic-momentum-4954168",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil economic activity up 0.3% in August, matching forecasts",
+    "source": "Investinglive",
+    "published": "2026-10-16T12:31:05+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-economic-activity-up-03-in-august-matching-forecasts-4954041",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Stocks slip as dollar heads for weekly loss",
+    "source": "Investinglive",
+    "published": "2026-10-16T19:42:18+00:00",
+    "link": "https://www.investing.com/news/economy-news/most-asian-stocks-rise-as-calm-returns-after-coreweave-shock-indonesia-faces-market-downgrade-4952993",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears",
+    "source": "Investinglive",
+    "published": "2026-10-16T19:36:37+00:00",
+    "link": "https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
+    "category_hint": "markets"
+  },
+  {
+    "title": "MDB Capital Holdings co-founder Marlett buys $1,769 in stock",
+    "source": "Investinglive",
+    "published": "2026-10-16T19:31:07+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/mdb-capital-holdings-cofounder-marlett-buys-1769-in-stock-93CH-4954768",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nearly 12,000 California residents bought EVs using state rebate program",
+    "source": "Investinglive",
+    "published": "2026-10-16T19:24:26+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/nearly-12000-california-residents-bought-evs-using-state-rebate-program-4954764",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Tesla breaks $350 support with bearish momentum: Live levels",
+    "source": "Investinglive",
+    "published": "2026-10-16T19:18:24+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/tesla-rangebound-at-380-with-weak-trend-live-levels-93CH-4944787",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Bitcoin tests $81,120 support as double top plays out: Live",
+    "source": "Investinglive",
+    "published": "2026-10-16T19:18:23+00:00",
+    "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Crude Oil WTI overbought at $101.49 with RSI 78: Live levels",
+    "source": "Investinglive",
+    "published": "2026-10-16T19:18:20+00:00",
+    "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-stuck-in-tight-range-near-91-live-levels-93CH-4943297",
+    "category_hint": "markets"
+  },
+  {
+    "title": "London Gas Oil consolidates at $1,457 in tight range: Live levels",
+    "source": "Investinglive",
+    "published": "2026-10-16T19:18:19+00:00",
+    "link": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-200sma-support-after-double-top-live-93CH-4943301",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Alphabet C tests $334 support amid bearish trend: Live levels",
+    "source": "Investinglive",
+    "published": "2026-10-16T19:18:19+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/alphabet-c-squeezed-at-349-between-key-levels-live-levels-93CH-4944780",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nasdaq 100 breaks 29,361 support, RSI at 23.5: Live levels",
+    "source": "Investinglive",
+    "published": "2026-10-16T19:18:17+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-breaks-cloud-support-at-30935-live-levels-93CH-4944778",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US arms firm Anduril could make interceptors in Europe, executive says",
+    "source": "Investinglive",
+    "published": "2026-10-16T19:06:24+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says-4954757",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar heads for weekly loss as Fed hike bets fade, AI jitters linger",
+    "source": "Investinglive",
+    "published": "2026-10-16T19:00:39+00:00",
+    "link": "https://www.investing.com/news/economy-news/euro-gets-muchneeded-reprieve-as-ai-wobbles-rock-the-dollar-4952939",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US budget deficit widens to $1.99 trillion for fiscal 2026",
+    "source": "Investinglive",
+    "published": "2026-10-16T18:54:17+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-budget-deficit-widens-to-199-trillion-for-fiscal-2026-4954742",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Anthropic says Claude solved 25-year cryptography mystery in 30 minutes",
+    "source": "Investinglive",
+    "published": "2026-10-16T18:53:20+00:00",
+    "link": "https://www.investing.com/news/economy-news/anthropic-says-claude-solved-25year-cryptography-mystery-in-30-minutes-4954741",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed market review: hot inflation data raises October hike odds ahead of FOMC",
+    "source": "Investinglive",
+    "published": "2026-10-16T17:31:13+00:00",
+    "link": "https://www.investing.com/news/economy-news/fed-market-review-hot-inflation-data-raises-october-hike-odds-ahead-of-fomc-93CH-4954682",
+    "category_hint": "macro"
+  },
+  {
+    "title": "European Commission to propose additional China import curbs",
+    "source": "Investinglive",
+    "published": "2026-10-16T17:24:17+00:00",
+    "link": "https://www.investing.com/news/economy-news/european-commission-to-propose-additional-china-import-curbs-93CH-4954672",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US regional banks join bigger peers in signaling resilient economy as lending holds firm",
+    "source": "Investinglive",
+    "published": "2026-10-16T17:00:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-regional-banks-join-bigger-peers-in-signaling-resilient-economy-as-lending-holds-firm-4954644",
+    "category_hint": "macro"
+  },
+  {
+    "title": "CoreWeave’s CEO sold nearly $1 billion of stock since IPO, filings show",
+    "source": "Investinglive",
+    "published": "2026-10-16T16:54:43+00:00",
+    "link": "https://www.investing.com/news/economy-news/coreweaves-ceo-sold-nearly-1-billion-of-stock-since-ipo-filings-show-4954635",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Goldcana plans C$1 million flow-through private placement",
+    "source": "Investinglive",
+    "published": "2026-10-16T23:48:29+00:00",
+    "link": "https://www.investing.com/news/company-news/goldcana-plans-c1-million-flowthrough-private-placement-93CH-4955016",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Adaptive biotechnologies president & COO Rubinstein sells $897k stock",
+    "source": "Investinglive",
+    "published": "2026-10-16T23:46:08+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president--coo-rubinstein-sells-897k-stock-93CH-4955015",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Zone Frontier CEO Tyler Hassen buys $55,150 in common stock",
+    "source": "Investinglive",
+    "published": "2026-10-16T23:45:54+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/zone-frontier-ceo-tyler-hassen-buys-55150-in-common-stock-93CH-4955013",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Global hedge funds hammered by AI selloff this week, Asia managers lead losses",
+    "source": "Investinglive",
+    "published": "2026-10-16T23:42:17+00:00",
+    "link": "https://www.investing.com/news/economy-news/ai-selloff-hammers-hedge-funds-this-week-asia-managers-lead-losses-4952963",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Iran war: Missiles target Saudi oil hub as Yemen conflict escalates",
+    "source": "Investinglive",
+    "published": "2026-10-16T23:39:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/iran-war-missiles-target-saudi-oil-hub-as-yemen-conflict-escalates-4955004",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Blaize declares preferred stock dividend ahead of potential reverse split",
+    "source": "Investinglive",
+    "published": "2026-10-16T23:36:29+00:00",
+    "link": "https://www.investing.com/news/company-news/blaize-declares-preferred-stock-dividend-ahead-of-potential-reverse-split-93CH-4955003",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Kratos Defense’s president Carrai disposes of $259,116 in common stock",
+    "source": "Investinglive",
+    "published": "2026-10-16T23:31:21+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/kratos-defenses-president-carrai-disposes-of-259116-in-common-stock-93CH-4954999",
+    "category_hint": "markets"
+  },
+  {
+    "title": "BillionToOne CEO Oguzhan Atay sells $1.09 million in stock",
+    "source": "Investinglive",
+    "published": "2026-10-16T23:31:20+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/billiontoone-ceo-oguzhan-atay-sells-109-million-in-stock-93CH-4954998",
+    "category_hint": "markets"
+  },
+  {
+    "title": "StandardAero’s chief legal officer sells $16,567 in company stock",
+    "source": "Investinglive",
+    "published": "2026-10-16T23:30:56+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/standardaeros-chief-legal-officer-sells-16567-in-company-stock-93CH-4954996",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
+    "source": "Investinglive",
+    "published": "2026-10-16T23:24:17+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports-4954941",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Anthropic proposes AI safety bill with strict intervention thresholds - Politico",
+    "source": "Investinglive",
+    "published": "2026-10-16T22:56:41+00:00",
+    "link": "https://www.investing.com/news/economy-news/anthropic-proposes-ai-safety-bill-with-strict-intervention-thresholds--politico-4954958",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil may offer credit lines to ease impact of tax, labor reforms, minister says",
+    "source": "Investinglive",
+    "published": "2026-10-16T21:30:56+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-may-offer-credit-lines-to-ease-impact-of-tax-labor-reforms-minister-says-4954855",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US air traffic controllers reach deal with FAA for 2.8% pay rise, WSJ reports",
+    "source": "Investinglive",
+    "published": "2026-10-16T21:06:39+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-air-traffic-controllers-reach-deal-with-faa-for-28-pay-rise-wsj-reports-4954860",
+    "category_hint": "macro"
+  }
+]
