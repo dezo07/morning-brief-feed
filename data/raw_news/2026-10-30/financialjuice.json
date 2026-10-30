@@ -1,0 +1,956 @@
+[
+  {
+    "NewsID": 9829162,
+    "title": "ECB's Nagel: Mid-term price expectations must stay firmly anchored.",
+    "published": "2026-10-30T04:38:22.923",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829162/ECBs-Nagel-Mid-term-price-expectations-must-stay-firmly-anchored.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:45:02.350680-04:00"
+  },
+  {
+    "NewsID": 9829161,
+    "title": "ECB's Nagel: Can't rule out that prices will rise in coming weeks.",
+    "published": "2026-10-30T04:38:11.567",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829161/ECBs-Nagel-Cant-rule-out-that-prices-will-rise-in-coming-weeks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:45:02.350742-04:00"
+  },
+  {
+    "NewsID": 9829160,
+    "title": "ECB's Nagel: ECB's decision to hold wasn't an easy one.",
+    "published": "2026-10-30T04:37:58.28",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829160/ECBs-Nagel-ECBs-decision-to-hold-wasnt-an-easy-one.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:45:02.350768-04:00"
+  },
+  {
+    "NewsID": 9829159,
+    "title": "ECB's Nagel: No significant 2nd-round effects observed so far.",
+    "published": "2026-10-30T04:37:43.023",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829159/ECBs-Nagel-No-significant-2nd-round-effects-observed-so-far.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:45:02.350787-04:00"
+  },
+  {
+    "NewsID": 9829148,
+    "title": "UK October decision maker year-ahead CPI expectations 3.4%.",
+    "published": "2026-10-30T04:30:43.33",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829148/UK-October-decision-maker-year-ahead-CPI-expectations-34.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:45:02.350806-04:00"
+  },
+  {
+    "NewsID": 9829145,
+    "title": "Brent crude oil expected to average $92.88 per barrel in 2026 versus $89.05 forecast in September - Poll.",
+    "published": "2026-10-30T04:28:25.453",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829145/Brent-crude-oil-expected-to-average-9288-per-barrel-in-2026-versus-8905-forecast-in-September---Poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:30:02.615109-04:00"
+  },
+  {
+    "NewsID": 9829144,
+    "title": "US crude oil expected to average $86.60 per barrel in 2026 versus $83.90 forecast in September - Poll",
+    "published": "2026-10-30T04:28:10.363",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829144/US-crude-oil-expected-to-average-8660-per-barrel-in-2026-versus-8390-forecast-in-September---Poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:30:02.615180-04:00"
+  },
+  {
+    "NewsID": 9829112,
+    "title": "North Rhine CPI MoM Actual -0.2% (Forecast -, Previous 0.6%)",
+    "published": "2026-10-30T04:07:27.683",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829112/North-Rhine-CPI-MoM-Actual--02-Forecast---Previous-06.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:15:01.813625-04:00"
+  },
+  {
+    "NewsID": 9829110,
+    "title": "North-Rhine CPI YoY Actual 2.7% (Forecast -, Previous 3.3%)",
+    "published": "2026-10-30T04:05:06.71",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829110/North-Rhine-CPI-YoY-Actual-27-Forecast---Previous-33.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:15:01.813677-04:00"
+  },
+  {
+    "NewsID": 9829088,
+    "title": "Spanish Current Account Balance Actual 5.05B (Forecast -, Previous 5.91B)",
+    "published": "2026-10-30T04:02:40.28",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829088/Spanish-Current-Account-Balance-Actual-505B-Forecast---Previous-591B.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:15:01.813701-04:00"
+  },
+  {
+    "NewsID": 9829085,
+    "title": "Italian GDP Prelim YoY Actual 0.8% (Forecast -, Previous 1.0%)",
+    "published": "2026-10-30T04:02:36.727",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829085/Italian-GDP-Prelim-YoY-Actual-08-Forecast---Previous-10.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:15:01.813721-04:00"
+  },
+  {
+    "NewsID": 9829084,
+    "title": "Italian GDP Prelim QoQ Actual 0% (Forecast 0.1%, Previous 0.2%)",
+    "published": "2026-10-30T04:00:51.767",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829084/Italian-GDP-Prelim-QoQ-Actual-0-Forecast-01-Previous-02.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:15:01.813822-04:00"
+  },
+  {
+    "NewsID": 9829080,
+    "title": "German GDP QoQ Flash  Actual 0.2% (Forecast 0.1%, Previous 0.3%)",
+    "published": "2026-10-30T04:01:42.683",
+    "level": "active",
+    "link": "https://www.financialjuice.com/News/9829080/German-GDP-QoQ-Flash--Actual-02-Forecast-01-Previous-03.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:15:01.813762-04:00"
+  },
+  {
+    "NewsID": 9829079,
+    "title": "German GDP YoY SA Flash  Actual 1.2% (Forecast 1.1%, Previous 1.0%)",
+    "published": "2026-10-30T04:01:42.687",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829079/German-GDP-YoY-SA-Flash--Actual-12-Forecast-11-Previous-10.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:15:01.813741-04:00"
+  },
+  {
+    "NewsID": 9829078,
+    "title": "German GDP YoY NSA Flash  Actual 1.3% (Forecast 1.2%, Previous 1.0%)",
+    "published": "2026-10-30T04:00:04.413",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9829078/German-GDP-YoY-NSA-Flash--Actual-13-Forecast-12-Previous-10.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:15:01.813842-04:00"
+  },
+  {
+    "NewsID": 9829077,
+    "title": "Bavaria CPI MoM Actual 0.0% (Forecast -, Previous 0.6%)",
+    "published": "2026-10-30T04:01:39.733",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829077/Bavaria-CPI-MoM-Actual-00-Forecast---Previous-06.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:15:01.813782-04:00"
+  },
+  {
+    "NewsID": 9829076,
+    "title": "Bavaria CPI YoY Actual 2.8% (Forecast -, Previous 3.2%)",
+    "published": "2026-10-30T04:01:39.73",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829076/Bavaria-CPI-YoY-Actual-28-Forecast---Previous-32.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:15:01.813802-04:00"
+  },
+  {
+    "NewsID": 9829075,
+    "title": "German Unemployment Total SA Actual 3.016M (Forecast -, Previous 3.012M)",
+    "published": "2026-10-30T03:56:40.133",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829075/German-Unemployment-Total-SA-Actual-3016M-Forecast---Previous-3012M.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:00:02.331499-04:00"
+  },
+  {
+    "NewsID": 9829074,
+    "title": "German Unemployment Total NSA Actual 2.955M (Forecast -, Previous 2.994M)",
+    "published": "2026-10-30T03:56:39.793",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829074/German-Unemployment-Total-NSA-Actual-2955M-Forecast---Previous-2994M.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:00:02.331538-04:00"
+  },
+  {
+    "NewsID": 9829073,
+    "title": "German Unemployment Rate Actual 6.4% (Forecast 6.4%, Previous 6.4%)",
+    "published": "2026-10-30T03:55:00.267",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9829073/German-Unemployment-Rate-Actual-64-Forecast-64-Previous-64.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:00:02.331552-04:00"
+  },
+  {
+    "NewsID": 9829072,
+    "title": "German Unemployment Change SA Actual 4k (Forecast 5k, Previous 12k)",
+    "published": "2026-10-30T03:55:00.193",
+    "level": "active",
+    "link": "https://www.financialjuice.com/News/9829072/German-Unemployment-Change-SA-Actual-4k-Forecast-5k-Previous-12k.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:00:02.331564-04:00"
+  },
+  {
+    "NewsID": 9829071,
+    "title": "Japan's Fin. Min. Katayama: Will consider specific amount and how to handle surplus arising from BoJ's ETF sale in budget formulation.",
+    "published": "2026-10-30T03:54:24.3",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829071/Japans-Fin-Min-Katayama-Will-consider-specific-amount-and-how-to-handle-surplus-arising-from-BoJs-ETF-sale-in-budget-formulation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:00:02.331576-04:00"
+  },
+  {
+    "NewsID": 9829070,
+    "title": "ECB's Rehn: Need to remain vigilant on second round effects.",
+    "published": "2026-10-30T03:49:01.29",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829070/ECBs-Rehn-Need-to-remain-vigilant-on-second-round-effects.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:00:02.331604-04:00"
+  },
+  {
+    "NewsID": 9829069,
+    "title": "ECB's Rehn: Risks of higher inflation clearly remain elevated.",
+    "published": "2026-10-30T03:48:06.877",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829069/ECBs-Rehn-Risks-of-higher-inflation-clearly-remain-elevated.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:00:02.331617-04:00"
+  },
+  {
+    "NewsID": 9829052,
+    "title": "ECB's Rehn: Outlook for growth, inflation still very uncertain.",
+    "published": "2026-10-30T03:45:36.587",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829052/ECBs-Rehn-Outlook-for-growth-inflation-still-very-uncertain.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T05:00:02.331637-04:00"
+  },
+  {
+    "NewsID": 9829046,
+    "title": "Saxony CPI YoY Actual 2.8% (Forecast -, Previous 3.4%)",
+    "published": "2026-10-30T03:41:19.263",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829046/Saxony-CPI-YoY-Actual-28-Forecast---Previous-34.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:45:02.556989-04:00"
+  },
+  {
+    "NewsID": 9829045,
+    "title": "Saxony CPI MoM Actual -0.2% (Forecast -, Previous 0.6%)",
+    "published": "2026-10-30T03:41:18.76",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829045/Saxony-CPI-MoM-Actual--02-Forecast---Previous-06.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:45:02.557051-04:00"
+  },
+  {
+    "NewsID": 9829023,
+    "title": "Dutch GDP YoY Prelim NSA Actual 2.1% (Forecast 1.3%, Previous 1.6%)",
+    "published": "2026-10-30T03:31:39.683",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829023/Dutch-GDP-YoY-Prelim-NSA-Actual-21-Forecast-13-Previous-16.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:45:02.557076-04:00"
+  },
+  {
+    "NewsID": 9829022,
+    "title": "Dutch GDP QoQ Prelim SA Actual 0.6% (Forecast 0.3%, Previous 0.6%)",
+    "published": "2026-10-30T03:30:02.383",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9829022/Dutch-GDP-QoQ-Prelim-SA-Actual-06-Forecast-03-Previous-06.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:45:02.557096-04:00"
+  },
+  {
+    "NewsID": 9829007,
+    "title": "German Chancellor Merz: Working to bring Iran war to an end as soon as possible, it's having a massive impact on Europe.",
+    "published": "2026-10-30T03:09:36.283",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829007/German-Chancellor-Merz-Working-to-bring-Iran-war-to-an-end-as-soon-as-possible-its-having-a-massive-impact-on-Europe.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:15:01.888013-04:00"
+  },
+  {
+    "NewsID": 9829006,
+    "title": "German Chancellor Merz: Fact remains that US is shifting foreign policy, and we must do the same.",
+    "published": "2026-10-30T03:07:29.1",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9829006/German-Chancellor-Merz-Fact-remains-that-US-is-shifting-foreign-policy-and-we-must-do-the-same.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:15:01.888070-04:00"
+  },
+  {
+    "NewsID": 9828981,
+    "title": "Spanish Estimated GDP QoQ Actual 0.6% (Forecast 0.6%, Previous 0.7%)",
+    "published": "2026-10-30T03:01:39.81",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828981/Spanish-Estimated-GDP-QoQ-Actual-06-Forecast-06-Previous-07.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:15:01.888095-04:00"
+  },
+  {
+    "NewsID": 9828980,
+    "title": "Spanish Estimated GDP YoY Actual 2.7% (Forecast 2.7%, Previous 2.6%)",
+    "published": "2026-10-30T03:01:39.723",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828980/Spanish-Estimated-GDP-YoY-Actual-27-Forecast-27-Previous-26.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:15:01.888114-04:00"
+  },
+  {
+    "NewsID": 9828979,
+    "title": "Spanish CPI YoY Flash Actual 4.9% (Forecast 4.9%, Previous 4.9%)",
+    "published": "2026-10-30T03:00:00.6",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828979/Spanish-CPI-YoY-Flash-Actual-49-Forecast-49-Previous-49.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:15:01.888132-04:00"
+  },
+  {
+    "NewsID": 9828978,
+    "title": "Swiss KOF Indicator Actual 107.6 (Forecast 108.1, Previous 109.1)",
+    "published": "2026-10-30T03:00:00.52",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828978/Swiss-KOF-Indicator-Actual-1076-Forecast-1081-Previous-1091.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:15:01.888150-04:00"
+  },
+  {
+    "NewsID": 9828977,
+    "title": "Spanish CPI MoM Flash Actual 0.6% (Forecast 0.7%, Previous 0.30%)",
+    "published": "2026-10-30T03:00:00.45",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828977/Spanish-CPI-MoM-Flash-Actual-06-Forecast-07-Previous-030.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:15:01.888186-04:00"
+  },
+  {
+    "NewsID": 9828976,
+    "title": "Spanish HICP YoY Flash  Actual 4.9% (Forecast 4.9%, Previous 5.0%)",
+    "published": "2026-10-30T03:00:00.367",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828976/Spanish-HICP-YoY-Flash--Actual-49-Forecast-49-Previous-50.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:15:01.888214-04:00"
+  },
+  {
+    "NewsID": 9828975,
+    "title": "Spanish HICP MoM Flash  Actual 0.5% (Forecast 0.5%, Previous 0.6%)",
+    "published": "2026-10-30T03:00:00.257",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828975/Spanish-HICP-MoM-Flash--Actual-05-Forecast-05-Previous-06.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:15:01.888236-04:00"
+  },
+  {
+    "NewsID": 9828974,
+    "title": "ECB's Dolenc: Inflation could remain above 2% in coming years.",
+    "published": "2026-10-30T02:53:19.44",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828974/ECBs-Dolenc-Inflation-could-remain-above-2-in-coming-years.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:00:02.149875-04:00"
+  },
+  {
+    "NewsID": 9828973,
+    "title": "ECB's Dolenc: Higher energy prices risk more persistent inflation.",
+    "published": "2026-10-30T02:53:04.65",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828973/ECBs-Dolenc-Higher-energy-prices-risk-more-persistent-inflation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:00:02.149913-04:00"
+  },
+  {
+    "NewsID": 9828972,
+    "title": "ECB's Dolenc: Shock not translating into broader price pressures yet.",
+    "published": "2026-10-30T02:52:13.523",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828972/ECBs-Dolenc-Shock-not-translating-into-broader-price-pressures-yet.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:00:02.149927-04:00"
+  },
+  {
+    "NewsID": 9828957,
+    "title": "French CPI YoY NSA Prelim Actual 3.4% (Forecast 3.3%, Previous 3.1%)",
+    "published": "2026-10-30T02:45:05.637",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9828957/French-CPI-YoY-NSA-Prelim-Actual-34-Forecast-33-Previous-31.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:00:02.149976-04:00"
+  },
+  {
+    "NewsID": 9828956,
+    "title": "French HICP MoM Prelim  Actual 0.4% (Forecast 0.3%, Previous -0.3%)",
+    "published": "2026-10-30T02:45:04.083",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828956/French-HICP-MoM-Prelim--Actual-04-Forecast-03-Previous--03.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:00:02.149988-04:00"
+  },
+  {
+    "NewsID": 9828955,
+    "title": "French HICP YoY Prelim  Actual 3.8% (Forecast 3.6%, Previous 3.4%)",
+    "published": "2026-10-30T02:46:39.923",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9828955/French-HICP-YoY-Prelim--Actual-38-Forecast-36-Previous-34.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:00:02.149952-04:00"
+  },
+  {
+    "NewsID": 9828954,
+    "title": "French CPI MoM NSA Prelim Actual 0.4% (Forecast 0.2%, Previous -0.3%)",
+    "published": "2026-10-30T02:45:03.183",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9828954/French-CPI-MoM-NSA-Prelim-Actual-04-Forecast-02-Previous--03.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:00:02.150000-04:00"
+  },
+  {
+    "NewsID": 9828953,
+    "title": "French Non-Farm Payrolls QoQ Actual -0.1% (Forecast -, Previous -0.1%)",
+    "published": "2026-10-30T02:46:40.17",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828953/French-Non-Farm-Payrolls-QoQ-Actual--01-Forecast---Previous--01.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:00:02.149940-04:00"
+  },
+  {
+    "NewsID": 9828952,
+    "title": "French PPI YoY Actual 6.8% (Forecast -, Previous 4.8% ,Revision 4.9%)",
+    "published": "2026-10-30T02:46:39.84",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828952/French-PPI-YoY-Actual-68-Forecast---Previous-48-Revision-49.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:00:02.149964-04:00"
+  },
+  {
+    "NewsID": 9828951,
+    "title": "French PPI MoM Actual 1.7% (Forecast -, Previous 1.0%)",
+    "published": "2026-10-30T02:45:00.32",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828951/French-PPI-MoM-Actual-17-Forecast---Previous-10.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T04:00:02.150012-04:00"
+  },
+  {
+    "NewsID": 9828950,
+    "title": "BoJ's Governor Ueda: We are closely watching springtime wage hike talks.",
+    "published": "2026-10-30T02:35:25.577",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828950/BoJs-Governor-Ueda-We-are-closely-watching-springtime-wage-hike-talks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T03:45:02.420678-04:00"
+  },
+  {
+    "NewsID": 9828891,
+    "title": "Currency Strength Chart: Strongest: CAD, GBP, CHF, AUD, JPY, USD, NZD, EUR - Weakest",
+    "published": "2026-10-30T02:02:16.297",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828891/Currency-Strength-Chart-Strongest-CAD-GBP-CHF-AUD-JPY-USD-NZD-EUR---Weakest.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T03:15:01.899024-04:00"
+  },
+  {
+    "NewsID": 9828862,
+    "title": "German Imports Prices MoM Actual 2.1% (Forecast 2%, Previous 1.0%)",
+    "published": "2026-10-30T02:00:03.407",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828862/German-Imports-Prices-MoM-Actual-21-Forecast-2-Previous-10.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T03:15:01.899088-04:00"
+  },
+  {
+    "NewsID": 9828861,
+    "title": "German Import Prices YoY Actual 10.4% (Forecast 10.3%, Previous 8.3%)",
+    "published": "2026-10-30T02:00:03.33",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828861/German-Import-Prices-YoY-Actual-104-Forecast-103-Previous-83.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T03:15:01.899115-04:00"
+  },
+  {
+    "NewsID": 9828860,
+    "title": "France Fin. Min. Lescure: Need a budget to boost confidence and economy.",
+    "published": "2026-10-30T01:54:33.403",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828860/France-Fin-Min-Lescure-Need-a-budget-to-boost-confidence-and-economy.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T03:00:02.330791-04:00"
+  },
+  {
+    "NewsID": 9828859,
+    "title": "France Fin. Min. Lescure: French economy ground to halt in 2026.",
+    "published": "2026-10-30T01:53:55.83",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828859/France-Fin-Min-Lescure-French-economy-ground-to-halt-in-2026.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T03:00:02.330859-04:00"
+  },
+  {
+    "NewsID": 9828858,
+    "title": "BoJ's Governor Ueda: Not yet to declare inflation target has been achieved as we think it is important for inflation to be stably, sustainably around 2%.",
+    "published": "2026-10-30T01:51:35.643",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828858/BoJs-Governor-Ueda-Not-yet-to-declare-inflation-target-has-been-achieved-as-we-think-it-is-important-for-inflation-to-be-stably-sustainably-around-2.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T03:00:02.330886-04:00"
+  },
+  {
+    "NewsID": 9828843,
+    "title": "RBA cash rate of 4.85% to be peak for the year, 27 of 29 economists say - Poll.",
+    "published": "2026-10-30T01:45:07.267",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828843/RBA-cash-rate-of-485-to-be-peak-for-the-year-27-of-29-economists-say---Poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T03:00:02.330907-04:00"
+  },
+  {
+    "NewsID": 9828842,
+    "title": "Reserve Bank of Australia to raise cash rate to 4.85% on November 3, 30 of 32 economists say - Poll.",
+    "published": "2026-10-30T01:44:43.483",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828842/Reserve-Bank-of-Australia-to-raise-cash-rate-to-485-on-November-3-30-of-32-economists-say---Poll.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:45:02.426948-04:00"
+  },
+  {
+    "NewsID": 9828841,
+    "title": "BoJ's Governor Ueda: Various govt measures stimulated economy to lead to 2% price target being met.",
+    "published": "2026-10-30T01:41:37.22",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828841/BoJs-Governor-Ueda-Various-govt-measures-stimulated-economy-to-lead-to-2-price-target-being-met.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:45:02.427000-04:00"
+  },
+  {
+    "NewsID": 9828840,
+    "title": "BoJ's Governor Ueda: Japan's financial conditions are accommodative.",
+    "published": "2026-10-30T01:38:24.503",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828840/BoJs-Governor-Ueda-Japans-financial-conditions-are-accommodative.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:45:02.427022-04:00"
+  },
+  {
+    "NewsID": 9828839,
+    "title": "BoJ's Governor Ueda: We need to watch impact of FX, AI and Middle East.",
+    "published": "2026-10-30T01:36:08.453",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828839/BoJs-Governor-Ueda-We-need-to-watch-impact-of-FX-AI-and-Middle-East.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:45:02.427042-04:00"
+  },
+  {
+    "NewsID": 9828838,
+    "title": "BoJ's Governor Ueda: Underlying CPI inflation at level generally consistent with 2% price stability target, expected to remain at around that level.",
+    "published": "2026-10-30T01:35:25.533",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828838/BoJs-Governor-Ueda-Underlying-CPI-inflation-at-level-generally-consistent-with-2-price-stability-target-expected-to-remain-at-around-that-level.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:45:02.427083-04:00"
+  },
+  {
+    "NewsID": 9828837,
+    "title": "BoJ's Governor Ueda: Mid- to long-term inflation expectations are at around 2%.",
+    "published": "2026-10-30T01:35:03.073",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828837/BoJs-Governor-Ueda-Mid--to-long-term-inflation-expectations-are-at-around-2.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:45:02.427103-04:00"
+  },
+  {
+    "NewsID": 9828836,
+    "title": "BoJ's Governor Ueda: Japan's economy expected to continue growing moderately.",
+    "published": "2026-10-30T01:33:40.033",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828836/BoJs-Governor-Ueda-Japans-economy-expected-to-continue-growing-moderately.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:45:02.427122-04:00"
+  },
+  {
+    "NewsID": 9828835,
+    "title": "Tech Selloff Deepens as Amazon and Intel Disappoint - Asia Market Wrap",
+    "published": "2026-10-30T01:31:58.387",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828835/Tech-Selloff-Deepens-as-Amazon-and-Intel-Disappoint---Asia-Market-Wrap.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:45:02.427141-04:00"
+  },
+  {
+    "NewsID": 9828827,
+    "title": "French Consumer Spending MoM Actual -0.5% (Forecast 0.1%, Previous -0.5%)",
+    "published": "2026-10-30T01:31:39.74",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828827/French-Consumer-Spending-MoM-Actual--05-Forecast-01-Previous--05.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:45:02.427174-04:00"
+  },
+  {
+    "NewsID": 9828826,
+    "title": "French GDP YoY Prelim Actual -0.1% (Forecast 0.3%, Previous 0.5%)",
+    "published": "2026-10-30T01:30:00.293",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828826/French-GDP-YoY-Prelim-Actual--01-Forecast-03-Previous-05.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:45:02.427198-04:00"
+  },
+  {
+    "NewsID": 9828825,
+    "title": "French GDP QoQ Prelim Actual -0.1% (Forecast 0.1%, Previous 0.0%)",
+    "published": "2026-10-30T01:30:00.23",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9828825/French-GDP-QoQ-Prelim-Actual--01-Forecast-01-Previous-00.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:45:02.427227-04:00"
+  },
+  {
+    "NewsID": 9828824,
+    "title": "Qatari mediators returned to Tehran on Friday as part of effort to reach a US-Iran deal, mediation talks have been coordinated with US - Official Briefed on Talks.",
+    "published": "2026-10-30T01:29:00.26",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828824/Qatari-mediators-returned-to-Tehran-on-Friday-as-part-of-effort-to-reach-a-US-Iran-deal-mediation-talks-have-been-coordinated-with-US---Official-Briefed-on-Talks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:30:02.690795-04:00"
+  },
+  {
+    "NewsID": 9828823,
+    "title": "Morning Juice - Europe Session Prep",
+    "published": "2026-10-30T01:26:58.407",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828823/Morning-Juice---Europe-Session-Prep.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:30:02.690849-04:00"
+  },
+  {
+    "NewsID": 9828822,
+    "title": "ECB's Simkus: We don't see second-round effects yet.",
+    "published": "2026-10-30T01:17:05.967",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828822/ECBs-Simkus-We-dont-see-second-round-effects-yet.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:30:02.690872-04:00"
+  },
+  {
+    "NewsID": 9828811,
+    "title": "ECB's Simkus: Likelihood of energy spillover has risen.",
+    "published": "2026-10-30T01:16:09.91",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9828811/ECBs-Simkus-Likelihood-of-energy-spillover-has-risen.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:30:02.690893-04:00"
+  },
+  {
+    "NewsID": 9828794,
+    "title": "Two killed during demining in Oleshky: Russian human rights commissioner, TASS quotes",
+    "published": "2026-10-30T01:00:34.063",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828794/Two-killed-during-demining-in-Oleshky-Russian-human-rights-commissioner-TASS-quotes.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:15:01.870339-04:00"
+  },
+  {
+    "NewsID": 9828792,
+    "title": "Finnish September GDP increases 2.0% year on year: Statistics Finland",
+    "published": "2026-10-30T01:00:17.03",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828792/Finnish-September-GDP-increases-20-year-on-year-Statistics-Finland.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:15:01.870392-04:00"
+  },
+  {
+    "NewsID": 9828791,
+    "title": "Local residents can evacuate Oleshky until 1400 local time on October 30: Russian human rights commissioner says",
+    "published": "2026-10-30T00:58:30.75",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828791/Local-residents-can-evacuate-Oleshky-until-1400-local-time-on-October-30-Russian-human-rights-commissioner-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:00:02.324521-04:00"
+  },
+  {
+    "NewsID": 9828790,
+    "title": "Yemen's Houthis reject claims of Mecca attack after Saudi Arabia says it downed Houthi drone",
+    "published": "2026-10-30T00:52:21.513",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828790/Yemens-Houthis-reject-claims-of-Mecca-attack-after-Saudi-Arabia-says-it-downed-Houthi-drone.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:00:02.324562-04:00"
+  },
+  {
+    "NewsID": 9828789,
+    "title": "Russian human rights commissioner: ceasefire stable in humanitarian operation zone in russian-controlled Oleshky",
+    "published": "2026-10-30T00:52:17.15",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828789/Russian-human-rights-commissioner-ceasefire-stable-in-humanitarian-operation-zone-in-russian-controlled-Oleshky.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T02:00:02.324589-04:00"
+  },
+  {
+    "NewsID": 9828782,
+    "title": "Ukraine, Russia human rights commissioners meet in Russian-held Oleshky, footage by Russian state TV Vesti",
+    "published": "2026-10-30T00:34:17.95",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828782/Ukraine-Russia-human-rights-commissioners-meet-in-Russian-held-Oleshky-footage-by-Russian-state-TV-Vesti.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T01:45:02.556627-04:00"
+  },
+  {
+    "NewsID": 9828742,
+    "title": "Russia hits port facilities in Odesa region, cargo ships: Russian newswires quote defence ministry",
+    "published": "2026-10-30T00:01:28.35",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828742/Russia-hits-port-facilities-in-Odesa-region-cargo-ships-Russian-newswires-quote-defence-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T01:15:01.695059-04:00"
+  },
+  {
+    "NewsID": 9828729,
+    "title": "Russia hits military and energy sites in Ukraine’s Kyiv and Dnipropetrovsk region: Russian newswires cite defense ministry",
+    "published": "2026-10-30T00:00:43.547",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828729/Russia-hits-military-and-energy-sites-in-Ukraines-Kyiv-and-Dnipropetrovsk-region-Russian-newswires-cite-defense-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T01:15:01.695108-04:00"
+  },
+  {
+    "NewsID": 9828725,
+    "title": "Japanese Housing Starts YoY Actual -2.743% (Forecast 2.85%, Previous 6.1%)",
+    "published": "2026-10-30T00:00:12.903",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828725/Japanese-Housing-Starts-YoY-Actual--2743-Forecast-285-Previous-61.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T01:15:01.695130-04:00"
+  },
+  {
+    "NewsID": 9828724,
+    "title": "Pentagon officials tell some Nato allies to moderate rhetoric on Russian threat, sources say",
+    "published": "2026-10-30T00:00:04.87",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828724/Pentagon-officials-tell-some-Nato-allies-to-moderate-rhetoric-on-Russian-threat-sources-say.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T01:15:01.695150-04:00"
+  },
+  {
+    "NewsID": 9828723,
+    "title": "Officials in Lithuania, Latvia and Estonia among those receiving message, sources:",
+    "published": "2026-10-30T00:00:04.78",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828723/Officials-in-Lithuania-Latvia-and-Estonia-among-those-receiving-message-sources.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T01:15:01.695189-04:00"
+  },
+  {
+    "NewsID": 9828712,
+    "title": "Japan September gasoline sales drop 8.5% year on year: meti",
+    "published": "2026-10-29T23:30:40.757",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828712/Japan-September-gasoline-sales-drop-85-year-on-year-meti.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:45:01.677329-04:00"
+  },
+  {
+    "NewsID": 9828711,
+    "title": "Japan September kerosene sales rise 7.3% year on year: Meti",
+    "published": "2026-10-29T23:30:40.747",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828711/Japan-September-kerosene-sales-rise-73-year-on-year-Meti.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:45:01.677393-04:00"
+  },
+  {
+    "NewsID": 9828710,
+    "title": "Japan September crude oil imports decline 17.7% year-on-year: Meti",
+    "published": "2026-10-29T23:30:40.543",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828710/Japan-September-crude-oil-imports-decline-177-year-on-year-Meti.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:45:01.677442-04:00"
+  },
+  {
+    "NewsID": 9828709,
+    "title": "Japan September total oil product sales down 10.4% year on year: meti",
+    "published": "2026-10-29T23:30:40.54",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828709/Japan-September-total-oil-product-sales-down-104-year-on-year-meti.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:45:01.677465-04:00"
+  },
+  {
+    "NewsID": 9828679,
+    "title": "Japan finance minister Katayama: no remarks on today's BoJ decision",
+    "published": "2026-10-29T22:59:51.267",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828679/Japan-finance-minister-Katayama-no-remarks-on-todays-BoJ-decision.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842421-04:00"
+  },
+  {
+    "NewsID": 9828678,
+    "title": "Japan finance minister Katayama: expect BoJ to coordinate closely with government to reach 2% inflation target",
+    "published": "2026-10-29T22:59:33.787",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828678/Japan-finance-minister-Katayama-expect-BoJ-to-coordinate-closely-with-government-to-reach-2-inflation-target.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842459-04:00"
+  },
+  {
+    "NewsID": 9828677,
+    "title": "Saudi-led coalition: drone launched by Yemen's Houthis over Mecca destroyed",
+    "published": "2026-10-29T22:57:19.327",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828677/Saudi-led-coalition-drone-launched-by-Yemens-Houthis-over-Mecca-destroyed.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842484-04:00"
+  },
+  {
+    "NewsID": 9828640,
+    "title": "UKMTO: fire now reported extinguished, vessel proceeding to next port of call",
+    "published": "2026-10-29T22:16:55.23",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828640/UKMTO-fire-now-reported-extinguished-vessel-proceeding-to-next-port-of-call.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842499-04:00"
+  },
+  {
+    "NewsID": 9828639,
+    "title": "UKMTO: subsequent explosions triggered a fire in engine room temporarily disabling vessel",
+    "published": "2026-10-29T22:16:40.717",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828639/UKMTO-subsequent-explosions-triggered-a-fire-in-engine-room-temporarily-disabling-vessel.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842511-04:00"
+  },
+  {
+    "NewsID": 9828638,
+    "title": "Dollar/yen extends losses, last down 0.37% at 157.115",
+    "published": "2026-10-29T22:16:31.66",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828638/Dollaryen-extends-losses-last-down-037-at-157115.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842523-04:00"
+  },
+  {
+    "NewsID": 9828637,
+    "title": "UKMTO on incident northeast of Oman: tanker approached on port side by small boat that attached two explosives to hull above waterline",
+    "published": "2026-10-29T22:16:19.527",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828637/UKMTO-on-incident-northeast-of-Oman-tanker-approached-on-port-side-by-small-boat-that-attached-two-explosives-to-hull-above-waterline.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842536-04:00"
+  },
+  {
+    "NewsID": 9828636,
+    "title": "UKMTO on northeast Oman incident: verified report confirms crew are safe, no environmental impact",
+    "published": "2026-10-29T22:15:49.643",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828636/UKMTO-on-northeast-Oman-incident-verified-report-confirms-crew-are-safe-no-environmental-impact.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842548-04:00"
+  },
+  {
+    "NewsID": 9828635,
+    "title": "BOJ: proposed tax cut would reduce core CPI by 1.3 percentage points in fiscal 2027",
+    "published": "2026-10-29T22:12:33.327",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828635/BOJ-proposed-tax-cut-would-reduce-core-CPI-by-13-percentage-points-in-fiscal-2027.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842560-04:00"
+  },
+  {
+    "NewsID": 9828634,
+    "title": "BOJ on risks: insufficient labor-to-capital substitution amid shortages may curb growth rate",
+    "published": "2026-10-29T22:11:45.857",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828634/BOJ-on-risks-insufficient-labor-to-capital-substitution-amid-shortages-may-curb-growth-rate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842572-04:00"
+  },
+  {
+    "NewsID": 9828633,
+    "title": "BOJ: forecasts in outlook report exclude impact of proposed temporary food tax reduction",
+    "published": "2026-10-29T22:11:25.627",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828633/BOJ-forecasts-in-outlook-report-exclude-impact-of-proposed-temporary-food-tax-reduction.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842585-04:00"
+  },
+  {
+    "NewsID": 9828632,
+    "title": "BOJ on risks: recent surge in grain prices amid geopolitical tensions in Middle East and global weather conditions warrants attention as potential concern",
+    "published": "2026-10-29T22:10:42.07",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828632/BOJ-on-risks-recent-surge-in-grain-prices-amid-geopolitical-tensions-in-Middle-East-and-global-weather-conditions-warrants-attention-as-potential-concern.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842597-04:00"
+  },
+  {
+    "NewsID": 9828631,
+    "title": "Boj: inflation expectations fluctuating near 2%",
+    "published": "2026-10-29T22:10:28.017",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828631/Boj-inflation-expectations-fluctuating-near-2.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842609-04:00"
+  },
+  {
+    "NewsID": 9828630,
+    "title": "BOJ: shift in ETF sales pace starts January 2027",
+    "published": "2026-10-29T22:09:49.11",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828630/BOJ-shift-in-ETF-sales-pace-starts-January-2027.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842621-04:00"
+  },
+  {
+    "NewsID": 9828629,
+    "title": "BOJ: underlying inflation likely to stay at levels aligned with Bank of Japan target",
+    "published": "2026-10-29T22:09:27.1",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828629/BOJ-underlying-inflation-likely-to-stay-at-levels-aligned-with-Bank-of-Japan-target.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842633-04:00"
+  },
+  {
+    "NewsID": 9828628,
+    "title": "BOJ: to speed up sales of ETF holdings to about 860 billion yen from previous about 330 billion yen",
+    "published": "2026-10-29T22:09:18.72",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828628/BOJ-to-speed-up-sales-of-ETF-holdings-to-about-860-billion-yen-from-previous-about-330-billion-yen.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842646-04:00"
+  },
+  {
+    "NewsID": 9828627,
+    "title": "BOJ on risks: If AI earnings don’t grow with investment, adjustment pressure could occur alongside asset price shifts",
+    "published": "2026-10-29T22:09:15.927",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828627/BOJ-on-risks-If-AI-earnings-dont-grow-with-investment-adjustment-pressure-could-occur-alongside-asset-price-shifts.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842658-04:00"
+  },
+  {
+    "NewsID": 9828626,
+    "title": "BOJ: long-term inflation expectations hover near 2%",
+    "published": "2026-10-29T22:08:49.517",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828626/BOJ-long-term-inflation-expectations-hover-near-2.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842670-04:00"
+  },
+  {
+    "NewsID": 9828625,
+    "title": "BOJ on risks: price pass-through in B2B transactions from high crude oil costs, AI-driven demand, forex likely to push consumer prices higher",
+    "published": "2026-10-29T22:08:31.1",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828625/BOJ-on-risks-price-pass-through-in-B2B-transactions-from-high-crude-oil-costs-AI-driven-demand-forex-likely-to-push-consumer-prices-higher.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842682-04:00"
+  },
+  {
+    "NewsID": 9828624,
+    "title": "boj: it would take about 43 years to finish sales of etf holdings vs previous around 112 years",
+    "published": "2026-10-29T22:08:23.867",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9828624/boj-it-would-take-about-43-years-to-finish-sales-of-etf-holdings-vs-previous-around-112-years.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-30T00:00:01.842693-04:00"
+  }
+]
