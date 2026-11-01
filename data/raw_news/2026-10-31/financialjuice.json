@@ -1,5 +1,554 @@
 [
   {
+    "NewsID": 9831069,
+    "title": "S.Korea Oct trade surplus provisional $42.50 billion vs $49.97 billion in Sept",
+    "published": "2026-10-31T19:00:03.713",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831069/SKorea-Oct-trade-surplus-provisional-4250-billion-vs-4997-billion-in-Sept.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T20:15:01.749380-04:00"
+  },
+  {
+    "NewsID": 9831068,
+    "title": "S. Korea October imports rise 36.0% y/y, below poll of 39.9%",
+    "published": "2026-10-31T19:00:03.597",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831068/S-Korea-October-imports-rise-360-yy-below-poll-of-399.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T20:15:01.749432-04:00"
+  },
+  {
+    "NewsID": 9831067,
+    "title": "S.Korea Oct exports rise 93.7% y/y, beating poll of 93.2%",
+    "published": "2026-10-31T19:00:03.55",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831067/SKorea-Oct-exports-rise-937-yy-beating-poll-of-932.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T20:15:01.749457-04:00"
+  },
+  {
+    "NewsID": 9831020,
+    "title": "FBI: North Korea was behind the theft of over $6 billion in virtual assets from cryptocurrency exchange Binance",
+    "published": "2026-10-31T16:28:48.35",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831020/FBI-North-Korea-was-behind-the-theft-of-over-6-billion-in-virtual-assets-from-cryptocurrency-exchange-Binance.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T17:30:02.112622-04:00"
+  },
+  {
+    "NewsID": 9830986,
+    "title": "Iran’s security chief Rezaei: Strait of Hormuz to stay closed until Tehran’s conditions fulfilled",
+    "published": "2026-10-31T14:01:29.327",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830986/Irans-security-chief-Rezaei-Strait-of-Hormuz-to-stay-closed-until-Tehrans-conditions-fulfilled.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T15:15:02.447225-04:00"
+  },
+  {
+    "NewsID": 9830953,
+    "title": "Iran’s Rezaei: Iran’s nuclear rights under non-proliferation treaty must be respected if talks happen in later stages",
+    "published": "2026-10-31T13:58:53.557",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830953/Irans-Rezaei-Irans-nuclear-rights-under-non-proliferation-treaty-must-be-respected-if-talks-happen-in-later-stages.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T15:00:02.704415-04:00"
+  },
+  {
+    "NewsID": 9830952,
+    "title": "Iran's Rezaei: War must end permanently, no nation should dare attack Iran again",
+    "published": "2026-10-31T13:53:35.417",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830952/Irans-Rezaei-War-must-end-permanently-no-nation-should-dare-attack-Iran-again.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T15:00:02.704481-04:00"
+  },
+  {
+    "NewsID": 9830951,
+    "title": "Iran security chief Rezaei tells state TV: we seriously pursue diplomacy but won’t forsake Iranian people’s rights",
+    "published": "2026-10-31T13:52:34.153",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830951/Iran-security-chief-Rezaei-tells-state-TV-we-seriously-pursue-diplomacy-but-wont-forsake-Iranian-peoples-rights.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T15:00:02.704508-04:00"
+  },
+  {
+    "NewsID": 9830941,
+    "title": "Security chief Rezaei: Iran's nuclear issue can be discussed only after US meets Iran's demands - state TV",
+    "published": "2026-10-31T13:27:03.49",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830941/Security-chief-Rezaei-Irans-nuclear-issue-can-be-discussed-only-after-US-meets-Irans-demands---state-TV.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T14:30:02.134637-04:00"
+  },
+  {
+    "NewsID": 9830939,
+    "title": "Trade in food and agricultural products should not be used as tool for economic or political coercion: G20 chair says",
+    "published": "2026-10-31T13:22:05.04",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830939/Trade-in-food-and-agricultural-products-should-not-be-used-as-tool-for-economic-or-political-coercion-G20-chair-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T14:30:02.134689-04:00"
+  },
+  {
+    "NewsID": 9830935,
+    "title": "Iran security chief Rezaei: no new decision on changing nuclear doctrine, debate ongoing if same doctrine should continue in another war",
+    "published": "2026-10-31T12:56:04.297",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830935/Iran-security-chief-Rezaei-no-new-decision-on-changing-nuclear-doctrine-debate-ongoing-if-same-doctrine-should-continue-in-another-war.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T14:00:02.529127-04:00"
+  },
+  {
+    "NewsID": 9830930,
+    "title": "Iran's security chief Rezaei: tone of Vance letter has changed, signaling Iranian people's victory - Iran news agencies",
+    "published": "2026-10-31T12:35:14.073",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830930/Irans-security-chief-Rezaei-tone-of-Vance-letter-has-changed-signaling-Iranian-peoples-victory---Iran-news-agencies.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T13:45:01.770634-04:00"
+  },
+  {
+    "NewsID": 9830922,
+    "title": "Iran's navy: oil tanker 'operated in limited zone' - state media",
+    "published": "2026-10-31T11:56:36.503",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830922/Irans-navy-oil-tanker-operated-in-limited-zone---state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T13:00:02.325487-04:00"
+  },
+  {
+    "NewsID": 9830921,
+    "title": "Iran's navy: oil tanker ignites in Strait of Hormuz after hitting naval mines - state media",
+    "published": "2026-10-31T11:55:48.09",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830921/Irans-navy-oil-tanker-ignites-in-Strait-of-Hormuz-after-hitting-naval-mines---state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T13:00:02.325540-04:00"
+  },
+  {
+    "NewsID": 9830920,
+    "title": "US Secretary of State Rubio: anticipate Trump, China's Xi to convene at G20 and APEC gatherings",
+    "published": "2026-10-31T11:53:06.693",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830920/US-Secretary-of-State-Rubio-anticipate-Trump-Chinas-Xi-to-convene-at-G20-and-APEC-gatherings.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T13:00:02.325564-04:00"
+  },
+  {
+    "NewsID": 9830918,
+    "title": "US Secretary of State Rubio: discussed with Russia's Lavrov chance for Trump, Putin to meet at APEC next month",
+    "published": "2026-10-31T11:46:07.497",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830918/US-Secretary-of-State-Rubio-discussed-with-Russias-Lavrov-chance-for-Trump-Putin-to-meet-at-APEC-next-month.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T13:00:02.325586-04:00"
+  },
+  {
+    "NewsID": 9830916,
+    "title": "Indian govt releases tax devolution of 1.09 trillion rupees to states as advance instalment",
+    "published": "2026-10-31T11:41:23.713",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830916/Indian-govt-releases-tax-devolution-of-109-trillion-rupees-to-states-as-advance-instalment.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:45:02.514647-04:00"
+  },
+  {
+    "NewsID": 9830915,
+    "title": "US Secretary of State Rubio: Zelenskiy invite possible if 'something positive' results from attending G20 summit",
+    "published": "2026-10-31T11:39:31.42",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830915/US-Secretary-of-State-Rubio-Zelenskiy-invite-possible-if-something-positive-results-from-attending-G20-summit.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:45:02.514702-04:00"
+  },
+  {
+    "NewsID": 9830914,
+    "title": "US Secretary of State Rubio: might consider inviting Zelenskiy to G20 leaders summit in December, but decision rests with President Trump",
+    "published": "2026-10-31T11:38:45.85",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830914/US-Secretary-of-State-Rubio-might-consider-inviting-Zelenskiy-to-G20-leaders-summit-in-December-but-decision-rests-with-President-Trump.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:45:02.514726-04:00"
+  },
+  {
+    "NewsID": 9830913,
+    "title": "US Secretary of State Rubio: Trump yet to decide on military action against Iran",
+    "published": "2026-10-31T11:36:59.803",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830913/US-Secretary-of-State-Rubio-Trump-yet-to-decide-on-military-action-against-Iran.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:45:02.514747-04:00"
+  },
+  {
+    "NewsID": 9830912,
+    "title": "US Secretary of State Rubio: hopes quad leaders can unveil more initiatives at November meeting",
+    "published": "2026-10-31T11:36:10.277",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830912/US-Secretary-of-State-Rubio-hopes-quad-leaders-can-unveil-more-initiatives-at-November-meeting.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:45:02.514768-04:00"
+  },
+  {
+    "NewsID": 9830911,
+    "title": "OPEC+ agrees in principle to maintain production targets in December, source says",
+    "published": "2026-10-31T11:34:16.197",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830911/OPEC-agrees-in-principle-to-maintain-production-targets-in-December-source-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:45:02.514789-04:00"
+  },
+  {
+    "NewsID": 9830910,
+    "title": "US Secretary of State Rubio: international community shows rising interest in limited Black Sea ceasefire",
+    "published": "2026-10-31T11:33:35.457",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830910/US-Secretary-of-State-Rubio-international-community-shows-rising-interest-in-limited-Black-Sea-ceasefire.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:45:02.514810-04:00"
+  },
+  {
+    "NewsID": 9830909,
+    "title": "US Secretary of State Rubio: India, Turkey propose plans to resume grain shipments in Black Sea",
+    "published": "2026-10-31T11:31:58.503",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830909/US-Secretary-of-State-Rubio-India-Turkey-propose-plans-to-resume-grain-shipments-in-Black-Sea.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:45:02.514830-04:00"
+  },
+  {
+    "NewsID": 9830901,
+    "title": "US Secretary of State Rubio: US open to diplomatic resolution of Iran conflict",
+    "published": "2026-10-31T11:29:32.33",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830901/US-Secretary-of-State-Rubio-US-open-to-diplomatic-resolution-of-Iran-conflict.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:30:01.794962-04:00"
+  },
+  {
+    "NewsID": 9830900,
+    "title": "US Secretary of State Rubio: no known timeframe for Qatar-led talks",
+    "published": "2026-10-31T11:29:19.22",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830900/US-Secretary-of-State-Rubio-no-known-timeframe-for-Qatar-led-talks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:30:01.794998-04:00"
+  },
+  {
+    "NewsID": 9830899,
+    "title": "US Secretary of State Rubio: G20 foreign ministers agree on importance of food security, critical mineral supply chains and navigation freedom",
+    "published": "2026-10-31T11:27:42.017",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830899/US-Secretary-of-State-Rubio-G20-foreign-ministers-agree-on-importance-of-food-security-critical-mineral-supply-chains-and-navigation-freedom.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:30:01.795011-04:00"
+  },
+  {
+    "NewsID": 9830898,
+    "title": "US Secretary of State Rubio: to announce soon a quad leaders summit in Manila next month",
+    "published": "2026-10-31T11:24:24.307",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830898/US-Secretary-of-State-Rubio-to-announce-soon-a-quad-leaders-summit-in-Manila-next-month.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:30:01.795023-04:00"
+  },
+  {
+    "NewsID": 9830893,
+    "title": "Turnout for French protests reached 320,000 nationwide, 70,000 in Paris: Interior Ministry",
+    "published": "2026-10-31T11:15:10.963",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830893/Turnout-for-French-protests-reached-320000-nationwide-70000-in-Paris-Interior-Ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:30:01.795034-04:00"
+  },
+  {
+    "NewsID": 9830892,
+    "title": "Istanbul: Zelenskiy discusses upcoming meeting of US, Ukraine, Russian peace negotiators with Turkey's Erdogan",
+    "published": "2026-10-31T11:07:16.13",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830892/Istanbul-Zelenskiy-discusses-upcoming-meeting-of-US-Ukraine-Russian-peace-negotiators-with-Turkeys-Erdogan.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:15:02.077169-04:00"
+  },
+  {
+    "NewsID": 9830891,
+    "title": "Meta and Fourier constructed the roughly 106-pound humanoid known as Max in just three months: The Information",
+    "published": "2026-10-31T11:03:02.85",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830891/Meta-and-Fourier-constructed-the-roughly-106-pound-humanoid-known-as-Max-in-just-three-months-The-Information.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:15:02.077238-04:00"
+  },
+  {
+    "NewsID": 9830890,
+    "title": "Meta builds humanoid prototype with Chinese startup to accelerate robotics drive - The Information",
+    "published": "2026-10-31T11:02:23.79",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830890/Meta-builds-humanoid-prototype-with-Chinese-startup-to-accelerate-robotics-drive---The-Information.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:15:02.077265-04:00"
+  },
+  {
+    "NewsID": 9830889,
+    "title": "Turkey’s President Erdogan: assaults on commercial ships in Black Sea unacceptable regardless of perpetrator",
+    "published": "2026-10-31T11:01:38.503",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830889/Turkeys-President-Erdogan-assaults-on-commercial-ships-in-Black-Sea-unacceptable-regardless-of-perpetrator.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:15:02.077286-04:00"
+  },
+  {
+    "NewsID": 9830887,
+    "title": "Turkey’s President Erdogan: discussed navigation safety in Black Sea with Ukraine’s Zelenskiy during meeting",
+    "published": "2026-10-31T11:00:27.943",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830887/Turkeys-President-Erdogan-discussed-navigation-safety-in-Black-Sea-with-Ukraines-Zelenskiy-during-meeting.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T12:15:02.077307-04:00"
+  },
+  {
+    "NewsID": 9830876,
+    "title": "Russia's FSB: Information has been received from the US regarding plans for a terrorist attack in Moscow - RIA",
+    "published": "2026-10-31T10:18:13.207",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9830876/Russias-FSB-Information-has-been-received-from-the-US-regarding-plans-for-a-terrorist-attack-in-Moscow---RIA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T11:30:02.332808-04:00"
+  },
+  {
+    "NewsID": 9830865,
+    "title": "Algeria: UN Security Council draft on Western Sahara favors Morocco, sidelines Polisario Front - Foreign Ministry",
+    "published": "2026-10-31T09:56:37.383",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830865/Algeria-UN-Security-Council-draft-on-Western-Sahara-favors-Morocco-sidelines-Polisario-Front---Foreign-Ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T11:00:01.837965-04:00"
+  },
+  {
+    "NewsID": 9830864,
+    "title": "Algeria regrets un's decision not to extend Western Sahara mission mandate: foreign ministry",
+    "published": "2026-10-31T09:55:19.72",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830864/Algeria-regrets-uns-decision-not-to-extend-Western-Sahara-mission-mandate-foreign-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T11:00:01.838018-04:00"
+  },
+  {
+    "NewsID": 9830837,
+    "title": "Iran's armed forces chief: military compiles new list of US and Israeli targets, assets across expanded region",
+    "published": "2026-10-31T08:37:52.12",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830837/Irans-armed-forces-chief-military-compiles-new-list-of-US-and-Israeli-targets-assets-across-expanded-region.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:45:02.447987-04:00"
+  },
+  {
+    "NewsID": 9830836,
+    "title": "Iran's armed forces chief: forces ready to retaliate against US, Israeli enemies beyond geographic limits",
+    "published": "2026-10-31T08:36:55.86",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830836/Irans-armed-forces-chief-forces-ready-to-retaliate-against-US-Israeli-enemies-beyond-geographic-limits.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:45:02.448053-04:00"
+  },
+  {
+    "NewsID": 9830832,
+    "title": "Senegal lawmakers reject budget again, jeopardizing IMF deal",
+    "published": "2026-10-31T08:17:27.74",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830832/Senegal-lawmakers-reject-budget-again-jeopardizing-IMF-deal.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:30:02.632618-04:00"
+  },
+  {
+    "NewsID": 9830827,
+    "title": "Iran's Aragchi to Al Jazeera: reopening Strait of Hormuz on Tehran terms would open door for talks with Washington",
+    "published": "2026-10-31T08:15:34.15",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830827/Irans-Aragchi-to-Al-Jazeera-reopening-Strait-of-Hormuz-on-Tehran-terms-would-open-door-for-talks-with-Washington.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:30:02.632684-04:00"
+  },
+  {
+    "NewsID": 9830817,
+    "title": "Iran's FM to Al Jazeera: Tehran seeks recognition of new shipping lane agreed with Oman in Strait of Hormuz, closure of alternative routes",
+    "published": "2026-10-31T08:13:07.397",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830817/Irans-FM-to-Al-Jazeera-Tehran-seeks-recognition-of-new-shipping-lane-agreed-with-Oman-in-Strait-of-Hormuz-closure-of-alternative-routes.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:15:01.834353-04:00"
+  },
+  {
+    "NewsID": 9830816,
+    "title": "Iran's Aragchi to Al Jazeera: conditions include lifting post-Islamabad sanctions, reducing US forces in region",
+    "published": "2026-10-31T08:12:12.577",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830816/Irans-Aragchi-to-Al-Jazeera-conditions-include-lifting-post-Islamabad-sanctions-reducing-US-forces-in-region.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:15:01.834417-04:00"
+  },
+  {
+    "NewsID": 9830815,
+    "title": "Iran's FM to Al Jazeera: Iranian plan is only proposal currently on table to reopen Strait of Hormuz",
+    "published": "2026-10-31T08:09:32.71",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830815/Irans-FM-to-Al-Jazeera-Iranian-plan-is-only-proposal-currently-on-table-to-reopen-Strait-of-Hormuz.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:15:01.834444-04:00"
+  },
+  {
+    "NewsID": 9830814,
+    "title": "Iran's FM to Al Jazeera: mediators offer proposals on nuclear issue, Tehran reviewing",
+    "published": "2026-10-31T08:08:54.39",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830814/Irans-FM-to-Al-Jazeera-mediators-offer-proposals-on-nuclear-issue-Tehran-reviewing.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:15:01.834487-04:00"
+  },
+  {
+    "NewsID": 9830813,
+    "title": "US ambassador to India: collaborating on deliverables with India before G20 leaders summit, anticipates news on another military drill",
+    "published": "2026-10-31T08:08:45.49",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830813/US-ambassador-to-India-collaborating-on-deliverables-with-India-before-G20-leaders-summit-anticipates-news-on-another-military-drill.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:15:01.834509-04:00"
+  },
+  {
+    "NewsID": 9830812,
+    "title": "Iran's FM to Al Jazeera: Tehran to determine if talks with Washington are direct or indirect after US accepts conditions",
+    "published": "2026-10-31T08:05:51.89",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830812/Irans-FM-to-Al-Jazeera-Tehran-to-determine-if-talks-with-Washington-are-direct-or-indirect-after-US-accepts-conditions.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:15:01.834530-04:00"
+  },
+  {
+    "NewsID": 9830811,
+    "title": "Iran's FM to Al Jazeera: no intentions for talks with US officials currently",
+    "published": "2026-10-31T08:04:42.84",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830811/Irans-FM-to-Al-Jazeera-no-intentions-for-talks-with-US-officials-currently.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:15:01.834551-04:00"
+  },
+  {
+    "NewsID": 9830810,
+    "title": "Iran's FM to Al Jazeera: US attempt to start wider talks with Tehran is positive move",
+    "published": "2026-10-31T08:04:21.23",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830810/Irans-FM-to-Al-Jazeera-US-attempt-to-start-wider-talks-with-Tehran-is-positive-move.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:15:01.834571-04:00"
+  },
+  {
+    "NewsID": 9830809,
+    "title": "Iran's foreign minister Araqchi tells Al Jazeera: Tehran examined US Vance message, reviewed it in top-level talks",
+    "published": "2026-10-31T08:03:43.803",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830809/Irans-foreign-minister-Araqchi-tells-Al-Jazeera-Tehran-examined-US-Vance-message-reviewed-it-in-top-level-talks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:15:01.834592-04:00"
+  },
+  {
+    "NewsID": 9830805,
+    "title": "President Zelenskiy: Evacuated residents from Russia-controlled Oleshky arrive in Ukraine from Belarus",
+    "published": "2026-10-31T08:01:15.887",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830805/President-Zelenskiy-Evacuated-residents-from-Russia-controlled-Oleshky-arrive-in-Ukraine-from-Belarus.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T09:15:01.834623-04:00"
+  },
+  {
+    "NewsID": 9830785,
+    "title": "Qatari mediation team in regular contact with US negotiators during talks: source",
+    "published": "2026-10-31T07:20:58.367",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830785/Qatari-mediation-team-in-regular-contact-with-US-negotiators-during-talks-source.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T08:30:02.616334-04:00"
+  },
+  {
+    "NewsID": 9830784,
+    "title": "Iranian negotiators in Doha to continue talks with Qatari mediators after 12-hour session in Tehran yesterday, part of ongoing effort to end US-Iran war - official brief",
+    "published": "2026-10-31T07:20:41.103",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830784/Iranian-negotiators-in-Doha-to-continue-talks-with-Qatari-mediators-after-12-hour-session-in-Tehran-yesterday-part-of-ongoing-effort-to-end-US-Iran-war---official-brief.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T08:30:02.616389-04:00"
+  },
+  {
+    "NewsID": 9830756,
+    "title": "Russia prolongs diesel export prohibition through January: IFX",
+    "published": "2026-10-31T06:00:22.603",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830756/Russia-prolongs-diesel-export-prohibition-through-January-IFX.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T07:15:02.324129-04:00"
+  },
+  {
+    "NewsID": 9830755,
+    "title": "Ukraine's military: missile fuel plant hit in Russia's Rostov region, fire breaks out",
+    "published": "2026-10-31T05:51:19.8",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830755/Ukraines-military-missile-fuel-plant-hit-in-Russias-Rostov-region-fire-breaks-out.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T07:00:02.523035-04:00"
+  },
+  {
+    "NewsID": 9830745,
+    "title": "Iran's supreme leader urges armed forces to enhance military intelligence and boost domestic defense capabilities - statement",
+    "published": "2026-10-31T05:41:17.973",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830745/Irans-supreme-leader-urges-armed-forces-to-enhance-military-intelligence-and-boost-domestic-defense-capabilities---statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T06:45:02.707375-04:00"
+  },
+  {
+    "NewsID": 9830744,
+    "title": "Iran’s supreme leader directs armed forces to boost production of ammunition and weapons for reconnaissance, support and combat operations",
+    "published": "2026-10-31T05:40:25.7",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830744/Irans-supreme-leader-directs-armed-forces-to-boost-production-of-ammunition-and-weapons-for-reconnaissance-support-and-combat-operations.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T06:45:02.707428-04:00"
+  },
+  {
+    "NewsID": 9830743,
+    "title": "Iran's supreme leader directs armed forces to revise target list to include all US and Israeli assets within striking range: statement",
+    "published": "2026-10-31T05:38:15.96",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830743/Irans-supreme-leader-directs-armed-forces-to-revise-target-list-to-include-all-US-and-Israeli-assets-within-striking-range-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T06:45:02.707451-04:00"
+  },
+  {
+    "NewsID": 9830742,
+    "title": "Iran's Mojtaba Khamenet: Tehran will set timing and conditions for ending any new conflict if enemies restart military or terrorist assaults",
+    "published": "2026-10-31T05:33:45.507",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830742/Irans-Mojtaba-Khamenet-Tehran-will-set-timing-and-conditions-for-ending-any-new-conflict-if-enemies-restart-military-or-terrorist-assaults.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T06:45:02.707473-04:00"
+  },
+  {
+    "NewsID": 9830733,
+    "title": "Iran's Supreme Leader Mojtaba Khamenei orders immediate, impactful and geographically unrestricted response to any enemy threat: written message",
+    "published": "2026-10-31T05:30:57.89",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830733/Irans-Supreme-Leader-Mojtaba-Khamenei-orders-immediate-impactful-and-geographically-unrestricted-response-to-any-enemy-threat-written-message.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T06:45:02.707521-04:00"
+  },
+  {
+    "NewsID": 9830729,
+    "title": "Ukraine's Zelenskiy: Russia struck energy facilities, nearly 280,000 families without power",
+    "published": "2026-10-31T05:03:09.36",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9830729/Ukraines-Zelenskiy-Russia-struck-energy-facilities-nearly-280000-families-without-power.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-10-31T06:15:02.128284-04:00"
+  },
+  {
     "NewsID": 9830717,
     "title": "Iran's Fars News Agency: two fishermen missing, two injured after drone strike",
     "published": "2026-10-31T04:26:52.61",
