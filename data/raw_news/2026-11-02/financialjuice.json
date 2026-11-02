@@ -1,0 +1,641 @@
+[
+  {
+    "NewsID": 9832424,
+    "title": "Russian Foreign Ministry: Signals of planned new military action against Iran are causing extreme concern - Tass.",
+    "published": "2026-11-02T05:34:10.6",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832424/Russian-Foreign-Ministry-Signals-of-planned-new-military-action-against-Iran-are-causing-extreme-concern---Tass.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T05:45:02.513724-05:00"
+  },
+  {
+    "NewsID": 9832408,
+    "title": "Spacex discussed starting wireless service with Echostar - Wapo",
+    "published": "2026-11-02T05:28:58.76",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832408/Spacex-discussed-starting-wireless-service-with-Echostar---Wapo.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T05:30:01.726499-05:00"
+  },
+  {
+    "NewsID": 9832407,
+    "title": "ECB's Vujcic: Sovereign bond market must be monitored.",
+    "published": "2026-11-02T05:19:35.737",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832407/ECBs-Vujcic-Sovereign-bond-market-must-be-monitored.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T05:30:01.726546-05:00"
+  },
+  {
+    "NewsID": 9832406,
+    "title": "ECB's Vujcic: AI valuations are one of the risks highlighted in financial stability review.",
+    "published": "2026-11-02T05:18:49.457",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832406/ECBs-Vujcic-AI-valuations-are-one-of-the-risks-highlighted-in-financial-stability-review.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T05:30:01.726580-05:00"
+  },
+  {
+    "NewsID": 9832357,
+    "title": "UAE's Energy, Infrastructure Minister: At a certain time our exports were better than prior to war.",
+    "published": "2026-11-02T04:38:42.88",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832357/UAEs-Energy-Infrastructure-Minister-At-a-certain-time-our-exports-were-better-than-prior-to-war.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T04:45:02.550317-05:00"
+  },
+  {
+    "NewsID": 9832333,
+    "title": "UK Manufacturing PMI Final Actual 52.8 (Forecast 52.8, Previous 52.8)",
+    "published": "2026-11-02T04:30:00.37",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9832333/UK-Manufacturing-PMI-Final-Actual-528-Forecast-528-Previous-528.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T04:45:02.550371-05:00"
+  },
+  {
+    "NewsID": 9832308,
+    "title": "ECB's Kazimir: The question is increasingly not if further ECB action is needed but how much.",
+    "published": "2026-11-02T04:04:48.827",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832308/ECBs-Kazimir-The-question-is-increasingly-not-if-further-ECB-action-is-needed-but-how-much.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T04:15:02.478679-05:00"
+  },
+  {
+    "NewsID": 9832286,
+    "title": "Eurozone Manufacturing PMI Final Actual 52.7 (Forecast 52.4, Previous 52.4)",
+    "published": "2026-11-02T04:00:00.303",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9832286/Eurozone-Manufacturing-PMI-Final-Actual-527-Forecast-524-Previous-524.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T04:15:02.478726-05:00"
+  },
+  {
+    "NewsID": 9832285,
+    "title": "German Manufacturing PMI Final Actual 54.2 (Forecast 54.2, Previous 54.2)",
+    "published": "2026-11-02T03:55:00.217",
+    "level": "active",
+    "link": "https://www.financialjuice.com/News/9832285/German-Manufacturing-PMI-Final-Actual-542-Forecast-542-Previous-542.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T04:00:02.520938-05:00"
+  },
+  {
+    "NewsID": 9832284,
+    "title": "French Manufacturing PMI Actual 49.5 (Forecast 49.3, Previous 49.3)",
+    "published": "2026-11-02T03:50:00.257",
+    "level": "active",
+    "link": "https://www.financialjuice.com/News/9832284/French-Manufacturing-PMI-Actual-495-Forecast-493-Previous-493.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T04:00:02.520978-05:00"
+  },
+  {
+    "NewsID": 9832248,
+    "title": "Adnoc: Ruwais Diyab to deliver 345m standard cubic feet per day of gas from 2029.",
+    "published": "2026-11-02T03:17:34.63",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832248/Adnoc-Ruwais-Diyab-to-deliver-345m-standard-cubic-feet-per-day-of-gas-from-2029.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T03:30:02.445729-05:00"
+  },
+  {
+    "NewsID": 9832233,
+    "title": "Spanish Manufacturing PMI Actual 52.2 (Forecast 50.5, Previous 51.0)",
+    "published": "2026-11-02T03:15:00.35",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832233/Spanish-Manufacturing-PMI-Actual-522-Forecast-505-Previous-510.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T03:30:02.445798-05:00"
+  },
+  {
+    "NewsID": 9832232,
+    "title": "Iran: Vance letter offers no new basis, demands unchanged.",
+    "published": "2026-11-02T03:05:49.307",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832232/Iran-Vance-letter-offers-no-new-basis-demands-unchanged.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T03:15:02.698329-05:00"
+  },
+  {
+    "NewsID": 9832231,
+    "title": "Iran's Baghaei: Tehran does not expect a new us after midterm elections.",
+    "published": "2026-11-02T03:04:47.867",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832231/Irans-Baghaei-Tehran-does-not-expect-a-new-us-after-midterm-elections.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T03:15:02.698383-05:00"
+  },
+  {
+    "NewsID": 9832226,
+    "title": "Currency Strength Chart: Strongest: EUR, CHF, GBP, CAD, USD, JPY, AUD, NZD - Weakest",
+    "published": "2026-11-02T03:00:59.213",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832226/Currency-Strength-Chart-Strongest-EUR-CHF-GBP-CAD-USD-JPY-AUD-NZD---Weakest.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T03:15:02.698407-05:00"
+  },
+  {
+    "NewsID": 9832220,
+    "title": "Tesla new registrations in Sweden jump 248% year-on-year in October, compiler Mobility Sweden says",
+    "published": "2026-11-02T02:57:54.917",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832220/Tesla-new-registrations-in-Sweden-jump-248-year-on-year-in-October-compiler-Mobility-Sweden-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T03:00:02.193211-05:00"
+  },
+  {
+    "NewsID": 9832219,
+    "title": "Draft proposal circulated for feedback; follow-up meeting possible, official briefed on talks - Official",
+    "published": "2026-11-02T02:49:08.983",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832219/Draft-proposal-circulated-for-feedback-follow-up-meeting-possible-official-briefed-on-talks---Official.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T03:00:02.193248-05:00"
+  },
+  {
+    "NewsID": 9832218,
+    "title": "Iranian negotiators left Doha talks on Sunday, not because of challenges - Official",
+    "published": "2026-11-02T02:47:20.627",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832218/Iranian-negotiators-left-Doha-talks-on-Sunday-not-because-of-challenges---Official.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T03:00:02.193262-05:00"
+  },
+  {
+    "NewsID": 9832197,
+    "title": "Iran: Hormuz cannot be reopened before lifting of us sanctions.",
+    "published": "2026-11-02T02:41:39.513",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832197/Iran-Hormuz-cannot-be-reopened-before-lifting-of-us-sanctions.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T02:45:02.426396-05:00"
+  },
+  {
+    "NewsID": 9832196,
+    "title": "Iran's Baghaei: Exchange of messages with us continues, deputy foreign minister Gharibabadi was in Doha to facilitate this.",
+    "published": "2026-11-02T02:36:36.687",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832196/Irans-Baghaei-Exchange-of-messages-with-us-continues-deputy-foreign-minister-Gharibabadi-was-in-Doha-to-facilitate-this.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T02:45:02.426456-05:00"
+  },
+  {
+    "NewsID": 9832195,
+    "title": "Swiss Retail Sales YoY Actual 1.6% (Forecast -, Previous 3.2%)",
+    "published": "2026-11-02T02:34:15.437",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832195/Swiss-Retail-Sales-YoY-Actual-16-Forecast---Previous-32.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T02:45:02.426480-05:00"
+  },
+  {
+    "NewsID": 9832179,
+    "title": "Iran's Foreign Ministry Spokesperson Baghaei: Basis of diplomacy with US is Iran's seven steps proposal, chance of its implementation over next few days exists.",
+    "published": "2026-11-02T02:27:44.367",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9832179/Irans-Foreign-Ministry-Spokesperson-Baghaei-Basis-of-diplomacy-with-US-is-Irans-seven-steps-proposal-chance-of-its-implementation-over-next-few-days-exists.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T02:30:01.701703-05:00"
+  },
+  {
+    "NewsID": 9832159,
+    "title": "BoJ: Governor Ueda is scheduled to deliver speech, hold news conference in Nagoya, central Japan, on November 30.",
+    "published": "2026-11-02T02:06:51.857",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832159/BoJ-Governor-Ueda-is-scheduled-to-deliver-speech-hold-news-conference-in-Nagoya-central-Japan-on-November-30.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T02:15:01.986242-05:00"
+  },
+  {
+    "NewsID": 9832145,
+    "title": "German Real Retail Sales YoY Actual -2.3% (Forecast -, Previous -0.4%)",
+    "published": "2026-11-02T02:01:47.35",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832145/German-Real-Retail-Sales-YoY-Actual--23-Forecast---Previous--04.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T02:15:01.986296-05:00"
+  },
+  {
+    "NewsID": 9832144,
+    "title": "German Real Retail Sales MoM Actual -2% (Forecast 0.4%, Previous 1.3%)",
+    "published": "2026-11-02T02:00:05.58",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832144/German-Real-Retail-Sales-MoM-Actual--2-Forecast-04-Previous-13.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T02:15:01.986321-05:00"
+  },
+  {
+    "NewsID": 9832129,
+    "title": "Week Ahead - Economic Indicators (Europe)",
+    "published": "2026-11-02T01:43:53.903",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832129/Week-Ahead---Economic-Indicators-Europe.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:45:02.571066-05:00"
+  },
+  {
+    "NewsID": 9832116,
+    "title": "Open AI CEO Altman: Energy is one challenge AI is facing today.",
+    "published": "2026-11-02T01:32:44.217",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832116/Open-AI-CEO-Altman-Energy-is-one-challenge-AI-is-facing-today.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:45:02.571122-05:00"
+  },
+  {
+    "NewsID": 9832099,
+    "title": "Fitch Ratings: China auto exports cushion weak demand as 2027 headwinds build.",
+    "published": "2026-11-02T01:23:22.823",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832099/Fitch-Ratings-China-auto-exports-cushion-weak-demand-as-2027-headwinds-build.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:30:02.747294-05:00"
+  },
+  {
+    "NewsID": 9832098,
+    "title": "Tech Selloff Eases as Oil Drops on Iran Diplomacy - Asia Market Wrap",
+    "published": "2026-11-02T01:23:11.5",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832098/Tech-Selloff-Eases-as-Oil-Drops-on-Iran-Diplomacy---Asia-Market-Wrap.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:30:02.747347-05:00"
+  },
+  {
+    "NewsID": 9832097,
+    "title": "Morning Juice - Europe Session Prep",
+    "published": "2026-11-02T01:20:58.837",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832097/Morning-Juice---Europe-Session-Prep.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:30:02.747392-05:00"
+  },
+  {
+    "NewsID": 9832080,
+    "title": "UAE's Adnoc CEO: New agreement with Open AI will transform Adnoc's field development oil management and commercial operations.",
+    "published": "2026-11-02T01:13:48.97",
+    "level": "",
+    "link": "https://www.financialjuice.com/News/9832080/UAEs-Adnoc-CEO-New-agreement-with-Open-AI-will-transform-Adnocs-field-development-oil-management-and-commercial-operations.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:15:01.895224-05:00"
+  },
+  {
+    "NewsID": 9832079,
+    "title": "Dutch Retail Sales YoY Actual 3.3% (Forecast -, Previous 2.8%)",
+    "published": "2026-11-02T01:08:56.127",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832079/Dutch-Retail-Sales-YoY-Actual-33-Forecast---Previous-28.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:15:01.895261-05:00"
+  },
+  {
+    "NewsID": 9832078,
+    "title": "Tesla new registrations in Denmark rise 34.31% year-on-year in October, compiler bilstatistik.dk data shows",
+    "published": "2026-11-02T01:03:39.367",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832078/Tesla-new-registrations-in-Denmark-rise-3431-year-on-year-in-October-compiler-bilstatistikdk-data-shows.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:15:01.895276-05:00"
+  },
+  {
+    "NewsID": 9832077,
+    "title": "Abu Dhabi crown prince meets OpenAI CEO Sam Altman: Abu Dhabi Media Office",
+    "published": "2026-11-02T01:03:22.79",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832077/Abu-Dhabi-crown-prince-meets-OpenAI-CEO-Sam-Altman-Abu-Dhabi-Media-Office.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:15:01.895288-05:00"
+  },
+  {
+    "NewsID": 9832059,
+    "title": "Netherlands S&P Global October manufacturing PMI at 55.0 versus 55.6 in September",
+    "published": "2026-11-02T01:00:03.36",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832059/Netherlands-SP-Global-October-manufacturing-PMI-at-550-versus-556-in-September.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:15:01.895301-05:00"
+  },
+  {
+    "NewsID": 9832058,
+    "title": "Russia S&P Global October manufacturing PMI at 49.9 versus 49.8 in September",
+    "published": "2026-11-02T01:00:03.063",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832058/Russia-SP-Global-October-manufacturing-PMI-at-499-versus-498-in-September.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:15:01.895313-05:00"
+  },
+  {
+    "NewsID": 9832057,
+    "title": "Saudi civil defence alerts of possible threat in southern Khamis Mushait - post on X",
+    "published": "2026-11-02T00:59:50.02",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832057/Saudi-civil-defence-alerts-of-possible-threat-in-southern-Khamis-Mushait---post-on-X.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:00:02.551618-05:00"
+  },
+  {
+    "NewsID": 9832056,
+    "title": "Afghan Taliban government ready to engage constructively on deportation issue: Afghan foreign ministry",
+    "published": "2026-11-02T00:59:39.18",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832056/Afghan-Taliban-government-ready-to-engage-constructively-on-deportation-issue-Afghan-foreign-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:00:02.551661-05:00"
+  },
+  {
+    "NewsID": 9832055,
+    "title": "Afghan Taliban government calls on US to act responsibly on deporting Afghan immigrants: Afghan foreign ministry",
+    "published": "2026-11-02T00:58:35.11",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832055/Afghan-Taliban-government-calls-on-US-to-act-responsibly-on-deporting-Afghan-immigrants-Afghan-foreign-ministry.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:00:02.551678-05:00"
+  },
+  {
+    "NewsID": 9832054,
+    "title": "China's President Xi: China willing to enhance dialogue and cooperation with Arab nations to jointly restore regional peace and stability soon",
+    "published": "2026-11-02T00:47:13.06",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832054/Chinas-President-Xi-China-willing-to-enhance-dialogue-and-cooperation-with-Arab-nations-to-jointly-restore-regional-peace-and-stability-soon.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:00:02.551694-05:00"
+  },
+  {
+    "NewsID": 9832053,
+    "title": "China's President Xi: peace and stability in region need collective nurturing and protection by all parties - CCTV",
+    "published": "2026-11-02T00:46:43.997",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832053/Chinas-President-Xi-peace-and-stability-in-region-need-collective-nurturing-and-protection-by-all-parties---CCTV.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:00:02.551709-05:00"
+  },
+  {
+    "NewsID": 9832052,
+    "title": "China's president Xi: China to keep promoting political, diplomatic dispute resolution - CCTV",
+    "published": "2026-11-02T00:46:29.047",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832052/Chinas-president-Xi-China-to-keep-promoting-political-diplomatic-dispute-resolution---CCTV.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:00:02.551724-05:00"
+  },
+  {
+    "NewsID": 9832050,
+    "title": "China’s President Xi: Middle East and Gulf shouldn't become battleground for great power rivalry and geopolitical conflicts - CCTV",
+    "published": "2026-11-02T00:46:14.617",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832050/Chinas-President-Xi-Middle-East-and-Gulf-shouldnt-become-battleground-for-great-power-rivalry-and-geopolitical-conflicts---CCTV.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T01:00:02.551739-05:00"
+  },
+  {
+    "NewsID": 9832040,
+    "title": "Emergency power outages introduced in Kyiv and region: energy provider DTEK",
+    "published": "2026-11-02T00:41:42.97",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832040/Emergency-power-outages-introduced-in-Kyiv-and-region-energy-provider-DTEK.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:45:02.702155-05:00"
+  },
+  {
+    "NewsID": 9832006,
+    "title": "BOJ: bank will consider various data, surveys in evaluating Japan's financial environment rather than depend on single indicator",
+    "published": "2026-11-02T00:07:50.163",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832006/BOJ-bank-will-consider-various-data-surveys-in-evaluating-Japans-financial-environment-rather-than-depend-on-single-indicator.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:15:01.960581-05:00"
+  },
+  {
+    "NewsID": 9832005,
+    "title": "BOJ: central bank is scrutinising asset price moves, such as stocks and FX, in assessing Japan's financial conditions",
+    "published": "2026-11-02T00:06:35.627",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832005/BOJ-central-bank-is-scrutinising-asset-price-moves-such-as-stocks-and-FX-in-assessing-Japans-financial-conditions.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:15:01.960631-05:00"
+  },
+  {
+    "NewsID": 9832004,
+    "title": "BOJ: average median real interest rates stay at low levels",
+    "published": "2026-11-02T00:05:56.373",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832004/BOJ-average-median-real-interest-rates-stay-at-low-levels.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:15:01.960672-05:00"
+  },
+  {
+    "NewsID": 9832003,
+    "title": "BOJ: Japan’s real interest rates climbing recently, especially in long and super-long zones",
+    "published": "2026-11-02T00:05:32.94",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832003/BOJ-Japans-real-interest-rates-climbing-recently-especially-in-long-and-super-long-zones.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:15:01.960694-05:00"
+  },
+  {
+    "NewsID": 9832002,
+    "title": "BOJ: underlying inflation has picked up to about 2%, gradually embedding around that level in recent years",
+    "published": "2026-11-02T00:04:31.327",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832002/BOJ-underlying-inflation-has-picked-up-to-about-2-gradually-embedding-around-that-level-in-recent-years.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:15:01.960714-05:00"
+  },
+  {
+    "NewsID": 9832001,
+    "title": "Bank of Japan: rate increases likely to ease inflation, help support consumption",
+    "published": "2026-11-02T00:02:23.727",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9832001/Bank-of-Japan-rate-increases-likely-to-ease-inflation-help-support-consumption.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:15:01.960734-05:00"
+  },
+  {
+    "NewsID": 9831978,
+    "title": "India HSBC and S&P Global October final manufacturing PMI at 54.7, forecast 54.8",
+    "published": "2026-11-02T00:00:04.707",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831978/India-HSBC-and-SP-Global-October-final-manufacturing-PMI-at-547-forecast-548.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:15:01.960753-05:00"
+  },
+  {
+    "NewsID": 9831977,
+    "title": "OpenAI and Inception42 to collaborate on enterprise solutions for major UAE organisations: ADMO",
+    "published": "2026-11-01T23:54:42.447",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831977/OpenAI-and-Inception42-to-collaborate-on-enterprise-solutions-for-major-UAE-organisations-ADMO.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751820-05:00"
+  },
+  {
+    "NewsID": 9831976,
+    "title": "OpenAI and Inception42 to collaboratively advance AI adoption in UAE government, enterprise and education: ADMO",
+    "published": "2026-11-01T23:54:22.86",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831976/OpenAI-and-Inception42-to-collaboratively-advance-AI-adoption-in-UAE-government-enterprise-and-education-ADMO.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751859-05:00"
+  },
+  {
+    "NewsID": 9831975,
+    "title": "Inception42 and OpenAI sign five-year deal to boost frontier AI adoption in government, business and education - Admo",
+    "published": "2026-11-01T23:54:00.573",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831975/Inception42-and-OpenAI-sign-five-year-deal-to-boost-frontier-AI-adoption-in-government-business-and-education---Admo.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751873-05:00"
+  },
+  {
+    "NewsID": 9831974,
+    "title": "Mubadala, Inception42, OpenAI sign deal to use advanced AI for investment analysis, opportunity spotting, risk evaluation - ADMO",
+    "published": "2026-11-01T23:53:41.517",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831974/Mubadala-Inception42-OpenAI-sign-deal-to-use-advanced-AI-for-investment-analysis-opportunity-spotting-risk-evaluation---ADMO.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751886-05:00"
+  },
+  {
+    "NewsID": 9831973,
+    "title": "Adnoc, G42 and OpenAI sign pact, making Adnoc first energy firm to deploy OpenAI frontier technology: ADMO",
+    "published": "2026-11-01T23:53:10.39",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831973/Adnoc-G42-and-OpenAI-sign-pact-making-Adnoc-first-energy-firm-to-deploy-OpenAI-frontier-technology-ADMO.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751898-05:00"
+  },
+  {
+    "NewsID": 9831926,
+    "title": "Trump: Fannie Mae and Freddie Mac to invest $4.3 billion in Kansas home loans next year",
+    "published": "2026-11-01T22:27:28.447",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831926/Trump-Fannie-Mae-and-Freddie-Mac-to-invest-43-billion-in-Kansas-home-loans-next-year.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751911-05:00"
+  },
+  {
+    "NewsID": 9831917,
+    "title": "China's Xi meets Sultan of Oman in Beijing: Xinhua",
+    "published": "2026-11-01T22:03:46.417",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831917/Chinas-Xi-meets-Sultan-of-Oman-in-Beijing-Xinhua.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751924-05:00"
+  },
+  {
+    "NewsID": 9831896,
+    "title": "South Korea Army: Staff sergeant dies from external injuries at frontline unit near North Korea border in Cheorwon - Kyunghyang Shinmun",
+    "published": "2026-11-01T21:42:37.537",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831896/South-Korea-Army-Staff-sergeant-dies-from-external-injuries-at-frontline-unit-near-North-Korea-border-in-Cheorwon---Kyunghyang-Shinmun.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751936-05:00"
+  },
+  {
+    "NewsID": 9831895,
+    "title": "China finance ministry plans 20 billion yuan auction of 28-day bills on Nov. 3",
+    "published": "2026-11-01T21:38:45.13",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831895/China-finance-ministry-plans-20-billion-yuan-auction-of-28-day-bills-on-Nov-3.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751949-05:00"
+  },
+  {
+    "NewsID": 9831869,
+    "title": "U.S. pushes to resume Russian gas shipments to Europe through Ukraine - WSJ",
+    "published": "2026-11-01T21:05:33.467",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831869/US-pushes-to-resume-Russian-gas-shipments-to-Europe-through-Ukraine---WSJ.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751961-05:00"
+  },
+  {
+    "NewsID": 9831772,
+    "title": "China general manufacturing PMI at 52.0 in October vs forecast 51.6",
+    "published": "2026-11-01T20:45:04.807",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831772/China-general-manufacturing-PMI-at-520-in-October-vs-forecast-516.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751986-05:00"
+  },
+  {
+    "NewsID": 9831771,
+    "title": "Chinese Manufacturing  PMI Actual 52.0 (Forecast 52, Previous 52.1)",
+    "published": "2026-11-01T20:46:37.327",
+    "level": "active active-critical",
+    "link": "https://www.financialjuice.com/News/9831771/Chinese-Manufacturing--PMI-Actual-520-Forecast-52-Previous-521.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751974-05:00"
+  },
+  {
+    "NewsID": 9831770,
+    "title": "UKMTO: all crew accounted for, no environmental impact reported so far",
+    "published": "2026-11-01T20:44:58.403",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831770/UKMTO-all-crew-accounted-for-no-environmental-impact-reported-so-far.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.751999-05:00"
+  },
+  {
+    "NewsID": 9831769,
+    "title": "Ukmto: tanker moving southeast through Arabian Gulf hit by two unidentified projectiles on port side",
+    "published": "2026-11-01T20:44:34.947",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831769/Ukmto-tanker-moving-southeast-through-Arabian-Gulf-hit-by-two-unidentified-projectiles-on-port-side.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.752011-05:00"
+  },
+  {
+    "NewsID": 9831768,
+    "title": "UKMTO reports incident 72nm east of Ras Al Khafji, Saudi Arabia",
+    "published": "2026-11-01T20:43:36.517",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831768/UKMTO-reports-incident-72nm-east-of-Ras-Al-Khafji-Saudi-Arabia.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.752023-05:00"
+  },
+  {
+    "NewsID": 9831767,
+    "title": "S.Korea central bank sells 91-day monetary stabilization bonds at 3.195% yield",
+    "published": "2026-11-01T20:40:04.24",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831767/SKorea-central-bank-sells-91-day-monetary-stabilization-bonds-at-3195-yield.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.752036-05:00"
+  },
+  {
+    "NewsID": 9831758,
+    "title": "S.Korea President Lee: Government expenditure on AI investment to almost double next year to 21.3 trillion won",
+    "published": "2026-11-01T20:23:36.173",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831758/SKorea-President-Lee-Government-expenditure-on-AI-investment-to-almost-double-next-year-to-213-trillion-won.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.752048-05:00"
+  },
+  {
+    "NewsID": 9831757,
+    "title": "S.Korea President Lee: to boldly invest in AI and future growth driver to enhance economic growth potential",
+    "published": "2026-11-01T20:23:23.57",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831757/SKorea-President-Lee-to-boldly-invest-in-AI-and-future-growth-driver-to-enhance-economic-growth-potential.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.752060-05:00"
+  },
+  {
+    "NewsID": 9831756,
+    "title": "China central bank injects 541 billion yuan through overnight reverse repos at 1.25%: statement",
+    "published": "2026-11-01T20:22:52.963",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831756/China-central-bank-injects-541-billion-yuan-through-overnight-reverse-repos-at-125-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.752072-05:00"
+  },
+  {
+    "NewsID": 9831747,
+    "title": "S.Korea president Lee: future response fund to be strategic investment platform and fiscal stability tool",
+    "published": "2026-11-01T20:11:42.57",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9831747/SKorea-president-Lee-future-response-fund-to-be-strategic-investment-platform-and-fiscal-stability-tool.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-02T00:00:02.752085-05:00"
+  }
+]
