@@ -271,5 +271,446 @@
     "published": "2026-11-06T05:42:56+00:00",
     "link": "https://www.investing.com/news/economy-news/morning-bid-ais-reality-check-5006515",
     "category_hint": "macro"
+  },
+  {
+    "title": "MSG Knicks earnings missed by $0.20, revenue topped estimates",
+    "source": "Investinglive",
+    "published": "2026-11-06T12:52:10+00:00",
+    "link": "https://www.investing.com/news/earnings/msg-knicks-earnings-missed-by-020-revenue-topped-estimates-5007841",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is Oklo stock surging today?",
+    "source": "Investinglive",
+    "published": "2026-11-06T12:50:05+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-oklo-stock-surging-today-93CH-5007803",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Alpha Metallurgical Resources earnings missed by $0.17, revenue fell short of estimates",
+    "source": "Investinglive",
+    "published": "2026-11-06T12:49:34+00:00",
+    "link": "https://www.investing.com/news/earnings/alpha-metallurgical-resources-earnings-missed-by-017-revenue-fell-short-of-estimates-5007802",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Plains All American Pipeline Unt earnings missed by $0.45, revenue topped estimates",
+    "source": "Investinglive",
+    "published": "2026-11-06T12:49:25+00:00",
+    "link": "https://www.investing.com/news/earnings/plains-all-american-pipeline-unt-earnings-missed-by-045-revenue-topped-estimates-5007801",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Plains GP Holdings earnings missed by $0.59, revenue topped estimates",
+    "source": "Investinglive",
+    "published": "2026-11-06T12:49:24+00:00",
+    "link": "https://www.investing.com/news/earnings/plains-gp-holdings-earnings-missed-by-059-revenue-topped-estimates-5007800",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Alphabet takes $548 million stake in partner Qualcomm in data center push",
+    "source": "Investinglive",
+    "published": "2026-11-06T12:48:32+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/alphabet-discloses-548-million-worth-of-qualcomm-stake-5007278",
+    "category_hint": "markets"
+  },
+  {
+    "title": "PPL earnings missed by $0.04, revenue topped estimates",
+    "source": "Investinglive",
+    "published": "2026-11-06T12:47:54+00:00",
+    "link": "https://www.investing.com/news/earnings/ppl-earnings-missed-by-004-revenue-topped-estimates-5007797",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Oklo Inc earnings beat by $0.05, revenue topped estimates",
+    "source": "Investinglive",
+    "published": "2026-11-06T12:47:48+00:00",
+    "link": "https://www.investing.com/news/earnings/oklo-inc-earnings-beat-by-005-revenue-topped-estimates-5007796",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Plains GP Holdings misses Q3 earnings expectations",
+    "source": "Investinglive",
+    "published": "2026-11-06T12:47:22+00:00",
+    "link": "https://www.investing.com/news/earnings/plains-gp-holdings-misses-q3-earnings-expectations-93CH-5007795",
+    "category_hint": "markets"
+  },
+  {
+    "title": "PPL beats revenue expectations despite earnings miss",
+    "source": "Investinglive",
+    "published": "2026-11-06T12:46:02+00:00",
+    "link": "https://www.investing.com/news/earnings/ppl-beats-revenue-expectations-despite-earnings-miss-93CH-5007794",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Analysts expect one more BoE rate hike, likely Feb, after 4% move",
+    "source": "Investinglive",
+    "published": "2026-11-06T11:52:40+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysts-expect-one-more-boe-rate-hike-likely-feb-after-4-move-5007468",
+    "category_hint": "macro"
+  },
+  {
+    "title": "EU charges TikTok over harmful algorithmic ’rabbit hole’ effects",
+    "source": "Investinglive",
+    "published": "2026-11-06T11:18:58+00:00",
+    "link": "https://www.investing.com/news/economy-news/eu-charges-tiktok-over-harmful-algorithmic-rabbit-hole-effects-5007214",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US inflation too high; essential to get back to 2%: Fed’s Williams",
+    "source": "Investinglive",
+    "published": "2026-11-06T10:36:46+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-inflation-too-high-essential-to-get-back-to-2-feds-williams-5007154",
+    "category_hint": "macro"
+  },
+  {
+    "title": "ECB says EU banking rule changes must not hurt resilience",
+    "source": "Investinglive",
+    "published": "2026-11-06T10:36:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/ecb-says-eu-banking-rule-changes-must-not-hurt-resilience-5007153",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Investors dive for bonds as tech slump pounds stocks",
+    "source": "Investinglive",
+    "published": "2026-11-06T10:30:58+00:00",
+    "link": "https://www.investing.com/news/economy-news/asia-stocks-to-drop-after-ai-rout-rocks-us-markets-5006125",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar climbs on safe haven demand as AI rout saps Asian markets",
+    "source": "Investinglive",
+    "published": "2026-11-06T10:30:42+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-holds-yen-gains-as-equity-rout-saps-risk-appetite-ahead-of-payrolls-5006269",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Citi sees two rate hike scenarios for South Korea’s BoK",
+    "source": "Investinglive",
+    "published": "2026-11-06T09:58:52+00:00",
+    "link": "https://www.investing.com/news/economy-news/citi-sees-two-rate-hike-scenarios-for-south-koreas-bok-93CH-5007076",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Democrats planning flood of AI bills when they take control of Congress",
+    "source": "Investinglive",
+    "published": "2026-11-06T16:54:34+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/democrats-planning-flood-of-ai-bills-when-they-take-control-of-congress-5007213",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Tesla winds down Cybertruck production as Musk shifts focus to robotaxis",
+    "source": "Investinglive",
+    "published": "2026-11-06T16:51:12+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/tesla-winds-down-cybertruck-production-as-musk-shifts-focus-to-robotaxis-5008094",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Trump Media’s investors lost $2.2 billion while Trump holds $460 million stake",
+    "source": "Investinglive",
+    "published": "2026-11-06T16:49:15+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/trump-medias-investors-lost-22-billion-while-trump-holds-460-million-stake-5007253",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US FAA administrator to testify on $12.5 billion air traffic overhaul",
+    "source": "Investinglive",
+    "published": "2026-11-06T16:48:34+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/us-faa-administrator-to-testify-on-125-billion-air-traffic-overhaul-5008863",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Ctt Pharmaceutical Holdings CEO Ryan Khouri buys $450 in shares",
+    "source": "Investinglive",
+    "published": "2026-11-06T16:45:58+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-holdings-ceo-ryan-khouri-buys-450-in-shares-93CH-5008861",
+    "category_hint": "markets"
+  },
+  {
+    "title": "TSX rebounds as tech stocks recover, Celestica gains 2% after global selloff",
+    "source": "Investinglive",
+    "published": "2026-11-06T16:44:08+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edged-lower-amid-fallout-from-aidriven-stock-rout-5007774",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Guggenheim starts Yarrow Bioscience at Buy, citing Graves’ disease potential",
+    "source": "Investinglive",
+    "published": "2026-11-06T16:38:59+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/guggenheim-starts-yarrow-bioscience-at-buy-citing-graves-disease-potential-5008857",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
+    "source": "Investinglive",
+    "published": "2026-11-06T16:36:42+00:00",
+    "link": "https://www.investing.com/news/economy-news/central-banking-veterans-knot-and-de-cos-in-race-to-replace-lagarde-at-ecb-5008855",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Canada’s unemployment rate hits six-month high as economy sheds jobs in October",
+    "source": "Investinglive",
+    "published": "2026-11-06T16:36:08+00:00",
+    "link": "https://www.investing.com/news/economy-news/canadas-unemployment-rate-hits-sixmonth-high-as-economy-sheds-jobs-in-october-5008853",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Wall Street stocks in relief rally after heavy AI-related selloff",
+    "source": "Investinglive",
+    "published": "2026-11-06T16:25:17+00:00",
+    "link": "https://www.investing.com/news/economy-news/asia-stocks-to-drop-after-ai-rout-rocks-us-markets-5006125",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar index jumps after US payrolls beat forecasts",
+    "source": "Investinglive",
+    "published": "2026-11-06T15:42:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-holds-yen-gains-as-equity-rout-saps-risk-appetite-ahead-of-payrolls-5006269",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Analysis-Trader angst pivots from inflation to growth as tech rout deepens",
+    "source": "Investinglive",
+    "published": "2026-11-06T15:37:12+00:00",
+    "link": "https://www.investing.com/news/economy-news/analysistrader-angst-pivots-from-inflation-to-growth-as-tech-rout-deepens-5008688",
+    "category_hint": "macro"
+  },
+  {
+    "title": "U.S., Iran edge closer to deal amid hopes for nuclear compromise - Bloomberg News",
+    "source": "Investinglive",
+    "published": "2026-11-06T14:48:40+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-iran-edge-closer-to-deal-amid-hopes-for-nuclear-compromise--bloomberg-news-5008665",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Canada’s unemployment rate reaches six-month high",
+    "source": "Investinglive",
+    "published": "2026-11-06T14:36:22+00:00",
+    "link": "https://www.investing.com/news/economy-news/canadas-unemployment-rate-edges-up-to-sixmonth-high-in-october-5008181",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Spain nominates former central bank head De Cos for ECB presidency, deputy PM says",
+    "source": "Investinglive",
+    "published": "2026-11-06T14:31:12+00:00",
+    "link": "https://www.investing.com/news/economy-news/spain-nominates-former-central-bank-head-de-cos-for-ecb-presidency-deputy-pm-says-5008585",
+    "category_hint": "macro"
+  },
+  {
+    "title": "UK house prices post biggest annual fall since October 2023, Lloyds says",
+    "source": "Investinglive",
+    "published": "2026-11-06T14:30:57+00:00",
+    "link": "https://www.investing.com/news/economy-news/uk-house-prices-post-biggest-annual-fall-since-october-2023-lloyds-says-5008583",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Apollo-backed dental firm vVardis seeks up to $229 million in US IPO",
+    "source": "Investinglive",
+    "published": "2026-11-06T20:40:47+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/apollobacked-dental-firm-vvardis-seeks-up-to-229-million-in-us-ipo-5009115",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Apple Hospitality REIT stock hits 52-week high at $18.98",
+    "source": "Investinglive",
+    "published": "2026-11-06T20:38:45+00:00",
+    "link": "https://www.investing.com/news/company-news/apple-hospitality-reit-stock-hits-52week-high-at-1898-93CH-5009114",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Canadian Gold Resources plans C$1 million private placement",
+    "source": "Investinglive",
+    "published": "2026-11-06T20:36:36+00:00",
+    "link": "https://www.investing.com/news/company-news/canadian-gold-resources-plans-c1-million-private-placement-93CH-5009113",
+    "category_hint": "markets"
+  },
+  {
+    "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average down 0.26%",
+    "source": "Investinglive",
+    "published": "2026-11-06T20:31:00+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-down-026-5009110",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Google buys Wyoming data center site as hyperscalers move to own AI capacity",
+    "source": "Investinglive",
+    "published": "2026-11-06T20:30:33+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/google-buys-wyoming-data-center-site-as-hyperscalers-move-to-own-ai-capacity-93CH-5009109",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.60%",
+    "source": "Investinglive",
+    "published": "2026-11-06T20:30:30+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-060-5009108",
+    "category_hint": "markets"
+  },
+  {
+    "title": "BOJ chief Ueda sees ’some upside risks’ to inflation",
+    "source": "Investinglive",
+    "published": "2026-11-06T20:30:23+00:00",
+    "link": "https://www.investing.com/news/economy-news/boj-chief-ueda-sees-some-upside-risks-to-inflation-5008920",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Brazil stocks higher at close of trade; Bovespa up 1.34%",
+    "source": "Investinglive",
+    "published": "2026-11-06T20:30:04+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-134-5009099",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Coty stock hits 52-week high at $4.08",
+    "source": "Investinglive",
+    "published": "2026-11-06T20:25:39+00:00",
+    "link": "https://www.investing.com/news/company-news/coty-stock-hits-52week-high-at-408-93CH-5009097",
+    "category_hint": "markets"
+  },
+  {
+    "title": "B.Riley cuts Strive Enterprises stock price target on BTC assumptions",
+    "source": "Investinglive",
+    "published": "2026-11-06T20:20:57+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/briley-cuts-strive-enterprises-stock-price-target-on-btc-assumptions-93CH-5009094",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Colorado ends flat tax with new graduated income tax rate of 8.4%",
+    "source": "Investinglive",
+    "published": "2026-11-06T20:16:24+00:00",
+    "link": "https://www.investing.com/news/economy-news/colorado-ends-flat-tax-with-new-graduated-income-tax-rate-of-84-93CH-5009092",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar jumps after strong US payrolls report",
+    "source": "Investinglive",
+    "published": "2026-11-06T19:48:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-holds-yen-gains-as-equity-rout-saps-risk-appetite-ahead-of-payrolls-5006269",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Europe wants Russia to end Ukraine war before security talks",
+    "source": "Investinglive",
+    "published": "2026-11-06T19:45:18+00:00",
+    "link": "https://www.investing.com/news/economy-news/europe-wants-russia-to-end-ukraine-war-before-security-talks-93CH-5009068",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Daly says Fed rate hike likely, despite ’painful’ tech-stock dive",
+    "source": "Investinglive",
+    "published": "2026-11-06T18:36:37+00:00",
+    "link": "https://www.investing.com/news/economy-news/daly-says-fed-rate-hike-likely-despite-painful-techstock-dive-5009005",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazilian banks cut growth forecasts, raising fiscal stakes for Lula",
+    "source": "Investinglive",
+    "published": "2026-11-06T18:36:19+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazilian-banks-cut-growth-forecasts-raising-fiscal-stakes-for-lula-5009003",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Daly says further rate hikes likely needed to curb inflation",
+    "source": "Investinglive",
+    "published": "2026-11-06T18:35:17+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-daly-says-further-rate-hikes-likely-needed-to-curb-inflation-5009002",
+    "category_hint": "macro"
+  },
+  {
+    "title": "AI rout sets off market alarm signals as traders brace for what’s next",
+    "source": "Investinglive",
+    "published": "2026-11-06T17:13:16+00:00",
+    "link": "https://www.investing.com/news/economy-news/ai-rout-sets-off-market-alarm-signals-as-traders-brace-for-whats-next-5008902",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Adaptive Biotechnologies president and COO Julie Rubinstein sells $954k stock",
+    "source": "Investinglive",
+    "published": "2026-11-07T00:46:10+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president-and-coo-julie-rubinstein-sells-954k-stock-93CH-5009476",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Remitly director Joshua Hug sells $239,965 in company stock",
+    "source": "Investinglive",
+    "published": "2026-11-07T00:35:02+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/remitly-director-joshua-hug-sells-239965-in-company-stock-93CH-5009465",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Aeva Technologies CEO Soroush Dardashti sells $372,826 in shares",
+    "source": "Investinglive",
+    "published": "2026-11-07T00:31:08+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/aeva-technologies-ceo-soroush-dardashti-sells-372826-in-shares-93CH-5009458",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Happen general counsel Jordan Cheng sells $46,928 of stock",
+    "source": "Investinglive",
+    "published": "2026-11-07T00:31:00+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/happen-general-counsel-jordan-cheng-sells-46928-of-stock-93CH-5009457",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Jewett Cameron director AJB Investment Fund II, LP buys $21,476",
+    "source": "Investinglive",
+    "published": "2026-11-07T00:30:55+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/jewett-cameron-director-ajb-investment-fund-ii-lp-buys-21476-93CH-5009456",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Aeva Technologies CTO Mina Rezk sells $248,536 in common stock",
+    "source": "Investinglive",
+    "published": "2026-11-07T00:30:53+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/aeva-technologies-cto-mina-rezk-sells-248536-in-common-stock-93CH-5009455",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Nasdaq rebounds but posts fourth straight weekly decline",
+    "source": "Investinglive",
+    "published": "2026-11-07T00:24:57+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks-stabilize-5007026",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Turtle Creek sells $347,850 in JELD-WEN Holding stock",
+    "source": "Investinglive",
+    "published": "2026-11-07T00:16:46+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/turtle-creek-sells-347850-in-jeldwen-holding-stock-93CH-5009448",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Kinder Morgan executive chairman Richard Kinder buys $15M in stock",
+    "source": "Investinglive",
+    "published": "2026-11-07T00:16:04+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/kinder-morgan-executive-chairman-richard-kinder-buys-15m-in-stock-93CH-5009447",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
+    "source": "Investinglive",
+    "published": "2026-11-07T00:10:19+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Wall Street stocks rally after heavy AI-related selloff",
+    "source": "Investinglive",
+    "published": "2026-11-07T00:06:39+00:00",
+    "link": "https://www.investing.com/news/economy-news/asia-stocks-to-drop-after-ai-rout-rocks-us-markets-5006125",
+    "category_hint": "macro"
+  },
+  {
+    "title": "IMF’s Georgieva says any slowdown in AI-driven growth would be factor for central banks",
+    "source": "Investinglive",
+    "published": "2026-11-06T23:54:40+00:00",
+    "link": "https://www.investing.com/news/economy-news/imfs-georgieva-says-any-slowdown-in-aidriven-growth-would-be-factor-for-central-banks-5009427",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Paraguay ex-president Peña placed under house arrest after impeachment",
+    "source": "Investinglive",
+    "published": "2026-11-06T23:42:35+00:00",
+    "link": "https://www.investing.com/news/economy-news/paraguay-authorities-order-expresidents-arrest-after-impeachment-5009375",
+    "category_hint": "macro"
   }
 ]
