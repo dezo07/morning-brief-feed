@@ -1,5 +1,410 @@
 [
   {
+    "NewsID": 9842254,
+    "title": "Israeli military: hostile aircraft alerts in the north were false identification",
+    "published": "2026-11-07T23:35:51.677",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842254/Israeli-military-hostile-aircraft-alerts-in-the-north-were-false-identification.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T23:45:02.463080-05:00"
+  },
+  {
+    "NewsID": 9842253,
+    "title": "Iran executes three men convicted of involvement in armed unrest during January 2026 protests: state media",
+    "published": "2026-11-07T23:31:55.647",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842253/Iran-executes-three-men-convicted-of-involvement-in-armed-unrest-during-January-2026-protests-state-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T23:45:02.463143-05:00"
+  },
+  {
+    "NewsID": 9842251,
+    "title": "Israeli military: alerts sounded over suspected hostile infiltration in northern Israel, details under way",
+    "published": "2026-11-07T23:17:15.027",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842251/Israeli-military-alerts-sounded-over-suspected-hostile-infiltration-in-northern-Israel-details-under-way.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T23:30:01.769526-05:00"
+  },
+  {
+    "NewsID": 9842247,
+    "title": "Israeli military: alerts triggered over suspected hostile incursion in northern Israel, investigation ongoing",
+    "published": "2026-11-07T23:15:02.983",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842247/Israeli-military-alerts-triggered-over-suspected-hostile-incursion-in-northern-Israel-investigation-ongoing.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T23:30:01.769578-05:00"
+  },
+  {
+    "NewsID": 9842233,
+    "title": "Saudi-led coalition: intercepted and destroyed ballistic missile launched by Yemen's Houthis towards Saudi Arabia's eastern region",
+    "published": "2026-11-07T21:29:55.413",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842233/Saudi-led-coalition-intercepted-and-destroyed-ballistic-missile-launched-by-Yemens-Houthis-towards-Saudi-Arabias-eastern-region.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T21:45:02.410328-05:00"
+  },
+  {
+    "NewsID": 9842185,
+    "title": "UAE National Guard: Rescued 22 after fire erupts on cargo ship in Sea of Oman",
+    "published": "2026-11-07T20:58:53.203",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842185/UAE-National-Guard-Rescued-22-after-fire-erupts-on-cargo-ship-in-Sea-of-Oman.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T21:00:02.125348-05:00"
+  },
+  {
+    "NewsID": 9842184,
+    "title": "Saudi civil defense: risk has passed in Al Ahsa governorate",
+    "published": "2026-11-07T20:54:07.83",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842184/Saudi-civil-defense-risk-has-passed-in-Al-Ahsa-governorate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T21:00:02.125397-05:00"
+  },
+  {
+    "NewsID": 9842183,
+    "title": "Saudi civil defense: danger has passed in Dammam, Dhahran and Abqaiq - state TV",
+    "published": "2026-11-07T20:52:56.91",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842183/Saudi-civil-defense-danger-has-passed-in-Dammam-Dhahran-and-Abqaiq---state-TV.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T21:00:02.125417-05:00"
+  },
+  {
+    "NewsID": 9842182,
+    "title": "Saudi civil defense issues warning over possible threat in Al Ahsa governorate",
+    "published": "2026-11-07T20:49:48.4",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842182/Saudi-civil-defense-issues-warning-over-possible-threat-in-Al-Ahsa-governorate.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T21:00:02.125436-05:00"
+  },
+  {
+    "NewsID": 9842181,
+    "title": "Saudi civil defense issues warning of potential threat in Dhahran and Abqaiq",
+    "published": "2026-11-07T20:47:44.93",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842181/Saudi-civil-defense-issues-warning-of-potential-threat-in-Dhahran-and-Abqaiq.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T21:00:02.125454-05:00"
+  },
+  {
+    "NewsID": 9842178,
+    "title": "Saudi civil defense issues warning of potential hazard in Dammam - post on X",
+    "published": "2026-11-07T20:43:29.1",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842178/Saudi-civil-defense-issues-warning-of-potential-hazard-in-Dammam---post-on-X.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T20:45:02.373468-05:00"
+  },
+  {
+    "NewsID": 9842142,
+    "title": "UFC CEO Dana White declines Trump’s offer to become press secretary: source says - CNN",
+    "published": "2026-11-07T16:39:19.043",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842142/UFC-CEO-Dana-White-declines-Trumps-offer-to-become-press-secretary-source-says---CNN.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T16:45:02.376796-05:00"
+  },
+  {
+    "NewsID": 9842141,
+    "title": "UKMTO: status of crew, damage evaluation and environmental impact unclear at time of report",
+    "published": "2026-11-07T16:31:41.13",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842141/UKMTO-status-of-crew-damage-evaluation-and-environmental-impact-unclear-at-time-of-report.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T16:45:02.376850-05:00"
+  },
+  {
+    "NewsID": 9842140,
+    "title": "UKMTO reports incident between bulk carrier and military forces in Gulf of Oman near Khor Fakkan, UAE",
+    "published": "2026-11-07T16:31:21.54",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842140/UKMTO-reports-incident-between-bulk-carrier-and-military-forces-in-Gulf-of-Oman-near-Khor-Fakkan-UAE.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T16:45:02.376875-05:00"
+  },
+  {
+    "NewsID": 9842135,
+    "title": "Trump orders Justice Department to investigate Democrats threatening many people",
+    "published": "2026-11-07T16:11:04.337",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842135/Trump-orders-Justice-Department-to-investigate-Democrats-threatening-many-people.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T16:15:01.860386-05:00"
+  },
+  {
+    "NewsID": 9842134,
+    "title": "Iran's IRGC navy: two oil tankers struck mines near Strait of Hormuz - Iranian state TV",
+    "published": "2026-11-07T16:11:04.25",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842134/Irans-IRGC-navy-two-oil-tankers-struck-mines-near-Strait-of-Hormuz---Iranian-state-TV.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T16:15:01.860451-05:00"
+  },
+  {
+    "NewsID": 9842125,
+    "title": "US Central Command: Forces disabled commercial ship in Gulf of Oman Saturday",
+    "published": "2026-11-07T15:36:31.207",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842125/US-Central-Command-Forces-disabled-commercial-ship-in-Gulf-of-Oman-Saturday.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T15:45:02.152108-05:00"
+  },
+  {
+    "NewsID": 9842124,
+    "title": "Iran’s Tasnim News Agency: Explosions heard on Geshm Island not linked to missile attacks",
+    "published": "2026-11-07T15:31:37.407",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842124/Irans-Tasnim-News-Agency-Explosions-heard-on-Geshm-Island-not-linked-to-missile-attacks.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T15:45:02.152191-05:00"
+  },
+  {
+    "NewsID": 9842112,
+    "title": "Iran state TV reporter: Explosions could be connected to Iranian military actions in Strait of Hormuz",
+    "published": "2026-11-07T15:23:24.983",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842112/Iran-state-TV-reporter-Explosions-could-be-connected-to-Iranian-military-actions-in-Strait-of-Hormuz.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T15:30:02.445916-05:00"
+  },
+  {
+    "NewsID": 9842107,
+    "title": "Explosions heard in Jask, Sirik, Bandar Abbas and Geshm in southern Iran: Iranian state TV",
+    "published": "2026-11-07T15:13:51.257",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842107/Explosions-heard-in-Jask-Sirik-Bandar-Abbas-and-Geshm-in-southern-Iran-Iranian-state-TV.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T15:15:02.720617-05:00"
+  },
+  {
+    "NewsID": 9842102,
+    "title": "Explosions heard in Iran's Qeshm: IRNA corrects source",
+    "published": "2026-11-07T14:39:08.947",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842102/Explosions-heard-in-Irans-Qeshm-IRNA-corrects-source.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T14:45:02.201130-05:00"
+  },
+  {
+    "NewsID": 9842101,
+    "title": "Explosions reported in Iran's Qeshm: ISNA News Agency",
+    "published": "2026-11-07T14:32:45.323",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842101/Explosions-reported-in-Irans-Qeshm-ISNA-News-Agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T14:45:02.201197-05:00"
+  },
+  {
+    "NewsID": 9842096,
+    "title": "Israeli president selects Gadi Eisenkot, Netanyahu rival, to form government: Israeli media",
+    "published": "2026-11-07T14:26:32.817",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842096/Israeli-president-selects-Gadi-Eisenkot-Netanyahu-rival-to-form-government-Israeli-media.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T14:30:02.397745-05:00"
+  },
+  {
+    "NewsID": 9842095,
+    "title": "Saudi civil defense: danger in Jazan has passed",
+    "published": "2026-11-07T14:17:57.19",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842095/Saudi-civil-defense-danger-in-Jazan-has-passed.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T14:30:02.397801-05:00"
+  },
+  {
+    "NewsID": 9842091,
+    "title": "Saudi civil defense issues warning of potential hazard in Jazan",
+    "published": "2026-11-07T14:08:39.76",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842091/Saudi-civil-defense-issues-warning-of-potential-hazard-in-Jazan.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T14:15:02.559185-05:00"
+  },
+  {
+    "NewsID": 9842089,
+    "title": "Trump: asked White House to bring some aides 'even though some are not from our country'",
+    "published": "2026-11-07T13:43:48.74",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842089/Trump-asked-White-House-to-bring-some-aides-even-though-some-are-not-from-our-country.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T13:45:02.008492-05:00"
+  },
+  {
+    "NewsID": 9842088,
+    "title": "Trump: Dana White offered role as press secretary",
+    "published": "2026-11-07T13:40:58.593",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842088/Trump-Dana-White-offered-role-as-press-secretary.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T13:45:02.008545-05:00"
+  },
+  {
+    "NewsID": 9842072,
+    "title": "Trump orders Justice Department to investigate Democrats threatening many people, alleges criminal act",
+    "published": "2026-11-07T12:50:14.913",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842072/Trump-orders-Justice-Department-to-investigate-Democrats-threatening-many-people-alleges-criminal-act.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T13:00:02.720118-05:00"
+  },
+  {
+    "NewsID": 9842064,
+    "title": "Erdogan tells Trump he hopes diplomatic efforts to end war in Ukraine will produce positive outcome, Erdogan’s office says",
+    "published": "2026-11-07T12:42:12.86",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842064/Erdogan-tells-Trump-he-hopes-diplomatic-efforts-to-end-war-in-Ukraine-will-produce-positive-outcome-Erdogans-office-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T12:45:01.882610-05:00"
+  },
+  {
+    "NewsID": 9842063,
+    "title": "Erdogan tells Trump US-Iran tensions must be settled diplomatically, Ankara will persist in peace efforts, Erdogan's office says",
+    "published": "2026-11-07T12:42:12.687",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842063/Erdogan-tells-Trump-US-Iran-tensions-must-be-settled-diplomatically-Ankara-will-persist-in-peace-efforts-Erdogans-office-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T12:45:01.882663-05:00"
+  },
+  {
+    "NewsID": 9842062,
+    "title": "Turkey's Erdogan talks with Trump by phone: discusses regional and global developments, Erdogan's office says",
+    "published": "2026-11-07T12:42:12.67",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842062/Turkeys-Erdogan-talks-with-Trump-by-phone-discusses-regional-and-global-developments-Erdogans-office-says.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T12:45:01.882687-05:00"
+  },
+  {
+    "NewsID": 9842032,
+    "title": "Yemen's Houthis: attack on national guard camp in Saudi Arabia's Najran",
+    "published": "2026-11-07T10:34:59.353",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842032/Yemens-Houthis-attack-on-national-guard-camp-in-Saudi-Arabias-Najran.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T10:45:01.753078-05:00"
+  },
+  {
+    "NewsID": 9842031,
+    "title": "Yemen's Houthis say they hit Aramco oil sites in Riyadh and Khurais; no prompt Saudi confirmation",
+    "published": "2026-11-07T10:33:59.24",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842031/Yemens-Houthis-say-they-hit-Aramco-oil-sites-in-Riyadh-and-Khurais-no-prompt-Saudi-confirmation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T10:45:01.753131-05:00"
+  },
+  {
+    "NewsID": 9842030,
+    "title": "Yemen's Houthis say they struck Riyadh airport; no Saudi confirmation",
+    "published": "2026-11-07T10:32:56.143",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842030/Yemens-Houthis-say-they-struck-Riyadh-airport-no-Saudi-confirmation.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T10:45:01.753155-05:00"
+  },
+  {
+    "NewsID": 9842029,
+    "title": "Syrian-Saudi military cooperation could evolve into mutual defense pact or Syria joining Mecca defense accord: Syrian diplomatic source to SANA",
+    "published": "2026-11-07T10:31:48.983",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842029/Syrian-Saudi-military-cooperation-could-evolve-into-mutual-defense-pact-or-Syria-joining-Mecca-defense-accord-Syrian-diplomatic-source-to-SANA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T10:45:01.753194-05:00"
+  },
+  {
+    "NewsID": 9842023,
+    "title": "Agreement between Syria and Saudi Arabia centers on military training, with Saudi coordination visits to Syria starting next month: Syrian diplomatic source to SANA",
+    "published": "2026-11-07T10:30:58.407",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842023/Agreement-between-Syria-and-Saudi-Arabia-centers-on-military-training-with-Saudi-coordination-visits-to-Syria-starting-next-month-Syrian-diplomatic-source-to-SANA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T10:45:01.753215-05:00"
+  },
+  {
+    "NewsID": 9842019,
+    "title": "Syrian-Saudi military cooperation currently centers on training, sharing expertise and consultations: Syrian diplomatic source to SANA",
+    "published": "2026-11-07T10:29:03.223",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842019/Syrian-Saudi-military-cooperation-currently-centers-on-training-sharing-expertise-and-consultations-Syrian-diplomatic-source-to-SANA.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T10:30:02.019639-05:00"
+  },
+  {
+    "NewsID": 9842018,
+    "title": "Reports of Syria sending troops to Yemen are baseless: Syrian diplomatic source to Syria's state news agency",
+    "published": "2026-11-07T10:28:41.23",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9842018/Reports-of-Syria-sending-troops-to-Yemen-are-baseless-Syrian-diplomatic-source-to-Syrias-state-news-agency.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T10:30:02.019691-05:00"
+  },
+  {
+    "NewsID": 9841988,
+    "title": "ECB releases media interview with Yomiuri Shimbun",
+    "published": "2026-11-07T09:02:18.163",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9841988/ECB-releases-media-interview-with-Yomiuri-Shimbun.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T09:15:02.362902-05:00"
+  },
+  {
+    "NewsID": 9841969,
+    "title": "Expanding on naval blockade: US military to form task force to strengthen efforts restricting Iran's use of land routes and Caspian Sea, statement",
+    "published": "2026-11-07T08:24:10.09",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9841969/Expanding-on-naval-blockade-US-military-to-form-task-force-to-strengthen-efforts-restricting-Irans-use-of-land-routes-and-Caspian-Sea-statement.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T08:30:02.014453-05:00"
+  },
+  {
+    "NewsID": 9841948,
+    "title": "Saudi civil defense: danger has passed in Najran",
+    "published": "2026-11-07T07:33:48.553",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9841948/Saudi-civil-defense-danger-has-passed-in-Najran.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T07:45:02.078091-05:00"
+  },
+  {
+    "NewsID": 9841945,
+    "title": "Saudi civil defence warns of potential threat in Najran",
+    "published": "2026-11-07T07:27:19.143",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9841945/Saudi-civil-defence-warns-of-potential-threat-in-Najran.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T07:30:02.350228-05:00"
+  },
+  {
+    "NewsID": 9841917,
+    "title": "New Zealand Prime Minister Luxon: talks and concessions will be necessary",
+    "published": "2026-11-07T06:04:47.607",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9841917/New-Zealand-Prime-Minister-Luxon-talks-and-concessions-will-be-necessary.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T06:15:02.508257-05:00"
+  },
+  {
+    "NewsID": 9841916,
+    "title": "New Zealand Prime Minister Luxon: There is a route to form next government but outcome too close to call",
+    "published": "2026-11-07T06:03:55.127",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9841916/New-Zealand-Prime-Minister-Luxon-There-is-a-route-to-form-next-government-but-outcome-too-close-to-call.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T06:15:02.508310-05:00"
+  },
+  {
+    "NewsID": 9841915,
+    "title": "New Zealand Prime Minister Luxon: encouraging that current figures show we are largest party in parliament",
+    "published": "2026-11-07T06:03:42.55",
+    "level": "news-general",
+    "link": "https://www.financialjuice.com/News/9841915/New-Zealand-Prime-Minister-Luxon-encouraging-that-current-figures-show-we-are-largest-party-in-parliament.aspx",
+    "source": "FinancialJuice",
+    "collected_at": "2026-11-07T06:15:02.508357-05:00"
+  },
+  {
     "NewsID": 9841909,
     "title": "Oil minister: Iraq output exceeds 5 million bpd - state news agency",
     "published": "2026-11-07T05:43:21.45",
