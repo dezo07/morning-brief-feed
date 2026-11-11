@@ -236,5 +236,474 @@
     "published": "2026-11-10T05:48:43+00:00",
     "link": "https://www.investing.com/news/economy-news/japanese-investors-become-net-buyers-of-foreign-bonds-for-the-first-time-in-three-months-5014144",
     "category_hint": "macro"
+  },
+  {
+    "title": "Alibaba advances Hong Kong IPO plans for chip subsidiary T-Head",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:49:37+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/alibaba-advances-hong-kong-ipo-plans-for-chip-subsidiary-thead-5015307",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Tronox director Peter Johnston buys $52,600 in shares",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:49:07+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/tronox-director-peter-johnston-buys-52600-in-shares-93CH-5015308",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:48:26+00:00",
+    "link": "https://www.investing.com/news/economy-news/fed-to-raise-rates-once-more-in-december-as-inflation-risks-stay-high-reuters-poll-5015306",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Rosenblatt cuts BitGo stock price target on revenue miss",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:45:50+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/rosenblatt-cuts-bitgo-stock-price-target-on-revenue-miss-93CH-5015290",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Needham cuts Babcock & Wilcox stock price target on lower multiple",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:45:50+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/needham-cuts-babcock--wilcox-stock-price-target-on-lower-multiple-93CH-5015291",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Rosenblatt raises PubMatic stock price target on revenue growth",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:45:48+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/rosenblatt-raises-pubmatic-stock-price-target-on-revenue-growth-93CH-5015289",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Rosenblatt cuts MARA Holdings stock price target on market conditions",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:45:45+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/rosenblatt-cuts-mara-holdings-stock-price-target-on-market-conditions-93CH-5015287",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Rosenblatt cuts Lincoln Educational stock price target on valuation",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:45:45+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/rosenblatt-cuts-lincoln-educational-stock-price-target-on-valuation-93CH-5015288",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Scotiabank raises Trade Desk stock price target on cost cuts",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:45:41+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/scotiabank-raises-trade-desk-stock-price-target-on-cost-cuts-93CH-5015283",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Compass Point cuts MARA Holdings stock price target on bitcoin weakness",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:45:41+00:00",
+    "link": "https://www.investing.com/news/analyst-ratings/compass-point-cuts-mara-holdings-stock-price-target-on-bitcoin-weakness-93CH-5015284",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Factbox-Anthropic’s filing for blockbuster US IPO shows key executives and board",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:30:21+00:00",
+    "link": "https://www.investing.com/news/economy-news/factboxanthropics-filing-for-blockbuster-us-ipo-shows-key-executives-and-board-5015176",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil central bank flags oil, El Niño, labor and FX shocks behind inflation rebound",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:13:25+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-central-bank-flags-oil-el-nino-labor-and-fx-shocks-behind-inflation-rebound-5015065",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar steadies as Waller argues for more rate hikes, inflation up next",
+    "source": "Investinglive",
+    "published": "2026-11-10T12:13:00+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-sellers-hit-pause-for-us-inflation-data-5013809",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Waller says larger hike should be considered if October CPI runs hot",
+    "source": "Investinglive",
+    "published": "2026-11-10T11:52:31+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-waller-says-larger-hike-should-be-considered-if-october-cpi-runs-hot-5014942",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Waller plans to support at least a quarter-point rate hike in December",
+    "source": "Investinglive",
+    "published": "2026-11-10T11:44:01+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-waller-plans-to-support-at-least-a-quarterpoint-rate-hike-in-december-5014429",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Wall Street bonuses to rise for a third consecutive year, consultancy says",
+    "source": "Investinglive",
+    "published": "2026-11-10T11:13:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/wall-street-bonuses-to-rise-for-a-third-consecutive-year-consultancy-says-5014781",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Sweden central bank official signals possible rate hike in December",
+    "source": "Investinglive",
+    "published": "2026-11-10T10:58:47+00:00",
+    "link": "https://www.investing.com/news/economy-news/sweden-central-bank-official-signals-possible-rate-hike-in-december-93CH-5014699",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Earnings call transcript: Hemlo Mining misses Q3 2026 profit estimates as shares fall",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:44:31+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-hemlo-mining-misses-q3-2026-profit-estimates-as-shares-fall-93CH-5016316",
+    "category_hint": "markets"
+  },
+  {
+    "title": "GRAIL at UBS Global Healthcare Conference: FDA path, payer gains",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:43:38+00:00",
+    "link": "https://www.investing.com/news/transcripts/grail-at-ubs-global-healthcare-conference-fda-path-payer-gains-93CH-5016315",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Brazil’s central bank signals high bar for rate hikes despite inflation risks",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:42:55+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-central-bank-flags-oil-el-nino-labor-and-fx-shocks-behind-inflation-rebound-5015065",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Ryman Hospitality Properties stock hits all-time high at 137.71 USD",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:42:44+00:00",
+    "link": "https://www.investing.com/news/company-news/ryman-hospitality-properties-stock-hits-alltime-high-at-13771-usd-93CH-5016314",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Deutsche Bank expects Fed rate hike in January 2027 after hot inflation data",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:42:43+00:00",
+    "link": "https://www.investing.com/news/economy-news/deutsche-bank-expects-fed-rate-hike-in-january-2027-after-hot-inflation-data-5016313",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Poland stocks higher at close of trade; WIG30 up 0.83%",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:40:03+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-083-5016311",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: HighPeak Energy beats Q3 2026 estimates on strong output",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:39:00+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-highpeak-energy-beats-q3-2026-estimates-on-strong-output-93CH-5016308",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: FutureFuel Q3 2026 revenue jumps 361%, but shares sink",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:38:54+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-futurefuel-q3-2026-revenue-jumps-361-but-shares-sink-93CH-5016307",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: Banca Mediolanum posts record 9-month profit in Q3 2026",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:38:48+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-banca-mediolanum-posts-record-9month-profit-in-q3-2026-93CH-5016306",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Earnings call transcript: Endeavour Silver posts mixed Q3 2026 results as stock falls",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:38:11+00:00",
+    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-endeavour-silver-posts-mixed-q3-2026-results-as-stock-falls-93CH-5016305",
+    "category_hint": "markets"
+  },
+  {
+    "title": "US Postal Service warns of need for new cuts without action from Congress",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:30:28+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-postal-service-warns-of-need-for-new-cuts-without-action-from-congress-5016214",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Reaction roundup: Experts, analysts weigh in on October CPI report",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:21:33+00:00",
+    "link": "https://www.investing.com/news/economy-news/reaction-roundup-experts-analysts-weigh-in-on-october-cpi-report-5016277",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar strengthens after US inflation data boosts Fed rate-hike expectations",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:13:19+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-sellers-hit-pause-for-us-inflation-data-5013809",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Logan calls for two more rate hikes, possibly rapidly",
+    "source": "Investinglive",
+    "published": "2026-11-10T16:00:23+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-logan-calls-for-two-more-rate-hikes-possibly-rapidly-5016235",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed officials open door to a half-point hike after inflation beats expectations",
+    "source": "Investinglive",
+    "published": "2026-11-10T15:54:57+00:00",
+    "link": "https://www.investing.com/news/economy-news/investors-boost-odds-of-halfpoint-fed-hike-as-core-cpi-rise-meets-wallers-bar-5016055",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Logan calls for two more rate hikes to combat inflation",
+    "source": "Investinglive",
+    "published": "2026-11-10T15:53:13+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-logan-calls-for-two-more-rate-hikes-to-combat-inflation-5016213",
+    "category_hint": "macro"
+  },
+  {
+    "title": "BoE’s Lombardelli sees risk that persistent inflation will crystallise",
+    "source": "Investinglive",
+    "published": "2026-11-10T14:06:47+00:00",
+    "link": "https://www.investing.com/news/economy-news/boes-lombardelli-sees-risk-that-persistent-inflation-will-crystallise-5015842",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Xylem at Baird 2026 Global Industrial Conference: growth shift",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:45:11+00:00",
+    "link": "https://www.investing.com/news/transcripts/xylem-at-baird-2026-global-industrial-conference-growth-shift-93CH-5016727",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Organon & Co stock hits 52-week high at 13.89 USD",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:43:38+00:00",
+    "link": "https://www.investing.com/news/company-news/organon--co-stock-hits-52week-high-at-1389-usd-93CH-5016724",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Analysis-Nvidia’s clubby board faces a sticky ’honey pot’ test",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:42:40+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/analysisnvidias-clubby-board-faces-a-sticky-honey-pot-test-5014779",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:42:23+00:00",
+    "link": "https://www.investing.com/news/economy-news/investors-boost-odds-of-halfpoint-fed-hike-as-core-cpi-rise-meets-wallers-bar-5016055",
+    "category_hint": "markets"
+  },
+  {
+    "title": "October CPI sparks December Fed hike fears as yields surge and tech stocks slide",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:40:30+00:00",
+    "link": "https://www.investing.com/news/economy-news/october-cpi-sparks-december-fed-hike-fears-as-yields-surge-and-tech-stocks-slide-93CH-5016723",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Phathom at guggenheim healthcare innovation conference: gi push gains",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:38:34+00:00",
+    "link": "https://www.investing.com/news/transcripts/phathom-at-guggenheim-healthcare-innovation-conference-gi-push-gains-93CH-5016721",
+    "category_hint": "markets"
+  },
+  {
+    "title": "BlossomHill at Guggenheim: a macrocyclic push in cancer drugs",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:38:27+00:00",
+    "link": "https://www.investing.com/news/transcripts/blossomhill-at-guggenheim-a-macrocyclic-push-in-cancer-drugs-93CH-5016720",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Why is JBS stock sliding today?",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:38:23+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-jbs-stock-sliding-today-93CH-5016719",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Fed’s Bowman says ’still work to do’ on inflation",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:36:39+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-bowman-says-still-work-to-do-on-inflation-5016718",
+    "category_hint": "markets"
+  },
+  {
+    "title": "AdaptHealth at UBS Global Healthcare Conference: Kaiser turns a corner",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:36:32+00:00",
+    "link": "https://www.investing.com/news/transcripts/adapthealth-at-ubs-global-healthcare-conference-kaiser-turns-a-corner-93CH-5016717",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Fed’s Bowman sees inflation as top priority, expects easing",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:33:40+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-bowman-sees-inflation-as-top-priority-expects-easing-5016712",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US Treasury yields surge as hot CPI revives Fed tightening bets",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:30:23+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-treasury-yields-surge-as-hot-cpi-revives-fed-tightening-bets-93CH-5016707",
+    "category_hint": "macro"
+  },
+  {
+    "title": "U.S. housing market positioning risks as mortgage rates hold near 7.4%",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:16:35+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/us-housing-market-positioning-risks-as-mortgage-rates-hold-near-74-93CH-5016687",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Brazil central bank chief says it will keep fighting inflation with tight policy",
+    "source": "Investinglive",
+    "published": "2026-11-10T19:54:53+00:00",
+    "link": "https://www.investing.com/news/economy-news/brazil-central-bank-chief-says-it-will-keep-fighting-inflation-with-tight-policy-5016660",
+    "category_hint": "macro"
+  },
+  {
+    "title": "US SEC enforcement activity plummets in 2026, with fewer fines and cases",
+    "source": "Investinglive",
+    "published": "2026-11-10T19:06:25+00:00",
+    "link": "https://www.investing.com/news/economy-news/us-sec-enforcement-activity-plummets-in-2026-with-fewer-fines-and-cases-5016596",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Schmid calls for tighter policy to control inflation",
+    "source": "Investinglive",
+    "published": "2026-11-10T19:04:01+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-schmid-calls-for-tighter-policy-to-control-inflation-5016588",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Arthur J. Gallagher CHRO sells $4.24M in stock after option exercise",
+    "source": "Investinglive",
+    "published": "2026-11-11T00:36:00+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/arthur-j-gallagher-chro-sells-424m-in-stock-after-option-exercise-93CH-5017414",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Netflix co-CEO Gregory Peters sells $1.74 million of stock",
+    "source": "Investinglive",
+    "published": "2026-11-11T00:35:25+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/netflix-coceo-gregory-peters-sells-174-million-of-stock-93CH-5017412",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Bionano Genomics earnings missed by $0.03, revenue fell short of estimates",
+    "source": "Investinglive",
+    "published": "2026-11-11T00:32:18+00:00",
+    "link": "https://www.investing.com/news/earnings/bionano-genomics-earnings-missed-by-003-revenue-fell-short-of-estimates-5017406",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Gossamer Bio earnings missed by $3.57, revenue topped estimates",
+    "source": "Investinglive",
+    "published": "2026-11-11T00:32:02+00:00",
+    "link": "https://www.investing.com/news/earnings/gossamer-bio-earnings-missed-by-357-revenue-topped-estimates-5017405",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Fold Holdings earnings beat by $0.06, revenue fell short of estimates",
+    "source": "Investinglive",
+    "published": "2026-11-11T00:31:27+00:00",
+    "link": "https://www.investing.com/news/earnings/fold-holdings-earnings-beat-by-006-revenue-fell-short-of-estimates-5017404",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Telefonica Brasil ADR earnings beat by $0.02, revenue fell short of estimates",
+    "source": "Investinglive",
+    "published": "2026-11-11T00:31:22+00:00",
+    "link": "https://www.investing.com/news/earnings/telefonica-brasil-adr-earnings-beat-by-002-revenue-fell-short-of-estimates-5017403",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Arista Networks director, 10% owner sells $43.9 million in shares",
+    "source": "Investinglive",
+    "published": "2026-11-11T00:31:13+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/arista-networks-director-10-owner-sells-439-million-in-shares-93CH-5017402",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
+    "source": "Investinglive",
+    "published": "2026-11-11T00:31:10+00:00",
+    "link": "https://www.investing.com/news/stock-market-news/sp-500-dow-futures-climb-as-oil-slide-lifts-sentiment-5014579",
+    "category_hint": "markets"
+  },
+  {
+    "title": "indie semiconductor CFO Naixi Wu sells over $68,000 in Class A shares",
+    "source": "Investinglive",
+    "published": "2026-11-11T00:31:10+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/indie-semiconductor-cfo-naixi-wu-sells-over-68000-in-class-a-shares-93CH-5017401",
+    "category_hint": "markets"
+  },
+  {
+    "title": "Heartflow CEO John Farquhar sells $2.17 million in shares",
+    "source": "Investinglive",
+    "published": "2026-11-11T00:31:05+00:00",
+    "link": "https://www.investing.com/news/insider-trading-news/heartflow-ceo-john-farquhar-sells-217-million-in-shares-93CH-5017400",
+    "category_hint": "markets"
+  },
+  {
+    "title": "UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts",
+    "source": "Investinglive",
+    "published": "2026-11-11T00:12:23+00:00",
+    "link": "https://www.investing.com/news/economy-news/uk-inflation-to-overshoot-bank-of-england-target-for-next-4-years-niesr-forecasts-5017374",
+    "category_hint": "macro"
+  },
+  {
+    "title": "CoreWeave targets 2028 profitability as AI demand remains strong",
+    "source": "Investinglive",
+    "published": "2026-11-10T23:37:01+00:00",
+    "link": "https://www.investing.com/news/economy-news/coreweave-beats-quarterly-revenue-estimates-as-ai-demand-defies-growing-doubts-5016823",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed’s Paulson calls for gradual rate hikes amid ongoing high inflation",
+    "source": "Investinglive",
+    "published": "2026-11-10T23:36:48+00:00",
+    "link": "https://www.investing.com/news/economy-news/feds-paulson-calls-for-gradual-rate-hikes-amid-ongoing-high-inflation-5017333",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Ortega’s frail return to public revives succession debate in Nicaragua",
+    "source": "Investinglive",
+    "published": "2026-11-10T23:36:32+00:00",
+    "link": "https://www.investing.com/news/economy-news/ortegas-frail-return-to-public-revives-succession-debate-in-nicaragua-5017332",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Fed officials open door to a quicker round of rate hikes as inflation worsens",
+    "source": "Investinglive",
+    "published": "2026-11-10T23:13:01+00:00",
+    "link": "https://www.investing.com/news/economy-news/investors-boost-odds-of-halfpoint-fed-hike-as-core-cpi-rise-meets-wallers-bar-5016055",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Trading Day: US rate outlook trumps everything",
+    "source": "Investinglive",
+    "published": "2026-11-10T22:18:20+00:00",
+    "link": "https://www.investing.com/news/economy-news/trading-day-us-rate-outlooktrumps-everything-5017076",
+    "category_hint": "macro"
+  },
+  {
+    "title": "Dollar gains after US inflation data reinforces Fed rate-hike bets",
+    "source": "Investinglive",
+    "published": "2026-11-10T20:49:03+00:00",
+    "link": "https://www.investing.com/news/economy-news/dollar-sellers-hit-pause-for-us-inflation-data-5013809",
+    "category_hint": "macro"
   }
 ]
